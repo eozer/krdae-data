@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import git
 from tqdm import tqdm
@@ -26,7 +27,8 @@ def iterate_file_versions(repo_path: str, filepath: str, ref: str = "main"):
         yield commit.committed_datetime, commit.hexsha, blob.data_stream
 
 
-it = iterate_file_versions('.', f"{fname}.csv", ref)
+os.system("git clone https://github.com/eozer/krdae-data.git")
+it = iterate_file_versions('krdae-data', f"{fname}.csv", ref)
 enum_it = enumerate(it)
 i, (t, h, f) = enum_it.__next__()
 df: pd.DataFrame = pd.read_csv(f)
