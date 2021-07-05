@@ -41,9 +41,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-    - name: Create repository dispatch event
-      env:
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-      run: |
-        gh api repos/eozer/krdae-history/dispatches \
-          --raw-field event_type=krdae-data-event
