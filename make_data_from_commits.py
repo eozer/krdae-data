@@ -14,9 +14,9 @@ ref = '4993d5837e5b705aa208104f5bb7cf6c6174f9e1..main'
 # large: ~1 GB disk space, ~7GBs memory
 # medium: ~100 MBs disk space, ~32MBs memory
 # small: ~20 MBs disk space, ~32MBs memory
-large_rows_max = int(5e7)
-medium_rows_max = int(6e6)
-small_rows_max = int(1e6)
+lg_rows_max = int(5e7)
+md_rows_max = int(6e6)
+sm_rows_max = int(1e6)
 
 
 def iterate_file_versions(repo_path: str, filepath: str, ref: str = "main"):
@@ -39,7 +39,7 @@ for i, (t, h, f) in tqdm(enum_it):
     # we are going to run out of memory soon.
     if i % int(1e4) == 0:
         df.drop_duplicates(inplace=True)
-        if df.shape[0] > large_rows_max:
+        if df.shape[0] > lg_rows_max:
             print("Warning very large dataset!")
             break
 
@@ -58,12 +58,16 @@ df.sort_values("timestamp", axis=0, ascending=False, inplace=True)
 print(df.info(memory_usage='deep', verbose=True))
 
 print("Writing to csv: small data... ", end="")
-df[:small_rows_max].to_csv(f"{fname}-small.csv.zip", index=False)
+comp_opts = {
+    "method": "zip",
+    "archive_name": "krdae-data.csv"
+}
+df[:sm_rows_max].to_csv(f"{fname}-sm.zip", index=False, compression=comp_opts)
 print("OK")
 print("Writing to csv: medium data.. ", end="")
-df[:medium_rows_max].to_csv(f"{fname}-medium.csv.zip", index=False)
+df[:md_rows_max].to_csv(f"{fname}-md.zip", index=False, compression=comp_opts)
 print("OK")
 print("Writing to csv: large data... ", end="")
-df[:large_rows_max].to_csv(f"{fname}-large.csv.zip", index=False)
+df[:lg_rows_max].to_csv(f"{fname}-lg.zip", index=False, compression=comp_opts)
 print("OK")
 print("Finished!")
