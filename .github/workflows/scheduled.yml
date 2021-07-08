@@ -6,8 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # NOTE: The shortest interval you can run scheduled workflows is once every 5 minutes in Github.
-    - cron: '* * * * *'
+    # https://crontab.guru/every-15-minutes
+    - cron: '*/15 * * * *'
 
 jobs:
   scheduled:
