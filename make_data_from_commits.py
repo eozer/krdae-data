@@ -43,15 +43,23 @@ for i, (t, h, f) in tqdm(enum_it):
             print("Warning very large dataset!")
             break
 
+print("Iterated commits")
+print("Drop duplicates", end="")
 df.drop_duplicates(inplace=True)
+print("OK")
+print("Reset index", end="")
 df.reset_index(drop=True, inplace=True)
-# Use more efficient date types. Conversion, instead of providing data type
+print("OK")
+# Use more efficient data types. Conversion, instead of providing data type
 # during initialization, results in a smaller memory footprint.
+print("Convert types", end="")
 df['timestamp'] = pd.to_datetime(df['timestamp'])
 df["location"] = df["location"].astype("category")
-df[["latitude", "longtitude", "depth_km", "MD", "ML", "Mw"]] = df[["latitude",
-                                                                   "longtitude",
-                                                                   "depth_km", "MD", "ML", "Mw"]].apply(pd.to_numeric, downcast="float")
+numeric_types = ["latitude", "longtitude", "depth_km", "MD", "ML", "Mw"]
+df[numeric_types] = df[numeric_types].apply(pd.to_numeric,
+                                            downcast="float",
+                                            errors="coerce")
+print("OK")
 # most recent events are in beginning.
 df.sort_values("timestamp", axis=0, ascending=False, inplace=True)
 
