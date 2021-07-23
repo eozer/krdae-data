@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import git
 from tqdm import tqdm
+from utils import df_to_geojson_and_save
 
 fname = 'krdae-data'
 # starting commit hash "4993d..." is the first commit where krdae-data.csv was
@@ -59,23 +60,33 @@ numeric_types = ["latitude", "longtitude", "depth_km", "MD", "ML", "Mw"]
 df[numeric_types] = df[numeric_types].apply(pd.to_numeric,
                                             downcast="float",
                                             errors="coerce")
+df.fillna({"MD": 0.0, "ML": 0.0, "Mw": 0.0}, inplace=True)
 print("OK")
 # most recent events are in beginning.
 df.sort_values("timestamp", axis=0, ascending=False, inplace=True)
 
 print(df.info(memory_usage='deep', verbose=True))
 
-print("Writing to csv: small data... ", end="")
+print("Writing as csv: small data... ", end="")
 comp_opts = {
     "method": "zip",
     "archive_name": "krdae-data.csv"
 }
 df[:sm_rows_max].to_csv(f"{fname}-sm.zip", index=False, compression=comp_opts)
 print("OK")
-print("Writing to csv: medium data.. ", end="")
+print("Writing as csv: medium data.. ", end="")
 df[:md_rows_max].to_csv(f"{fname}-md.zip", index=False, compression=comp_opts)
 print("OK")
-print("Writing to csv: large data... ", end="")
+print("Writing as csv: large data... ", end="")
 df[:lg_rows_max].to_csv(f"{fname}-lg.zip", index=False, compression=comp_opts)
+print("OK")
+print("Writing as geojson: small data... ", end="")
+df_to_geojson_and_save(df[:sm_rows_max], filename=f"{fname}-sm.json")
+print("OK")
+print("Writing as geojson: medium data.. ", end="")
+df_to_geojson_and_save(df[:md_rows_max], filename=f"{fname}-md.json")
+print("OK")
+print("Writing as geojson: large data... ", end="")
+df_to_geojson_and_save(df[:lg_rows_max], filename=f"{fname}-lg.json")
 print("OK")
 print("Finished!")

@@ -43,6 +43,7 @@ jobs:
         prerelease: false
         files: |
           *.zip
+          *.json
     - name: Create repository dispatch event
       env:
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}

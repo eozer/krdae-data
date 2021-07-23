@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 
 from bs4 import BeautifulSoup
-
+from utils import df_to_geojson_and_save
 
 url = 'http://www.koeri.boun.edu.tr/scripts/lst0.asp'
 html_text = requests.get(url).text
@@ -48,3 +48,10 @@ df = pd.DataFrame(data=pre_df, columns=['timestamp', 'latitude', 'longtitude',
                                         'depth_km', 'MD', 'ML', 'Mw', 'place',
                                         'location'])
 df.to_csv("krdae-data.csv", index=False)
+# Save as geojson
+df["location"] = df["location"].astype("category")
+numeric_types = ["latitude", "longtitude", "depth_km", "MD", "ML", "Mw"]
+df[numeric_types] = df[numeric_types].apply(pd.to_numeric, downcast="float",
+                                            errors="coerce")
+df.fillna({"MD": 0.0, "ML": 0.0, "Mw": 0.0}, inplace=True)
+df_to_geojson_and_save(df, filename="krdae-data.json")
