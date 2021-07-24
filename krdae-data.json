@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.24 10:15:52",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOLYAKA-ILGIN (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.877700805664062,
+          38.47700119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.24 09:22:50",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.1387996673584,
           36.30699920654297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.18 05:55:50",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "BOLUKLU-ERUH (SIIRT)",
-        "location": "SIIRT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.153499603271484,
-          37.85129928588867
         ]
       }
     }
