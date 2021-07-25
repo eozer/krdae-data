@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.25 12:13:23",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.707801818847656,
+          35.36920166015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.07.25 12:02:57",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.299999952316284,
+        "place": "GURCISTAN",
+        "location": "GURCISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01169967651367,
+          41.442501068115234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.07.25 11:57:56",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.837299346923828,
+          37.94350051879883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.25 10:42:09",
         "depth_km": 18.799999237060547,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.76350021362305,
           33.77579879760742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.19 00:51:11",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.2450008392334,
-          35.21500015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.19 00:31:10",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "CANKURTARAN-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.14500045776367,
-          39.04999923706055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.19 00:24:06",
-        "depth_km": 20.299999237060547,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "YILDIZ-BEYPAZARI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.762300491333008,
-          40.27370071411133
         ]
       }
     }
