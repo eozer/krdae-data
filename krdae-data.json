@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.25 09:29:27",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.986799240112305,
+          38.960201263427734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.07.25 09:14:07",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.128000259399414,
+          36.282798767089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.25 08:59:26",
         "depth_km": 15.899999618530273,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           27.1072998046875,
           36.35049819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.07.25 08:27:33",
+        "depth_km": 21.700000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "MAHMATLAR-EGIRDIR (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.963699340820312,
+          37.926700592041016
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.03849983215332,
           38.938201904296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.18 23:33:10",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.176799774169922,
-          36.378700256347656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.18 23:26:11",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GULAGZI-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.37019920349121,
-          37.14030075073242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.18 23:02:48",
-        "depth_km": 1.7999999523162842,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.15399932861328,
-          38.967498779296875
         ]
       }
     }
