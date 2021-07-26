@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.26 23:00:12",
+        "depth_km": 12.899999618530273,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MERKEZ-SARICAM (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.498199462890625,
+          37.145198822021484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.26 21:46:19",
         "depth_km": 1.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.46980094909668,
           38.56650161743164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.20 01:18:12",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ATAKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.40220069885254,
-          37.056800842285156
         ]
       }
     }
