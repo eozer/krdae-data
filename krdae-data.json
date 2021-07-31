@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.31 03:40:07",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ARDICLI-KECIBORLU (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.196699142456055,
+          37.75870132446289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.31 02:10:42",
         "depth_km": 21.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.992700576782227,
           38.938499450683594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.22 08:40:40",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.043500900268555,
-          38.96670150756836
         ]
       }
     }
