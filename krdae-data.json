@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.07.31 14:59:21",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "DARKOPRU-KIGI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.27130126953125,
+          39.21120071411133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.07.31 14:03:58",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           27.537799835205078,
           39.104000091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.07.31 13:31:48",
+        "depth_km": 29.600000381469727,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "TEVEKLI-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.260501861572266,
+          38.64149856567383
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.994300842285156,
           38.939701080322266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.22 13:48:45",
-        "depth_km": 14.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.404499053955078,
-          37.8577995300293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.22 13:32:17",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GULPINAR-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.077499389648438,
-          39.53799819946289
         ]
       }
     }
