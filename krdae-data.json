@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.02 12:31:39",
+        "depth_km": 24.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "BELDIBI-KAS (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.650699615478516,
+          36.4453010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.02 12:20:47",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.130199432373047,
+          36.33449935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.02 11:55:35",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           27.08769989013672,
           36.4192008972168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.02 11:41:17",
+        "depth_km": 10.5,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.097000122070312,
+          36.281700134277344
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.0674991607666,
           36.36920166015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.31 22:57:55",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 4.599999904632568,
-        "Mw": 4.800000190734863,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.025999069213867,
-          36.35900115966797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.31 22:14:38",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.84869956970215,
-          37.8849983215332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.07.31 21:54:50",
-        "depth_km": 22.100000381469727,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.506200790405273,
-          34.65449905395508
         ]
       }
     }
