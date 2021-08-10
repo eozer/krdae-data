@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.10 14:53:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KUSADASI (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.24720001220703,
+          37.8203010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.10 14:02:37",
+        "depth_km": 23.700000762939453,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.194299697875977,
+          36.319801330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.10 13:48:30",
         "depth_km": 20.200000762939453,
         "MD": 0.0,
@@ -1936,6 +1974,25 @@
         "coordinates": [
           27.02630043029785,
           36.27280044555664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.09 07:25:32",
+        "depth_km": 11.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.131200790405273,
+          36.332698822021484
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.204299926757812,
           36.336700439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 05:22:15",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "BESTEPE-GEMEREK (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.0797004699707,
-          39.13169860839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 05:19:43",
-        "depth_km": 18.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.27750015258789,
-          35.9995002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 05:12:33",
-        "depth_km": 24.200000762939453,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.392499923706055,
-          35.6775016784668
         ]
       }
     }
