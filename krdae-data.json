@@ -232,6 +232,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.11 15:30:37",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "YESILCELE-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.689300537109375,
+          40.83720016479492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.11 14:46:15",
         "depth_km": 14.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.993999481201172,
           36.27799987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 19:03:10",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.10379981994629,
-          36.411800384521484
         ]
       }
     }
