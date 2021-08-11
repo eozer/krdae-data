@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.11 05:22:52",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.4000000953674316,
+        "place": "OZPINAR-BASKALE (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.387001037597656,
+          38.23529815673828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.11 04:59:56",
         "depth_km": 8.199999809265137,
         "MD": 0.0,
@@ -511,6 +530,25 @@
         "coordinates": [
           27.089799880981445,
           36.31570053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.11 01:22:47",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.476499557495117,
+          36.5
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.094200134277344,
           36.280799865722656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 13:20:56",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.42020034790039,
-          37.95399856567383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 13:09:57",
-        "depth_km": 17.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.058700561523438,
-          36.32529830932617
         ]
       }
     }
