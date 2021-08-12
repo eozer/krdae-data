@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.12 11:59:46",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "CUKURHUSEYIN-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.752500534057617,
+          39.57099914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.12 11:34:51",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +36,44 @@
         "coordinates": [
           32.61920166015625,
           38.170799255371094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.12 11:28:33",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.94879913330078,
+          36.375701904296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.12 11:19:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.02330017089844,
+          38.65950012207031
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.02280044555664,
           36.35649871826172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 23:50:56",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.7185001373291,
-          36.2047004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 23:41:57",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.97719955444336,
-          36.387001037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.06 23:30:17",
-        "depth_km": 23.700000762939453,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.148000717163086,
-          36.34280014038086
         ]
       }
     }
