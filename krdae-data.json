@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.14 17:42:04",
+        "depth_km": 50.099998474121094,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KIBRIS-TUZLA",
+        "location": "KIBRIS-TUZLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7864990234375,
+          35.20669937133789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.14 17:40:47",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KOZAGAC-YATAGAN (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.94569969177246,
+          37.32419967651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.14 16:06:51",
         "depth_km": 20.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.074499130249023,
           36.424198150634766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.07 15:42:28",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "BOYALI-ADAKLI (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.527801513671875,
-          39.12229919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.07 15:37:52",
-        "depth_km": 14.600000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.101299285888672,
-          36.327701568603516
         ]
       }
     }
