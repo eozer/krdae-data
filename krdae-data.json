@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.15 23:47:45",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "AZERBAYCAN",
+        "location": "AZERBAYCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.952701568603516,
+          41.19369888305664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.15 23:14:55",
         "depth_km": 4.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.05780029296875,
           36.25579833984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.08 13:43:50",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.133499145507812,
-          38.97129821777344
         ]
       }
     }
