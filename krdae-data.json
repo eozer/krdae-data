@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.16 09:14:36",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOLYAKA-ILGIN (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.871700286865234,
+          38.5078010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.16 08:38:12",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.102800369262695,
+          36.46670150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.16 07:48:56",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -156,19 +194,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2021.08.16 04:44:06",
-        "depth_km": 19.600000381469727,
+        "timestamp": "2021.08.16 04:44:05",
+        "depth_km": 19.200000762939453,
         "MD": 0.0,
         "ML": 4.800000190734863,
         "Mw": 4.800000190734863,
-        "place": "AZERBAYCAN",
-        "location": "AZERBAYCAN"
+        "place": "G\u00dcRC\u00ddSTAN",
+        "location": "G\u00dcRC\u00ddSTAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.03519821166992,
-          41.268001556396484
+          44.02050018310547,
+          41.20949935913086
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.065200805664062,
           36.38999938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.08 17:45:44",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GEZIN-MADEN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.56800079345703,
-          38.520198822021484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.08 17:38:37",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.114299774169922,
-          38.95880126953125
         ]
       }
     }
