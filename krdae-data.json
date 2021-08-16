@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.16 18:56:04",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "AZERBAYCAN",
+        "location": "AZERBAYCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.94369888305664,
+          41.2140007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.16 18:11:38",
         "depth_km": 8.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.240800857543945,
           35.128501892089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.09 07:11:53",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.94729995727539,
-          34.84080123901367
         ]
       }
     }
