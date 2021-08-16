@@ -23,6 +23,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.16 14:51:48",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ARPASEKI-KINIK (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49920082092285,
+          39.07699966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.16 14:36:51",
+        "depth_km": 27.299999237060547,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YELBASTI-BESNI (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9556999206543,
+          37.673500061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.16 14:24:33",
+        "depth_km": 46.099998474121094,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7106990814209,
+          36.634300231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.16 13:53:27",
         "depth_km": 3.5999999046325684,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           23.47450065612793,
           35.08649826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.09 01:37:17",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.11669921875,
-          36.34920120239258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.09 00:33:07",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.040300369262695,
-          36.233001708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.09 00:06:12",
-        "depth_km": 1.2000000476837158,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "CITAK-KARAKOCAN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.17250061035156,
-          39.10300064086914
         ]
       }
     }
