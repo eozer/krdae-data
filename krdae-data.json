@@ -764,6 +764,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.16 16:39:46",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ISIKLAR-BIGADIC (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.14620018005371,
+          39.40629959106445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.16 16:24:51",
         "depth_km": 19.799999237060547,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.98979949951172,
           38.99300003051758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.09 16:21:11",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.153200149536133,
-          36.37030029296875
         ]
       }
     }
