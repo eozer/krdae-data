@@ -897,6 +897,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.17 17:06:35",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 4.0,
+        "place": "AZERBAYCAN",
+        "location": "AZERBAYCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.973201751708984,
+          41.17369842529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.17 16:31:02",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.146299362182617,
           36.292301177978516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.10 05:41:01",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.147199630737305,
-          36.356998443603516
         ]
       }
     }
