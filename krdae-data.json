@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.18 10:00:04",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "IPEKYOLU-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0192985534668,
+          38.735801696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.18 09:32:40",
         "depth_km": 26.700000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.197799682617188,
           37.90449905395508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.10 03:35:31",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.193700790405273,
-          37.91400146484375
         ]
       }
     }
