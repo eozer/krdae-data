@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.20 12:34:01",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.04949951171875,
+          36.35169982910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.20 12:12:24",
         "depth_km": 17.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.100500106811523,
           39.11180114746094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.11 15:30:37",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YESILCELE-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.689300537109375,
-          40.83720016479492
         ]
       }
     }
