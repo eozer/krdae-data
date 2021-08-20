@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.20 12:01:08",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "BELEMEDIK-POZANTI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96900177001953,
+          37.413700103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.20 10:50:31",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GORECEK-MURADIYE (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.70249938964844,
+          39.064701080322266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.20 10:31:51",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -42,19 +80,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2021.08.20 10:12:57",
-        "depth_km": 9.899999618530273,
+        "timestamp": "2021.08.20 10:12:55",
+        "depth_km": 18.399999618530273,
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "MEHMETALAN-OZALP (VAN)",
+        "place": "DEGIRMIGOL-SARAY (VAN)",
         "location": "VAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.1068000793457,
-          38.68000030517578
+          44.20000076293945,
+          38.599998474121094
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.53350067138672,
           36.42250061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.11 14:21:23",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BUYUKECELI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.54650115966797,
-          36.12969970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.11 13:24:42",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 4.300000190734863,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.009700775146484,
-          36.25279998779297
         ]
       }
     }
