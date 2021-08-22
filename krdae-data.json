@@ -270,6 +270,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.22 04:47:33",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "DEGERLI-VARTO (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.677799224853516,
+          39.027198791503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.22 04:41:09",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -435,6 +454,25 @@
         "coordinates": [
           27.270000457763672,
           36.451698303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.08.22 02:00:47",
+        "depth_km": 1.899999976158142,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CUKUROREN-GEDIZ (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.68400001525879,
+          38.9911994934082
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.994300842285156,
           37.9093017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.14 13:10:00",
-        "depth_km": 24.799999237060547,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.20669937133789,
-          36.359500885009766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.14 12:47:38",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "ALATEPE-MILAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.020999908447266,
-          37.05080032348633
         ]
       }
     }
