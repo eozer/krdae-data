@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.08.26 10:21:09",
+        "depth_km": 20.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "EKMEKCI-KARACABEY (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.43079948425293,
+          40.33679962158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.08.26 08:39:21",
         "depth_km": 3.700000047683716,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.0177001953125,
           36.290000915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.19 07:24:02",
-        "depth_km": 17.299999237060547,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.683799743652344,
-          40.78630065917969
         ]
       }
     }
