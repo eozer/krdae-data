@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.05 21:43:34",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "AZERBAYCAN",
+        "location": "AZERBAYCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.36029815673828,
+          40.580299377441406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.05 21:41:10",
         "depth_km": 4.099999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.636199951171875,
           36.467498779296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.25 02:52:16",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "BANDIRMA KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.052799224853516,
-          40.435001373291016
         ]
       }
     }
