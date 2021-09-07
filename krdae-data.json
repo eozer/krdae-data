@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.07 05:30:03",
+        "depth_km": 15.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ASAGIBEYLERBEYI-ELBEYLI (KILIS)",
+        "location": "KILIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59320068359375,
+          36.61650085449219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.07 05:03:44",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.132699966430664,
           36.47880172729492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.08.26 22:02:21",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.083999633789062,
-          36.49300003051758
         ]
       }
     }
