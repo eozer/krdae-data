@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.12 13:31:01",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.200000047683716,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.44150161743164,
+          38.136199951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.12 13:30:53",
         "depth_km": 11.600000381469727,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           27.261999130249023,
           37.9202995300293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.09.12 13:13:12",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ESKIBEYLI-DIVRIGI (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.060001373291016,
+          39.53499984741211
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.21579933166504,
           37.0348014831543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.06 21:16:46",
-        "depth_km": 25.200000762939453,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.178699493408203,
-          36.384700775146484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.06 21:02:18",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AYDINLAR-ALTINTAS (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.25979995727539,
-          38.99480056762695
         ]
       }
     }
