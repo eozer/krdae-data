@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.15 01:02:20",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "ERMISLER-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.48720169067383,
+          38.87220001220703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.15 00:31:39",
         "depth_km": 45.70000076293945,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.409700393676758,
           37.69200134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.09 14:11:31",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "BUYUKOBA-ILGIN (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.061798095703125,
-          38.53300094604492
         ]
       }
     }
