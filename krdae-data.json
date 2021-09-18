@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.18 07:02:34",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.084800720214844,
+          36.40449905395508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.09.18 06:45:50",
+        "depth_km": 10.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "MARMARA DENIZI",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.968299865722656,
+          40.824501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.18 06:43:46",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.12579917907715,
           37.945499420166016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.12 13:31:01",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "TURKIYE-IRAN SINIR BOLGESI",
-        "location": "TURKIYE-IRAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.44150161743164,
-          38.136199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.12 13:30:53",
-        "depth_km": 11.600000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "MISIRLI-YALVAC (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.065200805664062,
-          38.367801666259766
         ]
       }
     }
