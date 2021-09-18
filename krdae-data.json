@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.18 06:20:59",
+        "depth_km": 22.700000762939453,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "BAKLANCAKIRLAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.28179931640625,
+          37.9015007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.09.18 06:14:36",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.053300857543945,
+          36.319000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.09.18 06:04:52",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KARAKOSELI-DELICE (KIRIKKALE)",
+        "location": "KIRIKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.091800689697266,
+          40.19449996948242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.18 05:51:24",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -384,19 +441,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2021.09.18 03:10:15",
-        "depth_km": 5.0,
+        "timestamp": "2021.09.18 03:10:14",
+        "depth_km": 10.800000190734863,
         "MD": 0.0,
         "ML": 0.800000011920929,
         "Mw": 0.0,
-        "place": "SAPACA-HONAZ (DENIZLI)",
+        "place": "BAKLANCAKIRLAR-CAL (DENIZLI)",
         "location": "DENIZLI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.45599937438965,
-          37.77750015258789
+          29.278200149536133,
+          37.92580032348633
         ]
       }
     },
@@ -1088,18 +1145,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2021.09.17 08:10:24",
-        "depth_km": 5.199999809265137,
+        "depth_km": 18.399999618530273,
         "MD": 0.0,
-        "ML": 1.399999976158142,
+        "ML": 1.5,
         "Mw": 0.0,
-        "place": "IRLIGANLI-(DENIZLI)",
+        "place": "BAKLANCAKIRLAR-CAL (DENIZLI)",
         "location": "DENIZLI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.21430015563965,
-          37.926300048828125
+          29.266199111938477,
+          37.89870071411133
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.86800003051758,
           39.07429885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.12 12:55:03",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.192699432373047,
-          36.462799072265625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.12 12:46:28",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.22100067138672,
-          36.45220184326172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.12 12:45:51",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.255199432373047,
-          37.92070007324219
         ]
       }
     }
