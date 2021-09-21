@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.21 03:05:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.392200469970703,
+          33.832000732421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.09.21 02:55:51",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YONCALI-BULANIK (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.15950012207031,
+          39.13199996948242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.21 02:34:39",
         "depth_km": 14.800000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           34.11199951171875,
           36.45949935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.14 11:33:11",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "AZERBAYCAN",
-        "location": "AZERBAYCAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.90950012207031,
-          41.17620086669922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.14 10:48:13",
-        "depth_km": 3.4000000953674316,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.18630027770996,
-          36.40129852294922
         ]
       }
     }
