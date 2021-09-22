@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.09.22 14:42:10",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "CATALIPASA-(AGRI)",
+        "location": "AGRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.92570114135742,
+          40.00579833984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.09.22 14:34:34",
         "depth_km": 9.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.262500762939453,
           36.43550109863281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.15 00:24:04",
-        "depth_km": 13.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.125999450683594,
-          36.27750015258789
         ]
       }
     }
