@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.01 06:36:31",
+        "depth_km": 7.199999809265137,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.074499130249023,
+          37.90829849243164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.01 05:58:58",
         "depth_km": 23.799999237060547,
         "MD": 0.0,
@@ -492,6 +511,44 @@
         "coordinates": [
           25.2273006439209,
           35.096500396728516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.01 01:59:32",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.37619972229004,
+          36.543701171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.01 01:49:35",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KARAPINAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.308700561523438,
+          37.8672981262207
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.172300338745117,
           36.42470169067383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.26 18:32:56",
-        "depth_km": 11.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ESENKIYI-ADILCEVAZ (BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.015201568603516,
-          38.71480178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.26 18:28:21",
-        "depth_km": 13.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.161500930786133,
-          36.43280029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.26 18:19:56",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.534700393676758,
-          36.8025016784668
         ]
       }
     }
