@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.02 21:29:31",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "DALAMAN (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.78580093383789,
+          36.765499114990234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.02 20:22:21",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.426300048828125,
           36.55080032348633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.27 19:15:29",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.27199935913086,
-          35.14619827270508
         ]
       }
     }
