@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.03 15:13:36",
+        "depth_km": 10.199999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.893699645996094,
+          37.89899826049805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.03 15:11:07",
         "depth_km": 11.5,
         "MD": 0.0,
@@ -74,6 +93,44 @@
         "coordinates": [
           25.18829917907715,
           35.024200439453125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.03 14:27:19",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "KESTEL-BUCAK (BURDUR)",
+        "location": "BURDUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.372699737548828,
+          37.44929885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.03 14:19:05",
+        "depth_km": 14.600000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KAPIKAYA-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.036500930786133,
+          39.11600112915039
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.10849952697754,
           36.483001708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.28 03:25:22",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16200065612793,
-          36.44820022583008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.28 03:23:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ICME-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.550201416015625,
-          38.64849853515625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.28 03:20:24",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.425199508666992,
-          35.20669937133789
         ]
       }
     }
