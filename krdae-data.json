@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.03 13:33:26",
+        "depth_km": 18.200000762939453,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "HACIOMERLER-LAPSEKI (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78820037841797,
+          40.365699768066406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.03 13:27:46",
         "depth_km": 17.5,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           30.445199966430664,
           37.46179962158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.03 13:06:32",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "MUSAKOY-ILGAZ (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.69499969482422,
+          40.9640007019043
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.204299926757812,
           35.058998107910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.28 02:13:41",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.25119972229004,
-          35.07229995727539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.28 02:11:51",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 3.9000000953674316,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.128299713134766,
-          36.428199768066406
         ]
       }
     }
