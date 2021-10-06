@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.06 21:20:51",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BAGLIKAYA-(AKSARAY)",
+        "location": "AKSARAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.944801330566406,
+          38.50199890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.06 21:02:16",
         "depth_km": 9.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.191499710083008,
           35.09170150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.09.30 19:20:10",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.108200073242188,
-          36.46369934082031
         ]
       }
     }
