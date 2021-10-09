@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.09 21:56:44",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.191499710083008,
+          36.49470138549805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.09 21:26:19",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -23,19 +42,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2021.10.09 21:19:31",
-        "depth_km": 29.299999237060547,
+        "timestamp": "2021.10.09 21:19:32",
+        "depth_km": 18.399999618530273,
         "MD": 0.0,
-        "ML": 1.5,
+        "ML": 1.100000023841858,
         "Mw": 0.0,
-        "place": "SABANKOY-KAGIZMAN (KARS)",
+        "place": "BOCUKLU-KAGIZMAN (KARS)",
         "location": "KARS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.088199615478516,
-          40.28580093383789
+          43.081298828125,
+          40.24399948120117
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.622800827026367,
           37.418800354003906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.03 06:36:17",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "CUKURKOY-MILAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.724700927734375,
-          37.49700164794922
         ]
       }
     }
