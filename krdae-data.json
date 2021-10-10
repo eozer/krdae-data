@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.10 13:35:26",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0,
+        "place": "YOKUSBASI-BULANIK (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.025699615478516,
+          38.932701110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.10 13:32:28",
         "depth_km": 25.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.211999893188477,
           35.08169937133789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.03 19:09:56",
-        "depth_km": 15.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.271299362182617,
-          35.24020004272461
         ]
       }
     }
