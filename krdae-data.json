@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.13 02:03:53",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "YAKUPLAR-CERKES (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8745002746582,
+          40.746498107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.13 01:48:23",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.264299392700195,
           36.44879913330078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.06 02:58:30",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "BULANIK-CAY (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.796499252319336,
-          38.4635009765625
         ]
       }
     }
