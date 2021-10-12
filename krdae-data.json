@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.12 13:50:36",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SUTLUCE-ADAKLI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.644798278808594,
+          39.086700439453125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.12 13:26:39",
         "depth_km": 7.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.26569938659668,
           36.47380065917969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.05 13:03:28",
-        "depth_km": 14.5,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.0999999046325684,
-        "place": "CORAKLAR-ALIAGA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.053699493408203,
-          38.824501037597656
         ]
       }
     }
