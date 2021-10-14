@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.14 12:50:39",
+        "depth_km": 11.600000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GURCISTAN",
+        "location": "GURCISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.00680160522461,
+          41.154701232910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.14 12:07:32",
         "depth_km": 26.200000762939453,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.456499099731445,
           38.17720031738281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.14 12:03:58",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "SAVASTEPE (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.643199920654297,
+          39.36830139160156
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.12379837036133,
           40.10049819946289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.07 15:05:50",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YESILOVACIK-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.705299377441406,
-          36.197200775146484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.07 15:00:39",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.2814998626709,
-          36.026798248291016
         ]
       }
     }
