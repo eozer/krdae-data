@@ -156,6 +156,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.16 09:02:39",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDAG-GELENDOST (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.908300399780273,
+          38.17850112915039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.16 08:40:25",
         "depth_km": 7.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.22480010986328,
           37.700801849365234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.09 06:00:56",
-        "depth_km": 18.899999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AYDINLI-HILVAN (SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.691200256347656,
-          37.55350112915039
         ]
       }
     }
