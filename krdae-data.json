@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.17 17:12:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.5999999046325684,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.204700469970703,
+          38.99150085449219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.17 17:00:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 2.9000000953674316,
+        "place": "DURAK-KELES (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.294300079345703,
+          39.858699798583984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.17 15:38:36",
         "depth_km": 82.30000305175781,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.74049949645996,
           38.38819885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.09 20:20:18",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BEYKOYU-ARSUZ (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.97200012207031,
-          36.402000427246094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.09 20:18:18",
-        "depth_km": 10.899999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DEMIRCILI-URLA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.73900032043457,
-          38.239200592041016
         ]
       }
     }
