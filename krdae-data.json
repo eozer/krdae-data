@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.18 13:16:16",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAKOY-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.282699584960938,
+          36.36520004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.18 12:04:47",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.221500396728516,
           35.13650131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.10 06:34:05",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "CEMALLER-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.377500534057617,
-          39.59479904174805
         ]
       }
     }
