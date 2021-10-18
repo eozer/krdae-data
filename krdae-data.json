@@ -1885,6 +1885,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.16 01:20:40",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ELMALI-YEDISU (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.63949966430664,
+          39.41279983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.16 00:26:39",
         "depth_km": 21.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.09320068359375,
           37.93899917602539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.10 05:40:20",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.171300888061523,
-          36.35900115966797
         ]
       }
     }
