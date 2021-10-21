@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.21 18:05:54",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.299999952316284,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.771299362182617,
+          35.22779846191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.21 17:42:29",
         "depth_km": 12.800000190734863,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           25.19300079345703,
           35.11399841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.21 17:23:34",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAPINAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34779930114746,
+          37.85749816894531
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.160499572753906,
           36.48780059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.13 03:01:59",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.763999938964844,
-          37.87950134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.13 02:04:44",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.75119972229004,
-          40.806800842285156
         ]
       }
     }
