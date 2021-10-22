@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.22 13:11:30",
+        "depth_km": 7.599999904632568,
+        "MD": 0.0,
+        "ML": 4.300000190734863,
+        "Mw": 4.400000095367432,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.20330047607422,
+          35.14469909667969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.22 12:27:11",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           40.79869842529297,
           39.930301666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.22 11:58:28",
+        "depth_km": 27.200000762939453,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "IKIZCE-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.19770050048828,
+          38.30720138549805
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.201200485229492,
           36.47529983520508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.14 06:14:20",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KAVAKALANI-CIVRIL (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.959699630737305,
-          38.4026985168457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.14 05:05:54",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DURMUSLAR-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.85329818725586,
-          37.104801177978516
         ]
       }
     }
