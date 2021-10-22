@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.22 08:17:05",
+        "depth_km": 13.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "EMECIK-DATCA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.831199645996094,
+          36.784698486328125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.22 07:41:38",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GUZYURDU-KELKIT (GUMUSHANE)",
+        "location": "GUMUSHANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.56269836425781,
+          39.92729949951172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.22 07:29:41",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           27.73579978942871,
           35.29679870605469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.22 07:28:22",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33919906616211,
+          35.27130126953125
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.80620002746582,
           35.551998138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.14 02:22:18",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.77720069885254,
-          35.660701751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.14 02:11:06",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "BOLUKKAYA-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.80179977416992,
-          38.30720138549805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.14 01:33:21",
-        "depth_km": 13.600000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.66950035095215,
-          36.464500427246094
         ]
       }
     }
