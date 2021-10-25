@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.25 19:41:31",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KOCYATAGI-(ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.13869857788086,
+          39.879798889160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.25 19:34:31",
         "depth_km": 6.5,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           29.986299514770508,
           36.23830032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.25 19:33:04",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "EMIRLER-BIGADIC (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2367000579834,
+          39.45899963378906
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.517200469970703,
           40.841800689697266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.18 07:20:57",
-        "depth_km": 9.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YAHYAKOY-SUSURLUK (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.190000534057617,
-          40.00450134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.18 05:27:43",
-        "depth_km": 85.9000015258789,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.5,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.895700454711914,
-          35.108001708984375
         ]
       }
     }
