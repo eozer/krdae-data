@@ -707,6 +707,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.25 19:23:52",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "EMIRLER-BIGADIC (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.221500396728516,
+          39.45000076293945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.25 19:11:24",
         "depth_km": 3.5999999046325684,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.736299514770508,
           40.21620178222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.19 01:01:31",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.047700881958008,
-          35.592498779296875
         ]
       }
     }
