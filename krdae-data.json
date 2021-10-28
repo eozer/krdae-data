@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.28 08:04:38",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "YAZPINAR-KOZLUK (BATMAN)",
+        "location": "BATMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.629798889160156,
+          38.18450164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.28 07:49:20",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           29.546199798583984,
           37.84149932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.28 07:47:31",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.692800521850586,
+          38.9452018737793
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.211999893188477,
           35.020301818847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.20 10:33:16",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.19070053100586,
-          35.122501373291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.20 10:21:11",
-        "depth_km": 13.5,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "CARDAK (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.638500213623047,
-          37.83599853515625
         ]
       }
     }
