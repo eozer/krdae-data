@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.29 01:09:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.78350067138672,
+          35.16170120239258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.29 01:00:01",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.65850067138672,
           37.24599838256836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.21 04:47:47",
-        "depth_km": 14.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KARANDERE-SEREFLIKOCHISAR (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.56829833984375,
-          38.88869857788086
         ]
       }
     }
