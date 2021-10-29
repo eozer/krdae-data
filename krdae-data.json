@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.29 11:26:26",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AVSAROREN-KANGAL (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18320083618164,
+          39.0547981262207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.29 11:14:04",
         "depth_km": 14.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.19729995727539,
           35.124000549316406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.21 11:44:47",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.9000000953674316,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.225299835205078,
-          35.24769973754883
         ]
       }
     }
