@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.30 09:09:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KOS ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.184200286865234,
+          36.80979919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.30 08:57:20",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -24,18 +43,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2021.10.30 08:43:18",
-        "depth_km": 22.600000381469727,
+        "depth_km": 17.399999618530273,
         "MD": 0.0,
         "ML": 2.700000047683716,
         "Mw": 0.0,
-        "place": "KAYALAR-HALFETI (SANLIURFA)",
-        "location": "SANLIURFA"
+        "place": "AKBUDAK-ARABAN (GAZIANTEP)",
+        "location": "GAZIANTEP"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.96500015258789,
-          37.364200592041016
+          37.93830108642578,
+          37.4297981262207
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.57699966430664,
           37.85820007324219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.21 21:57:58",
-        "depth_km": 22.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "SARITANISMANLI-KADIRLI (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.25149917602539,
-          37.46979904174805
         ]
       }
     }
