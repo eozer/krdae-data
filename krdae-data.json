@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.31 09:13:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "CELTIKCI-TOSYA (KASTAMONU)",
+        "location": "KASTAMONU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.15230178833008,
+          41.09980010986328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.31 08:15:05",
         "depth_km": 13.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.240699768066406,
           35.27450180053711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.22 12:17:35",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SISAM ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.809200286865234,
-          37.70479965209961
         ]
       }
     }
