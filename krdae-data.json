@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.10.31 18:20:27",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ALANGULLU-GERMENCIK (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.616500854492188,
+          37.893798828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.31 18:11:23",
+        "depth_km": 4.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.058500289916992,
+          36.40869903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.10.31 15:12:08",
         "depth_km": 2.9000000953674316,
         "MD": 0.0,
@@ -17,6 +55,44 @@
         "coordinates": [
           28.14900016784668,
           37.108001708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.31 15:10:00",
+        "depth_km": 10.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SURIYE",
+        "location": "SURIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.372798919677734,
+          36.667301177978516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.10.31 13:20:59",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CALOREN-SEREFLIKOCHISAR (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.66899871826172,
+          38.70800018310547
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           25.330799102783203,
           35.31779861450195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.22 15:16:08",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.197200775146484,
-          35.122501373291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.22 15:02:24",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KUKURT-ATKARACALAR (CANKIRI)",
-        "location": "CANKIRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.05799865722656,
-          40.92399978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.22 14:48:59",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.320999145507812,
-          35.104000091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.22 14:41:09",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.190200805664062,
-          35.13930130004883
         ]
       }
     }
