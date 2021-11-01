@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.01 11:50:37",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.132999420166016,
+          36.525299072265625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.01 11:48:53",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.86949920654297,
+          39.5004997253418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.01 11:22:27",
         "depth_km": 14.399999618530273,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           25.862300872802734,
           39.05950164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.01 10:58:58",
+        "depth_km": 21.700000762939453,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUCUKDERE-(DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15169906616211,
+          37.89400100708008
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.235700607299805,
           35.11579895019531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.23 01:29:52",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "MURATLAR-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.653799057006836,
-          37.240299224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.23 01:22:42",
-        "depth_km": 13.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BABAKALE-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.040700912475586,
-          39.52199935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.23 01:12:27",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "SEGIRDIM-AKHISAR (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.919200897216797,
-          38.89849853515625
         ]
       }
     }
