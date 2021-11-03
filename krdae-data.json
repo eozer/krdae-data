@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.03 07:57:34",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KARAKOY-ALIAGA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.12070083618164,
+          38.80849838256836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.03 07:27:40",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.021499633789062,
+          34.75170135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.03 06:59:14",
         "depth_km": 5.699999809265137,
         "MD": 0.0,
@@ -93,6 +131,25 @@
         "coordinates": [
           27.09869956970215,
           36.57379913330078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.03 06:12:05",
+        "depth_km": 4.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KISIKLI-TATVAN (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.59830093383789,
+          38.30030059814453
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           43.950199127197266,
           41.119998931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.24 20:13:19",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.907501220703125,
-          41.081298828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.24 20:08:45",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "TASLI-KANGAL (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.8213005065918,
-          39.11920166015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.24 20:04:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 4.099999904632568,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.92279815673828,
-          41.090999603271484
         ]
       }
     }
