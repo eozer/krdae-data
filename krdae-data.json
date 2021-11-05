@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.05 12:36:20",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KALINAGIL-MILAS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.872699737548828,
+          37.240699768066406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.05 12:31:07",
+        "depth_km": 4.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.201499938964844,
+          35.107200622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.05 12:28:22",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SERINTEPE-SEHITKAMIL (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16849899291992,
+          37.26679992675781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.05 12:22:00",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +74,25 @@
         "coordinates": [
           27.888200759887695,
           37.229000091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.05 12:12:24",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2726993560791,
+          34.98870086669922
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           25.180500030517578,
           35.073699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.27 16:43:29",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "KIBRIS RUM KESIMI",
-        "location": "KIBRIS RUM KESIMI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.926998138427734,
-          34.977699279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.27 16:37:01",
-        "depth_km": 13.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.524700164794922,
-          36.541500091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.27 15:02:06",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "TUZBURGAZI-SOKE (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.197200775146484,
-          37.65719985961914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.27 13:37:14",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TASKESIK-DURSUNBEY (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.577999114990234,
-          39.61130142211914
         ]
       }
     }
