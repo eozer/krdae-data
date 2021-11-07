@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.07 13:06:10",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.191999435424805,
+          35.09830093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.07 13:03:47",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KIRKAGAC (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.66550064086914,
+          39.10150146484375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.07 12:36:32",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KUPCIKTI-GONEN (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.795799255371094,
+          40.09170150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.07 12:26:58",
         "depth_km": 19.299999237060547,
         "MD": 0.0,
@@ -36,6 +93,25 @@
         "coordinates": [
           32.235801696777344,
           38.01380157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.07 11:54:46",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARABUCAK-CELEBI (KIRIKKALE)",
+        "location": "KIRIKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.40380096435547,
+          39.54819869995117
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           27.396799087524414,
           36.919700622558594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.29 04:21:37",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "MEVLUTLU-TUZLUKCU (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.633499145507812,
-          38.61330032348633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.29 04:01:53",
-        "depth_km": 8.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "NIKFER-TAVAS (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.217199325561523,
-          37.4005012512207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.29 03:37:17",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.03499984741211,
-          40.81100082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.10.29 03:18:08",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GUNBATMAZ-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.050201416015625,
-          38.98680114746094
         ]
       }
     }
