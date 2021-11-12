@@ -308,6 +308,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.12 12:27:44",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CATAKSU-PERTEK (TUNCELI)",
+        "location": "TUNCELI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.522499084472656,
+          38.794700622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.12 12:26:01",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.18470001220703,
           37.27069854736328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 12:00:12",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KUMKUYU-ERDEMLI (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.2322998046875,
-          36.48619842529297
         ]
       }
     }
