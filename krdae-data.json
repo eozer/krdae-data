@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.12 12:36:23",
+        "depth_km": 10.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "CANAKCI-KALE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.784698486328125,
+          38.34349822998047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.12 12:32:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOKICI-ERGANI (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.75299835205078,
+          38.064701080322266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.12 12:26:01",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -26,7 +64,7 @@
         "timestamp": "2021.11.12 12:19:13",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 4.800000190734863,
+        "ML": 4.900000095367432,
         "Mw": 5.0,
         "place": "BOLUKKAYA-PUTURGE (MALATYA)",
         "location": "MALATYA"
@@ -34,8 +72,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.801700592041016,
-          38.29050064086914
+          38.82500076293945,
+          38.32099914550781
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.03529930114746,
           35.14550018310547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 04:44:40",
-        "depth_km": 11.100000381469727,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.788000106811523,
-          36.05630111694336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 04:14:03",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.202999114990234,
-          36.448001861572266
         ]
       }
     }
