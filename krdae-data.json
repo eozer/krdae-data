@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.12 19:24:13",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KIBRIS RUM KESIMI",
+        "location": "KIBRIS RUM KESIMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.143699645996094,
+          34.87770080566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.12 18:44:11",
         "depth_km": 10.600000381469727,
         "MD": 0.0,
@@ -150,6 +169,25 @@
         "coordinates": [
           30.67930030822754,
           40.57099914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.12 18:12:38",
+        "depth_km": 18.799999237060547,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.25670051574707,
+          35.406700134277344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.551000595092773,
           37.0364990234375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.05 03:33:47",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BABAKALE-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.038299560546875,
-          39.46080017089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.05 03:11:21",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.09280014038086,
-          36.255001068115234
         ]
       }
     }
