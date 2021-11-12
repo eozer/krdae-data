@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.12 16:04:34",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ELIFUSAGI-CERMIK (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.39350128173828,
+          38.1609992980957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.12 14:03:22",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -460,19 +479,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2021.11.12 12:34:29",
-        "depth_km": 10.800000190734863,
+        "timestamp": "2021.11.12 12:34:23",
+        "depth_km": 7.900000095367432,
         "MD": 0.0,
-        "ML": 1.5,
+        "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "KARAHUSEYIN-KALE (MALATYA)",
-        "location": "MALATYA"
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.9375,
-          38.33369827270508
+          25.2632999420166,
+          35.32500076293945
         ]
       }
     },
@@ -739,6 +758,44 @@
         "coordinates": [
           28.33970069885254,
           36.959999084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.12 08:59:33",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.290300369262695,
+          35.21699905395508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.12 08:47:03",
+        "depth_km": 8.399999618530273,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.303300857543945,
+          35.160701751708984
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.531700134277344,
           38.11669921875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 18:04:51",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.699999988079071,
-        "Mw": 0.0,
-        "place": "BUYUKECELI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.56050109863281,
-          36.143001556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 18:02:44",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.6000000238418579,
-        "Mw": 0.0,
-        "place": "BUYUKECELI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.58330154418945,
-          36.17300033569336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.04 17:20:57",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "SEDEFTEPE-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.38650131225586,
-          38.64680099487305
         ]
       }
     }
