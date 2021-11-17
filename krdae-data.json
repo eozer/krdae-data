@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.17 15:55:16",
+        "depth_km": 3.799999952316284,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUSACMASI-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.05419921875,
+          40.78850173950195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.17 15:53:38",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KOPRUBASI OMEREFENDI-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0447998046875,
+          40.8202018737793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.17 15:49:26",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -43,18 +81,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2021.11.17 15:40:15",
-        "depth_km": 7.900000095367432,
+        "depth_km": 7.400000095367432,
         "MD": 0.0,
         "ML": 5.199999809265137,
-        "Mw": 0.0,
-        "place": "YAYAKBASI-(DUZCE)",
+        "Mw": 4.900000095367432,
+        "place": "ISLAHIYE-(DUZCE)",
         "location": "DUZCE"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.022499084472656,
-          40.836299896240234
+          31.0310001373291,
+          40.84130096435547
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.20479965209961,
           35.134300231933594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.08 10:48:05",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.20330047607422,
-          35.124298095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.08 10:44:34",
-        "depth_km": 17.200000762939453,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.211299896240234,
-          35.12369918823242
         ]
       }
     }
