@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.19 13:54:01",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "AVLAGICAYIRI-ARAC (KASTAMONU)",
+        "location": "KASTAMONU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.50130081176758,
+          41.27830123901367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.19 13:45:27",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -1195,6 +1214,25 @@
         "coordinates": [
           25.18670082092285,
           34.840301513671875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.18 08:26:57",
+        "depth_km": 24.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.731800079345703,
+          36.41170120239258
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.09619903564453,
           37.38650131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.09 09:55:23",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KIZILOREN-MERAM (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.08729934692383,
-          37.87070083618164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.09 09:40:53",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CEVLIK-KARAISALI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.04280090332031,
-          37.39569854736328
         ]
       }
     }
