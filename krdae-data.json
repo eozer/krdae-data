@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.20 18:29:12",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "ASAGITUT-KAGIZMAN (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.30580139160156,
+          40.089500427246094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.20 17:55:18",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KAGITHANE (ISTANBUL)",
+        "location": "ISTANBUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94179916381836,
+          41.12480163574219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.20 16:04:47",
         "depth_km": 11.600000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           41.90919876098633,
           38.41699981689453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.10 17:44:14",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.699999988079071,
-        "Mw": 0.0,
-        "place": "BUYUKECELI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.57830047607422,
-          36.157798767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.10 17:35:17",
-        "depth_km": 35.599998474121094,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BUYUKTUGLUK-EMIRDAG (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.56879997253418,
-          38.9827995300293
         ]
       }
     }
