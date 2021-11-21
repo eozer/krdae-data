@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.21 18:20:40",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "KAVAKLI-GOYNUCEK (AMASYA)",
+        "location": "AMASYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.443199157714844,
+          40.477699279785156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.21 17:34:13",
         "depth_km": 19.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.952999114990234,
           37.25529861450195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.11 20:09:00",
-        "depth_km": 44.900001525878906,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.764299392700195,
-          34.87630081176758
         ]
       }
     }
