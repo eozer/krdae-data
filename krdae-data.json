@@ -232,6 +232,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.23 12:46:39",
+        "depth_km": 21.700000762939453,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GEYIKLI-SALPAZARI (TRABZON)",
+        "location": "TRABZON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18149948120117,
+          40.87229919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.23 12:26:16",
         "depth_km": 6.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.123699188232422,
           35.095699310302734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.12 13:22:18",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.251800537109375,
-          35.12030029296875
         ]
       }
     }
