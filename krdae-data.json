@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.23 21:54:08",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KARAYUN-(SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.32550048828125,
+          39.679298400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.23 21:44:51",
         "depth_km": 3.200000047683716,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           31.822500228881836,
           38.47119903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.23 20:24:52",
+        "depth_km": 20.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CAYIRHAN-NALLIHAN (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.715499877929688,
+          40.13050079345703
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.89299964904785,
           39.95830154418945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.12 17:42:28",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KIBRIS RUM KESIMI",
-        "location": "KIBRIS RUM KESIMI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.10369873046875,
-          34.78219985961914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.12 17:35:24",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KIBRIS RUM KESIMI",
-        "location": "KIBRIS RUM KESIMI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.05619812011719,
-          34.884700775146484
         ]
       }
     }
