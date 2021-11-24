@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.24 23:24:50",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.895198822021484,
+          36.444698333740234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.24 23:00:29",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.323299407958984,
           35.174800872802734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.13 19:25:06",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "ULUPINAR-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.292301177978516,
-          37.73929977416992
         ]
       }
     }
