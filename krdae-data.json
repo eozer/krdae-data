@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.25 10:56:54",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.128999710083008,
+          37.930999755859375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.25 09:56:33",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.279300689697266,
+          35.171199798583984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.25 09:32:01",
         "depth_km": 4.099999904632568,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           26.694700241088867,
           35.320499420166016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.25 09:28:32",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.676700592041016,
+          35.32400131225586
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           29.659299850463867,
           36.10599899291992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.14 09:23:29",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.89080047607422,
-          41.10850143432617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.14 08:49:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TEPEKOY-KALE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.77450180053711,
-          38.3849983215332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.14 06:36:10",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CANAKCI-KALE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.77149963378906,
-          38.36370086669922
         ]
       }
     }
