@@ -4,8 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.27 22:31:14",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.19900131225586,
+          38.498199462890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.27 22:20:10",
-        "depth_km": 8.0,
+        "depth_km": 8.199999809265137,
         "MD": 0.0,
         "ML": 3.5,
         "Mw": 0.0,
@@ -15,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.196800231933594,
-          38.51969909667969
+          43.196998596191406,
+          38.516998291015625
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.712299346923828,
           39.39799880981445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.16 23:25:50",
-        "depth_km": 3.4000000953674316,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.883800506591797,
-          39.390201568603516
         ]
       }
     }
