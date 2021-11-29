@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.11.29 23:55:03",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.06529998779297,
+          37.922698974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.11.29 23:04:14",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -207,6 +226,25 @@
         "coordinates": [
           28.33880043029785,
           37.02130126953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.11.29 18:29:41",
+        "depth_km": 17.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.211700439453125,
+          35.278499603271484
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.0393009185791,
           40.792701721191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.18 05:09:17",
-        "depth_km": 16.600000381469727,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "DELICE (KIRIKKALE)",
-        "location": "KIRIKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.03620147705078,
-          39.9286994934082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.18 04:34:57",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KARAKIRAN-SARAYKOY (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.85449981689453,
-          37.93579864501953
         ]
       }
     }
