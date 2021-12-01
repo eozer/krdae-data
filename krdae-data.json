@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.01 23:09:12",
+        "depth_km": 21.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CIGIRLI-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.874298095703125,
+          38.32149887084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.01 23:05:55",
         "depth_km": 7.5,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.656200408935547,
           37.94820022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.01 23:05:26",
+        "depth_km": 14.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CIKRIKLI-AZIZIYE (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.93130111694336,
+          40.13029861450195
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.637800216674805,
           36.62950134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.20 02:07:03",
-        "depth_km": 24.600000381469727,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "CICEKLI-PASINLER (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.53519821166992,
-          39.902801513671875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.20 02:06:29",
-        "depth_km": 17.899999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.285499572753906,
-          35.12099838256836
         ]
       }
     }
