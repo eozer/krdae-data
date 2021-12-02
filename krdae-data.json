@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.02 11:08:48",
+        "depth_km": 18.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.82569885253906,
+          36.48080062866211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.02 09:56:25",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.401500701904297,
           36.91450119018555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.20 13:08:14",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.4000000953674316,
-        "place": "ASAGITUT-KAGIZMAN (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.302799224853516,
-          40.11470031738281
         ]
       }
     }
