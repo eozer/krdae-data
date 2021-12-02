@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.02 11:11:17",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.79399871826172,
+          36.455501556396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.02 09:56:25",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           39.26300048828125,
           38.47169876098633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.02 09:41:37",
+        "depth_km": 20.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KARAAGAC-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.20170021057129,
+          36.46179962158203
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.302799224853516,
           40.11470031738281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.20 12:56:20",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GUNEBAKAN-NIKSAR (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.837501525878906,
-          40.69269943237305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.20 12:27:50",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 0.0,
-        "place": "CEYHANLI-AKKUS (ORDU)",
-        "location": "ORDU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.84769821166992,
-          40.74449920654297
         ]
       }
     }
