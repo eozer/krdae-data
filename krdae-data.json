@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.02 20:54:14",
+        "depth_km": 12.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "DAGKARAAGAC-GERMENCIK (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.599700927734375,
+          37.90999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.02 20:52:36",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           27.587499618530273,
           37.936798095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.02 20:44:49",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ESENKIR-KAGIZMAN (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0,
+          40.125999450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.02 20:43:41",
+        "depth_km": 18.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKOREN-KAGIZMAN (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.00450134277344,
+          40.174198150634766
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.87150001525879,
           38.40380096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 04:06:05",
-        "depth_km": 14.899999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GEZENEK-SENKAYA (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.3213005065918,
-          40.500701904296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 04:04:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.101200103759766,
-          36.52980041503906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 03:45:08",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.053300857543945,
-          35.82780075073242
         ]
       }
     }
