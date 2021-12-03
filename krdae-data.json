@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.03 08:38:14",
+        "depth_km": 8.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AGLASAN-KESTEL (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.298500061035156,
+          40.275699615478516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.03 08:00:15",
         "depth_km": 8.0,
         "MD": 0.0,
@@ -688,6 +707,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.02 19:58:18",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "AKCIFT-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.581199645996094,
+          38.862300872802734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.02 18:28:03",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -1144,6 +1182,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.02 07:56:22",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "SARKATLAR-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.96269989013672,
+          39.44070053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.02 07:35:36",
+        "depth_km": 11.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ESKIKOY-KALECIK (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.330501556396484,
+          40.16529846191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.02 07:26:49",
         "depth_km": 5.800000190734863,
         "MD": 0.0,
@@ -1176,6 +1252,25 @@
         "coordinates": [
           25.8617000579834,
           39.437198638916016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.02 07:15:12",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49180030822754,
+          35.95930099487305
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           27.824199676513672,
           39.08399963378906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.22 01:52:53",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CAYELI (RIZE)",
-        "location": "RIZE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.675498962402344,
-          41.13169860839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.22 01:51:24",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.046300888061523,
-          37.847999572753906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 23:59:50",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.121000289916992,
-          36.425201416015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 23:35:41",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 3.799999952316284,
-        "place": "ANTALYA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.261699676513672,
-          36.22269821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 18:45:20",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.99020004272461,
-          37.8745002746582
         ]
       }
     }
