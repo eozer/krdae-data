@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.03 01:29:24",
+        "depth_km": 13.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KARACA-MARMARIS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.177499771118164,
+          36.96049880981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.03 00:52:14",
         "depth_km": 9.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.55030059814453,
           37.502498626708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 10:27:49",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DOGANALANI-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.52220153808594,
-          37.45819854736328
         ]
       }
     }
