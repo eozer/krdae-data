@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.03 12:29:25",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YENISARKAYA-SEHITKAMIL (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18870162963867,
+          37.18769836425781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.03 12:05:15",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           29.298500061035156,
           40.275699615478516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.03 08:07:02",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KOCKOY-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.483299255371094,
+          38.70970153808594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           41.81930160522461,
           39.821998596191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.22 11:31:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 4.800000190734863,
-        "Mw": 4.800000190734863,
-        "place": "TOPCU-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.88800048828125,
-          39.80649948120117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.22 11:10:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KARAKOY-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.632198333740234,
-          38.030799865722656
         ]
       }
     }
