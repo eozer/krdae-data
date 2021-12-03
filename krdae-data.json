@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.03 08:00:15",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.314998626708984,
+          34.43050003051758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.03 07:49:55",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           43.430198669433594,
           38.7322998046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.03 07:41:16",
+        "depth_km": 16.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ERDEK ACIKLARI-BALIKESIR (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.78499984741211,
+          40.581199645996094
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.443199157714844,
           40.477699279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 17:34:13",
-        "depth_km": 19.100000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BELEVI-CAL (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.437999725341797,
-          37.90520095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.21 17:24:55",
-        "depth_km": 2.700000047683716,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "KAYABASI-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.855201721191406,
-          39.83319854736328
         ]
       }
     }
