@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.04 06:20:35",
+        "depth_km": 70.80000305175781,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2185001373291,
+          35.92129898071289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.04 05:39:22",
+        "depth_km": 26.700000762939453,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.053499221801758,
+          35.158199310302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.04 05:30:27",
         "depth_km": 15.199999809265137,
         "MD": 0.0,
@@ -93,6 +131,44 @@
         "coordinates": [
           25.987699508666992,
           37.69900131225586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.04 03:15:17",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.345800399780273,
+          35.18330001831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.04 03:06:47",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.309499740600586,
+          35.0968017578125
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           33.55030059814453,
           36.18600082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.23 13:24:49",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.398500442504883,
-          40.04330062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.23 13:20:13",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKCAKOY-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.939800262451172,
-          39.44729995727539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.23 13:11:30",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "OTLUKKAPI-PASINLER (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.65570068359375,
-          39.87879943847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.23 12:46:39",
-        "depth_km": 21.700000762939453,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GEYIKLI-SALPAZARI (TRABZON)",
-        "location": "TRABZON"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.18149948120117,
-          40.87229919433594
         ]
       }
     }
