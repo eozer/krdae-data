@@ -688,6 +688,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.04 19:39:20",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "PELITLI-(TRABZON)",
+        "location": "TRABZON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.80419921875,
+          40.98350143432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.04 18:57:11",
+        "depth_km": 15.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.49530029296875,
+          37.802799224853516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.04 18:46:30",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "OZKONAK-VARTO (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28200149536133,
+          39.24449920654297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.04 18:20:11",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           29.025800704956055,
           39.09000015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.24 08:23:51",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "YUKARIKEPEN-SIVRIHISAR (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.51650047302246,
-          39.42770004272461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.24 07:53:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "ANTALYA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.295700073242188,
-          36.2421989440918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.24 07:49:24",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.088199615478516,
-          38.01599884033203
         ]
       }
     }
