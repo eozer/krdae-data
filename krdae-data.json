@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.06 16:08:40",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BAYDOGAN-CALDIRAN (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.17279815673828,
+          39.00419998168945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.06 15:51:35",
         "depth_km": 6.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.34170150756836,
           38.66379928588867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.26 01:25:03",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "CANDARLI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.773300170898438,
-          38.85369873046875
         ]
       }
     }
