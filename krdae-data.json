@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.08 17:31:07",
+        "depth_km": 15.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SIRCALIK-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.493499755859375,
+          37.52069854736328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.08 17:18:01",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           43.19900131225586,
           38.498199462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.11.27 22:20:10",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 0.0,
-        "place": "VAN GOLU",
-        "location": "VAN GOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.196998596191406,
-          38.516998291015625
         ]
       }
     }
