@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.14 12:48:25",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.39299964904785,
+          35.46070098876953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.14 12:37:51",
         "depth_km": 1.2000000476837158,
         "MD": 0.0,
@@ -150,6 +169,25 @@
         "coordinates": [
           26.88050079345703,
           37.29899978637695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.14 11:20:56",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.665199279785156,
+          34.87229919433594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.587499618530273,
           37.936798095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.02 20:44:49",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ESENKIR-KAGIZMAN (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.0,
-          40.125999450683594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.02 20:43:41",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "AKOREN-KAGIZMAN (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.00450134277344,
-          40.174198150634766
         ]
       }
     }
