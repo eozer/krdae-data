@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.14 18:31:45",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0999999046325684,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.744998931884766,
+          40.31919860839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.14 18:17:37",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.836700439453125,
           39.836700439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.03 03:04:24",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GURCISTAN",
-        "location": "GURCISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.96929931640625,
-          41.22669982910156
         ]
       }
     }
