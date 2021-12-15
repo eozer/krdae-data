@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.16 00:00:06",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.909000396728516,
+          41.09400177001953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.15 23:33:07",
+        "depth_km": 25.200000762939453,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YAZIBASI-(ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.20899963378906,
+          37.89080047607422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.15 23:29:15",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           27.344200134277344,
           38.19070053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.15 20:45:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SUNGUDERESI-AKYAKA (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.77199935913086,
+          40.891700744628906
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.013999938964844,
           37.71780014038086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.04 00:19:56",
-        "depth_km": 15.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MARIFET-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.82270050048828,
-          39.82979965209961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.03 23:42:07",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "CAYGELDI-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.43149948120117,
-          38.97600173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.03 23:25:54",
-        "depth_km": 3.200000047683716,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.033700942993164,
-          37.67219924926758
         ]
       }
     }
