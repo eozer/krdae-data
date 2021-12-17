@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.17 11:40:38",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.897701263427734,
+          41.11920166015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.17 10:55:26",
         "depth_km": 5.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           43.16019821166992,
           38.70920181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.05 09:57:04",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "HAMDILLI-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.89229965209961,
-          37.03799819946289
         ]
       }
     }
