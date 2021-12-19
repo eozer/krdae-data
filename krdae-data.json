@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.19 15:34:40",
+        "depth_km": 9.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CAKMAK-(MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.665000915527344,
+          37.206199645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.19 13:00:33",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.78820037841797,
           39.88750076293945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.07 00:53:13",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KIZILKOLTUK-SAPHANE (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.18470001220703,
-          38.88850021362305
         ]
       }
     }
