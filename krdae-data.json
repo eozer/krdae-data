@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.22 17:09:41",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.975500106811523,
+          38.9375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.22 16:57:54",
         "depth_km": 19.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.75979995727539,
           37.604000091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.10 17:48:51",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "UCARI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.409500122070312,
-          37.451499938964844
         ]
       }
     }
