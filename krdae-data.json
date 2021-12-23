@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.23 14:00:45",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SEKLI-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.729799270629883,
+          40.211700439453125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.23 13:52:44",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           29.510799407958984,
           39.6953010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.23 13:33:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "UZGORUR-BULANIK (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.129798889160156,
+          38.93370056152344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.186199188232422,
           36.698699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.11 10:09:48",
-        "depth_km": 3.0999999046325684,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16230010986328,
-          36.708499908447266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.11 10:08:00",
-        "depth_km": 25.299999237060547,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "MARIFET-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.828800201416016,
-          39.8390007019043
         ]
       }
     }
