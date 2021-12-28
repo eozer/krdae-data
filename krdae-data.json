@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.28 22:47:55",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SABANCA-POLATLI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.268699645996094,
+          39.339698791503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.28 21:36:09",
         "depth_km": 14.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.159698486328125,
           39.38679885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.19 20:33:08",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "DEMIRKAZIK-CAMARDI (NIGDE)",
-        "location": "NIGDE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.16230010986328,
-          37.84600067138672
         ]
       }
     }
