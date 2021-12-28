@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.28 15:54:32",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KALABA-AVANOS (NEVSEHIR)",
+        "location": "NEVSEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.01430130004883,
+          38.98780059814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.28 15:44:09",
         "depth_km": 11.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.447500228881836,
           36.292999267578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.19 11:34:49",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "ORTABAG-KAS (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.79199981689453,
-          36.4739990234375
         ]
       }
     }
