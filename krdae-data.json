@@ -27,7 +27,7 @@
         "depth_km": 9.699999809265137,
         "MD": 0.0,
         "ML": 2.0999999046325684,
-        "Mw": 2.200000047683716,
+        "Mw": 0.0,
         "place": "ONIKI ADALAR (AKDENIZ)",
         "location": "AKDENIZ"
       },
@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.30 10:14:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.250200271606445,
+          35.21480178833008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.30 09:59:00",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -169,6 +188,25 @@
         "coordinates": [
           27.62969970703125,
           36.89120101928711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.30 08:16:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.849700927734375,
+          35.20970153808594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.395999908447266,
           39.67169952392578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 02:02:45",
-        "depth_km": 24.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "SISAM ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.71929931640625,
-          37.71580123901367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 01:38:06",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "GURSU-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.304000854492188,
-          36.94729995727539
         ]
       }
     }
