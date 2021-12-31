@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.31 09:22:56",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KASIMBAGI-ERCIS (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.38529968261719,
+          38.9651985168457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.31 08:56:30",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1072998046875,
+          38.02119827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.31 08:48:35",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           24.201499938964844,
           34.87620162963867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 14:20:38",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "NIGDE",
-        "location": "NIGDE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.69670104980469,
-          37.944801330566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 14:13:52",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KARAHIDIRLI-BUNYAN (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.7765007019043,
-          38.96649932861328
         ]
       }
     }
