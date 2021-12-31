@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.31 12:16:32",
+        "depth_km": 25.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "IRLIGANLI-(DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.219999313354492,
+          37.908199310302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.31 12:03:09",
         "depth_km": 2.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.804500579833984,
           38.82979965209961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 15:11:16",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.056299209594727,
-          36.00830078125
         ]
       }
     }
