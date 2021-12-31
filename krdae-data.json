@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2021.12.31 18:30:38",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 2.9000000953674316,
+        "place": "YESILOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.417800903320312,
+          37.08100128173828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2021.12.31 17:52:25",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GURSU-TASOVA (AMASYA)",
+        "location": "AMASYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3046989440918,
+          40.8406982421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2021.12.31 17:17:10",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           34.23080062866211,
           40.48630142211914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 17:58:57",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.09269905090332,
-          36.083499908447266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.22 17:58:42",
-        "depth_km": 17.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.115299224853516,
-          37.818199157714844
         ]
       }
     }
