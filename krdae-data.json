@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.01 11:31:10",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "GUNEYKOY-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.32849884033203,
+          38.50279998779297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.01 11:02:35",
         "depth_km": 13.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.455799102783203,
           39.12580108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.23 13:14:34",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KARINCALI-(KIRSEHIR)",
-        "location": "KIRSEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.0192985534668,
-          39.2317008972168
         ]
       }
     }
