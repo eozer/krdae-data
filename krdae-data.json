@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.04 19:14:17",
+        "depth_km": 15.5,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.218299865722656,
+          39.38570022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.04 19:01:55",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 0.0,
+        "place": "SURIYE",
+        "location": "SURIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.62620162963867,
+          36.28950119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.04 18:26:35",
         "depth_km": 10.100000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.761999130249023,
           35.363800048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.26 21:59:02",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 5.5,
-        "Mw": 5.5,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.953699111938477,
-          35.19179916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.26 21:43:43",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KOS ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.253999710083008,
-          36.91849899291992
         ]
       }
     }
