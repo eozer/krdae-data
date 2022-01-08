@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.08 20:30:08",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "UGURKOY-BORCKA (ARTVIN)",
+        "location": "ARTVIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.087799072265625,
+          41.69200134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.08 19:07:01",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.140499114990234,
           39.084800720214844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.29 06:22:14",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "YUMRUTAS-MENGEN (BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.113800048828125,
-          40.85649871826172
         ]
       }
     }
