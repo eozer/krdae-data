@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.08 15:08:11",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38520050048828,
+          34.62730026245117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.08 14:20:59",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.837799072265625,
+          39.21799850463867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.08 14:14:08",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "SIZMA-SELCUKLU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.40250015258789,
+          38.05030059814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.08 12:26:04",
         "depth_km": 57.900001525878906,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.90399932861328,
           35.1338005065918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.29 00:07:51",
-        "depth_km": 17.299999237060547,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "CAMLIOVA-KAS (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.461200714111328,
-          36.37799835205078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.28 22:47:55",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SABANCA-POLATLI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.268699645996094,
-          39.339698791503906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.28 21:36:09",
-        "depth_km": 14.600000381469727,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "ESMEKAYA-ESKIL (AKSARAY)",
-        "location": "AKSARAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.43920135498047,
-          38.244998931884766
         ]
       }
     }
