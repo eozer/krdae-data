@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.10 21:29:44",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.299999952316284,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.30120086669922,
+          36.52320098876953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.10 21:13:07",
         "depth_km": 10.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           43.11669921875,
           42.82379913330078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.30 10:37:35",
-        "depth_km": 17.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "PARMAKSIZ-CAT (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.90420150756836,
-          39.55870056152344
         ]
       }
     }
