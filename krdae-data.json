@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.11 08:33:04",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "CALICA-GONEN (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.752500534057617,
+          39.98030090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.11 08:16:14",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.25029945373535,
           39.27880096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2021.12.30 19:18:15",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BASCATAK-AKDAGMADENI (YOZGAT)",
-        "location": "YOZGAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.89720153808594,
-          39.55970001220703
         ]
       }
     }
