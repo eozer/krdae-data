@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.13 22:03:08",
+        "depth_km": 20.399999618530273,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "YESILYUVA-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.455699920654297,
+          37.57469940185547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.13 20:36:56",
         "depth_km": 11.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.595300674438477,
           37.9010009765625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.03 03:39:47",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TASKESIGI-KORKUTELI (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.103500366210938,
-          37.264198303222656
         ]
       }
     }
