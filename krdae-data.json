@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.14 23:45:30",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "BUYUKCANLI-TOMARZA (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.97800064086914,
+          38.35070037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.14 23:40:18",
+        "depth_km": 18.200000762939453,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.116500854492188,
+          37.694000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.14 23:34:59",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.24020004272461,
           35.202701568603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.04 03:24:39",
-        "depth_km": 67.30000305175781,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "OSMANIYE-MARMARIS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.27400016784668,
-          36.68980026245117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.04 03:08:11",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.94930076599121,
-          34.69020080566406
         ]
       }
     }
