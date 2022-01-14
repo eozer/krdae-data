@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.14 11:58:36",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "YANIKKISLA-TARSUS (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.88479995727539,
+          37.14030075073242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.14 11:56:47",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "KUTUKLU-TARSUS (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.06050109863281,
+          37.037200927734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.14 11:01:20",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.730499267578125,
           37.092201232910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.03 11:52:32",
-        "depth_km": 28.299999237060547,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.263200759887695,
-          35.13570022583008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.03 11:43:21",
-        "depth_km": 8.600000381469727,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "INCECIK-ORTA (CANKIRI)",
-        "location": "CANKIRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.85279846191406,
-          40.55030059814453
         ]
       }
     }
