@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.15 16:03:05",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 4.099999904632568,
+        "Mw": 4.5,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.48569869995117,
+          37.918800354003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.15 14:30:24",
         "depth_km": 3.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.17970085144043,
           39.40769958496094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.04 21:04:39",
-        "depth_km": 14.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KAPAKLI-ARMUTLU (YALOVA)",
-        "location": "YALOVA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.961000442504883,
-          40.45429992675781
         ]
       }
     }
