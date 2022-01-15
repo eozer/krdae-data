@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.15 20:37:48",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DEDEYOLU-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18550109863281,
+          38.45479965209961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.15 19:07:07",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -80,19 +99,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.01.15 16:03:06",
+        "timestamp": "2022.01.15 16:03:07",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 4.599999904632568,
-        "place": "KIZILCA-BASKALE (VAN)",
-        "location": "VAN"
+        "ML": 4.099999904632568,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.44350051879883,
-          38.038700103759766
+          44.5906982421875,
+          38.090301513671875
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.124300003051758,
           36.4026985168457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.05 00:28:34",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ATAKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.385000228881836,
-          37.0442008972168
         ]
       }
     }
