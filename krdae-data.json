@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.17 12:53:31",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CELEBIBAGI-ERCIS (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.3120002746582,
+          38.948001861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.17 12:33:31",
         "depth_km": 7.099999904632568,
         "MD": 0.0,
@@ -207,6 +226,25 @@
         "coordinates": [
           24.208999633789062,
           40.002201080322266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.17 09:15:28",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KARABIYIKLI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.20970153808594,
+          37.29119873046875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.96579933166504,
           40.73970031738281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.07 08:37:24",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "BEREKETLI-BESNI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.7692985534668,
-          37.68080139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.07 05:53:55",
-        "depth_km": 11.199999809265137,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "MAHMATLAR-EGIRDIR (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.86319923400879,
-          37.94580078125
         ]
       }
     }
