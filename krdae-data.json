@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.17 12:19:35",
+        "depth_km": 22.299999237060547,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.816699981689453,
+          36.332698822021484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.17 12:11:21",
         "depth_km": 2.200000047683716,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           34.97019958496094,
           37.573699951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.17 10:44:38",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.532699584960938,
+          38.18050003051758
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.86319923400879,
           37.94580078125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.07 05:39:27",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ESENLIK-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.083499908447266,
-          39.01250076293945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.07 04:00:23",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.103500366210938,
-          37.64950180053711
         ]
       }
     }
