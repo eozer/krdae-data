@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.18 19:42:06",
+        "depth_km": 10.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41349983215332,
+          40.06669998168945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.18 18:49:30",
         "depth_km": 9.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.310300827026367,
           37.88050079345703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.09 14:03:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "KIZILOREN-MERAM (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.079200744628906,
-          37.864498138427734
         ]
       }
     }
