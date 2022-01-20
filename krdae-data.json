@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.20 15:14:28",
+        "depth_km": 16.100000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.95319938659668,
+          37.74480056762695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.20 14:38:22",
         "depth_km": 20.200000762939453,
         "MD": 0.0,
@@ -1461,6 +1480,25 @@
         "coordinates": [
           36.022701263427734,
           37.23830032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.19 08:30:05",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.060800552368164,
+          37.71480178833008
         ]
       }
     },
@@ -3254,7 +3292,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2022.01.17 18:34:02",
-        "depth_km": 8.0,
+        "depth_km": 6.199999809265137,
         "MD": 0.0,
         "ML": 2.299999952316284,
         "Mw": 0.0,
@@ -3264,8 +3302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.247800827026367,
-          35.180198669433594
+          25.25349998474121,
+          35.20970153808594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           39.945499420166016,
           38.84270095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.12 00:34:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 0.0,
-        "place": "SENOVA-KOVANCILAR (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.97019958496094,
-          38.71670150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.12 00:29:47",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.611499786376953,
-          34.112998962402344
         ]
       }
     }
