@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.21 06:14:55",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "KIZILAGAC-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.37929916381836,
+          37.082298278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.21 05:36:11",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           34.43769836425781,
           36.74449920654297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.12 22:40:22",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KAPLANCIK-TORBALI (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.305999755859375,
-          38.218299865722656
         ]
       }
     }
