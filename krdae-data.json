@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.22 14:13:45",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.5,
+        "place": "AFSAR-YENISEHIR (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.678699493408203,
+          40.29949951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.22 14:01:39",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.61069869995117,
           38.55830001831055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.14 04:39:07",
-        "depth_km": 25.799999237060547,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUCATI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.161699295043945,
-          37.071998596191406
         ]
       }
     }
