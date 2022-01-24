@@ -1733,6 +1733,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.22 00:48:48",
+        "depth_km": 2.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "YIKILGAN-ZARA (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71699905395508,
+          40.205501556396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.22 00:45:04",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.34429931640625,
           38.958499908447266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.15 00:27:16",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ILYASLAR-BIGADIC (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.240699768066406,
-          39.427799224853516
         ]
       }
     }
