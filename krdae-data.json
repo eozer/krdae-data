@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.26 10:43:27",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "YEGENLI-SILIFKE (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.973201751708984,
+          36.61180114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.26 10:13:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKPINAR-CAMELI (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.148799896240234,
+          37.00450134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.26 10:02:26",
         "depth_km": 2.5999999046325684,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           24.398000717163086,
           40.03419876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.16 22:11:40",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SARISALTIK-HOZAT (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.23500061035156,
-          39.17649841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.16 21:44:36",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.395999908447266,
-          40.03879928588867
         ]
       }
     }
