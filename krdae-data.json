@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.30 11:34:45",
+        "depth_km": 1.5,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "BAGDASAN-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.51620101928711,
+          38.84469985961914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.30 11:22:17",
+        "depth_km": 25.5,
+        "MD": 0.0,
+        "ML": 4.400000095367432,
+        "Mw": 0.0,
+        "place": "AKDEN\u00ddZ",
+        "location": "AKDEN\u00ddZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.500699996948242,
+          32.75019836425781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.30 08:18:16",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.34429931640625,
           34.95500183105469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.19 07:01:45",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AHMETADIL-AKYURT (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.22819900512695,
-          40.06330108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.19 06:56:12",
-        "depth_km": 13.800000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ADAKSU-MALAZGIRT (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.5724983215332,
-          38.95830154418945
         ]
       }
     }
