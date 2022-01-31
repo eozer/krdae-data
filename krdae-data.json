@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.31 12:30:34",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.099999904632568,
+        "Mw": 4.099999904632568,
+        "place": "KIZILOREN-MERAM (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.09550094604492,
+          37.89680099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.31 12:01:17",
+        "depth_km": 13.399999618530273,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.200000047683716,
+        "place": "DEMIRKONAK-GOLOVA (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65829849243164,
+          40.019500732421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.31 10:23:40",
         "depth_km": 15.800000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.348800659179688,
           39.052799224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.20 01:39:25",
-        "depth_km": 13.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CAMKOY-GOLHISAR (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.55150032043457,
-          37.25429916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.20 01:20:49",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "YESILOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.4143009185791,
-          37.059200286865234
         ]
       }
     }
