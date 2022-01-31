@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.31 13:18:50",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "YESILOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.420499801635742,
+          37.0797004699707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.31 13:05:02",
         "depth_km": 4.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.91350173950195,
           39.01969909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.20 05:49:02",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "PALAS-SARIOGLAN (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.909000396728516,
-          39.04119873046875
         ]
       }
     }
