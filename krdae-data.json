@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.01.31 14:13:58",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KIZILOREN-MERAM (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.093299865722656,
+          37.8672981262207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.01.31 13:42:20",
         "depth_km": 2.700000047683716,
         "MD": 0.0,
@@ -131,6 +150,25 @@
         "coordinates": [
           38.65829849243164,
           40.019500732421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.01.31 10:39:26",
+        "depth_km": 1.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CALIKAYA-KARAKOCAN (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.069000244140625,
+          39.102298736572266
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.07069969177246,
           35.80179977416992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.20 04:58:54",
-        "depth_km": 15.300000190734863,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TUTLUCA-BOZKURT (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.62529945373535,
-          37.87179946899414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.20 04:27:12",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.412500381469727,
-          40.72700119018555
         ]
       }
     }
