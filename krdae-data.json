@@ -935,6 +935,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.03 00:23:47",
+        "depth_km": 18.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "TURBASI-CERKES (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84479904174805,
+          40.76300048828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.03 00:03:47",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.71699905395508,
           40.205501556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.22 00:45:04",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.299999952316284,
-        "place": "ISKENDERSEYH-KOYULHISAR (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.83869934082031,
-          40.2672004699707
         ]
       }
     }
