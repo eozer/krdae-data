@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.05 09:30:31",
+        "depth_km": 116.0999984741211,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.200000047683716,
+        "place": "BELEK ACIKLARI-ANTALYA (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08679962158203,
+          36.72570037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.05 08:53:12",
         "depth_km": 9.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.01900100708008,
           39.845001220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.22 06:26:03",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOZDEREGUVEN-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.851999282836914,
-          39.34270095825195
         ]
       }
     }
