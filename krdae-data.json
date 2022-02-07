@@ -2778,6 +2778,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.02 10:54:27",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SELCUKLU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.570701599121094,
+          37.934200286865234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.02 10:47:16",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.378999710083008,
           35.686798095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.24 08:09:42",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "DISBUDAK-LAPSEKI (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.008499145507812,
-          40.33829879760742
         ]
       }
     }
