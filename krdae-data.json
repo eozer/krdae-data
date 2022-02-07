@@ -2816,6 +2816,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.02 10:16:08",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ORTACA-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.819499969482422,
+          39.75120162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.02 05:50:24",
         "depth_km": 19.200000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.76729965209961,
           38.38199996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.24 08:14:38",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.378999710083008,
-          35.686798095703125
         ]
       }
     }
