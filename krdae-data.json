@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.07 21:44:07",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.251800537109375,
+          37.887001037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.07 20:54:18",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.93299865722656,
           39.99570083618164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.24 17:38:32",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SUDURAGI-KARLIOVA (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.870201110839844,
-          39.10300064086914
         ]
       }
     }
