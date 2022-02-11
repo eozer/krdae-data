@@ -1505,6 +1505,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.08 03:35:49",
+        "depth_km": 1.7000000476837158,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CARDAK (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.673799514770508,
+          37.84000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.08 02:38:29",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.27120018005371,
           35.33599853515625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.26 12:54:20",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "SAMURLU-ALIAGA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.98900032043457,
-          38.77119827270508
         ]
       }
     }
