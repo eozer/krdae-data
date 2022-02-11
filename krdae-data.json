@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.11 15:00:05",
+        "depth_km": 20.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.920299530029297,
+          39.87969970703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.11 14:57:30",
         "depth_km": 14.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.8435001373291,
           37.81719970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.27 10:08:15",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.29679870605469,
-          37.77349853515625
         ]
       }
     }
