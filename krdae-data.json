@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.11 13:59:29",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YENIYAYLA-HENDEK (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.777299880981445,
+          40.67369842529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.11 13:39:59",
         "depth_km": 10.800000190734863,
         "MD": 0.0,
@@ -1271,6 +1290,25 @@
         "coordinates": [
           39.20970153808594,
           38.390499114990234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.08 20:19:55",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.112499237060547,
+          34.605499267578125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.435199737548828,
           37.134300231933594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.27 06:30:31",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "HISARONU-MARMARIS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.078699111938477,
-          36.8401985168457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.27 06:27:29",
-        "depth_km": 6.300000190734863,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "YENIPINAR-HISARCIK (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.171499252319336,
-          39.22629928588867
         ]
       }
     }
