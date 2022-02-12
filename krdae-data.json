@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.12 23:01:06",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "TULEK-ARSUZ (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.871299743652344,
+          36.324798583984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.12 22:29:06",
         "depth_km": 18.299999237060547,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           25.513200759887695,
           36.669700622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.12 22:08:16",
+        "depth_km": 22.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.304500579833984,
+          35.27730178833008
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.846500396728516,
           35.99150085449219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.28 15:51:40",
-        "depth_km": 11.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YUKARITIRTAR-YALVAC (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.94569969177246,
-          38.272701263427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.28 15:48:32",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "BUYUKECELI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.554298400878906,
-          36.16080093383789
         ]
       }
     }
