@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.12 03:02:24",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.4000000953674316,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.66200065612793,
+          36.97129821777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.12 02:50:45",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "UZUNTEPE-SAMSAT (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.502498626708984,
+          37.595298767089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.12 01:26:26",
         "depth_km": 11.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.603200912475586,
           37.25469970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.27 21:43:35",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KOSOVA-MUSTAFAKEMALPASA (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.278799057006836,
-          40.008201599121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.27 19:11:24",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KUSCULAR-TARSUS (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.942298889160156,
-          37.26179885864258
         ]
       }
     }
