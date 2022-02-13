@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.14 01:41:31",
+        "depth_km": 13.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KIBRIS-ISKELE",
+        "location": "KIBRIS-ISKELE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.78730010986328,
+          35.285499572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.14 01:23:47",
+        "depth_km": 13.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUMYAZI-MADEN (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.657501220703125,
+          38.56930160522461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.14 00:46:10",
         "depth_km": 9.699999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.066999435424805,
           37.299800872802734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.30 11:46:41",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BUYUKYAYALAR-ESKIPAZAR (KARABUK)",
-        "location": "KARABUK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.46670150756836,
-          40.93080139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.30 11:37:03",
-        "depth_km": 86.80000305175781,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.029300689697266,
-          35.38800048828125
         ]
       }
     }
