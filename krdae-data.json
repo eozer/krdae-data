@@ -2094,6 +2094,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.10 20:26:35",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0999999046325684,
+        "place": "OGULVEREN-BASKALE (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.23849868774414,
+          37.779701232910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.10 20:23:28",
         "depth_km": 4.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.67879867553711,
           38.272300720214844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.01.29 14:20:15",
-        "depth_km": 29.799999237060547,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ARAS-HORASAN (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.2755012512207,
-          40.00529861450195
         ]
       }
     }
