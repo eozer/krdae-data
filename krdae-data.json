@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.16 15:46:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AZAP-HORASAN (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0724983215332,
+          40.08620071411133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.16 14:44:16",
         "depth_km": 19.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.53670120239258,
           38.64970016479492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.03 17:52:07",
-        "depth_km": 28.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "UZUNYURT ACIKLARI-FETHIYE-MUGLA (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.07550048828125,
-          36.47079849243164
         ]
       }
     }
