@@ -365,6 +365,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.17 19:16:13",
+        "depth_km": 10.899999618530273,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.84980010986328,
+          36.967498779296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.17 19:05:14",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.934200286865234,
           39.56100082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.05 18:03:16",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YAGCIHUSEYIN-KIZILCAHAMAM (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.81119918823242,
-          40.64120101928711
         ]
       }
     }
