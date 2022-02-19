@@ -555,6 +555,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.19 03:19:29",
+        "depth_km": 124.4000015258789,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.600799560546875,
+          36.39550018310547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.19 02:37:25",
         "depth_km": 10.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.75349998474121,
           37.94820022583008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.07 16:39:42",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.345300674438477,
-          37.8838005065918
         ]
       }
     }
