@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.19 12:18:13",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "MECIDIYE-EZINE (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.243000030517578,
+          39.814300537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.19 11:41:05",
         "depth_km": 6.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.790700912475586,
           38.45800018310547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.07 02:29:42",
-        "depth_km": 15.899999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YONCALIK-KARLIOVA (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.06330108642578,
-          39.31719970703125
         ]
       }
     }
