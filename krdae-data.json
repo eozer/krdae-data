@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.22 19:17:38",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "COL-(SIIRT)",
+        "location": "SIIRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.05350112915039,
+          37.874298095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.22 19:14:44",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SOGUT-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.073999404907227,
+          39.135501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.22 18:18:57",
         "depth_km": 22.799999237060547,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.795501708984375,
           38.12799835205078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.12 11:42:52",
-        "depth_km": 13.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AGARTI-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.19430160522461,
-          38.71149826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.12 10:48:04",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "SAHINYURDU-GEMLIK (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.196300506591797,
-          40.51449966430664
         ]
       }
     }
