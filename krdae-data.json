@@ -3272,6 +3272,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.19 18:28:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.96369934082031,
+          41.150001525878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.19 18:04:54",
         "depth_km": 16.100000381469727,
         "MD": 0.0,
@@ -3399,6 +3418,25 @@
         "coordinates": [
           26.949499130249023,
           40.04499816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.19 14:38:35",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "MESCITLI-(MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.68230056762695,
+          39.011199951171875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.59950065612793,
           37.28099822998047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.12 23:50:08",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "TURUNC-MARMARIS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.282499313354492,
-          36.78179931640625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.12 23:48:26",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "TURUNC-MARMARIS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.249500274658203,
-          36.76020050048828
         ]
       }
     }
