@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.25 00:23:27",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "OSMANIYE-MARMARIS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.291799545288086,
+          36.68949890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.25 00:19:11",
+        "depth_km": 10.199999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SENYURT-KIZILTEPE (MARDIN)",
+        "location": "MARDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.72919845581055,
+          36.95220184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.24 23:59:53",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.918500900268555,
           38.86149978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.14 10:59:04",
-        "depth_km": 7.099999904632568,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KALEDIBI-ISKENDERUN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.31629943847656,
-          36.62620162963867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.14 10:28:58",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "TEKELI ISIKLAR-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.736000061035156,
-          39.24330139160156
         ]
       }
     }
