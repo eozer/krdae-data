@@ -4,19 +4,57 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.02.26 21:37:21",
-        "depth_km": 26.0,
+        "timestamp": "2022.02.26 22:28:22",
+        "depth_km": 1.7000000476837158,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ISMIL-KARATAY (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.02830123901367,
+          37.70399856567383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.26 22:22:08",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.91080093383789,
+          37.869300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.02.26 21:37:23",
+        "depth_km": 11.300000190734863,
         "MD": 0.0,
         "ML": 1.399999976158142,
         "Mw": 0.0,
-        "place": "GOKOGLAN-TEKMAN (ERZURUM)",
+        "place": "ALABAYIR-TEKMAN (ERZURUM)",
         "location": "ERZURUM"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.265499114990234,
-          39.53499984741211
+          41.1879997253418,
+          39.56100082397461
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.94329833984375,
           41.1796989440918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.16 10:37:21",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.93280029296875,
-          41.11899948120117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.16 09:57:17",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GURCISTAN",
-        "location": "GURCISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.98080062866211,
-          41.2218017578125
         ]
       }
     }
