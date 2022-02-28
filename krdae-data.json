@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.02.28 08:11:40",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.200000047683716,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.270999908447266,
+          35.595699310302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.02.28 07:48:01",
         "depth_km": 3.0999999046325684,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.03300094604492,
           37.936500549316406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.18 23:34:56",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "BALOGLU-REFAHIYE (ERZINCAN)",
-        "location": "ERZINCAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.965999603271484,
-          39.984798431396484
         ]
       }
     }
