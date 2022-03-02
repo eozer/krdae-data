@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.02 20:33:29",
+        "depth_km": 2.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GULDIKEN-LICE (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.81880187988281,
+          38.57529830932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.02 20:12:17",
         "depth_km": 10.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.3882999420166,
           37.09149932861328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.22 00:29:09",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.091999053955078,
-          37.84299850463867
         ]
       }
     }
