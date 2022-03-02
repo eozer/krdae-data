@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.02 23:04:53",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ASMALI-MARMARA-BALIKESIR (MARNARA DENIZI)",
+        "location": "MARNARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7898006439209,
+          40.63779830932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.02 22:58:36",
         "depth_km": 8.300000190734863,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           35.860198974609375,
           39.0172004699707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.02 22:55:58",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 0.0,
+        "place": "GURCISTAN ACIKLARI (KARADENIZ)",
+        "location": "KARADENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4379997253418,
+          43.479698181152344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.41200065612793,
           40.722999572753906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.22 05:31:26",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.299999952316284,
-        "place": "DEREKOY-KARGI (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.4026985168457,
-          41.15250015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.22 05:21:14",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "TASKOPRU-SULTANDAGI (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.32029914855957,
-          38.57170104980469
         ]
       }
     }
