@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.05 08:22:42",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KIBRIS-TUZLA",
+        "location": "KIBRIS-TUZLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.709800720214844,
+          35.10049819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.05 07:37:17",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.247501373291016,
           38.44900131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.24 04:35:08",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.941499710083008,
-          37.934200286865234
         ]
       }
     }
