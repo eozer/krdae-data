@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.06 07:12:03",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DEMIRLI-BUCAK (BURDUR)",
+        "location": "BURDUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.678300857543945,
+          37.2765007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.06 06:03:56",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           41.36650085449219,
           40.422698974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.06 05:25:05",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.34119987487793,
+          35.23720169067383
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.802000045776367,
           38.18579864501953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.24 19:46:42",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GUNBATMAZ-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.02830123901367,
-          38.97850036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.24 19:03:22",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKCESME-INCIRLIOVA (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.688499450683594,
-          37.88199996948242
         ]
       }
     }
