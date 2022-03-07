@@ -194,6 +194,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.07 11:48:08",
+        "depth_km": 8.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ULUKOY-NALLIHAN (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6924991607666,
+          40.139198303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.07 11:06:57",
         "depth_km": 7.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.520999908447266,
           37.81330108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.25 17:02:26",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOPRUBASI-MECITOZU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.254798889160156,
-          40.51070022583008
         ]
       }
     }
