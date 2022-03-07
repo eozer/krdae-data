@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.07 06:30:13",
+        "depth_km": 20.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.683300018310547,
+          35.68000030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.07 06:29:25",
         "depth_km": 18.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.673500061035156,
           39.297698974609375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.25 10:17:16",
-        "depth_km": 14.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CORTEN-IMAMOGLU (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.537200927734375,
-          37.27080154418945
         ]
       }
     }
