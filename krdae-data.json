@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.10 18:34:23",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.652000427246094,
+          36.106998443603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.10 18:30:05",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.06949996948242,
           39.582000732421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 03:55:49",
-        "depth_km": 18.100000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TURNAGOL-TEKMAN (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.16400146484375,
-          39.602298736572266
         ]
       }
     }
