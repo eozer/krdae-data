@@ -973,6 +973,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.10 01:20:56",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DOSTAL-ILIC (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4921989440918,
+          39.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.10 01:07:01",
         "depth_km": 2.700000047683716,
         "MD": 0.0,
@@ -1138,6 +1157,25 @@
         "coordinates": [
           43.227699279785156,
           38.10200119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.09 20:33:20",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "IMALI-TURKOGLU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71030044555664,
+          37.35419845581055
         ]
       }
     },
@@ -1461,6 +1499,25 @@
         "coordinates": [
           34.46969985961914,
           41.16579818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.09 11:07:54",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.48780059814453,
+          38.93870162963867
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           41.446800231933594,
           40.41529846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 12:11:11",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARASUNGUR-CINAR (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.96030044555664,
-          37.608001708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 12:09:33",
-        "depth_km": 26.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOKOGLAN-TEKMAN (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.23749923706055,
-          39.53879928588867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 12:09:24",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.834800720214844,
-          40.79629898071289
         ]
       }
     }
