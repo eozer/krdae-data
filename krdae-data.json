@@ -1182,6 +1182,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.09 19:48:57",
+        "depth_km": 26.299999237060547,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TEKIR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6963005065918,
+          37.905799865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.09 19:45:23",
         "depth_km": 21.299999237060547,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.4193000793457,
           39.483001708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 12:17:12",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "SENYURT-TORTUM (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.446800231933594,
-          40.41529846191406
         ]
       }
     }
