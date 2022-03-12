@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.12 07:29:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.614999771118164,
+          37.01499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.12 06:55:52",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.031200408935547,
           37.86320114135742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.02.28 20:42:30",
-        "depth_km": 14.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "TURNAGOL-TEKMAN (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.13249969482422,
-          39.589298248291016
         ]
       }
     }
