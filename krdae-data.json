@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.12 13:57:48",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 0.6000000238418579,
+        "Mw": 0.0,
+        "place": "BUYUKECELI-GULNAR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.55619812011719,
+          36.152801513671875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.12 13:50:21",
         "depth_km": 1.399999976158142,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           41.086700439453125,
           39.63520050048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.12 13:35:36",
+        "depth_km": 14.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.47800064086914,
+          35.55950164794922
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           41.44269943237305,
           39.29869842529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.01 01:49:18",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "BALCILAR-KOYCEGIZ (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.578500747680664,
-          37.06800079345703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.01 01:33:05",
-        "depth_km": 31.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.663299560546875,
-          35.00579833984375
         ]
       }
     }
