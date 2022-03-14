@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.03.14 09:50:52",
-        "depth_km": 12.199999809265137,
+        "timestamp": "2022.03.14 10:32:07",
+        "depth_km": 39.29999923706055,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YUVACIK-KAS (ANTALYA)",
-        "location": "ANTALYA"
+        "ML": 4.0,
+        "Mw": 4.300000190734863,
+        "place": "ROMANYA",
+        "location": "ROMANYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.57699966430664,
-          36.45800018310547
+          26.45199966430664,
+          45.727500915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.14 09:50:50",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "OTLUCA-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.37369918823242,
+          38.70399856567383
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.84349822998047,
           38.984500885009766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.02 11:38:05",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KOSEHACILI-BUNYAN (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.950801849365234,
-          38.89149856567383
         ]
       }
     }
