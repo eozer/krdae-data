@@ -954,6 +954,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.14 07:08:11",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.226499557495117,
+          35.05830001831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.14 06:42:31",
         "depth_km": 4.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.203500747680664,
           37.09149932861328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.03 18:47:28",
-        "depth_km": 12.5,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "TURNAGOL-TEKMAN (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.15330123901367,
-          39.61579895019531
         ]
       }
     }
