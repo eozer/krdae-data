@@ -194,6 +194,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.16 13:10:01",
+        "depth_km": 1.7999999523162842,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2814998626709,
+          34.952301025390625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.16 13:03:58",
         "depth_km": 6.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.417200088500977,
           37.03850173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.05 02:50:36",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "CERCIKAYA-BELEN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.10580062866211,
-          36.361000061035156
         ]
       }
     }
