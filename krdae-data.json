@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.17 10:11:20",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SEYHLER-HISARCIK (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.32900047302246,
+          39.209800720214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.17 08:49:05",
         "depth_km": 20.700000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.07699966430664,
           37.61750030517578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.05 20:37:20",
-        "depth_km": 27.100000381469727,
-        "MD": 0.0,
-        "ML": 0.6000000238418579,
-        "Mw": 0.0,
-        "place": "BOZBURUN ACIKLARI-MUGLA (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.246000289916992,
-          36.663700103759766
         ]
       }
     }
