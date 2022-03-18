@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.18 14:24:46",
+        "depth_km": 14.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KAYASIK-(MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.84469985961914,
+          38.848201751708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.18 12:47:57",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           34.18519973754883,
           36.50630187988281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.18 12:33:59",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MADENLI-SEYDISEHIR (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.868799209594727,
+          37.28070068359375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.66400146484375,
           35.032798767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 14:12:02",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "UMURLAR-DURSUNBEY (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.53420066833496,
-          39.64780044555664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 13:19:03",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "BALTASI-(ERZINCAN)",
-        "location": "ERZINCAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.14630126953125,
-          39.80070114135742
         ]
       }
     }
