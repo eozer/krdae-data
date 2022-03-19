@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.19 02:15:17",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.97369956970215,
+          37.84049987792969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.19 01:03:17",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BALTASI-(ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.145999908447266,
+          39.83729934692383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.19 00:11:04",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARABORKLU-AKHISAR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.859800338745117,
+          39.00199890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.18 21:26:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SEKLI-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.70050048828125,
+          40.18429946899414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.18 21:18:51",
         "depth_km": 126.69999694824219,
         "MD": 0.0,
@@ -17,6 +93,25 @@
         "coordinates": [
           30.743000030517578,
           37.326499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.18 21:11:32",
+        "depth_km": 17.799999237060547,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "YERKESIK-(MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.282499313354492,
+          37.11970138549805
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           31.273700714111328,
           36.143001556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 22:20:48",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.353200912475586,
-          36.927799224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 21:04:18",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.01129913330078,
-          39.21879959106445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 21:01:48",
-        "depth_km": 21.799999237060547,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "GULAGZI-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.382999420166016,
-          37.1422004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 20:27:27",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AHMEDIYE-KARAPURCEK (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.57270050048828,
-          40.586299896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.06 20:16:51",
-        "depth_km": 28.5,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "DALLITEPE-(BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.6245002746582,
-          39.05670166015625
         ]
       }
     }
