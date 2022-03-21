@@ -6027,6 +6027,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.13 07:30:12",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "DEREYAMAC-AYDINLAR (SIIRT)",
+        "location": "SIIRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.00519943237305,
+          37.96480178833008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.13 06:41:20",
+        "depth_km": 19.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.118000030517578,
+          36.66749954223633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.13 05:43:05",
         "depth_km": 3.9000000953674316,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.522499084472656,
           40.71229934692383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.09 03:15:20",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.4143009185791,
-          40.6797981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.09 02:52:29",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.412799835205078,
-          37.022701263427734
         ]
       }
     }
