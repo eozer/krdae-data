@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.22 17:22:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "ERMISLER-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.496700286865234,
+          38.88349914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.22 17:12:52",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YAVUZ-PAZAR (RIZE)",
+        "location": "RIZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.84120178222656,
+          41.1245002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.22 17:10:55",
         "depth_km": 7.400000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.292999267578125,
           37.02299880981445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.09 11:23:10",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KAMALI-TURHAL (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.98099899291992,
-          40.42250061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.09 11:17:18",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KARAKESE-KARGI (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.46969985961914,
-          41.16579818725586
         ]
       }
     }
