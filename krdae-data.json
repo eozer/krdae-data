@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.24 05:18:33",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.05430030822754,
+          36.214698791503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.24 04:59:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.5999999046325684,
+        "place": "KEDEK-KEMAH (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.01449966430664,
+          39.84700012207031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.24 04:39:19",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "HANDERE-SARIKAMIS (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.43050003051758,
+          40.29180145263672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.24 03:42:28",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           41.56999969482422,
           39.24330139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.11 02:00:43",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.90869903564453,
-          41.11220169067383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.10 23:47:31",
-        "depth_km": 8.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "BEYDILLI-CIVRIL (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.97450065612793,
-          38.28269958496094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.10 22:55:45",
-        "depth_km": 19.200000762939453,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "TURKIYE-GURCISTAN SINIR BOLGESI",
-        "location": "TURKIYE-GURCISTAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.62929916381836,
-          41.80270004272461
         ]
       }
     }
