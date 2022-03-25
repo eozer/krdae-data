@@ -7699,6 +7699,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.15 05:12:44",
+        "depth_km": 23.200000762939453,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.37299919128418,
+          35.36899948120117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.15 05:07:04",
         "depth_km": 13.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           42.11050033569336,
           40.22200012207031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.13 03:57:46",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.61949920654297,
-          33.72869873046875
         ]
       }
     }
