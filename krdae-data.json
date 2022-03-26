@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.26 19:46:43",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CANTIRLI-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.73819923400879,
+          40.112300872802734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.26 19:07:44",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.35329818725586,
           38.08580017089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.14 15:37:55",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CARDAK (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.68120002746582,
-          37.839698791503906
         ]
       }
     }
