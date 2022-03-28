@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.28 11:52:10",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAKOPRU-(SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.784000396728516,
+          37.21620178222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.28 11:22:34",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -397,6 +416,25 @@
         "coordinates": [
           28.434799194335938,
           36.165000915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.28 01:04:17",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7268009185791,
+          37.93170166015625
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.77630043029785,
           40.3567008972168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.16 10:24:53",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.958799362182617,
-          37.851200103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.16 10:01:49",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MENTESE-KAVAKLIDERE (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.393199920654297,
-          37.39799880981445
         ]
       }
     }
