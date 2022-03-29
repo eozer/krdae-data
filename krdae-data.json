@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.29 22:42:11",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "PAZARCIK-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73870086669922,
+          38.20899963378906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.29 22:38:43",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "TURKALI-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.83769989013672,
+          39.47050094604492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.29 21:35:04",
         "depth_km": 4.599999904632568,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           24.362499237060547,
           40.01620101928711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.29 19:30:21",
+        "depth_km": 17.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KARAISMAILLER-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.156200408935547,
+          37.1505012512207
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.04450035095215,
           36.82229995727539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.18 19:08:43",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "OLUKKOYAGI-TARSUS (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.62670135498047,
-          37.2400016784668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.18 17:59:38",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.376300811767578,
-          37.006500244140625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.18 14:24:46",
-        "depth_km": 14.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KAYASIK-(MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.84469985961914,
-          38.848201751708984
         ]
       }
     }
