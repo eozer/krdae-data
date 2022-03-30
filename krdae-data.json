@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.30 14:42:38",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "SAHMURATLI-SORGUN (YOZGAT)",
+        "location": "YOZGAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1072998046875,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.30 14:11:17",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           35.24570083618164,
           39.78950119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.03.30 14:04:57",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "YURTBASI-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.36579895019531,
+          38.63169860839844
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.28730010986328,
           37.305301666259766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.19 13:08:57",
-        "depth_km": 20.799999237060547,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.237300872802734,
-          34.543800354003906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.19 12:55:51",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.74850082397461,
-          36.26900100708008
         ]
       }
     }
