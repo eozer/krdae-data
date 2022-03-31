@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.03.31 11:40:35",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SARIABAT-TAVAS (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.193199157714844,
+          37.60879898071289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.03.31 11:23:47",
         "depth_km": 6.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.624300003051758,
           37.9005012512207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.20 23:40:16",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.611000061035156,
-          37.9010009765625
         ]
       }
     }
