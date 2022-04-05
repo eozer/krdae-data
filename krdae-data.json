@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.05 20:19:44",
+        "depth_km": 15.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KOCABAS-HONAZ (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.338300704956055,
+          37.852298736572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.05 19:50:38",
         "depth_km": 16.5,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           26.80900001525879,
           34.997798919677734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.05 19:11:13",
+        "depth_km": 21.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KARAPINAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.30500030517578,
+          37.898799896240234
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.36050033569336,
           37.07099914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.26 06:55:11",
-        "depth_km": 11.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.41349983215332,
-          37.01279830932617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.26 06:34:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.370500564575195,
-          36.99599838256836
         ]
       }
     }
