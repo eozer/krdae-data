@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.06 11:34:02",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "MEYDANDERE-(SIIRT)",
+        "location": "SIIRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.06949996948242,
+          37.917198181152344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.06 11:20:08",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.36829948425293,
           36.99530029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.27 06:12:36",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.136699676513672,
-          36.675498962402344
         ]
       }
     }
