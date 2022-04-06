@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.06 03:55:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.785999298095703,
+          35.11000061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.06 03:25:28",
+        "depth_km": 101.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KARATAS-SERIK (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.122299194335938,
+          37.119998931884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.06 00:59:09",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           42.57229995727539,
           39.94779968261719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.26 13:03:26",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.740299224853516,
-          36.22529983520508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.26 13:02:41",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOKOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.3617000579834,
-          37.06850051879883
         ]
       }
     }
