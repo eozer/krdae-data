@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.08 11:41:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.099999904632568,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.32899856567383,
+          38.43320083618164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.08 11:14:25",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.4143009185791,
           38.222999572753906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.03.29 10:43:33",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BOZCAADA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.062700271606445,
-          39.87969970703125
         ]
       }
     }
