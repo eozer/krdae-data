@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.15 09:32:48",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KARAHAN-MURADIYE (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.65230178833008,
+          38.944000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.15 09:16:55",
         "depth_km": 22.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.684200286865234,
           39.24100112915039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.06 12:44:24",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TURKIYE-GURCISTAN SINIR BOLGESI",
-        "location": "TURKIYE-GURCISTAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.807498931884766,
-          41.654998779296875
         ]
       }
     }
