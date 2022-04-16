@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.16 14:09:51",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BALYA (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.601699829101562,
+          39.741798400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.16 13:29:00",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.413700103759766,
           37.07469940185547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.07 05:03:45",
-        "depth_km": 15.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.39579963684082,
-          40.722801208496094
         ]
       }
     }
