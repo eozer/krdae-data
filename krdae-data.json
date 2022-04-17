@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.17 18:17:55",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GUNGOREN-DOGUBAYAZIT (AGRI)",
+        "location": "AGRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2848014831543,
+          39.635501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.17 17:41:54",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           36.64400100708008,
           39.45949935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.17 17:00:40",
+        "depth_km": 14.899999618530273,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.666799545288086,
+          36.95949935913086
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.542999267578125,
           36.92829895019531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.08 17:44:32",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KAGITHANE (ISTANBUL)",
-        "location": "ISTANBUL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.968700408935547,
-          41.12379837036133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.08 17:27:55",
-        "depth_km": 17.200000762939453,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.411300659179688,
-          37.025299072265625
         ]
       }
     }
