@@ -194,6 +194,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.18 21:28:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GUNEY-(SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.715301513671875,
+          39.42369842529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.18 20:41:50",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.212499618530273,
           37.607200622558594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.09 12:10:52",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.387500762939453,
-          36.99800109863281
         ]
       }
     }
