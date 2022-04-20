@@ -593,6 +593,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.19 16:32:15",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.816699981689453,
+          35.375301361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.19 16:24:01",
         "depth_km": 1.7999999523162842,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.872798919677734,
           38.314300537109375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.10 16:30:14",
-        "depth_km": 15.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "PORTAKALLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.466999053955078,
-          37.0348014831543
         ]
       }
     }
