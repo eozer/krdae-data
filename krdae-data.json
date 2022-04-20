@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.20 22:44:35",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "BULGARISTAN",
+        "location": "BULGARISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.19529914855957,
+          42.532501220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.20 21:40:40",
         "depth_km": 8.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.03569984436035,
           36.78379821777344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.11 08:46:01",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.038799285888672,
-          36.82680130004883
         ]
       }
     }
