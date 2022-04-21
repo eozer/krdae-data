@@ -156,6 +156,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.21 11:42:42",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "PELITLI-SIRAN (GUMUSHANE)",
+        "location": "GUMUSHANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.946998596191406,
+          40.089500427246094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.21 11:31:08",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.66629981994629,
           36.93000030517578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.11 22:50:54",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.42020034790039,
-          37.014801025390625
         ]
       }
     }
