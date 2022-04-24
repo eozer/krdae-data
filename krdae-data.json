@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.24 13:51:47",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "LICE (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.62379837036133,
+          38.4651985168457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.24 13:05:22",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           38.97800064086914,
           38.33580017089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.24 11:38:24",
+        "depth_km": 1.399999976158142,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DAVAZLAR-DEMRE (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.87969970703125,
+          36.31570053100586
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.62699890136719,
           38.13949966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.15 06:45:53",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YEDIYOL-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.847801208496094,
-          38.28179931640625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.15 05:25:37",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.745800018310547,
-          38.71179962158203
         ]
       }
     }
