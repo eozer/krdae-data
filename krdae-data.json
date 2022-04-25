@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.25 05:59:40",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "AVCIOVA-CUBUK (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.017799377441406,
+          40.48429870605469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.25 05:46:42",
+        "depth_km": 20.299999237060547,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.89699935913086,
+          37.823699951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.25 05:45:47",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           33.013999938964844,
           40.4807014465332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.25 05:42:50",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "CAYKOY-EGIRDIR (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.92180061340332,
+          37.80970001220703
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.29050064086914,
           40.44620132446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 02:06:52",
-        "depth_km": 16.799999237060547,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "SAROS KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.30820083618164,
-          40.44179916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 01:43:32",
-        "depth_km": 13.399999618530273,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "SOGUTKOY-MARMARIS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.10569953918457,
-          36.67070007324219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 01:37:33",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MARIFET-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.797698974609375,
-          39.83580017089844
         ]
       }
     }
