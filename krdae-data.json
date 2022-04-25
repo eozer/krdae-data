@@ -2664,6 +2664,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.22 11:37:16",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27050018310547,
+          35.12030029296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.22 11:23:55",
         "depth_km": 1.600000023841858,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.400299072265625,
           37.18619918823242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 11:27:26",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "YENICIFTLIK-TIRE (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.493499755859375,
-          38.13750076293945
         ]
       }
     }
