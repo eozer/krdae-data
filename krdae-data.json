@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.25 19:31:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 3.799999952316284,
+        "place": "MAKEDONYA",
+        "location": "MAKEDONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.68779945373535,
+          41.88330078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.25 19:29:04",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "OZLU-ORTA (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.042301177978516,
+          40.48030090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.25 19:11:02",
         "depth_km": 1.2000000476837158,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.427200317382812,
           37.013999938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 23:20:33",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CAMKOY-GOLHISAR (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.554500579833984,
-          37.291500091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 22:42:14",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "TUZLA-TARAKLI (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.52829933166504,
-          40.494998931884766
         ]
       }
     }
