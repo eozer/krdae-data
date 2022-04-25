@@ -42,6 +42,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.25 12:46:16",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "DIKILI-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.06949996948242,
+          39.02949905395508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.25 12:21:19",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SELIMIYE-MERZIFON (AMASYA)",
+        "location": "AMASYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44430160522461,
+          40.68069839477539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.25 12:06:56",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AVCIOVA-CUBUK (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.06520080566406,
+          40.4718017578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.25 11:18:11",
         "depth_km": 18.100000381469727,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.61949920654297,
           37.7672004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 14:09:51",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "BALYA (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.601699829101562,
-          39.741798400878906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 13:33:45",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.89299964904785,
-          35.1515007019043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.16 13:29:00",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "TEKKEKOY-TAVAS (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.16900062561035,
-          37.60029983520508
         ]
       }
     }
