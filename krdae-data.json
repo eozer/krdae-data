@@ -175,6 +175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.26 02:22:27",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.299999952316284,
+        "place": "MAKEDONYA",
+        "location": "MAKEDONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.785499572753906,
+          41.85380172729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.26 01:52:37",
         "depth_km": 17.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.19580078125,
           37.78120040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.17 03:48:58",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.199199676513672,
-          37.76319885253906
         ]
       }
     }
