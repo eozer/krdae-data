@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.27 17:02:19",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.78499984741211,
+          40.43870162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.27 16:12:57",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -2411,6 +2430,25 @@
         "coordinates": [
           34.99879837036133,
           37.37179946899414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.24 16:37:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.08370018005371,
+          36.502201080322266
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.85449981689453,
           41.075199127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.18 00:27:36",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YESILKOY-TORBALI (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.238000869750977,
-          38.23320007324219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.18 00:21:14",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "DEMIRCI-TORBALI (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.283700942993164,
-          38.282501220703125
         ]
       }
     }
