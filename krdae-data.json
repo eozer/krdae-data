@@ -308,6 +308,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.27 09:33:54",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KIZILAGAC-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.35219955444336,
+          37.077701568603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.27 09:31:19",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ADIL-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.582799911499023,
+          39.124000549316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.27 09:00:24",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.283700942993164,
           38.282501220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.17 23:05:10",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KIZILOREN-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.648000717163086,
-          39.282798767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.17 22:39:05",
-        "depth_km": 26.700000762939453,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ORMANICI-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.784000396728516,
-          38.212799072265625
         ]
       }
     }
