@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.28 08:06:05",
+        "depth_km": 23.700000762939453,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BOZAN-SUHUT (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.75469970703125,
+          38.486000061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.28 07:35:50",
         "depth_km": 11.800000190734863,
         "MD": 0.0,
@@ -74,6 +93,44 @@
         "coordinates": [
           28.37420082092285,
           37.019798278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.28 05:41:01",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.018699645996094,
+          38.96630096435547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.28 04:55:14",
+        "depth_km": 24.299999237060547,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.57080078125,
+          35.50519943237305
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.50749969482422,
           40.507198333740234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.18 14:43:29",
-        "depth_km": 2.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ERICEK-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.172800064086914,
-          37.05730056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.18 14:17:37",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "HIDIRBEYLI-GERMENCIK (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.578800201416016,
-          37.8828010559082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.18 13:51:51",
-        "depth_km": 1.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.516199111938477,
-          38.864200592041016
         ]
       }
     }
