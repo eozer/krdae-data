@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.28 18:50:28",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GURCISTAN -ERMENISTAN SINIR BOLGESI",
+        "location": "GURCISTAN -ERMENISTAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.91680145263672,
+          41.12369918823242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.28 18:28:27",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           23.890199661254883,
           40.090999603271484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.28 17:38:53",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.48419952392578,
+          35.33430099487305
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.41830062866211,
           37.076499938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.19 00:41:43",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "FINIKE (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.169300079345703,
-          36.308799743652344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.19 00:22:26",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.29199981689453,
-          35.76250076293945
         ]
       }
     }
