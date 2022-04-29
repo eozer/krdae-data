@@ -308,6 +308,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.29 11:02:16",
+        "depth_km": 19.399999618530273,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "FISTIKLI-(ARTVIN)",
+        "location": "ARTVIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.746498107910156,
+          41.21849822998047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.29 10:10:06",
         "depth_km": 70.5999984741211,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.768001556396484,
           40.668701171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.20 00:49:09",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "SAZAK-KOYCEGIZ (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.89699935913086,
-          36.977298736572266
         ]
       }
     }
