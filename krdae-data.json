@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.02 13:14:10",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KARACAM-KOYCEGIZ (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.993200302124023,
+          37.02619934082031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.02 12:54:52",
         "depth_km": 20.799999237060547,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.0177001953125,
           36.913700103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 09:50:45",
-        "depth_km": 15.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.54319953918457,
-          34.56169891357422
         ]
       }
     }
