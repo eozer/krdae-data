@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.02 22:40:20",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.0999999046325684,
+        "place": "YOGUNPELIT-YIGILCA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.599300384521484,
+          40.891700744628906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.02 22:10:34",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           43.50630187988281,
           38.849700927734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.02 20:39:27",
+        "depth_km": 14.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "CUKUROREN-YIGILCA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.565500259399414,
+          40.89500045776367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.02 18:10:58",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ALPA-TAVAS (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.066999435424805,
+          37.167301177978516
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.2952995300293,
           39.3120002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 13:04:07",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "IMISEHIR-ODUNPAZARI (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.75469970703125,
-          39.691200256347656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 12:56:41",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "CERITYAYLASI-DINAR (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.09469985961914,
-          38.191200256347656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 12:40:53",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "DENIS-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.717300415039062,
-          39.23970031738281
         ]
       }
     }
