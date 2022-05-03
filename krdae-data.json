@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.03 05:28:07",
+        "depth_km": 7.599999904632568,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "DEGIRMENBELI-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.76799964904785,
+          40.86249923706055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.03 05:09:23",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.983299255371094,
+          37.887298583984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.03 04:31:52",
         "depth_km": 5.800000190734863,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           33.73749923706055,
           41.05179977416992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.03 03:42:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.652000427246094,
+          39.52799987792969
         ]
       }
     },
@@ -194,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.02 23:32:58",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAK SINIR BOLGESI",
+        "location": "TURKIYE-IRAK SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.841800689697266,
+          37.13880157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.02 22:40:20",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -264,6 +340,25 @@
         "coordinates": [
           27.862699508666992,
           39.05080032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.02 20:56:40",
+        "depth_km": 57.79999923706055,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.28619956970215,
+          35.338199615478516
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           25.28219985961914,
           35.02170181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 19:04:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.10219955444336,
-          35.217201232910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 19:04:19",
-        "depth_km": 6.300000190734863,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "GILDIRLI-KARAISALI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.00469970703125,
-          37.34749984741211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 18:34:36",
-        "depth_km": 11.899999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SAROS KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.30780029296875,
-          40.44449996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 18:22:11",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "HANYATAK-AKYAZI (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.585500717163086,
-          40.547698974609375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.22 17:40:06",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GECITLI-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.546199798583984,
-          38.137001037597656
         ]
       }
     }
