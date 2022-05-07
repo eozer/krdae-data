@@ -7775,6 +7775,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.04.28 00:35:00",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ISIKLAR-ALTINTAS (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.856800079345703,
+          39.050498962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.04.28 00:28:01",
         "depth_km": 12.5,
         "MD": 0.0,
@@ -7788,6 +7807,25 @@
         "coordinates": [
           27.612499237060547,
           36.95130157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.04.28 00:24:12",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SOGUT-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.10420036315918,
+          39.1515007019043
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.724700927734375,
           38.27199935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.26 01:12:55",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUNGUDERESI-AKYAKA (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.736698150634766,
-          40.93230056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.26 01:08:41",
-        "depth_km": 19.399999618530273,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.35369873046875,
-          34.63719940185547
         ]
       }
     }
