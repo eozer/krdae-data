@@ -1695,6 +1695,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.06 18:23:14",
+        "depth_km": 14.100000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.200700759887695,
+          34.36650085449219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.06 17:05:45",
         "depth_km": 3.0999999046325684,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.346200942993164,
           37.06949996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.27 13:11:26",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YALIKOY-CATALCA (ISTANBUL)",
-        "location": "ISTANBUL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.26650047302246,
-          41.49470138549805
         ]
       }
     }
