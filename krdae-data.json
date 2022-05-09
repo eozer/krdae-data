@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.09 16:29:39",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YESILOVACIK ACIKLARI-MERSIN (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.65520095825195,
+          36.07630157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.09 15:28:43",
         "depth_km": 10.5,
         "MD": 0.0,
@@ -1727,6 +1746,25 @@
         "coordinates": [
           28.944799423217773,
           37.17380142211914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.06 21:52:21",
+        "depth_km": 20.200000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SEFERIHISAR ACIKLARI-IZMIR (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.76849937438965,
+          38.16120147705078
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           40.685699462890625,
           38.56679916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.27 17:22:42",
-        "depth_km": 13.899999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ATAKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.4143009185791,
-          37.05419921875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.27 17:02:19",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.78499984741211,
-          40.43870162963867
         ]
       }
     }
