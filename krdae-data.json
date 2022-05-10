@@ -403,6 +403,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.09 22:16:57",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.820199966430664,
+          35.306800842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.09 22:13:36",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -568,6 +587,25 @@
         "coordinates": [
           33.65520095825195,
           36.07630157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.09 15:41:41",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3075008392334,
+          36.214298248291016
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.37579917907715,
           37.01850128173828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.28 06:45:12",
-        "depth_km": 19.100000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "YESILOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.42729949951172,
-          37.050498962402344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.28 06:06:55",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.37420082092285,
-          37.019798278808594
         ]
       }
     }
