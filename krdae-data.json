@@ -232,6 +232,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.09 20:42:58",
+        "depth_km": 9.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.158000946044922,
+          35.76070022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.09 19:53:41",
+        "depth_km": 19.899999618530273,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.329299926757812,
+          35.179500579833984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.09 19:25:16",
         "depth_km": 3.5999999046325684,
         "MD": 0.0,
@@ -283,6 +321,25 @@
         "coordinates": [
           33.558799743652344,
           36.16550064086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.09 17:09:22",
+        "depth_km": 23.100000381469727,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.268800735473633,
+          38.85419845581055
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.40679931640625,
           37.064998626708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.28 03:22:26",
-        "depth_km": 13.5,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "TASPINAR-TUFANBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.26179885864258,
-          38.20029830932617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.28 01:39:50",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "ATAKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.402000427246094,
-          37.04180145263672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.28 01:32:38",
-        "depth_km": 15.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.389699935913086,
-          37.02880096435547
         ]
       }
     }
