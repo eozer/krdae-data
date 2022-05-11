@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.11 11:49:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.842199325561523,
+          38.78200149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.11 11:46:35",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ORNEKKOY-ORHANGAZI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.314800262451172,
+          40.46179962158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.11 11:37:44",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -606,6 +644,25 @@
         "coordinates": [
           28.37779998779297,
           37.05780029296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.10 23:38:34",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "TASKESIK-TORBALI (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45479965209961,
+          38.17300033569336
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.706499099731445,
           40.87369918823242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.29 13:10:45",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKSAKLI-SEYITGAZI (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.752500534057617,
-          39.64979934692383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.29 13:00:59",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.1112003326416,
-          37.90679931640625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.29 12:55:38",
-        "depth_km": 18.799999237060547,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.50200080871582,
-          35.98569869995117
         ]
       }
     }
