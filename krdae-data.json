@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.12 19:27:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.922800064086914,
+          35.04100036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.12 19:00:40",
         "depth_km": 3.5999999046325684,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.50130081176758,
           38.569698333740234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.01 05:58:01",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "IZMIR KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.774799346923828,
-          38.5359992980957
         ]
       }
     }
