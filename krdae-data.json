@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.12 19:00:40",
+        "depth_km": 3.5999999046325684,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YESILOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.42530059814453,
+          37.074501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.12 18:23:04",
+        "depth_km": 105.0999984741211,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KARAOZ-AKSU (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.785200119018555,
+          37.19820022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.12 18:16:57",
         "depth_km": 6.5,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           26.180500030517578,
           39.870201110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.12 18:12:05",
+        "depth_km": 20.399999618530273,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.024200439453125,
+          34.458499908447266
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.774799346923828,
           38.5359992980957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.01 05:52:44",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.415800094604492,
-          37.04130172729492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.01 05:22:41",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KAZIMKARABEKIR (KARAMAN)",
-        "location": "KARAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.94779968261719,
-          37.2156982421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.01 04:54:11",
-        "depth_km": 20.200000762939453,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.120800018310547,
-          39.68470001220703
         ]
       }
     }
