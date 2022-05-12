@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.12 03:32:46",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "BELEVI-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.403499603271484,
+          37.887699127197266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.12 01:02:34",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -93,6 +112,82 @@
         "coordinates": [
           39.891998291015625,
           38.67649841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.12 00:19:42",
+        "depth_km": 14.300000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "NIKFER-TAVAS (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.162700653076172,
+          37.39680099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.11 22:48:22",
+        "depth_km": 10.899999618530273,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "YUKARIMIRAHMET-KOVANCILAR (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.105499267578125,
+          38.76300048828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.11 21:56:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "DAVUTLAR-BIGADIC (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.320199966430664,
+          39.481201171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.11 21:31:10",
+        "depth_km": 18.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SUBEYLIDERE-BURHANIYE (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.02429962158203,
+          39.4010009765625
         ]
       }
     },
@@ -118,6 +213,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.11 20:21:26",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "IRMAK-YAHSIHAN (KIRIKKALE)",
+        "location": "KIRIKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.32120132446289,
+          39.97700119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.11 20:07:24",
         "depth_km": 9.300000190734863,
         "MD": 0.0,
@@ -131,6 +245,25 @@
         "coordinates": [
           28.404800415039062,
           37.10749816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.11 19:22:19",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENICE-AKHISAR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.898500442504883,
+          39.00550079345703
         ]
       }
     },
@@ -9365,139 +9498,6 @@
         "coordinates": [
           29.483200073242188,
           39.13779830932617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 06:35:54",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.5,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.754499435424805,
-          40.77370071411133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 05:23:21",
-        "depth_km": 23.200000762939453,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ANTALYA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.360300064086914,
-          36.19219970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 04:34:06",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.03030014038086,
-          37.82149887084961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 01:51:14",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.200000047683716,
-        "place": "KAZLIGOL-SARAY (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.209800720214844,
-          38.55929946899414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 00:42:36",
-        "depth_km": 25.799999237060547,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.865299224853516,
-          36.310298919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.30 00:40:06",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "ESENDERE-PASINLER (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.83729934692383,
-          40.013999938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.04.29 23:53:34",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SENOVA-KOVANCILAR (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.98249816894531,
-          38.750301361083984
         ]
       }
     }
