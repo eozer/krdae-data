@@ -5704,6 +5704,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.06 10:35:10",
+        "depth_km": 23.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ESKICE-ILGAZ (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.483001708984375,
+          40.90019989013672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.06 07:11:33",
         "depth_km": 11.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.064300537109375,
           39.13650131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.01 17:01:37",
-        "depth_km": 15.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.127199172973633,
-          37.885799407958984
         ]
       }
     }
