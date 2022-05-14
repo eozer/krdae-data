@@ -23,10 +23,10 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.05.14 12:21:10",
-        "depth_km": 9.300000190734863,
+        "timestamp": "2022.05.14 12:24:19",
+        "depth_km": 17.0,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 1.399999976158142,
         "Mw": 0.0,
         "place": "ONIKI ADALAR (AKDENIZ)",
         "location": "AKDENIZ"
@@ -34,8 +34,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.705799102783203,
-          37.00270080566406
+          26.816499710083008,
+          36.96670150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 12:22:26",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "NARLICA-SAHINBEY (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.12900161743164,
+          37.084800720214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 12:22:16",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "CAMLICA-SILIFKE (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.704200744628906,
+          36.32720184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 12:21:03",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "IBRAHIMSEYH-RESADIYE (TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.382301330566406,
+          40.45029830932617
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           42.78450012207031,
           38.40119934082031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 23:32:58",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 0.0,
-        "place": "TURKIYE-IRAK SINIR BOLGESI",
-        "location": "TURKIYE-IRAK SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.841800689697266,
-          37.13880157470703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 22:40:20",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.0999999046325684,
-        "place": "YOGUNPELIT-YIGILCA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.599300384521484,
-          40.891700744628906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 22:10:34",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YOGUNPELIT-YIGILCA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.6117000579834,
-          40.910301208496094
         ]
       }
     }
