@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.14 12:55:11",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YUVALIK-AKYAZI (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.65719985961914,
+          40.710201263427734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 12:54:32",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "ISIKLI-SILIFKE (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.70600128173828,
+          36.256500244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.14 12:24:59",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -80,19 +118,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.05.14 12:21:03",
-        "depth_km": 0.0,
+        "timestamp": "2022.05.14 12:21:10",
+        "depth_km": 9.300000190734863,
         "MD": 0.0,
         "ML": 1.7000000476837158,
         "Mw": 0.0,
-        "place": "IBRAHIMSEYH-RESADIYE (TOKAT)",
-        "location": "TOKAT"
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.382301330566406,
-          40.45029830932617
+          26.705799102783203,
+          37.00270080566406
         ]
       }
     },
@@ -112,6 +150,25 @@
         "coordinates": [
           27.974300384521484,
           37.09550094604492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 11:03:20",
+        "depth_km": 19.799999237060547,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BELENARDIC-AKKOY (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.034799575805664,
+          38.0432014465332
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.42530059814453,
           37.034698486328125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.03 01:37:16",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "DENIZOVA-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.191999435424805,
-          37.09049987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.03 00:41:17",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MESCICELE-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.69219970703125,
-          40.86830139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 23:33:16",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "YOLDONDU-GEVAS (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.78450012207031,
-          38.40119934082031
         ]
       }
     }
