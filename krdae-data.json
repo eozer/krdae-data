@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.14 09:09:51",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CANAKCI-POLATLI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.08399963378906,
+          39.45650100708008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.14 09:00:30",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KOCAPINAR-SERINHISAR (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.2898006439209,
+          37.64849853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.14 06:39:43",
         "depth_km": 6.699999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.163799285888672,
           37.88679885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 12:54:46",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "ADABAG-TATVAN (BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.573699951171875,
-          38.58100128173828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.02 12:19:47",
-        "depth_km": 3.200000047683716,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "BESKARIS-ALTINTAS (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.17449951171875,
-          38.99300003051758
         ]
       }
     }
