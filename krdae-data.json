@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.20 15:01:35",
+        "depth_km": 14.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARACOBANPINARI-TEPEBASI (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.375999450683594,
+          39.90700149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.20 13:45:10",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -4045,6 +4064,25 @@
         "coordinates": [
           26.349300384521484,
           35.59000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.15 03:28:56",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.336000442504883,
+          35.608699798583984
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.813800811767578,
           37.938499450683594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.09 03:41:52",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YUKARIDEREKOY-SERDIVAN (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.25200080871582,
-          40.76449966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.09 03:40:49",
-        "depth_km": 21.600000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "TURANLAR-GERMENCIK (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.617799758911133,
-          37.819698333740234
         ]
       }
     }
