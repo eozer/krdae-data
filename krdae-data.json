@@ -3785,6 +3785,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.15 05:04:27",
+        "depth_km": 9.699999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "IZMIR KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.667499542236328,
+          38.40480041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.15 04:46:32",
         "depth_km": 13.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.368000030517578,
           37.08549880981445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.08 17:30:28",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 3.9000000953674316,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.29319953918457,
-          38.356300354003906
         ]
       }
     }
