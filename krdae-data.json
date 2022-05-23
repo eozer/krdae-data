@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.24 02:05:12",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.4000000953674316,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.11069869995117,
+          38.65169906616211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.24 01:41:28",
         "depth_km": 79.0999984741211,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.320199966430664,
           39.481201171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.11 21:51:05",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "TAHTACI-BURHANIYE (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.974199295043945,
-          39.40230178833008
         ]
       }
     }
