@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.23 09:58:58",
+        "depth_km": 1.2999999523162842,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARAOGLANLAR-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97279930114746,
+          39.85430145263672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.23 09:35:37",
         "depth_km": 14.0,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           28.37019920349121,
           37.10319900512695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.23 09:26:24",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ALIOBASI-AMASRA (BARTIN)",
+        "location": "BARTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.525299072265625,
+          41.75550079345703
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.258201599121094,
           36.630001068115234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.11 10:47:12",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.656999588012695,
-          38.54100036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.11 10:12:24",
-        "depth_km": 20.899999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CITLIK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.422700881958008,
-          37.016998291015625
         ]
       }
     }
