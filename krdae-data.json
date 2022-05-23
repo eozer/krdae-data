@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.05.23 21:03:00",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKARCA-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.64699935913086,
+          37.56399917602539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.05.23 19:46:43",
         "depth_km": 13.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.31930160522461,
           39.0880012512207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.11 17:37:15",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BALLIKAYA-KARACABEY (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.54520034790039,
-          40.40420150756836
         ]
       }
     }
