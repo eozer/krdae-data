@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.05.25 20:31:46",
-        "depth_km": 6.199999809265137,
+        "timestamp": "2022.05.25 20:39:47",
+        "depth_km": 6.599999904632568,
         "MD": 0.0,
-        "ML": 1.5,
+        "ML": 1.7999999523162842,
         "Mw": 0.0,
-        "place": "SARIYAZI-NIKSAR (TOKAT)",
-        "location": "TOKAT"
+        "place": "KUYTUCAK-KOZAN (ADANA)",
+        "location": "ADANA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.859500885009766,
-          40.590999603271484
+          35.70819854736328,
+          37.5703010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.05.25 20:31:45",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "VAYSAL-LALAPASA (EDIRNE)",
+        "location": "EDIRNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.87380027770996,
+          41.93730163574219
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.196800231933594,
           38.19850158691406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.14 00:59:33",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TURKMENLI-BAYRAMIC (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.507200241088867,
-          39.74480056762695
         ]
       }
     }
