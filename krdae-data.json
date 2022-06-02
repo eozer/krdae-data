@@ -631,6 +631,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.01 09:30:55",
+        "depth_km": 16.5,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.125499725341797,
+          35.32500076293945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.01 08:07:41",
         "depth_km": 12.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.298999786376953,
           38.955299377441406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.22 08:45:34",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SEKERPINAR-KANGAL (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.35029983520508,
-          39.043800354003906
         ]
       }
     }
