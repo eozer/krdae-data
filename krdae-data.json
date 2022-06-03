@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.03 15:05:43",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.33650016784668,
+          35.332801818847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.03 13:29:09",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           24.66469955444336,
           34.69380187988281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.03 12:50:59",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "PINARBASI-HUYUK (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.584199905395508,
+          37.97600173950195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.03 12:47:50",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "AGZIKARAHAN-(AKSARAY)",
+        "location": "AKSARAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.105499267578125,
+          38.44929885864258
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.400999069213867,
           37.06850051879883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.23 02:44:34",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16830062866211,
-          37.98099899291992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.23 02:29:21",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "MARIFET-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.81919860839844,
-          39.84049987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.23 01:33:12",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.21619987487793,
-          38.89120101928711
         ]
       }
     }
