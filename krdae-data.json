@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.05 22:03:51",
+        "depth_km": 1.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.34119987487793,
+          35.05720138549805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.05 21:20:45",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.709699630737305,
+          37.102500915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.05 20:22:02",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.86370086669922,
           39.23699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.25 20:04:29",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KIZIKLI-BURHANIYE (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.02750015258789,
-          39.523799896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.25 19:45:58",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.882999420166016,
-          36.9995002746582
         ]
       }
     }
