@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.05 09:31:26",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.4000000953674316,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77720069885254,
+          34.43170166015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.05 09:05:45",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.438499450683594,
           39.86869812011719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.25 12:36:39",
-        "depth_km": 18.399999618530273,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ELMALI-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.44029998779297,
-          37.041500091552734
         ]
       }
     }
