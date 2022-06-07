@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.07 11:01:12",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.099999904632568,
+        "Mw": 4.199999809265137,
+        "place": "KUSCU-MURADIYE (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.616798400878906,
+          38.80270004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.07 10:32:08",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BAKIRTOLU-KARATAY (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.756500244140625,
+          37.86949920654297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.07 09:53:24",
         "depth_km": 10.5,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           30.621999740600586,
           40.37730026245117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.07 09:16:37",
+        "depth_km": 25.799999237060547,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.104700088500977,
+          36.005001068115234
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.430500030517578,
           37.00870132446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.27 04:38:14",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "MESCICELE-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.69230079650879,
-          40.85649871826172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.27 04:28:11",
-        "depth_km": 16.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "EDIKLI-(NIGDE)",
-        "location": "NIGDE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.924198150634766,
-          38.220298767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.27 04:16:02",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "UZUNPINAR-SUHUT (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.672300338745117,
-          38.3468017578125
         ]
       }
     }
