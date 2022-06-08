@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.08 16:33:30",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "CAYPINAR-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9507999420166,
+          39.81999969482422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.08 15:01:56",
         "depth_km": 8.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.792499542236328,
           36.9193000793457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.08 15:01:27",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.783300399780273,
+          39.48720169067383
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.48749923706055,
           36.54199981689453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.28 16:37:26",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "FESLEGEN-MILAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.81279945373535,
-          37.067501068115234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.28 16:25:35",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.620500564575195,
-          35.039798736572266
         ]
       }
     }
