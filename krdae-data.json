@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.10 05:08:13",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KIBRIS-ISKELE",
+        "location": "KIBRIS-ISKELE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.79349899291992,
+          35.242801666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.10 05:05:52",
+        "depth_km": 13.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KIBRIS-TUZLA",
+        "location": "KIBRIS-TUZLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.806800842285156,
+          35.1327018737793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.10 04:40:18",
+        "depth_km": 29.399999618530273,
+        "MD": 0.0,
+        "ML": 4.900000095367432,
+        "Mw": 4.699999809265137,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.91350173950195,
+          34.731300354003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.10 01:48:59",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.10219955444336,
           35.78369903564453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.30 03:28:41",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YUKARIGULDEREN-CALDIRAN (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.113800048828125,
-          39.04079818725586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.30 02:35:03",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KARABORKLU-AKHISAR (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.873300552368164,
-          38.992000579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.30 02:21:00",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.299999952316284,
-        "place": "GOKCEAHMET-AKHISAR (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.83180046081543,
-          38.99530029296875
         ]
       }
     }
