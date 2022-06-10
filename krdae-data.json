@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.10 20:39:29",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ASAGIKAYACIK-(AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.94529914855957,
+          37.88779830932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.10 20:22:16",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           26.87220001220703,
           37.91320037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.10 20:07:53",
+        "depth_km": 10.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KIBRIS-GAZIMAGUSA",
+        "location": "KIBRIS-GAZIMAGUSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.95349884033203,
+          35.063499450683594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.248199462890625,
           37.77050018310547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.31 01:23:18",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "BULGARISTAN",
-        "location": "BULGARISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.565799713134766,
-          42.4297981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.31 00:13:18",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YENICE-EMET (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.190200805664062,
-          39.293800354003906
         ]
       }
     }
