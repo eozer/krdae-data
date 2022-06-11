@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.11 13:55:55",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "YENICE-IHSANIYE (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27050018310547,
+          38.949501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.11 12:01:35",
         "depth_km": 16.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.02069854736328,
           38.803001403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.05.31 20:55:10",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.4000000953674316,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.008699417114258,
-          36.42879867553711
         ]
       }
     }
