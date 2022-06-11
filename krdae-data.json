@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.11 18:13:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "DEREBEY-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.48630142211914,
+          38.810699462890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.11 18:09:46",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.45400047302246,
+          40.70930099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.11 17:51:09",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.08580017089844,
           39.26750183105469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.01 05:08:26",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AKTAS-CUNGUS (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.32569885253906,
-          38.23899841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.01 05:02:46",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.5,
-        "place": "KIBRIS RUM KESIMI",
-        "location": "KIBRIS RUM KESIMI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.2781982421875,
-          35.047000885009766
         ]
       }
     }
