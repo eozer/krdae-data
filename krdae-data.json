@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.13 10:32:06",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "HANDERE-SARIKAMIS (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.517799377441406,
+          40.28419876098633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.13 10:30:53",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.958799362182617,
           39.813201904296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.04 02:20:44",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CAYPINAR-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.9685001373291,
-          39.81380081176758
         ]
       }
     }
