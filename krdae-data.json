@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.20 12:00:12",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ASAGICINPOLAT-AKCAKALE (SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.82680130004883,
+          36.892799377441406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.20 10:19:50",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           23.425500869750977,
           38.36130142211914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.10 00:14:15",
-        "depth_km": 22.399999618530273,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "KARGALI-GOLHISAR (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.583200454711914,
-          37.089500427246094
         ]
       }
     }
