@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.21 14:07:07",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.299999952316284,
+        "place": "DEREBEY-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.533199310302734,
+          38.80270004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.21 13:43:59",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KALKAN-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.049699783325195,
+          39.075199127197266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.21 12:56:31",
+        "depth_km": 6.400000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.17530059814453,
+          37.99919891357422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.21 12:53:12",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.84280014038086,
           39.69770050048828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.10 15:22:09",
-        "depth_km": 18.799999237060547,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.5,
-        "place": "ANTALYA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.40369987487793,
-          36.124000549316406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.10 15:02:57",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "SENEK-PULUMUR (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.912498474121094,
-          39.558998107910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.10 14:40:40",
-        "depth_km": 19.299999237060547,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "CATAK-ALTINYAYLA (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.52199935913086,
-          37.02199935913086
         ]
       }
     }
