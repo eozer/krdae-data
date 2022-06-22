@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.22 14:46:27",
+        "depth_km": 10.5,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KERIMLI-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.996498107910156,
+          37.278499603271484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.22 13:49:27",
         "depth_km": 9.899999618530273,
         "MD": 0.0,
@@ -264,6 +283,25 @@
         "coordinates": [
           33.424198150634766,
           39.33700180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.22 11:35:24",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "VARTO (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.46099853515625,
+          39.16569900512695
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           44.28200149536133,
           38.69350051879883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 08:37:02",
-        "depth_km": 148.39999389648438,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "BALLIBUCAK-MANAVGAT (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.119199752807617,
-          37.27799987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 08:11:36",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "YESILOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.408300399780273,
-          37.08319854736328
         ]
       }
     }
