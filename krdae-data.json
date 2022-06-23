@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.23 05:03:38",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.18450164794922,
+          34.5890007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.23 04:05:34",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.43769836425781,
+          38.70100021362305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.23 03:54:01",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.103300094604492,
+          36.03779983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.23 03:28:33",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -74,6 +131,25 @@
         "coordinates": [
           35.75529861450195,
           40.95249938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.23 01:13:38",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.291200637817383,
+          35.11880111694336
         ]
       }
     },
@@ -245,6 +321,25 @@
         "coordinates": [
           28.092500686645508,
           40.87670135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.06.22 18:28:16",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ARIKBASI-BAYINDIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.518699645996094,
+          38.17100143432617
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           28.371000289916992,
           37.04499816894531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 20:09:12",
-        "depth_km": 10.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "YUKARIKASIKARA-YALVAC (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.86829948425293,
-          38.35200119018555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 19:32:42",
-        "depth_km": 15.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KOZLUDERE-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.12770080566406,
-          37.64469909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 18:53:34",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.341999053955078,
-          35.27669906616211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 18:13:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "DEREBEY-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.48630142211914,
-          38.810699462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.11 18:09:46",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.45400047302246,
-          40.70930099487305
         ]
       }
     }
