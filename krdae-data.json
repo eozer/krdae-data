@@ -612,6 +612,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.27 17:39:06",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.129499435424805,
+          36.53369903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.27 17:22:21",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -859,19 +878,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.06.27 11:31:45",
-        "depth_km": 8.199999809265137,
+        "timestamp": "2022.06.27 11:31:36",
+        "depth_km": 7.599999904632568,
         "MD": 0.0,
-        "ML": 2.200000047683716,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "TORELI-GEVAS (VAN)",
-        "location": "VAN"
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.780799865722656,
-          38.2327995300293
+          25.29319953918457,
+          35.05419921875
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           23.274200439453125,
           35.01919937133789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.16 10:34:08",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "TATILI-SARIOGLAN (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.0099983215332,
-          39.08380126953125
         ]
       }
     }
