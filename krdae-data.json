@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.06.28 15:28:32",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.823999404907227,
+          37.88679885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.06.28 14:30:10",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.786300659179688,
           39.67879867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.16 12:55:20",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI",
-        "location": "MARMARA DENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.99570083618164,
-          40.852699279785156
         ]
       }
     }
