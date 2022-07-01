@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.01 03:14:44",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "COREKLI-ILIC (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.50699996948242,
+          39.63719940185547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.01 01:48:00",
         "depth_km": 6.699999809265137,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           25.967199325561523,
           38.97169876098633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.01 01:26:17",
+        "depth_km": 58.5,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.045501708984375,
+          34.22330093383789
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.05550003051758,
           37.24319839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.18 11:13:38",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "ZEYTINKOY-SELCUK (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.236000061035156,
-          37.97480010986328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.18 11:13:15",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "SELIMIYE-YENISEHIR (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.50670051574707,
-          40.29880142211914
         ]
       }
     }
