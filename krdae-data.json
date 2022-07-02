@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.02 08:17:20",
+        "depth_km": 10.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SEVINCLI-(AKSARAY)",
+        "location": "AKSARAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.12200164794922,
+          38.33879852294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.02 08:00:50",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           39.298500061035156,
           38.46030044555664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.02 05:55:10",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.104299545288086,
+          38.913700103759766
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.190500259399414,
           39.134300231933594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.19 22:19:13",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "DERECIFTLIK-HONAZ (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.36280059814453,
-          37.80820083618164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.19 22:14:19",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "DERECIFTLIK-HONAZ (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.35650062561035,
-          37.80500030517578
         ]
       }
     }
