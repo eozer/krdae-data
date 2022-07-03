@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.04 00:03:13",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "TASLIK-PAZAR (TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.33219909667969,
+          40.27730178833008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.03 23:55:06",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.4000000953674316,
+        "place": "TASLIK-PAZAR (TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.33430099487305,
+          40.29280090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.03 23:38:26",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           36.340999603271484,
           40.29399871826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.03 23:38:11",
+        "depth_km": 15.100000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GULPINAR-(TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.38880157470703,
+          40.3025016784668
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.17530059814453,
           37.99919891357422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.21 12:53:12",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KIZILDERE-BUHARKENT (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.797000885009766,
-          37.95800018310547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.21 11:48:31",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKTEPE-ALPU (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.994199752807617,
-          39.7318000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.21 11:42:05",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "TURKIYE-IRAN SINIR BOLGESI",
-        "location": "TURKIYE-IRAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.569000244140625,
-          38.84870147705078
         ]
       }
     }
