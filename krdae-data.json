@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.05 10:20:00",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22949981689453,
+          37.92620086669922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.05 09:41:44",
         "depth_km": 15.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.092500686645508,
           40.87670135498047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.22 18:28:16",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ARIKBASI-BAYINDIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.518699645996094,
-          38.17100143432617
         ]
       }
     }
