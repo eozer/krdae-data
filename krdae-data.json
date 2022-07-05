@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.05 15:29:24",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YESILOVACIK ACIKLARI-MERSIN (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.607200622558594,
+          36.070701599121094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.05 14:20:35",
         "depth_km": 7.800000190734863,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           30.683799743652344,
           39.73749923706055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.05 11:46:35",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 2.200000047683716,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.07670021057129,
+          35.090999603271484
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.958999633789062,
           35.77750015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.23 02:08:33",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YELBASTI-BESNI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.91619873046875,
-          37.65520095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.23 01:44:22",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KAYACIK-HAVZA (SAMSUN)",
-        "location": "SAMSUN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.75529861450195,
-          40.95249938964844
         ]
       }
     }
