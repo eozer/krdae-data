@@ -897,6 +897,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.04 15:28:14",
+        "depth_km": 18.799999237060547,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 2.9000000953674316,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.877700805664062,
+          35.460201263427734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.04 15:28:09",
         "depth_km": 31.5,
         "MD": 0.0,
@@ -1138,6 +1157,25 @@
         "coordinates": [
           25.334699630737305,
           35.355201721191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.04 09:16:13",
+        "depth_km": 20.299999237060547,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.021799087524414,
+          36.265201568603516
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.103300094604492,
           36.03779983520508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.23 03:28:33",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KILCAK-KALECIK (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.39229965209961,
-          40.2067985534668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.23 02:25:21",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.958999633789062,
-          35.77750015258789
         ]
       }
     }
