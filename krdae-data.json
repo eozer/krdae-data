@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.12 04:18:39",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CULLU-KOPRUKOY (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.86050033569336,
+          39.75450134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.12 03:59:32",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "YUVALIK-AKYAZI (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.628999710083008,
+          40.70119857788086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.12 00:46:15",
         "depth_km": 9.199999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.78900146484375,
           39.054500579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.30 03:50:03",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GOLOVA-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.259300231933594,
-          38.0432014465332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.06.30 03:20:41",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.116500854492188,
-          37.94020080566406
         ]
       }
     }
