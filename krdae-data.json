@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.19 21:59:05",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ELMASUYU-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3557014465332,
+          38.41230010986328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.19 21:51:34",
         "depth_km": 6.0,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           39.210201263427734,
           38.41550064086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.19 20:57:57",
+        "depth_km": 18.700000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KORUBUKU-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.364299774169922,
+          36.49420166015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.19 19:37:30",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.06529998779297,
+          39.01449966430664
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           29.213300704956055,
           40.435699462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.08 22:54:43",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "YUKARIGUNEYCE-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.714500427246094,
-          38.71149826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.08 21:39:37",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.934799194335938,
-          37.880699157714844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.08 20:28:36",
-        "depth_km": 29.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "CAMLIYAYLA (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.550498962402344,
-          37.1702995300293
         ]
       }
     }
