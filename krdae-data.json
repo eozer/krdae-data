@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.21 21:55:51",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "TAHTALI-GONEN (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.402299880981445,
+          40.157501220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.21 21:22:35",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TUZLA-AYVACIK (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.16349983215332,
+          39.55849838256836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.21 20:50:29",
         "depth_km": 11.699999809265137,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           27.41119956970215,
           40.151798248291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.21 19:21:12",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9237003326416,
+          34.82699966430664
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.865800857543945,
           38.9552001953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.11 06:23:06",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "HACIBEKTASLI-SEREFLIKOCHISAR (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.400699615478516,
-          39.054500579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.11 05:57:39",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "MESCICELE-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.666799545288086,
-          40.88050079345703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.11 04:21:44",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "BOGAZKAYA-MECITOZU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.45880126953125,
-          40.563499450683594
         ]
       }
     }
