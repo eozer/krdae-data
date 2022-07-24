@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.24 23:27:12",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.287200927734375,
+          35.064300537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.24 23:03:47",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.944499969482422,
           38.19269943237305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.14 01:26:55",
-        "depth_km": 8.600000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "AKCAKOYUNLU-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.166500091552734,
-          37.359500885009766
         ]
       }
     }
