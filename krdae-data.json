@@ -4754,6 +4754,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.20 04:35:41",
+        "depth_km": 18.200000762939453,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ATAKOY-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.41629981994629,
+          37.048500061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.20 04:30:04",
         "depth_km": 15.5,
         "MD": 0.0,
@@ -4824,6 +4843,25 @@
         "coordinates": [
           38.89400100708008,
           37.49720001220703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.20 03:42:57",
+        "depth_km": 25.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "DATCA ACIKLARI-MUGLA (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.782499313354492,
+          36.60179901123047
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.8435001373291,
           38.960201263427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.14 15:14:13",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "NESETIYE-GERMENCIK (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.533700942993164,
-          37.885501861572266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.14 15:03:08",
-        "depth_km": 10.199999809265137,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "DEYNEKLER-GOLMARMARA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.80270004272461,
-          38.70349884033203
         ]
       }
     }
