@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.07.29 06:22:56",
+        "depth_km": 13.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ESENKOY-CINARCIK (YALOVA)",
+        "location": "YALOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.888500213623047,
+          40.59749984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.29 04:48:39",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.482999801635742,
+          36.58169937133789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.07.29 04:39:50",
         "depth_km": 18.200000762939453,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           29.631799697875977,
           35.40620040893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.07.29 01:39:32",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.26919937133789,
+          34.97629928588867
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.711000442504883,
           39.290000915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.18 05:25:18",
-        "depth_km": 14.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.24169921875,
-          35.33250045776367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.18 04:23:18",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.271799087524414,
-          35.042999267578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.18 03:49:05",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.31279945373535,
-          35.23870086669922
         ]
       }
     }
