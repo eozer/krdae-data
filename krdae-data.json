@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.01 22:03:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "BAYATBADEMLERI-KORKUTELI (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.464000701904297,
+          37.10029983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.01 20:51:19",
         "depth_km": 3.0999999046325684,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           23.833200454711914,
           35.790000915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.01 18:37:09",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.799299240112305,
+          34.70220184326172
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.31999969482422,
           37.081298828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.21 13:14:51",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "GOZEBASI-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.251800537109375,
-          38.496498107910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.21 12:12:27",
-        "depth_km": 56.20000076293945,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ARMUTLU-ELMALI (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.808300018310547,
-          36.51599884033203
         ]
       }
     }
