@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.01 21:11:49",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9242000579834,
+          36.026798248291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.01 20:51:19",
         "depth_km": 3.0999999046325684,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           31.680299758911133,
           40.182498931884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.01 20:37:02",
+        "depth_km": 9.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YUMRUTAS-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.513999938964844,
+          37.366798400878906
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.027700424194336,
           36.437198638916016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.21 15:52:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GECITLI-KARLIOVA (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.10169982910156,
-          39.41350173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.21 15:06:07",
-        "depth_km": 22.100000381469727,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.200000047683716,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.026199340820312,
-          34.829498291015625
         ]
       }
     }
