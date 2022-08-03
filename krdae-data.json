@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.03 23:41:35",
+        "depth_km": 24.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CEVRIMPINAR-(BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.38079833984375,
+          38.94929885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.03 23:30:27",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "GOKCE-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.3356990814209,
+          37.02349853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.03 23:20:57",
         "depth_km": 4.300000190734863,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           40.42070007324219,
           39.05500030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.03 23:12:34",
+        "depth_km": 17.5,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "TURGUTKOY-MARMARIS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.09469985961914,
+          36.77050018310547
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.35700035095215,
           35.40019989013672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.23 05:34:07",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.361299514770508,
-          35.27920150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.23 04:47:23",
-        "depth_km": 2.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.351200103759766,
-          35.26150131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.23 04:30:25",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.325000762939453,
-          35.14250183105469
         ]
       }
     }
