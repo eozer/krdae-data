@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.03 12:11:30",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.931800842285156,
+          41.167701721191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.03 12:09:57",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.99880027770996,
           37.311798095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.03 11:43:22",
+        "depth_km": 4.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DENIZKOY-DIKILI (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.706199645996094,
+          38.9744987487793
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.68269920349121,
           40.0797004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.22 18:39:08",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.153200149536133,
-          36.40520095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.22 18:04:24",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.34429931640625,
-          35.288299560546875
         ]
       }
     }
