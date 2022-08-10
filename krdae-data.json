@@ -61,6 +61,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.10 12:47:01",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ALTINTAS-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.828500747680664,
+          39.86899948120117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.10 12:30:26",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CUKURCAK-BALYA (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.595199584960938,
+          39.80120086669922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.10 12:22:28",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.216299057006836,
           39.470699310302734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.28 13:00:25",
-        "depth_km": 10.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "IMISEHIR-ODUNPAZARI (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.79050064086914,
-          39.723201751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.28 12:56:52",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.74380111694336,
-          36.22650146484375
         ]
       }
     }
