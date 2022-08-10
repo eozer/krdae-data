@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.11 02:11:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.200000047683716,
+        "place": "CULLU-KOPRUKOY (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.85449981689453,
+          39.758201599121094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.11 01:45:36",
         "depth_km": 73.80000305175781,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.355300903320312,
           39.548301696777344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.28 17:59:07",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "PIRINCCI-EYUP (ISTANBUL)",
-        "location": "ISTANBUL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.835500717163086,
-          41.191001892089844
         ]
       }
     }
