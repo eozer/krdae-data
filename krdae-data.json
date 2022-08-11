@@ -4032,6 +4032,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.05 14:09:04",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "SEKBANDEMIRLI-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.3439998626709,
+          39.52299880981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.05 13:39:10",
         "depth_km": 13.5,
         "MD": 0.0,
@@ -4102,6 +4121,25 @@
         "coordinates": [
           27.39550018310547,
           37.07870101928711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.05 12:31:28",
+        "depth_km": 14.600000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "BURCKOY-DOGANYOL (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.951698303222656,
+          38.258201599121094
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.631799697875977,
           35.40620040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.29 02:12:21",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.993499755859375,
-          35.24480056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.29 01:39:32",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.26919937133789,
-          34.97629928588867
         ]
       }
     }
