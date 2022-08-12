@@ -973,6 +973,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.11 13:47:15",
+        "depth_km": 14.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CALOVA-BALYA (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.558300018310547,
+          39.80179977416992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.11 13:44:48",
         "depth_km": 4.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           42.335201263427734,
           39.63629913330078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.07.30 20:21:42",
-        "depth_km": 3.700000047683716,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "SIVRICEHUYUK-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.99869918823242,
-          37.44200134277344
         ]
       }
     }
