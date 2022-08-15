@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.15 10:35:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "CAKILDERE-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.625999450683594,
+          40.97129821777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.15 09:35:57",
         "depth_km": 17.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.167699813842773,
           37.975799560546875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.05 21:59:08",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KOZAGAC-BEYPAZARI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.78619956970215,
-          40.25149917602539
         ]
       }
     }
