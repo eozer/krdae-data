@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.15 13:34:13",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.15329933166504,
+          37.958499908447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.15 13:29:31",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           35.77320098876953,
           38.64720153808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.15 13:13:15",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ATADAMI-DIYADIN (AGRI)",
+        "location": "AGRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.80550003051758,
+          39.36920166015625
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.486000061035156,
           38.79819869995117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.06 01:28:07",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TEKELER-ILGIN (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.89780044555664,
-          38.46220016479492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.06 00:57:08",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BOGURTLEN-YAZIHAN (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.022499084472656,
-          38.61479949951172
         ]
       }
     }
