@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.19 15:26:26",
+        "depth_km": 18.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AVSA-MARMARA (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.503000259399414,
+          40.518699645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.19 15:03:06",
         "depth_km": 1.600000023841858,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.50469970703125,
           35.87419891357422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.12 00:43:19",
-        "depth_km": 4.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "SENKOY-CINARCIK (YALOVA)",
-        "location": "YALOVA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.00279998779297,
-          40.582698822021484
         ]
       }
     }
