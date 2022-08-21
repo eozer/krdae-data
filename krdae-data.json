@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.21 08:23:38",
+        "depth_km": 16.200000762939453,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.158700942993164,
+          35.268798828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.21 08:16:50",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           26.84630012512207,
           36.648799896240234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.21 07:00:41",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "OZANSU-(BAYBURT)",
+        "location": "BAYBURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.98630142211914,
+          40.06520080566406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.670000076293945,
           40.86429977416992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.13 06:22:24",
-        "depth_km": 19.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "YALOVA (YALOVA)",
-        "location": "YALOVA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.278799057006836,
-          40.673500061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.13 06:21:01",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GOLOVA-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.235200881958008,
-          37.998199462890625
         ]
       }
     }
