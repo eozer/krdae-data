@@ -4,11 +4,30 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.24 14:07:14",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.18779945373535,
+          35.19380187988281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.24 13:33:22",
         "depth_km": 5.0,
         "MD": 0.0,
         "ML": 2.0999999046325684,
-        "Mw": 1.899999976158142,
+        "Mw": 0.0,
         "place": "INKOY-GEVAS (VAN)",
         "location": "VAN"
       },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.35369873046875,
           39.46870040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.14 20:20:53",
-        "depth_km": 16.700000762939453,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOLOVA-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.238800048828125,
-          38.032798767089844
         ]
       }
     }
