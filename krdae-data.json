@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.25 13:09:19",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "OLCEKLI-VARTO (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.29650115966797,
+          39.152198791503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.25 12:39:16",
+        "depth_km": 63.400001525878906,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "HISARONU-MARMARIS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.17530059814453,
+          36.84600067138672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.25 12:11:29",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           27.2632999420166,
           38.50680160522461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.25 12:05:08",
+        "depth_km": 26.700000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BUYUKOBA-ILGIN (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.00529861450195,
+          38.56520080566406
         ]
       }
     },
@@ -727,7 +784,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2022.08.24 15:53:50",
-        "depth_km": 5.400000095367432,
+        "depth_km": 5.300000190734863,
         "MD": 0.0,
         "ML": 2.5999999046325684,
         "Mw": 0.0,
@@ -737,8 +794,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.18000030517578,
-          37.98400115966797
+          27.189199447631836,
+          37.98350143432617
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.5226993560791,
           37.102298736572266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.15 05:19:35",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.0,
-        "place": "ARMUTCUK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.523300170898438,
-          37.114498138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.15 05:16:09",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ARMUTCUK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.513500213623047,
-          37.10499954223633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.15 05:12:59",
-        "depth_km": 16.899999618530273,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.73780059814453,
-          35.352699279785156
         ]
       }
     }
