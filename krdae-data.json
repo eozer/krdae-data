@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.08.30 16:05:04",
+        "depth_km": 3.5999999046325684,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CATALOREN-BALA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.128299713134766,
+          39.498199462890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.08.30 15:42:23",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 4.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.048999786376953,
+          35.04499816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.08.30 15:07:11",
         "depth_km": 6.400000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.860200881958008,
           39.442298889160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.18 23:50:57",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "AKCIFT-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.58150100708008,
-          38.845699310302734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.18 23:48:37",
-        "depth_km": 21.799999237060547,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "TORELI-GEVAS (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.80099868774414,
-          38.305999755859375
         ]
       }
     }
