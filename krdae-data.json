@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.02 00:22:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "GOKOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.36370086669922,
+          37.0620002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.02 00:00:30",
         "depth_km": 6.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.764299392700195,
           38.61149978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.25 16:57:10",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.013500213623047,
-          37.80400085449219
         ]
       }
     }
