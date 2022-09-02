@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.02 16:20:52",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.372499465942383,
+          35.63650131225586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.02 16:16:23",
+        "depth_km": 11.5,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.380300521850586,
+          37.85129928588867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.02 16:00:56",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "KINIK-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.601200103759766,
+          36.86180114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.02 15:34:18",
         "depth_km": 11.0,
         "MD": 0.0,
@@ -17,6 +74,25 @@
         "coordinates": [
           26.77869987487793,
           37.688499450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.02 15:12:35",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.35070037841797,
+          35.17729949951172
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           23.989500045776367,
           34.440799713134766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.27 00:01:55",
-        "depth_km": 1.7999999523162842,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "DERECIFTLIK-HONAZ (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.372699737548828,
-          37.81449890136719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.26 22:39:25",
-        "depth_km": 2.200000047683716,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.015199661254883,
-          37.85419845581055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.26 22:28:34",
-        "depth_km": 13.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CICEKLI-SUNGURLU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.39830017089844,
-          40.3047981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.26 22:23:34",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.595699310302734,
-          35.67430114746094
         ]
       }
     }
