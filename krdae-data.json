@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.03 17:13:53",
+        "depth_km": 15.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.85650062561035,
+          36.02170181274414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.03 17:09:17",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           34.34280014038086,
           40.307498931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.28 20:04:48",
-        "depth_km": 2.4000000953674316,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "ORTAKOY-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.415300369262695,
-          37.21149826049805
         ]
       }
     }
