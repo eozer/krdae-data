@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.05 21:04:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KIZILYAKA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.447200775146484,
+          37.02619934082031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.05 21:01:44",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           28.504499435424805,
           37.10900115966797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.05 20:29:32",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ASAGIHACIBEKIR-BALA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.239498138427734,
+          39.38079833984375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.753999710083008,
           37.715301513671875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.31 13:38:02",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "SISAM ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.757699966430664,
-          37.6327018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.31 13:37:28",
-        "depth_km": 6.900000095367432,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.897499084472656,
-          37.57429885864258
         ]
       }
     }
