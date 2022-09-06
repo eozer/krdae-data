@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.06 11:03:01",
+        "depth_km": 23.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "DARIYERIHASANBEY-KAYNASLI (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.351999282836914,
+          40.79199981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.06 09:58:51",
         "depth_km": 2.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.748699188232422,
           37.64899826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.31 15:01:39",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.136499404907227,
-          37.88479995727539
         ]
       }
     }
