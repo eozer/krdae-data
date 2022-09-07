@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.07 15:21:18",
+        "depth_km": 15.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "OTLUK-SANDIKLI (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.93869972229004,
+          38.44020080566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.07 15:08:39",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.858699798583984,
           37.665000915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.08.31 22:19:10",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.87030029296875,
-          37.5885009765625
         ]
       }
     }
