@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.10 05:42:29",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.05299949645996,
+          37.68429946899414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.10 05:36:20",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.81730079650879,
           36.582698822021484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.01 19:15:21",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "SISAM ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.74049949645996,
-          37.62099838256836
         ]
       }
     }
