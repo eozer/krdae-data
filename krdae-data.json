@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.14 10:00:43",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.299999952316284,
+        "place": "BEYDILI-(CORUM)",
+        "location": "CORUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.86220169067383,
+          40.63029861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.14 09:36:45",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.136699676513672,
+          38.00120162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.14 08:39:17",
         "depth_km": 3.700000047683716,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.601999282836914,
           40.90480041503906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.04 18:17:43",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ARMUTCUK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.514699935913086,
-          37.109798431396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.04 18:14:41",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CICEKLI-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.505699157714844,
-          37.096500396728516
         ]
       }
     }
