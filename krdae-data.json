@@ -4,19 +4,76 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.09.16 15:25:11",
-        "depth_km": 8.0,
+        "timestamp": "2022.09.16 16:07:49",
+        "depth_km": 9.5,
         "MD": 0.0,
-        "ML": 2.9000000953674316,
+        "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "YESILGOL-YEDISU (BINGOL)",
+        "place": "SARICOKEK-KAYNASLI (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.358299255371094,
+          40.83300018310547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.16 15:36:15",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YANISLI-GULNAR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.52399826049805,
+          36.12519836425781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.16 15:32:05",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.43299865722656,
+          35.40869903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.16 15:25:12",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "ELMALI-YEDISU (BINGOL)",
         "location": "BINGOL"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.57720184326172,
-          39.43550109863281
+          40.63180160522461,
+          39.378501892089844
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           29.340499877929688,
           39.549198150634766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.05 12:45:40",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CAKMAK-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.629199981689453,
-          37.178001403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.05 12:43:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KARABAYIR-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.160499572753906,
-          36.88019943237305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.05 12:43:15",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.832300186157227,
-          37.61199951171875
         ]
       }
     }
