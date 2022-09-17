@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.17 08:37:54",
+        "depth_km": 25.299999237060547,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BELDIBI-KAS (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.600500106811523,
+          36.37929916381836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.17 07:24:59",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 2.4000000953674316,
+        "ML": 2.5,
+        "Mw": 0.0,
         "place": "KARACA-KEMAH (ERZINCAN)",
         "location": "ERZINCAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.785499572753906,
-          39.685699462890625
+          38.7869987487793,
+          39.68579864501953
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.69070053100586,
           37.74980163574219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.06 02:48:09",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOLCUK-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.54669952392578,
-          37.13079833984375
         ]
       }
     }
