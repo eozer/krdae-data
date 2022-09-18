@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.18 12:50:51",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.799999952316284,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2130012512207,
+          35.10580062866211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.18 12:23:42",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.96929931640625,
           39.89099884033203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.07 13:06:39",
-        "depth_km": 9.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SARAYKISLA-RESADIYE (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.196998596191406,
-          40.45930099487305
         ]
       }
     }
