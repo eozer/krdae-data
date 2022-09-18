@@ -631,6 +631,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.18 06:32:02",
+        "depth_km": 18.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GURCISTAN",
+        "location": "GURCISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.61650085449219,
+          41.2677001953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.18 06:18:20",
         "depth_km": 11.899999618530273,
         "MD": 0.0,
@@ -644,6 +663,25 @@
         "coordinates": [
           26.276500701904297,
           39.500999450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.18 06:07:07",
+        "depth_km": 14.899999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "OGUZELI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.509498596191406,
+          36.99020004272461
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.83919906616211,
           35.474998474121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.08 07:22:15",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "SEYDIKOY-BUCAK (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.56369972229004,
-          37.47669982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.08 05:45:19",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.175500869750977,
-          37.97650146484375
         ]
       }
     }
