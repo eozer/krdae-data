@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.20 13:19:31",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 2.9000000953674316,
+        "place": "INEGAZILI-SUNGURLU (CORUM)",
+        "location": "CORUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.98500061035156,
+          40.2400016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.20 12:33:58",
         "depth_km": 6.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.421499252319336,
           37.02399826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.09 18:13:06",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "GEYIKLI-EZINE (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.162500381469727,
-          39.7947998046875
         ]
       }
     }
