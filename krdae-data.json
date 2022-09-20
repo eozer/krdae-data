@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.20 11:10:16",
+        "depth_km": 4.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.200000047683716,
+        "place": "MESCICELE-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.695499420166016,
+          40.870201110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.20 10:09:33",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           30.832500457763672,
           36.166500091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.20 09:14:24",
+        "depth_km": 17.299999237060547,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARACAHASAN-ELMADAG (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.173500061035156,
+          39.83919906616211
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.80769920349121,
           37.675201416015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.09 15:59:57",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SUBOGAZI-SEHITKAMIL (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.45650100708008,
-          37.121299743652344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.09 15:56:33",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "NARLIKUYU-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.12950134277344,
-          36.39979934692383
         ]
       }
     }
