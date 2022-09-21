@@ -593,6 +593,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.20 20:02:17",
+        "depth_km": 16.200000762939453,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MARMARA DENIZI",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.612199783325195,
+          40.637001037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.20 19:30:54",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -682,6 +701,25 @@
         "coordinates": [
           25.812700271606445,
           35.5989990234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.20 18:22:11",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "CEVIRCEK-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.769699096679688,
+          39.26250076293945
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.497299194335938,
           41.31719970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.11 01:15:13",
-        "depth_km": 7.099999904632568,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.434499740600586,
-          40.244300842285156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.11 00:11:34",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KILBAS-SARICAM (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.333499908447266,
-          37.16130065917969
         ]
       }
     }
