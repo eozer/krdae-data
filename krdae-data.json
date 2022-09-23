@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.23 06:27:23",
+        "depth_km": 10.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENIKOY-MENDERES (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.03849983215332,
+          38.21870040893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.23 05:29:51",
+        "depth_km": 16.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "GOKCE-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.34630012512207,
+          37.0004997253418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.23 05:17:43",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.111000061035156,
+          37.90700149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.23 03:38:36",
         "depth_km": 4.300000190734863,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.976299285888672,
           39.137298583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.13 10:45:45",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16819953918457,
-          37.96630096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.13 10:03:10",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DARKALE-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.587499618530273,
-          39.144500732421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.13 08:40:56",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YATAGAN-MERAM (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.07279968261719,
-          37.7760009765625
         ]
       }
     }
