@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.24 16:10:35",
+        "depth_km": 13.600000381469727,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 2.9000000953674316,
+        "place": "MARMARA DENIZI",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.40679931640625,
+          40.83319854736328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.24 16:02:46",
         "depth_km": 8.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.815200805664062,
           39.8484992980957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.14 13:02:45",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KARABURUN (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.527000427246094,
-          38.65629959106445
         ]
       }
     }
