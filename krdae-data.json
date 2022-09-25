@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.25 12:18:58",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SOGUTLU-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.188800811767578,
+          36.87300109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.25 12:02:51",
         "depth_km": 22.700000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.04170036315918,
           35.81520080566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.15 18:42:57",
-        "depth_km": 26.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.37070083618164,
-          38.1328010559082
         ]
       }
     }
