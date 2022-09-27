@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.27 19:21:46",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 0.0,
+        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.79249954223633,
+          40.808998107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.27 19:16:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.199999809265137,
+        "Mw": 0.0,
+        "place": "BALCESME-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.83599853515625,
+          40.854801177978516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.27 18:34:55",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -175,19 +213,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.09.27 17:54:01",
-        "depth_km": 7.099999904632568,
+        "timestamp": "2022.09.27 17:53:56",
+        "depth_km": 5.300000190734863,
         "MD": 0.0,
-        "ML": 2.700000047683716,
+        "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "BALCESME-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
+        "place": "PAYAS-DORTYOL (HATAY)",
+        "location": "HATAY"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.80619812011719,
-          40.83470153808594
+          36.15330123901367,
+          36.792701721191406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.16080093383789,
           37.0182991027832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.18 12:05:50",
-        "depth_km": 12.800000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "TATARGAZI-MALAZGIRT (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.50849914550781,
-          38.93629837036133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.18 11:09:37",
-        "depth_km": 17.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.44580078125,
-          35.680301666259766
         ]
       }
     }
