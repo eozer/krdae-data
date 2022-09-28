@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.09.29 00:13:06",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "SIRINKOY-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.391000747680664,
+          36.994300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.09.29 00:08:17",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CAMTEPE-BURHANIYE (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.060300827026367,
+          39.44919967651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.09.29 00:01:13",
         "depth_km": 15.300000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           44.9452018737793,
           38.46179962158203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.21 21:18:02",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GOLYAKA-ILGIN (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.825199127197266,
-          38.45899963378906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.21 21:16:39",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.5999999046325684,
-        "place": "KIBRIS RUM KESIMI",
-        "location": "KIBRIS RUM KESIMI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.355201721191406,
-          34.9031982421875
         ]
       }
     }
