@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.01 16:42:16",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "DAVUTLAR-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.944799423217773,
+          39.77949905395508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.01 16:24:19",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.799999952316284,
+        "place": "ESENEVLER-TERCAN (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.53120040893555,
+          39.62099838256836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.01 15:05:19",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.2677001953125,
           35.10350036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.25 09:11:08",
-        "depth_km": 48.900001525878906,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.652799606323242,
-          36.522300720214844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.25 08:49:20",
-        "depth_km": 23.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUYUCAK-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.30780029296875,
-          37.07830047607422
         ]
       }
     }
