@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.05 07:15:20",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "CAYKOY-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68629837036133,
+          38.27299880981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.05 07:02:55",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.5,
+        "place": "KAVAKLIDERE-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.654701232910156,
+          38.25920104980469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.05 06:27:30",
         "depth_km": 10.100000381469727,
         "MD": 0.0,
@@ -36,6 +74,44 @@
         "coordinates": [
           38.76729965209961,
           38.2239990234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.05 06:04:34",
+        "depth_km": 26.200000762939453,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.48320007324219,
+          38.72650146484375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.05 06:03:02",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.80870056152344,
+          38.58399963378906
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           42.80720138549805,
           40.81629943847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.27 21:12:55",
-        "depth_km": 15.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.79130172729492,
-          40.810298919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.27 21:05:42",
-        "depth_km": 2.799999952316284,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GULISTAN-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.778499603271484,
-          40.86899948120117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.27 20:54:17",
-        "depth_km": 24.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "YAYLACIK-SELIM (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.79629898071289,
-          40.694698333740234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.27 20:52:13",
-        "depth_km": 15.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ESENYAYLA-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.848201751708984,
-          40.811798095703125
         ]
       }
     }
