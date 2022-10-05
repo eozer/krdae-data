@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.05 13:24:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.799999952316284,
+        "place": "IRAN",
+        "location": "IRAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.02579879760742,
+          38.57849884033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.05 10:20:34",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           42.792701721191406,
           40.817298889160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.09.27 23:02:20",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.19179916381836,
-          37.96929931640625
         ]
       }
     }
