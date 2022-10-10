@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.10 19:50:18",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.099999904632568,
+        "place": "IRAN",
+        "location": "IRAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03879928588867,
+          38.49800109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.10 19:23:17",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.65530014038086,
+          35.545501708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.10 17:42:16",
         "depth_km": 16.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           42.770301818847656,
           40.813201904296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.01 04:20:51",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "YESILOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.41029930114746,
-          37.07699966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.01 03:44:49",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SEFERIHISAR ACIKLARI-IZMIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.680999755859375,
-          38.16780090332031
         ]
       }
     }
