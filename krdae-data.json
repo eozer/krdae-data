@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.11 14:29:03",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "DEREBERCIN-(KASTAMONU)",
+        "location": "KASTAMONU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.90869903564453,
+          41.125301361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.11 14:14:31",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.52130126953125,
           39.615299224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.01 23:03:17",
-        "depth_km": 14.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.80379867553711,
-          40.78969955444336
         ]
       }
     }
