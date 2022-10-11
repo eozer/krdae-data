@@ -175,6 +175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.11 17:41:28",
+        "depth_km": 14.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "PIRSULTANLI-DUZICI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.308998107910156,
+          37.300498962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.11 17:25:01",
         "depth_km": 3.700000047683716,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           42.961700439453125,
           38.07870101928711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.02 02:20:15",
-        "depth_km": 17.700000762939453,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "AKCAYIR-HENDEK (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.82270050048828,
-          40.80580139160156
         ]
       }
     }
