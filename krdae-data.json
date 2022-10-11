@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.11 21:20:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.79779815673828,
+          40.813499450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.11 20:27:37",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           42.95930099487305,
           38.06370162963867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.02 03:11:46",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "HASANSEYH-MERAM (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.079498291015625,
-          37.76020050048828
         ]
       }
     }
