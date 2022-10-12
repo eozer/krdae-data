@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.13 00:55:47",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "OZLU-ORTA (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00749969482422,
+          40.512298583984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.13 00:38:13",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.60929870605469,
           39.20069885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.03 04:05:50",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.024200439453125,
-          40.407501220703125
         ]
       }
     }
