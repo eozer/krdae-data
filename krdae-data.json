@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.15 19:00:32",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KUNCEGIZ-(BILECIK)",
+        "location": "BILECIK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.808300018310547,
+          40.15879821777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.15 18:48:08",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KADIKOY-MUT (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.37480163574219,
+          36.67399978637695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.15 18:37:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GULBAHCE-KEMAH (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.71149826049805,
+          39.641700744628906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.15 18:26:40",
         "depth_km": 18.600000381469727,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           45.042198181152344,
           38.52799987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.05 09:41:30",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.523300170898438,
-          40.798301696777344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.05 08:30:37",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KAMISTAS-(MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.67219924926758,
-          38.27920150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.05 07:55:03",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.987701416015625,
-          38.47949981689453
         ]
       }
     }
