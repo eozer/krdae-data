@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.17 06:20:21",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.835800170898438,
+          35.71580123901367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.17 04:13:07",
         "depth_km": 25.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.75119972229004,
           37.54100036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.06 03:44:31",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.0447998046875,
-          38.45000076293945
         ]
       }
     }
