@@ -4621,6 +4621,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.15 11:16:26",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "INKOY-TARSUS (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.70930099487305,
+          37.28129959106445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.15 10:43:39",
         "depth_km": 12.5,
         "MD": 0.0,
@@ -4861,6 +4880,25 @@
         "type": "Point",
         "coordinates": [
           36.16780090332031,
+          37.09000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.15 04:41:23",
+        "depth_km": 22.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ALAHANLI-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.18579864501953,
           37.09000015258789
         ]
       }
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.10219955444336,
           39.15129852294922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.10 09:10:55",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "YESILOVA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.44729995727539,
-          37.07550048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.10 08:38:53",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HAMZABEY-SIMAV (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.958999633789062,
-          39.20100021362305
         ]
       }
     }
