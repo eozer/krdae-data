@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.19 14:23:15",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "ATKOY-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.972299575805664,
+          39.581298828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.19 13:31:58",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BASOREN-SUHUT (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446800231933594,
+          38.44020080566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.19 13:30:52",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -3817,6 +3855,25 @@
         "coordinates": [
           36.298301696777344,
           37.331199645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.16 02:33:52",
+        "depth_km": 19.399999618530273,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "EGERTI-AZIZIYE (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.99079895019531,
+          40.09429931640625
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.800199508666992,
           37.69850158691406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.09 19:51:22",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "SOGUTLU-FETHIYE (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.190200805664062,
-          36.83700180053711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.09 19:45:00",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.98649978637695,
-          38.527801513671875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.09 18:57:49",
-        "depth_km": 29.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "VAN GOLU",
-        "location": "VAN GOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.1077995300293,
-          38.44279861450195
         ]
       }
     }
