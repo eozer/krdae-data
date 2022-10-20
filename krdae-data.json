@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.20 10:28:13",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KIZILCAPINAR-GERMENCIK (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.565200805664062,
+          37.8838005065918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.20 09:59:48",
         "depth_km": 19.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           44.06629943847656,
           38.703800201416016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.11 02:41:29",
-        "depth_km": 15.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "HARMANLI-KARAPURCEK (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.58799934387207,
-          40.69049835205078
         ]
       }
     }
