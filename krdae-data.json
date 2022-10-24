@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.24 11:03:58",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0999999046325684,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7987003326416,
+          38.812198638916016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.24 10:49:05",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "CUKUROREN-GEDIZ (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.73870086669922,
+          38.987998962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.24 09:02:49",
+        "depth_km": 15.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "ANTALYA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.324199676513672,
+          36.169700622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.24 08:38:16",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.627199172973633,
           37.14849853515625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.16 09:51:56",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KOS ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.270200729370117,
-          36.38420104980469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.16 07:06:47",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.952299118041992,
-          37.81700134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.16 07:00:22",
-        "depth_km": 12.5,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "DIKILITAS-SEYDISEHIR (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.01070022583008,
-          37.552799224853516
         ]
       }
     }
