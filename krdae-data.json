@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.27 12:19:27",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "GULLUCE-OLTU (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.05649948120117,
+          40.677799224853516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.27 11:59:35",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           30.03849983215332,
           37.010501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.27 11:06:39",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.924699783325195,
+          37.87099838256836
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.26580047607422,
           37.89670181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.18 14:31:10",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CINARKOY-KUSADASI (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.398799896240234,
-          37.85749816894531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.18 14:30:50",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "ACARLAR-SELCUK (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.31450080871582,
-          37.92279815673828
         ]
       }
     }
