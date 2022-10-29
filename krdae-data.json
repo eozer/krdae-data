@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.30 01:01:30",
+        "depth_km": 8.399999618530273,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KARATEKE-HONAZ (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.19420051574707,
+          37.72850036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.30 00:57:27",
         "depth_km": 12.5,
         "MD": 0.0,
@@ -17,6 +36,44 @@
         "coordinates": [
           29.170700073242188,
           37.72249984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.30 00:56:06",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "KARATAS-(DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.207500457763672,
+          37.70220184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.30 00:55:24",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 0.699999988079071,
+        "Mw": 0.0,
+        "place": "HONAZ (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.274499893188477,
+          37.731998443603516
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.565200805664062,
           37.8838005065918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.20 09:59:48",
-        "depth_km": 19.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "ARIKAYA-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.38129997253418,
-          36.994300842285156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.20 09:55:45",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "YENIKOY-GOLMARMARA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.037500381469727,
-          38.680301666259766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.20 08:57:26",
-        "depth_km": 1.5,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.670299530029297,
-          36.96070098876953
         ]
       }
     }
