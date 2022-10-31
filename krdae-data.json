@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.10.31 13:21:45",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "CESMEALTI-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.342300415039062,
+          40.32979965209961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.10.31 13:13:04",
         "depth_km": 14.5,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           29.499000549316406,
           39.558799743652344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.10.31 13:11:27",
+        "depth_km": 8.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KIBRIS-DEGIRMENLIK",
+        "location": "KIBRIS-DEGIRMENLIK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.66350173950195,
+          35.2421989440918
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.125301361083984,
           37.39179992675781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.21 01:16:01",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.24370002746582,
-          38.08169937133789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.21 01:04:18",
-        "depth_km": 19.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.59600067138672,
-          36.94929885864258
         ]
       }
     }
