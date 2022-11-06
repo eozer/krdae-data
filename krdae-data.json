@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.06 14:34:02",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ASLANAPA (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.892799377441406,
+          39.208499908447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.06 14:31:07",
+        "depth_km": 9.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.134700775146484,
+          37.88629913330078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.06 14:11:19",
         "depth_km": 16.100000381469727,
         "MD": 0.0,
@@ -150,6 +188,25 @@
         "coordinates": [
           27.191499710083008,
           38.326698303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.06 11:21:12",
+        "depth_km": 11.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.59980010986328,
+          40.887001037597656
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.002700805664062,
           38.055999755859375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.28 13:08:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "YAZGUNU-KIGI (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.258201599121094,
-          39.27880096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.28 12:57:12",
-        "depth_km": 12.699999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "DALYAN-EZINE (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.075000762939453,
-          39.7239990234375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.28 12:42:52",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "CITOREN-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.152198791503906,
-          38.61470031738281
         ]
       }
     }
