@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.07 16:11:57",
+        "depth_km": 24.200000762939453,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.299999952316284,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.06049919128418,
+          34.656700134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.07 16:04:04",
+        "depth_km": 6.5,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKPINAR-BASMAKCI (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.94700050354004,
+          37.8672981262207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.07 15:52:06",
+        "depth_km": 9.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KEMERKOY-CAYELI (RIZE)",
+        "location": "RIZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.670799255371094,
+          41.21649932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.07 15:19:36",
         "depth_km": 2.9000000953674316,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           30.49180030822754,
           37.44580078125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.30 09:16:57",
-        "depth_km": 1.7999999523162842,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GULYURDU-YOMRA (TRABZON)",
-        "location": "TRABZON"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.862300872802734,
-          40.899200439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.30 09:03:11",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ALTINOVA ACIKLARI-BALIKESIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.631200790405273,
-          39.19070053100586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.30 08:52:12",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KOCAOVA-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.253299713134766,
-          37.08420181274414
         ]
       }
     }
