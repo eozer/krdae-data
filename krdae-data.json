@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.08 09:43:56",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 1.5,
+        "place": "DEREKOY-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.552799224853516,
+          39.10350036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.08 07:13:12",
         "depth_km": 2.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.73979949951172,
           40.01969909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.31 03:41:18",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.11870002746582,
-          37.89830017089844
         ]
       }
     }
