@@ -27,15 +27,34 @@
         "depth_km": 0.0,
         "MD": 0.0,
         "ML": 1.7000000476837158,
-        "Mw": 1.5,
+        "Mw": 0.0,
         "place": "DEREKOY-SOMA (MANISA)",
         "location": "MANISA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.552799224853516,
-          39.10350036621094
+          27.548799514770508,
+          39.0973014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.08 09:20:05",
+        "depth_km": 11.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUYUCAK-(MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.253799438476562,
+          37.05730056762695
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.43079948425293,
           37.06370162963867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.31 05:44:15",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "YENIMAHALLE (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.73979949951172,
-          40.01969909667969
         ]
       }
     }
