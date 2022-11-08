@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.08 21:15:53",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GAZIEMIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.163799285888672,
+          38.34830093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.08 20:52:01",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.566299438476562,
+          36.10430145263672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.08 19:30:42",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.342300415039062,
           40.32979965209961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.31 13:13:04",
-        "depth_km": 14.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TAVSANLI (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.499000549316406,
-          39.558799743652344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.10.31 13:11:27",
-        "depth_km": 8.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KIBRIS-DEGIRMENLIK",
-        "location": "KIBRIS-DEGIRMENLIK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.66350173950195,
-          35.2421989440918
         ]
       }
     }
