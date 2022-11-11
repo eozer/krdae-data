@@ -4,19 +4,57 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.11.11 20:02:10",
+        "timestamp": "2022.11.11 20:40:33",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.220199584960938,
+          38.02330017089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.11 20:24:29",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.5,
-        "place": "ESENEVLER-TERCAN (ERZINCAN)",
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KONARLI-TERCAN (ERZINCAN)",
         "location": "ERZINCAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.53329849243164,
-          39.61579895019531
+          40.55670166015625,
+          39.56129837036133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.11 20:02:06",
+        "depth_km": 22.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.559499740600586,
+          35.174800872802734
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.4197998046875,
           39.95869827270508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.03 07:50:25",
-        "depth_km": 158.39999389648438,
-        "MD": 0.0,
-        "ML": 5.099999904632568,
-        "Mw": 0.0,
-        "place": "ROMANYA",
-        "location": "ROMANYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.47599983215332,
-          45.5443000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.03 07:11:57",
-        "depth_km": 15.800000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YUVA-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.779199600219727,
-          40.76599884033203
         ]
       }
     }
