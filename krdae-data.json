@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.14 21:42:01",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 2.9000000953674316,
+        "place": "AKTARLI-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8224983215332,
+          38.2588005065918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.14 21:29:18",
         "depth_km": 9.800000190734863,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           29.021799087524414,
           40.61470031738281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.14 20:38:32",
+        "depth_km": 23.5,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "AKOVA-GULNAR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.19729995727539,
+          36.386199951171875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.659799575805664,
           36.59769821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.05 20:07:36",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.184799194335938,
-          38.35020065307617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.05 19:53:57",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GAZIEMIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.177000045776367,
-          38.336299896240234
         ]
       }
     }
