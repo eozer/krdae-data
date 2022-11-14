@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.15 01:23:04",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ARIFIYE (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.353200912475586,
+          40.71929931640625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.15 01:16:26",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KEMALIYE-ARIFIYE (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.397499084472656,
+          40.69620132446289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.14 22:29:41",
         "depth_km": 11.800000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.178300857543945,
           38.349300384521484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.05 20:53:38",
-        "depth_km": 14.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "GAZIEMIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.15399932861328,
-          38.30329895019531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.05 20:50:02",
-        "depth_km": 22.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "GAZIEMIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.136499404907227,
-          38.339698791503906
         ]
       }
     }
