@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.22 14:16:34",
+        "depth_km": 6.5,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.39229965209961,
+          37.09230041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.22 13:47:49",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GAZIEMIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.183300018310547,
+          38.333499908447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.22 13:02:30",
         "depth_km": 23.100000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.864299774169922,
           38.9911994934082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.13 01:12:47",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KARAPURCEK-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.156200408935547,
-          40.36370086669922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.13 01:02:28",
-        "depth_km": 2.4000000953674316,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "TEKEBASI-SAMANDAG (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.981998443603516,
-          36.05820083618164
         ]
       }
     }
