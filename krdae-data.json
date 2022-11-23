@@ -4,6 +4,101 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.23 07:04:43",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KOZLUK-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.215999603271484,
+          40.95119857788086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.23 07:03:11",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KUCUKMEHMET-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13479995727539,
+          40.80720138549805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.23 07:00:28",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CAY KOYU-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.94849967956543,
+          40.757301330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.23 06:50:57",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 4.400000095367432,
+        "Mw": 4.199999809265137,
+        "place": "YONGALIK-GUMUSOVA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.915199279785156,
+          40.82720184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.23 06:47:12",
+        "depth_km": 9.300000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "OZANLAR-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.114500045776367,
+          40.817298889160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.23 06:34:30",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -441,19 +536,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.11.23 04:30:34",
-        "depth_km": 5.400000095367432,
+        "timestamp": "2022.11.23 04:30:35",
+        "depth_km": 5.099999904632568,
         "MD": 0.0,
         "ML": 3.9000000953674316,
-        "Mw": 3.799999952316284,
-        "place": "FEVZIYE-(DUZCE)",
+        "Mw": 0.0,
+        "place": "PASAKONAGI-(DUZCE)",
         "location": "DUZCE"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.054800033569336,
-          40.83219909667969
+          31.07379913330078,
+          40.814300537109375
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           27.159799575805664,
           38.332801818847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.14 03:17:38",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.14699935913086,
-          38.232200622558594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.14 03:03:40",
-        "depth_km": 17.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "TIRAZLI-KARABAGLAR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.082700729370117,
-          38.331199645996094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.14 01:34:08",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KESECIK-(HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.08000183105469,
-          36.25320053100586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.14 01:20:34",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "BASKOY-CAT (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.24980163574219,
-          39.75019836425781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.14 00:42:09",
-        "depth_km": 6.300000190734863,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "GAZIEMIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.16830062866211,
-          38.339500427246094
         ]
       }
     }
