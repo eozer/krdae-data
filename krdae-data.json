@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.24 19:15:52",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HOCAOGLU-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.08769989013672,
+          40.807498931884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.24 19:09:53",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           31.025999069213867,
           40.80720138549805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.24 18:38:30",
+        "depth_km": 16.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ERDOGAN-KESTEL (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.378700256347656,
+          40.20199966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.24 18:17:29",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "NARLI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.144798278808594,
+          37.38650131225586
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.659700393676758,
           34.561798095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.17 15:13:33",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.948999404907227,
-          35.231998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.17 14:42:52",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YANISLI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.52119827270508,
-          36.139198303222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.17 13:47:12",
-        "depth_km": 12.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AKYAKA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.31679916381836,
-          37.055198669433594
         ]
       }
     }
