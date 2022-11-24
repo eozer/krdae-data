@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.24 10:03:24",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KOPRUBASI OMEREFENDI-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.043500900268555,
+          40.810699462890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.24 09:49:11",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.032499313354492,
+          40.784000396728516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.24 09:24:16",
         "depth_km": 3.700000047683716,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.41619873046875,
           37.225799560546875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.16 23:29:57",
-        "depth_km": 4.199999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.860200881958008,
-          39.38850021362305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.16 23:16:31",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KIZILKOLTUK-SAPHANE (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.13170051574707,
-          38.91429901123047
         ]
       }
     }
