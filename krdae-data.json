@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.24 06:27:03",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUCUKAHMET-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.139699935913086,
+          40.790199279785156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.24 05:42:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "DEGIRMENTEPE-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.890300750732422,
+          40.747501373291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.24 05:20:31",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -112,6 +150,25 @@
         "coordinates": [
           31.002199172973633,
           40.773799896240234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.24 03:59:36",
+        "depth_km": 21.100000381469727,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KAFYAYLA-CILIMLI (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.087799072265625,
+          40.91320037841797
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.989299774169922,
           37.982200622558594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.16 18:35:49",
-        "depth_km": 17.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.810001373291016,
-          40.80950164794922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.16 18:01:02",
-        "depth_km": 3.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "PASAKOY-ALANYA (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.96769905090332,
-          36.60100173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.16 17:31:38",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SEYMENLI-SEREFLIKOCHISAR (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.62369918823242,
-          38.93880081176758
         ]
       }
     }
