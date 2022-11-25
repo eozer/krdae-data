@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.25 23:03:56",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.099700927734375,
+          37.79280090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.25 22:57:47",
+        "depth_km": 59.400001525878906,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.08919906616211,
+          35.75680160522461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.25 22:15:09",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           29.150299072265625,
           36.75870132446289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.25 22:03:54",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GELEMIS-KAS (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27280044555664,
+          36.27870178222656
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.58370018005371,
           36.8931999206543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.19 23:01:19",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOLYUZU-SEYDISEHIR (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.897499084472656,
-          37.35100173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.19 22:44:09",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.836999893188477,
-          35.033199310302734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.19 22:12:40",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "AKPINAR-(MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.5276985168457,
-          39.04679870605469
         ]
       }
     }
