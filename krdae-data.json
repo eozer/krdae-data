@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.26 01:15:24",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KARAMOLLAUSAGI-SEREFLIKOCHISAR (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.56380081176758,
+          38.788700103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.26 01:07:35",
+        "depth_km": 14.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YILDIZTEPE-GUMUSOVA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.955299377441406,
+          40.80820083618164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.26 01:04:45",
         "depth_km": 13.399999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.946800231933594,
           38.337501525878906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.20 03:41:37",
-        "depth_km": 14.899999618530273,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "CAMICI-DUZICI (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.436798095703125,
-          37.22019958496094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.20 03:07:53",
-        "depth_km": 60.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0999999046325684,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.235300064086914,
-          35.21770095825195
         ]
       }
     }
