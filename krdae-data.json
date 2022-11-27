@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.27 11:24:39",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KARAKOY-NALLIHAN (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.67099952697754,
+          40.173500061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.27 11:14:50",
         "depth_km": 20.600000381469727,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           30.98550033569336,
           40.7869987487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.27 11:03:37",
+        "depth_km": 7.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.239500045776367,
+          38.340301513671875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.199499130249023,
           36.80270004272461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.22 15:48:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "ABDI-KOZAKLI (NEVSEHIR)",
-        "location": "NEVSEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.81529998779297,
-          39.0547981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.22 15:00:25",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.84980010986328,
-          35.124000549316406
         ]
       }
     }
