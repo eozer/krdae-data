@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.29 12:05:11",
+        "depth_km": 10.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AKSARAY-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.11320114135742,
+          38.44770050048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.29 11:40:15",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -42,10 +61,29 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.29 11:11:55",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.37820053100586,
+          38.79779815673828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.29 11:11:32",
         "depth_km": 12.399999618530273,
         "MD": 0.0,
-        "ML": 2.299999952316284,
+        "ML": 1.7999999523162842,
         "Mw": 0.0,
         "place": "EGE DENIZI",
         "location": "EGE DENIZI"
@@ -93,6 +131,25 @@
         "coordinates": [
           30.282699584960938,
           38.6245002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.11.29 09:28:46",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DAGSEYHLER-GOYNUK (BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.997299194335938,
+          40.26279830932617
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.19849967956543,
           40.82429885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.23 23:18:21",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CANDARLI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.862499237060547,
-          38.80720138549805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.23 23:02:56",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "DUZCE (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.15679931640625,
-          40.845699310302734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.23 22:59:05",
-        "depth_km": 28.0,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.5999999046325684,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.775800704956055,
-          35.05699920654297
         ]
       }
     }
