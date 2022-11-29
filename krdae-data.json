@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.29 09:09:26",
+        "depth_km": 19.5,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "ARMUTCUK-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.527700424194336,
+          37.110801696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.29 09:06:18",
         "depth_km": 12.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.09149932861328,
           40.78969955444336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.23 22:34:55",
-        "depth_km": 20.399999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GUZELDERE-GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.080799102783203,
-          40.66999816894531
         ]
       }
     }
