@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.01 13:03:50",
+        "depth_km": 10.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "TURGUT-YUNAK (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.771299362182617,
+          38.57619857788086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.01 12:48:18",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KARADIKEN-BEYSEHIR (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.66469955444336,
+          37.67580032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.01 12:47:19",
+        "depth_km": 26.299999237060547,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "OKCU-BEYLIKOVA (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.288000106811523,
+          39.565799713134766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.01 12:31:19",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           30.997699737548828,
           40.85219955444336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.24 20:27:33",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "BALLICA-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.081499099731445,
-          40.77870178222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.24 20:13:09",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KUSACMASI-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.088199615478516,
-          40.78919982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.24 19:44:47",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ALINCIK-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.22520065307617,
-          38.46220016479492
         ]
       }
     }
