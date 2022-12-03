@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.04 02:33:05",
+        "depth_km": 14.800000190734863,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.299999952316284,
+        "place": "YESILYAYLA-GUMUSOVA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.86669921875,
+          40.80699920654297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.04 00:42:12",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.046199798583984,
           40.8202018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.26 20:32:50",
-        "depth_km": 15.100000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KARAOGLU-BASKIL (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.606300354003906,
-          38.6431999206543
         ]
       }
     }
