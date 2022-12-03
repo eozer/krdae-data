@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.03 13:51:40",
+        "depth_km": 16.200000762939453,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.24329948425293,
+          38.29249954223633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.03 13:35:07",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           37.341800689697266,
           37.1077995300293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.03 11:17:50",
+        "depth_km": 11.100000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.84869956970215,
+          35.2239990234375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.040800094604492,
           40.704498291015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.26 08:14:43",
-        "depth_km": 12.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YAZLIK-GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.95800018310547,
-          40.7943000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.26 07:52:38",
-        "depth_km": 16.200000762939453,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KARAKOY-BAYRAMIC (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.890199661254883,
-          39.856300354003906
         ]
       }
     }
