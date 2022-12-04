@@ -80,6 +80,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.04 12:07:41",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.68600082397461,
+          39.50379943847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.04 11:51:02",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HACILAR-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8468017578125,
+          38.89099884033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.04 11:16:57",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.985200881958008,
           36.88349914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.27 01:03:00",
-        "depth_km": 3.200000047683716,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "KUCUKKALECIK-(AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.466699600219727,
-          38.715999603271484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.27 01:02:44",
-        "depth_km": 12.399999618530273,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "DALYAN-EZINE-CANAKKALE ACIKLARI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.10930061340332,
-          39.75450134277344
         ]
       }
     }
