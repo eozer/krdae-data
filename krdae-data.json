@@ -6084,6 +6084,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.11.30 00:33:34",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DESTIN-YATAGAN (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.266700744628906,
+          37.33599853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.11.30 00:29:32",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.87649917602539,
           38.117801666259766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.27 12:00:17",
-        "depth_km": 15.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DONGELLI-CILIMLI (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.034000396728516,
-          40.845699310302734
         ]
       }
     }
