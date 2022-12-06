@@ -270,6 +270,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.06 16:53:33",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MURATLI-ARABAN (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.516700744628906,
+          37.391300201416016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.06 16:20:11",
         "depth_km": 1.899999976158142,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.99970054626465,
           40.78120040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.28 05:19:25",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUSACMASI-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.071699142456055,
-          40.798301696777344
         ]
       }
     }
