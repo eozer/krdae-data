@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.07 00:03:35",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.213699340820312,
+          35.844200134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.06 23:58:33",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           28.065000534057617,
           38.97119903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.06 23:47:40",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.796199798583984,
+          35.60599899291992
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.097999572753906,
           40.78369903564453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.28 07:19:09",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SEKLI-BEYPAZARI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.704999923706055,
-          40.16749954223633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.28 06:47:13",
-        "depth_km": 17.799999237060547,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "TURKIYE-SURIYE SINIR BOLGESI",
-        "location": "TURKIYE-SURIYE SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39080047607422,
-          36.597999572753906
         ]
       }
     }
