@@ -43,6 +43,25 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2022.12.08 01:44:37",
+        "depth_km": 21.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ALTINSAC-GEVAS (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.947200775146484,
+          38.441001892089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.08 01:44:37",
         "depth_km": 2.700000047683716,
         "MD": 0.0,
         "ML": 1.899999976158142,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.5088005065918,
           37.29249954223633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.29 15:57:26",
-        "depth_km": 23.299999237060547,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.32670021057129,
-          38.19150161743164
         ]
       }
     }
