@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.07 15:45:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BOGURTLEN-SIVRIHISAR (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.61370086669922,
+          39.45399856567383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.07 14:29:18",
         "depth_km": 13.300000190734863,
         "MD": 0.0,
@@ -150,6 +169,25 @@
         "coordinates": [
           32.93069839477539,
           39.39500045776367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.07 13:05:36",
+        "depth_km": 19.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "OSMANIYE-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.995500564575195,
+          40.01580047607422
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.25950050354004,
           37.02880096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.29 06:34:47",
-        "depth_km": 12.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "OZANLAR-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.10420036315918,
-          40.827999114990234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.29 05:50:56",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.844999313354492,
-          37.59870147705078
         ]
       }
     }
