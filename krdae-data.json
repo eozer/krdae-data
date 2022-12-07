@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.07 23:58:53",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22920036315918,
+          37.923301696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.07 23:43:33",
         "depth_km": 5.800000190734863,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           27.107799530029297,
           40.26430130004883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.07 23:08:15",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "TARTISIK-AYVACIK (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.46269989013672,
+          39.62220001220703
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.11320114135742,
           38.44770050048828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.29 11:40:15",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CELTIKCI-ORHANGAZI (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.301799774169922,
-          40.44919967651367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.29 11:23:50",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BUYUKCATAK-SUSUZ (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.974998474121094,
-          40.907501220703125
         ]
       }
     }
