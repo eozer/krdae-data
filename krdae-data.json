@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.08 13:21:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 0.0,
+        "place": "RUSYA",
+        "location": "RUSYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.694801330566406,
+          42.262298583984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.08 13:17:14",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.44969940185547,
           37.09120178222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.11.30 06:24:56",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.203500747680664,
-          38.35169982910156
         ]
       }
     }
