@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.11 23:27:00",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CITGOL-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.94969940185547,
+          39.119300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.11 23:26:34",
         "depth_km": 14.5,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           29.000999450683594,
           39.14580154418945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.11 23:14:26",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TURKIYE-ERMENISTAN SINIR BOLGESI",
+        "location": "TURKIYE-ERMENISTAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49420166015625,
+          40.06719970703125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.11750030517578,
           40.80619812011719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.03 08:53:08",
-        "depth_km": 16.100000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KADILITURK-BOGAZKALE (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.50630187988281,
-          40.05379867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.03 08:44:14",
-        "depth_km": 13.399999618530273,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KASIMBAGI-ERCIS (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.385799407958984,
-          38.964298248291016
         ]
       }
     }
