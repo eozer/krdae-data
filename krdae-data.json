@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.13 06:21:17",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 4.800000190734863,
+        "Mw": 4.0,
+        "place": "ESKIBALIKLI-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.115299224853516,
+          40.358299255371094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.13 05:31:08",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           34.564701080322266,
           40.409698486328125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.13 03:33:28",
+        "depth_km": 2.299999952316284,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YESILOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.426799774169922,
+          37.07080078125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.8518009185791,
           37.870201110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.04 14:37:03",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ELMACIK-GUMUSOVA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.971799850463867,
-          40.82279968261719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.04 14:29:44",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KOSELER-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.933000564575195,
-          39.654998779296875
         ]
       }
     }
