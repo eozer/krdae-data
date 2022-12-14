@@ -61,6 +61,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.14 20:46:17",
+        "depth_km": 10.100000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.216800689697266,
+          38.305301666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.14 20:25:01",
+        "depth_km": 12.600000381469727,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "SAZIYE-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.055200576782227,
+          40.85129928588867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.14 19:38:26",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           42.0968017578125,
           38.51850128173828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.06 11:07:56",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.01569938659668,
-          40.79100036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.06 11:07:11",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "TOPCU-KOPRUKOY (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.9005012512207,
-          39.770999908447266
         ]
       }
     }
