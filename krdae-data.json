@@ -137,6 +137,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.15 10:54:42",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "BAHCEKARADALAK-BALA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.202999114990234,
+          39.51729965209961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.15 10:32:54",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ADIL-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.573299407958984,
+          39.0968017578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.15 09:53:30",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -5629,18 +5667,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2022.12.09 21:44:18",
-        "depth_km": 16.299999237060547,
+        "depth_km": 15.800000190734863,
         "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 4.199999809265137,
+        "ML": 4.099999904632568,
+        "Mw": 4.099999904632568,
         "place": "AKDENIZ",
         "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.929000854492188,
-          36.1510009765625
+          26.9685001373291,
+          36.17250061035156
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.28569984436035,
           37.03369903564453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 00:25:50",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.620201110839844,
-          35.7942008972168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 00:03:35",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.213699340820312,
-          35.844200134277344
         ]
       }
     }
