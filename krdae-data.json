@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.15 16:04:49",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GOCEK-AKHISAR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.03380012512207,
+          38.91680145263672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.15 15:56:47",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YAZLIK-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.975200653076172,
+          40.786800384521484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.15 15:52:19",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -23,19 +61,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.12.15 15:49:53",
-        "depth_km": 5.0,
+        "timestamp": "2022.12.15 15:51:41",
+        "depth_km": 3.5,
         "MD": 0.0,
-        "ML": 1.600000023841858,
+        "ML": 1.7000000476837158,
         "Mw": 0.0,
-        "place": "KUCUKAHMET-(DUZCE)",
+        "place": "ELMACIK-GUMUSOVA (DUZCE)",
         "location": "DUZCE"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.13680076599121,
-          40.792301177978516
+          30.979999542236328,
+          40.80979919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.15 15:49:53",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GUZELDERE-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.062299728393555,
+          40.730499267578125
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.05419921875,
           38.105499267578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 05:56:58",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "AKHARIM-SANDIKLI (AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.291200637817383,
-          38.62480163574219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 05:39:58",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "PASAKONAGI-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.081499099731445,
-          40.811500549316406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 05:39:15",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KAVAKLAR-BAKLAN (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.56279945373535,
-          38.10369873046875
         ]
       }
     }
