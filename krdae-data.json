@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.16 01:44:06",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BALCESME-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.79779815673828,
+          40.827999114990234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.16 01:33:26",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           29.517799377441406,
           36.04050064086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.16 01:08:12",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KAYNARPINAR-KARLIOVA (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8046989440918,
+          39.36280059814453
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.97380065917969,
           37.64870071411133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 14:09:43",
-        "depth_km": 16.799999237060547,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "CIMSIT-GOLBASI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.889801025390625,
-          39.40380096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 13:57:09",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.996000289916992,
-          40.79180145263672
         ]
       }
     }
