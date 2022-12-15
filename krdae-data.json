@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.15 17:36:46",
+        "depth_km": 22.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BEYNAM-BALA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.932701110839844,
+          39.72520065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.15 17:13:30",
+        "depth_km": 26.600000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.12150001525879,
+          35.451698303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.15 16:04:49",
         "depth_km": 2.9000000953674316,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.741500854492188,
           38.39569854736328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 08:00:59",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SARIDERE-GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.981300354003906,
-          40.80870056152344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.07 07:59:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "BALLIK-ALTINYAYLA (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.437999725341797,
-          36.90169906616211
         ]
       }
     }
