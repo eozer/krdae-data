@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2022.12.18 21:13:09",
-        "depth_km": 8.800000190734863,
+        "timestamp": "2022.12.18 21:31:24",
+        "depth_km": 7.300000190734863,
         "MD": 0.0,
-        "ML": 4.699999809265137,
-        "Mw": 4.599999904632568,
-        "place": "BALDIRAN-KIRIKHAN (HATAY)",
+        "ML": 3.0999999046325684,
+        "Mw": 3.299999952316284,
+        "place": "COBANKOY-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.86429977416992,
+          40.87229919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.18 21:13:09",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 4.800000190734863,
+        "Mw": 4.699999809265137,
+        "place": "KANGALLAR-KIRIKHAN (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.40769958496094,
-          36.44369888305664
+          36.41529846191406,
+          36.40119934082031
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.253299713134766,
           37.91550064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.09 22:48:21",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.011699676513672,
-          36.08599853515625
         ]
       }
     }
