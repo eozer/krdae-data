@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.20 01:34:09",
+        "depth_km": 18.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DOGANKOY-SENKAYA (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.43880081176758,
+          40.60020065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.20 00:59:47",
+        "depth_km": 10.300000190734863,
+        "MD": 0.0,
+        "ML": 0.4000000059604645,
+        "Mw": 0.0,
+        "place": "GOKOVA-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.371200561523438,
+          37.055301666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.20 00:42:19",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.30179977416992,
           37.27470016479492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.10 20:42:26",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.687000274658203,
-          36.929500579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.10 20:01:24",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MUGLA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.354799270629883,
-          37.235198974609375
         ]
       }
     }
