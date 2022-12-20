@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.20 17:32:25",
+        "depth_km": 17.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.228300094604492,
+          35.186500549316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.20 17:22:07",
         "depth_km": 9.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.47480010986328,
           37.06380081176758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 18:25:28",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI",
-        "location": "MARMARA DENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.959299087524414,
-          40.87480163574219
         ]
       }
     }
