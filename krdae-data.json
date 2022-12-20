@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.20 12:32:19",
+        "depth_km": 3.299999952316284,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "AKCESME-(CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.332300186157227,
+          39.917999267578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.20 12:30:32",
+        "depth_km": 16.700000762939453,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOLCUK-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.369699478149414,
+          39.51499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.20 11:20:53",
         "depth_km": 9.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.246000289916992,
           36.760501861572266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 10:16:50",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "SARIKAVAK-CAMLIYAYLA (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.670799255371094,
-          37.12329864501953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 09:48:19",
-        "depth_km": 14.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.084199905395508,
-          39.107200622558594
         ]
       }
     }
