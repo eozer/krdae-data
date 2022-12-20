@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.20 04:57:15",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TASLICA-IMRANLI (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.26750183105469,
+          39.6870002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.20 04:35:28",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -17,6 +36,44 @@
         "coordinates": [
           28.817800521850586,
           40.5973014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.20 03:59:03",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ESENTEPE-KOCARLI (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.61949920654297,
+          37.68450164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.20 03:41:30",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ARDICLI-PASINLER (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.769798278808594,
+          40.02180099487305
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           34.68330001831055,
           40.316001892089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 02:29:24",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 3.799999952316284,
-        "place": "ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.42650032043457,
-          37.09270095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 02:28:36",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ORTA (CANKIRI)",
-        "location": "CANKIRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.08599853515625,
-          40.63370132446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.11 02:26:42",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.414199829101562,
-          37.08649826049805
         ]
       }
     }
