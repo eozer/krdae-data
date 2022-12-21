@@ -156,6 +156,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.21 01:05:15",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KALENDER-(SIIRT)",
+        "location": "SIIRT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.9921989440918,
+          37.849700927734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.21 00:51:14",
         "depth_km": 9.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.638999938964844,
           37.768798828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.12 03:09:59",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.207500457763672,
-          38.3484992980957
         ]
       }
     }
