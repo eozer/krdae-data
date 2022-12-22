@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.22 09:56:15",
+        "depth_km": 6.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ADIL-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.582799911499023,
+          39.11579895019531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.22 08:44:32",
         "depth_km": 10.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.33580017089844,
           37.3927001953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.13 17:40:55",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GILDIRLI-KARAISALI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.04180145263672,
-          37.362701416015625
         ]
       }
     }
