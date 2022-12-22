@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.22 23:01:26",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MUSTULLAR-AKHISAR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.977500915527344,
+          39.0177001953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.22 22:59:36",
+        "depth_km": 9.600000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ESKINARLI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15999984741211,
+          37.42720031738281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.22 22:29:12",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YUREGIL-SINDIRGI (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.27869987487793,
+          39.09280014038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.22 22:29:07",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.01919937133789,
           40.74380111694336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.14 12:24:27",
-        "depth_km": 13.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BAKIRTOLU-KARATAY (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.80379867553711,
-          37.80950164794922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.14 12:07:13",
-        "depth_km": 25.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "MARMARIS ACIKLARI-MUGLA (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.441299438476562,
-          36.75519943237305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.14 10:27:53",
-        "depth_km": 19.200000762939453,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "HACIKADIRLER-GUMUSOVA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.016700744628906,
-          40.85499954223633
         ]
       }
     }
