@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.24 01:14:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.299999952316284,
+        "place": "ORMANICI-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.79819869995117,
+          38.2421989440918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.24 00:46:45",
         "depth_km": 10.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.535999298095703,
           39.099700927734375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.16 07:03:03",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KIZILAGAC-KARLIOVA (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.777198791503906,
-          39.10430145263672
         ]
       }
     }
