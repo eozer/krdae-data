@@ -80,6 +80,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.25 17:16:50",
+        "depth_km": 35.099998474121094,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BALKICA-TAVAS (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.103500366210938,
+          37.28519821166992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.25 17:06:35",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.385299682617188,
+          40.6619987487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.25 16:37:03",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.45479965209961,
           38.95000076293945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.17 15:54:01",
-        "depth_km": 85.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.4000000953674316,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.611499786376953,
-          35.3297004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.17 15:40:48",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.500999450683594,
-          37.33980178833008
         ]
       }
     }
