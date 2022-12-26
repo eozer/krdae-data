@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.26 11:01:54",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "RECEPLI-(MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.36280059814453,
+          38.92850112915039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.26 10:38:14",
         "depth_km": 7.5,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           31.03969955444336,
           40.913700103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.26 09:51:28",
+        "depth_km": 20.299999237060547,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04400062561035,
+          35.8754997253418
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.890499114990234,
           38.803001403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.18 12:33:07",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.513700485229492,
-          37.34280014038086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.18 12:09:30",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 3.9000000953674316,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.498300552368164,
-          39.33549880981445
         ]
       }
     }
