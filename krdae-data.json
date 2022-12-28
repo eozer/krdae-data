@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.29 01:20:33",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "HACIYAKUP-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0137996673584,
+          40.7692985534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.29 01:17:16",
         "depth_km": 5.599999904632568,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           31.737499237060547,
           40.147499084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.29 01:11:17",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.216299057006836,
+          38.33720016479492
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.19670104980469,
           37.66019821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.21 09:17:12",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "BILALLER-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.36319923400879,
-          39.65449905395508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.21 08:46:44",
-        "depth_km": 24.200000762939453,
-        "MD": 0.0,
-        "ML": 0.699999988079071,
-        "Mw": 0.0,
-        "place": "GOKESME-KAMAN (KIRSEHIR)",
-        "location": "KIRSEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.69430160522461,
-          39.47200012207031
         ]
       }
     }
