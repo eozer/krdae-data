@@ -289,6 +289,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.28 12:34:54",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENIDANISMENT-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.80150032043457,
+          39.87419891357422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.28 12:25:13",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.613500595092773,
           40.707000732421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.20 22:48:19",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "BULGARISTAN",
-        "location": "BULGARISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.527999877929688,
-          41.40330123901367
         ]
       }
     }
