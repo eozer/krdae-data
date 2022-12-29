@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.29 19:12:36",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ALTINYAZI-MUCUR (KIRSEHIR)",
+        "location": "KIRSEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.42319869995117,
+          39.01100158691406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.29 18:54:11",
         "depth_km": 10.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.979299545288086,
           40.80070114135742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.22 01:10:16",
-        "depth_km": 62.599998474121094,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KIBRIS-TUZLA",
-        "location": "KIBRIS-TUZLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.671199798583984,
-          35.00299835205078
         ]
       }
     }
