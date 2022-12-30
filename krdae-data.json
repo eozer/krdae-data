@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.30 10:20:01",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.200000047683716,
+        "place": "BUCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.198299407958984,
+          38.366798400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.30 10:12:53",
         "depth_km": 11.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.16170120239258,
           36.14149856567383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.22 17:34:16",
-        "depth_km": 17.700000762939453,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.8671989440918,
-          36.215301513671875
         ]
       }
     }
