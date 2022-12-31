@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.01 00:12:30",
+        "depth_km": 16.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "TOPAGAC-AKYAZI (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.590200424194336,
+          40.72529983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.31 23:39:24",
         "depth_km": 7.300000190734863,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           26.084800720214844,
           39.34479904174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2022.12.31 23:34:38",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GOLKOY-REFAHIYE (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.06169891357422,
+          39.94850158691406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.36370086669922,
           40.19430160522461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 17:34:48",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "GOBEL-SUSURLUK (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.134300231933594,
-          40.023799896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 17:28:51",
-        "depth_km": 17.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KIBRISIN GUNEY ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.37580108642578,
-          34.35329818725586
         ]
       }
     }
