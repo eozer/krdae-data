@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2022.12.31 06:00:22",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "MEDAR-AKHISAR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.798799514770508,
+          38.97079849243164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2022.12.31 05:58:10",
         "depth_km": 1.7000000476837158,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.391799926757812,
           37.073699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 04:02:54",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DARIYERI-DALAMAN (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.075300216674805,
-          36.85329818725586
         ]
       }
     }
