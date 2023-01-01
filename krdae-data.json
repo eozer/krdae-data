@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.01 20:59:00",
+        "depth_km": 7.599999904632568,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "GAZIEMIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.144699096679688,
+          38.31019973754883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.01 19:40:11",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           28.376800537109375,
           37.082298278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.01 16:38:16",
+        "depth_km": 9.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.147300720214844,
+          37.9734992980957
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.12179946899414,
           34.800498962402344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 23:50:04",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "DARIYERIBAKACAK-KAYNASLI (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.391700744628906,
-          40.788700103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 23:48:40",
-        "depth_km": 18.200000762939453,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "KIZILAGAC-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.392000198364258,
-          37.07350158691406
         ]
       }
     }
