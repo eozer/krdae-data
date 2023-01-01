@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.01 10:01:32",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YAZLIK-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.97279930114746,
+          40.78620147705078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.01 09:58:06",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.731201171875,
           39.20320129394531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.23 22:35:45",
-        "depth_km": 2.700000047683716,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "OREN-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.314199447631836,
-          37.33000183105469
         ]
       }
     }
