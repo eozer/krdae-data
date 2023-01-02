@@ -23,6 +23,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.02 06:12:22",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "INCETARLA-CEYHAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.84479904174805,
+          37.08549880981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.02 05:56:38",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "YILDIZ-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7637996673584,
+          40.25379943847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.02 05:53:28",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BEDESTEN-YAHSIHAN (KIRIKKALE)",
+        "location": "KIRIKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.37080001831055,
+          39.80030059814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.02 05:46:08",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.62779998779297,
           38.356998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.24 06:59:46",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "OZLUCE-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.53499984741211,
-          37.2244987487793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.24 06:56:47",
-        "depth_km": 29.200000762939453,
-        "MD": 0.0,
-        "ML": 0.6000000238418579,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.13719940185547,
-          37.81880187988281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.24 06:45:45",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "NARLI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.1349983215332,
-          37.39469909667969
         ]
       }
     }
