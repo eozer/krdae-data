@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.02 08:44:59",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 4.099999904632568,
+        "place": "DEGIRMENOZU-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.54199981689453,
+          38.801300048828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.02 08:28:07",
         "depth_km": 74.5999984741211,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           45.033199310302734,
           38.62350082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.24 09:27:33",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.268299102783203,
-          38.37080001831055
         ]
       }
     }
