@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.02 20:14:55",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKSAR-HIZAN (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.470001220703125,
+          38.17129898071289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.02 19:47:21",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.904701232910156,
           38.825199127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.25 05:05:36",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 0.6000000238418579,
-        "Mw": 0.0,
-        "place": "OMERLER-GONEN (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.80150032043457,
-          40.039798736572266
         ]
       }
     }
