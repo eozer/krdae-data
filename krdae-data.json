@@ -213,6 +213,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.03 18:18:41",
+        "depth_km": 18.899999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KIZILAGAC-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.374000549316406,
+          37.09379959106445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.03 18:09:08",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KIRMACILI-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15250015258789,
+          37.22549819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.03 17:42:58",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.053699493408203,
           38.192298889160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.26 06:46:59",
-        "depth_km": 23.700000762939453,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "GAZIOLUK-ORHANELI (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.772199630737305,
-          39.86370086669922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.26 06:26:00",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GAZIOLUK-ORHANELI (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.798200607299805,
-          39.845298767089844
         ]
       }
     }
