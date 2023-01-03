@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.03 23:58:46",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.587499618530273,
+          35.9182014465332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.03 23:49:07",
+        "depth_km": 13.899999618530273,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.199999809265137,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.130199432373047,
+          36.558998107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.03 23:47:23",
+        "depth_km": 17.600000381469727,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "ELDENIZLI-(DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.189800262451172,
+          37.87200164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.03 23:08:46",
         "depth_km": 4.800000190734863,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           43.688201904296875,
           42.65999984741211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.26 12:35:38",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "PASALIMANI-ERDEK (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.609500885009766,
-          40.50450134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.26 12:24:03",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KIRKPINAR-SUSUZ (KARS)",
-        "location": "KARS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.04169845581055,
-          40.86949920654297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.26 12:05:39",
-        "depth_km": 19.700000762939453,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "ALIBEYCAGILI-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.36249923706055,
-          36.60070037841797
         ]
       }
     }
