@@ -327,6 +327,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.03 03:27:20",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "OBUZ-TATVAN (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.388301849365234,
+          38.449798583984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.03 03:15:45",
         "depth_km": 15.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.401500701904297,
           37.08420181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.25 23:17:31",
-        "depth_km": 19.899999618530273,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.0999999046325684,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.884700775146484,
-          35.372501373291016
         ]
       }
     }
