@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.03 07:42:21",
+        "depth_km": 4.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CIFTALAN-EYUP (ISTANBUL)",
+        "location": "ISTANBUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.92729949951172,
+          41.196998596191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.03 06:46:42",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKYAZI-(DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.195999145507812,
+          40.87950134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.03 06:02:27",
         "depth_km": 18.100000381469727,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           43.721500396728516,
           38.55400085449219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.03 05:48:13",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SAHINBEY (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3927001953125,
+          37.075801849365234
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.378999710083008,
           37.064998626708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.25 19:54:40",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KIZILAGAC-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.36400032043457,
-          37.069801330566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.25 19:13:35",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0999999046325684,
-        "place": "ZEYTIN-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.07819938659668,
-          37.06230163574219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.25 19:12:51",
-        "depth_km": 11.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "SARNICKOY-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.10930061340332,
-          37.066200256347656
         ]
       }
     }
