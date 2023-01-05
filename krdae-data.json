@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.05 07:21:15",
+        "depth_km": 1.899999976158142,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "SERINHISAR (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.225000381469727,
+          37.58720016479492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.05 06:53:00",
         "depth_km": 1.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           30.99169921875,
           40.70869827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.05 05:35:12",
+        "depth_km": 19.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "OTMANLAR-KOYCEGIZ (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.949499130249023,
+          37.12670135498047
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.115699768066406,
           37.345001220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.27 22:55:00",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DOGANLI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.182701110839844,
-          37.41419982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.27 22:46:31",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "BAYRAMDERE-KARACABEY (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.372800827026367,
-          40.42020034790039
         ]
       }
     }
