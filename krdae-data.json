@@ -2474,6 +2474,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.04 12:49:58",
+        "depth_km": 14.600000381469727,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "YENIBAGARASI-FOCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.893199920654297,
+          38.624298095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.04 12:24:46",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.361000061035156,
           40.824798583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.29 12:23:45",
-        "depth_km": 30.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "BEYCIK-KEMER (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.433500289916992,
-          36.505001068115234
         ]
       }
     }
