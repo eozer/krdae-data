@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.06 14:51:04",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YAZLIK-GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.980199813842773,
+          40.788299560546875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.06 14:35:18",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.47819900512695,
           39.29869842529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.29 11:29:58",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KARAAGACLI-(MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.61349868774414,
-          38.692501068115234
         ]
       }
     }
