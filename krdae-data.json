@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.06 06:12:21",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.803300857543945,
+          35.58169937133789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.06 04:36:50",
         "depth_km": 4.0,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           25.704999923706055,
           35.4630012512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.06 03:37:06",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.889299392700195,
+          35.62229919433594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.89149856567383,
           38.358001708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.28 21:54:56",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.125200271606445,
-          38.96480178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.28 20:51:18",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.17930030822754,
-          38.04899978637695
         ]
       }
     }
