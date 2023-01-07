@@ -327,6 +327,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.07 11:00:24",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "ELMALIK-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.456499099731445,
+          40.75080108642578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.07 10:55:49",
         "depth_km": 15.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.917299270629883,
           38.97330093383789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 13:07:29",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "OMERALTI-MUSTAFAKEMALPASA (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.77720069885254,
-          39.94969940185547
         ]
       }
     }
