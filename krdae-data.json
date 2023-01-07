@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.07 15:48:10",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.231800079345703,
+          37.86029815673828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 15:41:46",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 0.0,
+        "place": "SAVATLI-OZALP (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.92580032348633,
+          38.69350051879883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.07 15:30:03",
         "depth_km": 4.5,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           27.249000549316406,
           37.88349914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 15:22:18",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.24020004272461,
+          39.36399841308594
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.0432014465332,
           40.00429916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 21:16:34",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.096200942993164,
-          36.082298278808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 20:52:04",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.420700073242188,
-          38.71630096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 19:56:30",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.894699096679688,
-          36.44900131225586
         ]
       }
     }
