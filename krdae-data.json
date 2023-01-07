@@ -156,6 +156,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.07 10:20:11",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.22920036315918,
+          39.3745002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 10:19:54",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.22369956970215,
+          39.376800537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 10:18:21",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.222000122070312,
+          39.38529968261719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.07 10:17:13",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           29.37969970703125,
           37.049198150634766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 06:07:28",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KARBASAN-HISARCIK (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.393699645996094,
-          39.20920181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 06:00:22",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "MEDAR-AKHISAR (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.798799514770508,
-          38.97079849243164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 05:58:10",
-        "depth_km": 1.7000000476837158,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARBASAN-HISARCIK (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.353700637817383,
-          39.20819854736328
         ]
       }
     }
