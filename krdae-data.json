@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.07 12:57:37",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.239999771118164,
+          39.385501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 12:56:09",
+        "depth_km": 11.100000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "ESKIBALIKLI-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.10379981994629,
+          40.36819839477539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 12:30:21",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.216699600219727,
+          39.38399887084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.07 12:28:29",
         "depth_km": 8.600000381469727,
         "MD": 0.0,
@@ -17,6 +74,44 @@
         "coordinates": [
           26.243000030517578,
           39.38679885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 12:25:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.247699737548828,
+          38.361698150634766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.07 12:21:22",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.213199615478516,
+          39.378501892089844
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           28.426300048828125,
           37.079200744628906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 08:05:25",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "KEDEK-KEMAH (ERZINCAN)",
-        "location": "ERZINCAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.017799377441406,
-          39.84749984741211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 08:04:25",
-        "depth_km": 19.299999237060547,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.922199249267578,
-          37.58570098876953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 08:00:17",
-        "depth_km": 49.70000076293945,
-        "MD": 0.0,
-        "ML": 4.400000095367432,
-        "Mw": 0.0,
-        "place": "KARADENIZ",
-        "location": "KARADENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.09769821166992,
-          44.824501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 06:57:17",
-        "depth_km": 12.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "DIKMEN-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.116300582885742,
-          40.11949920654297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2022.12.31 06:47:34",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ALINCIK-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.26599884033203,
-          38.46730041503906
         ]
       }
     }
