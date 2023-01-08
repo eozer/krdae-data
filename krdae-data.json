@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.09 00:01:45",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.239700317382812,
+          39.37770080566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.08 23:52:08",
         "depth_km": 6.599999904632568,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           27.018199920654297,
           38.60369873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.08 22:31:08",
+        "depth_km": 17.600000381469727,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "MENEMEN (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.06130027770996,
+          38.6068000793457
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.919700622558594,
           37.04280090332031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.03 03:27:20",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "OBUZ-TATVAN (BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.388301849365234,
-          38.449798583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.03 03:15:45",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BAKLANKUYUCAK-BOZKURT (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.54400062561035,
-          37.88370132446289
         ]
       }
     }
