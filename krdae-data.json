@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.08 09:08:49",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GOLYAKA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.98900032043457,
+          40.77320098876953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.08 09:08:00",
+        "depth_km": 13.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.245500564575195,
+          39.375301361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.08 08:36:58",
         "depth_km": 6.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.37080001831055,
           39.80030059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.02 05:46:08",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "SENOVA-KOVANCILAR (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.95830154418945,
-          38.71480178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.02 05:21:49",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GULPINAR-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.13479995727539,
-          39.538700103759766
         ]
       }
     }
