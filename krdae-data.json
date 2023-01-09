@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.10 00:40:43",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.25320053100586,
+          39.37630081176758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.10 00:06:27",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.248300552368164,
           37.89250183105469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.06 13:32:18",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.700000047683716,
-        "place": "KUSADASI (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.262699127197266,
-          37.884498596191406
         ]
       }
     }
