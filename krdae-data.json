@@ -840,6 +840,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.09 12:44:38",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.21380043029785,
+          39.375701904296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.09 12:42:43",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -1727,6 +1746,25 @@
         "coordinates": [
           26.235000610351562,
           39.37080001831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.09 09:43:20",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "SARIOT-KALE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73500061035156,
+          38.34600067138672
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           32.12080001831055,
           37.616798400878906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.05 21:42:47",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ULUAGAC-CUBUK (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.93149948120117,
-          40.514198303222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.05 21:36:52",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.0177001953125,
-          36.097801208496094
         ]
       }
     }
