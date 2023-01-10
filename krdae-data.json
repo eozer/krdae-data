@@ -1049,6 +1049,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.10 12:56:03",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ISIKLI-SILIFKE (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.67720031738281,
+          36.24720001220703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.10 12:56:01",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YESILOVACIK ACIKLARI-MERSIN (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7156982421875,
+          36.126800537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.10 12:55:25",
         "depth_km": 10.100000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.23900032043457,
           38.33549880981445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.07 15:48:10",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.231800079345703,
-          37.86029815673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.07 15:41:46",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 0.0,
-        "place": "SAVATLI-OZALP (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.92580032348633,
-          38.69350051879883
         ]
       }
     }
