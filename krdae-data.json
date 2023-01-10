@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.10 06:03:39",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.20479965209961,
+          39.355499267578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.10 05:55:42",
         "depth_km": 9.600000381469727,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           26.671300888061523,
           39.250301361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.10 05:54:10",
+        "depth_km": 9.300000190734863,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 2.9000000953674316,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.75749969482422,
+          35.551998138427734
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.267499923706055,
           37.88479995727539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.06 19:19:41",
-        "depth_km": 13.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOLYAKA-ILGIN (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.822999954223633,
-          38.435001373291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.06 18:55:27",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KIZILYAKA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.457300186157227,
-          37.02330017089844
         ]
       }
     }
