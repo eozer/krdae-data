@@ -194,6 +194,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.15 10:00:04",
+        "depth_km": 10.600000381469727,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "TAHTALI-CUMRA (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.457000732421875,
+          37.31100082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.15 09:57:16",
         "depth_km": 7.800000190734863,
         "MD": 0.0,
@@ -283,6 +302,25 @@
         "coordinates": [
           27.21820068359375,
           38.33700180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.15 09:42:35",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.24880027770996,
+          39.38180160522461
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.231700897216797,
           39.38100051879883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 13:59:50",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.276199340820312,
-          39.378501892089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 13:58:50",
-        "depth_km": 11.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.263500213623047,
-          39.37580108642578
         ]
       }
     }
