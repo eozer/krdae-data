@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.15 09:49:51",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.21820068359375,
+          38.33700180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.15 09:20:24",
         "depth_km": 16.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.2322998046875,
           39.38949966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 11:55:14",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.239500045776367,
-          39.387699127197266
         ]
       }
     }
