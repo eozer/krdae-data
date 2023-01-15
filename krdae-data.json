@@ -175,6 +175,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.15 10:08:21",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "COMLEKCI-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.983800888061523,
+          40.224700927734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.15 09:57:16",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2322998046875,
+          38.35599899291992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.15 09:54:05",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.230300903320312,
+          38.3401985168457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.15 09:52:15",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.263500213623047,
           39.37580108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 13:36:25",
-        "depth_km": 15.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "EDREMIT KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.284500122070312,
-          39.40679931640625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 13:35:48",
-        "depth_km": 2.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.173999786376953,
-          37.8568000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.11 13:10:36",
-        "depth_km": 11.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ZEYTINKOY-SELCUK (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.287500381469727,
-          37.940799713134766
         ]
       }
     }
