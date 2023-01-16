@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.16 22:21:12",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.963499069213867,
+          39.52870178222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.16 22:01:10",
         "depth_km": 12.800000190734863,
         "MD": 0.0,
@@ -5158,13 +5177,13 @@
         "MD": 0.0,
         "ML": 3.0,
         "Mw": 2.9000000953674316,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "place": "ZAFER-BUCA (IZMIR)",
         "location": "IZMIR"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.204999923706055,
+          27.204700469970703,
           38.364498138427734
         ]
       }
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.284299850463867,
           39.34379959106445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.12 23:57:47",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "SURIYE",
-        "location": "SURIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.59280014038086,
-          35.604000091552734
         ]
       }
     }
