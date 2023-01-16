@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.16 09:37:38",
+        "depth_km": 16.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENIGUN-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.207000732421875,
+          37.38850021362305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.16 09:30:48",
         "depth_km": 4.400000095367432,
         "MD": 0.0,
@@ -138,18 +157,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.01.16 09:18:17",
-        "depth_km": 2.0,
+        "depth_km": 1.7999999523162842,
         "MD": 0.0,
         "ML": 2.4000000953674316,
         "Mw": 0.0,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "place": "ZAFER-BUCA (IZMIR)",
         "location": "IZMIR"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.22319984436035,
-          38.338199615478516
+          27.22369956970215,
+          38.339500427246094
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.273700714111328,
           39.37300109863281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.12 14:10:31",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KARATEPE-KADIRLI (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.26570129394531,
-          37.26919937133789
         ]
       }
     }
