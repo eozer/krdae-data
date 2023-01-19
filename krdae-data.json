@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.19 12:04:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KOCAKENT-MAZIDAGI (MARDIN)",
+        "location": "MARDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.35350036621094,
+          37.5276985168457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.19 08:58:32",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.239200592041016,
           38.345001220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.14 18:43:08",
-        "depth_km": 3.700000047683716,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KAVURGA-VIRANSEHIR (SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.91429901123047,
-          37.07379913330078
         ]
       }
     }
