@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.19 12:44:59",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GURCAYIR-SARKISLA (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3745002746582,
+          39.32400131225586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.19 12:12:42",
         "depth_km": 8.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.796199798583984,
           35.580501556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.14 19:46:17",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CAMLIOVA-KAS (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.5398006439209,
-          36.369300842285156
         ]
       }
     }
