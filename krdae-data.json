@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.21 20:01:42",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BEDIRBEY-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.41119956970215,
+          37.35200119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.21 19:34:27",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           39.28580093383789,
           38.54719924926758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.21 19:04:12",
+        "depth_km": 12.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MAVIKENT ACIKLARI-ANTALYA (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447500228881836,
+          36.15999984741211
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.270200729370117,
           39.38130187988281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 05:38:06",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YESILKOY-TORBALI (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.253000259399414,
-          38.25550079345703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 05:37:38",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KISIK-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.196300506591797,
-          38.293800354003906
         ]
       }
     }
