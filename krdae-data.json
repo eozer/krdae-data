@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.22 19:55:38",
+        "depth_km": 2.299999952316284,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAPINAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.322500228881836,
+          37.884300231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.22 19:35:11",
         "depth_km": 12.600000381469727,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           44.3828010559082,
           39.673301696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.22 18:44:06",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SARILAR-SEHITKAMIL (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.09700012207031,
+          37.216800689697266
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.21579933166504,
           39.372798919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 20:23:13",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.23430061340332,
-          38.347198486328125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 20:15:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ESKIBALIKLI-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.10580062866211,
-          40.368499755859375
         ]
       }
     }
