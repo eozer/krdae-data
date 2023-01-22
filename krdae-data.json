@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.22 11:37:15",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0,
+        "place": "AYAN-ERBAA (TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72330093383789,
+          40.66019821166992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.22 10:03:05",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.266700744628906,
           39.36479949951172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 15:33:40",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.029300689697266,
-          40.78300094604492
         ]
       }
     }
