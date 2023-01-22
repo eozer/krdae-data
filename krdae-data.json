@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.22 19:35:11",
+        "depth_km": 12.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.83769989013672,
+          37.80830001831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.22 19:33:43",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KARAPINAR-CAL (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.34000015258789,
+          37.8849983215332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.22 19:27:40",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           44.3828010559082,
           39.673301696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.22 17:55:56",
+        "depth_km": 14.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ESENLIK-BULANIK (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.11429977416992,
+          39.029998779296875
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.25029945373535,
           38.32899856567383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 19:33:21",
-        "depth_km": 8.600000381469727,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
-        "location": "ARDAHAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.804500579833984,
-          40.7943000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 19:32:55",
-        "depth_km": 14.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.203699111938477,
-          38.34270095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.16 19:03:39",
-        "depth_km": 11.800000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOKDERE-BORNOVA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.239200592041016,
-          38.37179946899414
         ]
       }
     }
