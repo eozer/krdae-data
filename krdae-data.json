@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.23 11:04:33",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.027000427246094,
+          37.81999969482422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.23 10:49:15",
+        "depth_km": 4.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SEKLI-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.729299545288086,
+          40.15420150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.23 10:28:17",
+        "depth_km": 12.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KOZAN-SARIKAMIS (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.571998596191406,
+          39.990699768066406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.23 10:18:35",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           41.57699966430664,
           39.307701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 00:58:15",
-        "depth_km": 11.100000381469727,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.265199661254883,
-          39.3745002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 00:47:30",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.979799270629883,
-          39.512298583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 00:35:26",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.962499618530273,
-          39.52730178833008
         ]
       }
     }
