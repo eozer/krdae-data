@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.23 12:36:43",
+        "depth_km": 15.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CAMALAN-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.24530029296875,
+          39.54069900512695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.23 12:30:23",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           26.263500213623047,
           39.8828010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.23 12:28:44",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.49530029296875,
+          37.35300064086914
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.237300872802734,
           38.35850143432617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 01:21:51",
-        "depth_km": 15.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKYAZI (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.612300872802734,
-          40.68429946899414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 01:20:32",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ERMENISTAN-GURCISTAN SINIR BOLGESI",
-        "location": "ERMENISTAN-GURCISTAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.87220001220703,
-          41.10649871826172
         ]
       }
     }
