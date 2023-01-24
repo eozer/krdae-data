@@ -251,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.24 13:29:49",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.15999984741211,
+          34.94369888305664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.24 13:17:24",
         "depth_km": 5.099999904632568,
         "MD": 0.0,
@@ -2069,6 +2088,25 @@
         "coordinates": [
           27.430999755859375,
           39.332801818847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.23 03:53:19",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BASCIMAGIL-(BAYBURT)",
+        "location": "BAYBURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.52130126953125,
+          40.0802001953125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           24.011199951171875,
           35.00450134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.18 00:36:42",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.22369956970215,
-          39.374298095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.18 00:12:41",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.49370002746582,
-          37.34519958496094
         ]
       }
     }
