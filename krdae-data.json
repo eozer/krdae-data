@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.24 12:42:27",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KOCAHAMZALI-YENISEHIR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.52370071411133,
+          36.864200592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.24 12:35:00",
+        "depth_km": 1.2999999523162842,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "INDERESI-BAHCE (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.63330078125,
+          37.28969955444336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.24 12:26:53",
         "depth_km": 6.699999809265137,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           36.262298583984375,
           36.62419891357422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.24 12:26:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.707298278808594,
+          38.66849899291992
         ]
       }
     },
@@ -61,19 +118,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.01.24 12:15:01",
+        "timestamp": "2023.01.24 12:14:53",
         "depth_km": 0.0,
         "MD": 0.0,
-        "ML": 1.600000023841858,
+        "ML": 1.2000000476837158,
         "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
+        "place": "GUNEYKOY-(YALOVA)",
+        "location": "YALOVA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.72819900512695,
-          36.23830032348633
+          29.2898006439209,
+          40.53929901123047
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.23979949951172,
           39.36650085449219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 18:29:36",
-        "depth_km": 25.899999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.128299713134766,
-          38.256500244140625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 17:26:34",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KABAKDERE-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.795000076293945,
-          39.69430160522461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.17 16:24:49",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.2367000579834,
-          38.324501037597656
         ]
       }
     }
