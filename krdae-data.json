@@ -365,6 +365,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.25 17:12:44",
+        "depth_km": 13.800000190734863,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.63249969482422,
+          35.73030090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.25 17:11:00",
         "depth_km": 8.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.86050033569336,
           39.49570083618164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.19 14:17:04",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "SEKI-TAVAS (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.865299224853516,
-          37.699798583984375
         ]
       }
     }
