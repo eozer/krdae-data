@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.25 08:31:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.64120101928711,
+          38.53200149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.25 08:21:23",
         "depth_km": 1.399999976158142,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.58799934387207,
           40.547298431396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.18 23:49:16",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BELENBASI-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.274700164794922,
-          38.3468017578125
         ]
       }
     }
