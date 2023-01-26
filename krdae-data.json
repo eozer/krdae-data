@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.26 14:51:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GOKDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.257299423217773,
+          38.357200622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.26 14:34:02",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.582298278808594,
+          38.56999969482422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.26 14:19:53",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           29.308700561523438,
           39.56420135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.26 13:45:39",
+        "depth_km": 27.600000381469727,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KABAAGAC-SARAYKOY (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.735000610351562,
+          37.93370056152344
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.743499755859375,
           39.19049835205078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.20 08:37:23",
-        "depth_km": 86.5999984741211,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 3.5999999046325684,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.65049934387207,
-          36.14569854736328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.20 07:49:15",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "DERBENT-(YOZGAT)",
-        "location": "YOZGAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.68280029296875,
-          39.95650100708008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.20 06:16:06",
-        "depth_km": 13.800000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "SEKERBEY-(CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.00630187988281,
-          40.44599914550781
         ]
       }
     }
