@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.29 22:34:18",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ZAFER-BUCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.198699951171875,
+          38.34280014038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.29 22:16:31",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GAZIEMIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.134199142456055,
+          38.300201416015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.29 21:46:20",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           44.798500061035156,
           38.54499816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.01.29 20:53:13",
+        "depth_km": 18.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YUKARICIYANLI-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1786994934082,
+          37.34669876098633
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.24799919128418,
           39.37900161743164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.22 00:59:54",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.50629997253418,
-          37.34130096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.22 00:47:26",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.88279914855957,
-          39.479000091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.22 00:37:04",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "RODOS ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.242000579833984,
-          36.33879852294922
         ]
       }
     }
