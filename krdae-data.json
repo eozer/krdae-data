@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.01.30 09:54:04",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BOZKOY-BERGAMA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.11479949951172,
+          39.024200439453125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.01.30 09:31:19",
         "depth_km": 19.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.21500015258789,
           39.27220153808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.22 11:37:15",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0,
-        "place": "AYAN-ERBAA (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.72330093383789,
-          40.66019821166992
         ]
       }
     }
