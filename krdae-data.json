@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.01 13:14:54",
+        "depth_km": 23.700000762939453,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "KORHASAN-CIFTELER (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.21579933166504,
+          39.39849853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.01 12:54:54",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           44.805198669433594,
           38.50529861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.01 12:22:21",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "YUKARIDAGDERE-HONAZ (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.405000686645508,
+          37.77629852294922
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.120201110839844,
           37.825199127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 03:56:48",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.23579978942871,
-          38.34479904174805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 03:49:32",
-        "depth_km": 12.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KOPRUBASI OMEREFENDI-(DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.043800354003906,
-          40.821998596191406
         ]
       }
     }
