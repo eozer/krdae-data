@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.01 11:07:53",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "EGNEZ-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.560800552368164,
+          39.07680130004883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.01 10:02:02",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           27.536800384521484,
           40.71630096435547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.01 09:36:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.199800491333008,
+          39.3203010559082
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.479799270629883,
           37.10449981689453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 01:06:49",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "HOROZGEDIGI-ALIAGA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.917699813842773,
-          38.717498779296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 01:01:04",
-        "depth_km": 86.80000305175781,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.157499313354492,
-          35.983699798583984
         ]
       }
     }
