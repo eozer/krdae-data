@@ -175,6 +175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.02 09:35:45",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.52080154418945,
+          39.1692008972168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.02 09:01:48",
         "depth_km": 10.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.59950065612793,
           35.882301330566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 20:10:26",
-        "depth_km": 27.700000762939453,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.47719955444336,
-          35.69279861450195
         ]
       }
     }
