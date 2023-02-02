@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.02 16:02:24",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "BOLUKLU-HIZAN (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.53120040893555,
+          38.06570053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.02 15:26:42",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           36.25519943237305,
           37.74919891357422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.02 13:58:10",
+        "depth_km": 6.400000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SAVKOY-(ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.657499313354492,
+          37.74729919433594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.578500747680664,
           35.82929992675781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 21:40:29",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.299999952316284,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.652299880981445,
-          35.76969909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.25 21:35:10",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.184200286865234,
-          39.381500244140625
         ]
       }
     }
