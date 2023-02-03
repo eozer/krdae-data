@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.03 19:16:21",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "TASLIDERE-BOLVADIN (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.125699996948242,
+          38.82699966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.03 19:06:01",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.32600021362305,
           38.032798767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.26 13:28:12",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GOKSU-SOLHAN (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.07899856567383,
-          38.988800048828125
         ]
       }
     }
