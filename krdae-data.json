@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.03 15:22:33",
+        "depth_km": 3.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.597299575805664,
+          36.87670135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.03 14:54:11",
         "depth_km": 13.600000381469727,
         "MD": 0.0,
@@ -36,6 +55,44 @@
         "coordinates": [
           29.41080093383789,
           39.242000579833984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.03 14:38:38",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YASTICA-MUSABEYLI (KILIS)",
+        "location": "KILIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047298431396484,
+          36.993499755859375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.03 14:37:13",
+        "depth_km": 12.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "YAZLAMAZLI-DUZICI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.33879852294922,
+          37.20180130004883
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.930299758911133,
           38.83869934082031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.26 12:03:31",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YENIYAZI-GENC (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.582698822021484,
-          38.657798767089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.26 11:56:40",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "CALISKANLAR-(SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.690799713134766,
-          37.115299224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.26 11:54:41",
-        "depth_km": 15.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.680500030517578,
-          35.834800720214844
         ]
       }
     }
