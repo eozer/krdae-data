@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.05 21:34:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "IRAN",
+        "location": "IRAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.97420120239258,
+          38.58369827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.05 21:24:30",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           31.125499725341797,
           38.60419845581055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.05 21:21:32",
+        "depth_km": 20.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KIRIKLI-KARAISALI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21480178833008,
+          37.17729949951172
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.80430030822754,
           39.11819839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.29 03:45:44",
-        "depth_km": 11.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.268800735473633,
-          39.34920120239258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.29 03:37:40",
-        "depth_km": 14.800000190734863,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.119300842285156,
-          38.437801361083984
         ]
       }
     }
