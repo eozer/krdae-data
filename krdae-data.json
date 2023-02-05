@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.05 23:28:24",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AGRI",
+        "location": "AGRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.04999923706055,
+          39.71030044555664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.05 23:26:47",
+        "depth_km": 3.5999999046325684,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KARAPURCEK (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.482799530029297,
+          40.66080093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.05 23:25:40",
         "depth_km": 11.399999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.868499755859375,
           40.410701751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.29 07:22:48",
-        "depth_km": 23.700000762939453,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "DIKILITAS-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.91400146484375,
-          37.17399978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.29 06:48:05",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 3.9000000953674316,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.170501708984375,
-          38.382999420166016
         ]
       }
     }
