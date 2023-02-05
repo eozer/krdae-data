@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.05 03:15:09",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.0999999046325684,
+        "place": "KAGITHANE (ISTANBUL)",
+        "location": "ISTANBUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9601993560791,
+          41.097801208496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.05 02:31:17",
         "depth_km": 2.9000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.193199157714844,
           36.63100051879883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.28 12:13:17",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KOCAS-SIVRIHISAR (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.641199111938477,
-          39.45370101928711
         ]
       }
     }
