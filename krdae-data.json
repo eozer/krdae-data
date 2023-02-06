@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.06 12:23:45",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 4.900000095367432,
+        "Mw": 4.5,
+        "place": "KULLU-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40719985961914,
+          36.93600082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.06 12:05:50",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 0.0,
+        "place": "CIGLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.09450149536133,
+          37.48970031738281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.06 12:05:17",
         "depth_km": 6.400000095367432,
         "MD": 0.0,
@@ -1081,6 +1119,25 @@
         "coordinates": [
           38.1682014465332,
           38.00400161743164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.06 08:51:50",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.5999999046325684,
+        "place": "AKCAOVA-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.225799560546875,
+          36.27880096435547
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.207000732421875,
           39.3661994934082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.31 08:47:11",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.2189998626709,
-          39.38169860839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.31 08:45:01",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "RODOS ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.077800750732422,
-          36.090999603271484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.01.31 08:37:04",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.172500610351562,
-          39.34370040893555
         ]
       }
     }
