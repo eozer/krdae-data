@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.07 21:43:21",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 0.0,
+        "place": "HACIMIRZA-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50979995727539,
+          38.04199981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 21:43:10",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.5,
+        "place": "MADENKOY-ULUKISLA (NIGDE)",
+        "location": "NIGDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.65119934082031,
+          37.40829849243164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.07 21:38:41",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.79069900512695,
           38.138999938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 19:51:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.299999952316284,
-        "place": "HASANALILI-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.65530014038086,
-          38.170501708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 19:49:20",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 0.0,
-        "place": "GORGU-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.09230041503906,
-          38.27429962158203
         ]
       }
     }
