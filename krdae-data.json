@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.07 20:24:14",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "UGUROVA-(BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2677001953125,
+          39.01020050048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 20:22:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.06330108642578,
+          38.12820053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 20:20:36",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 0.0,
+        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4197998046875,
+          38.0994987487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 20:17:09",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 0.0,
+        "place": "KARAKOSE-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.47650146484375,
+          38.09270095825195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.07 20:04:47",
         "depth_km": 8.399999618530273,
         "MD": 0.0,
@@ -93,6 +169,25 @@
         "coordinates": [
           36.56480026245117,
           38.069000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 19:47:01",
+        "depth_km": 15.300000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0999999046325684,
+        "place": "GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50849914550781,
+          38.013301849365234
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.52880096435547,
           38.08829879760742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 18:03:44",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KUSCUMUSTAFA-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.61050033569336,
-          37.11249923706055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 18:01:24",
-        "depth_km": 7.099999904632568,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 0.0,
-        "place": "SARAYCIK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.59270095825195,
-          38.030799865722656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 17:55:28",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 0.0,
-        "place": "HAMZALAR-GOLBASI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.66699981689453,
-          37.92580032348633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 17:53:57",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "ADAPINAR-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.84579849243164,
-          37.12929916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 17:51:14",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 4.400000095367432,
-        "Mw": 0.0,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.47549819946289,
-          38.13169860839844
         ]
       }
     }
