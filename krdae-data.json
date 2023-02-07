@@ -4,6 +4,101 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.07 10:11:12",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 5.5,
+        "Mw": 5.5,
+        "place": "KOZLUK-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.60929870605469,
+          38.09299850463867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 10:01:26",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "SURGU-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.99620056152344,
+          38.042701721191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 09:58:19",
+        "depth_km": 17.200000762939453,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.4000000953674316,
+        "place": "NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72529983520508,
+          37.16830062866211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 09:56:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.4000000953674316,
+        "place": "KURSUNLU-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85319900512695,
+          38.64500045776367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 09:56:17",
+        "depth_km": 18.200000762939453,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.5,
+        "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8473014831543,
+          38.20399856567383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.07 09:55:12",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -188,6 +283,25 @@
         "coordinates": [
           36.888301849365234,
           37.331199645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.07 09:20:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 0.0,
+        "place": "MAHMUTBEY-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.475799560546875,
+          38.0994987487793
         ]
       }
     },
@@ -9384,120 +9498,6 @@
         "coordinates": [
           37.31719970703125,
           38.0348014831543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 07:03:21",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 0.0,
-        "place": "KOKLUCE-ARABAN (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.59469985961914,
-          37.48080062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 07:01:15",
-        "depth_km": 17.100000381469727,
-        "MD": 0.0,
-        "ML": 4.0,
-        "Mw": 0.0,
-        "place": "KIRISKAL-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.84349822998047,
-          37.23619842529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 06:58:18",
-        "depth_km": 16.5,
-        "MD": 0.0,
-        "ML": 4.300000190734863,
-        "Mw": 0.0,
-        "place": "RESATLI-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.36370086669922,
-          36.47700119018555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 06:55:38",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 0.0,
-        "place": "BALKAR-GOLBASI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.55870056152344,
-          37.72999954223633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 06:54:00",
-        "depth_km": 16.200000762939453,
-        "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 0.0,
-        "place": "BAHCELI-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.08919906616211,
-          37.699501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.06 06:52:44",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 0.0,
-        "place": "CINARPINAR-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.55400085449219,
-          37.67720031738281
         ]
       }
     }
