@@ -4,19 +4,76 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.08 07:25:10",
-        "depth_km": 5.300000190734863,
+        "timestamp": "2023.02.08 07:39:29",
+        "depth_km": 2.5,
         "MD": 0.0,
-        "ML": 2.0,
+        "ML": 3.0999999046325684,
         "Mw": 0.0,
-        "place": "HACIHASANLI-ELBISTAN (KAHRAMANMARAS)",
+        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.410701751708984,
+          38.0989990234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.08 07:38:14",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "KAYIRCIK-TUFANBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.31850051879883,
+          38.15800094604492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.08 07:32:45",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.2057991027832,
-          38.389801025390625
+          36.63019943237305,
+          38.06370162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.08 07:25:09",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "BAHCEDERE-MADEN (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.50170135498047,
+          38.43450164794922
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.28670120239258,
           37.619998931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.07 06:25:23",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.62030029296875,
-          38.12179946899414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.07 06:23:48",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KOMURKOY-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.56079864501953,
-          38.169498443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.07 06:20:14",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "MINEHUYUK-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.87419891357422,
-          37.29130172729492
         ]
       }
     }
