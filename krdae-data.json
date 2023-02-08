@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.08 14:23:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.800000190734863,
+        "Mw": 4.800000190734863,
+        "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62900161743164,
+          37.99169921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.08 14:11:50",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           37.40250015258789,
           38.07830047607422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.08 13:55:04",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.125999450683594,
+          37.99879837036133
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.2067985534668,
           38.4370002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.07 10:11:12",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 5.5,
-        "Mw": 5.5,
-        "place": "KOZLUK-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.60929870605469,
-          38.09299850463867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.07 10:10:09",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.63529968261719,
-          36.187801361083984
         ]
       }
     }
