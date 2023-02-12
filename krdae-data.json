@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.12 17:25:39",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.4000000953674316,
+        "place": "PINARBASI-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.18069839477539,
+          38.01599884033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 17:19:50",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKSU-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.485198974609375,
+          38.10850143432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.12 17:14:59",
         "depth_km": 7.400000095367432,
         "MD": 0.0,
@@ -112,6 +150,25 @@
         "coordinates": [
           30.458799362182617,
           40.67770004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 16:55:45",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKCIL-CILDIR (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.27000045776367,
+          41.36069869995117
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.854000091552734,
           37.85279846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 13:06:38",
-        "depth_km": 27.200000762939453,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.33250045776367,
-          38.05849838256836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 13:04:17",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6693000793457,
-          38.0182991027832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 13:01:47",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KARAKUYU-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.19770050048828,
-          38.12099838256836
         ]
       }
     }
