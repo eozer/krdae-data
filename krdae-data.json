@@ -4,19 +4,95 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.12 16:11:25",
-        "depth_km": 8.399999618530273,
+        "timestamp": "2023.02.12 16:22:48",
+        "depth_km": 20.0,
         "MD": 0.0,
-        "ML": 3.200000047683716,
+        "ML": 2.799999952316284,
         "Mw": 0.0,
-        "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+        "place": "MELEKLI-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35100173950195,
+          36.28070068359375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 16:20:48",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YARBASI-PAZARCIK (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.821998596191406,
-          37.28150177001953
+          37.24150085449219,
+          37.47850036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 16:16:42",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "ARMUTLU-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.25469970703125,
+          37.49679946899414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 16:14:27",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.882999420166016,
+          37.91600036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.12 16:11:25",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 2.9000000953674316,
+        "place": "AKCALI-TURKOGLU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.78580093383789,
+          37.3120002746582
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           38.19419860839844,
           38.070499420166016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 12:15:09",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "IKIZKUYU-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.95650100708008,
-          37.14780044555664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 12:12:41",
-        "depth_km": 12.899999618530273,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "ALTINKAYA-ALTINOZU (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.25,
-          36.140201568603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 12:10:10",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.797298431396484,
-          38.119998931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.11 12:07:51",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.54349899291992,
-          38.06019973754883
         ]
       }
     }
