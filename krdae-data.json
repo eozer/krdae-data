@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.13 20:42:24",
+        "depth_km": 8.5,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.52870178222656,
+          37.99549865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.13 20:25:53",
         "depth_km": 21.200000762939453,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           36.57419967651367,
           38.061500549316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.13 19:54:24",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "AKTEPE-HASSA (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.485198974609375,
+          36.68470001220703
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.882999420166016,
           37.91600036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.12 16:11:25",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 2.9000000953674316,
-        "place": "AKCALI-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.78580093383789,
-          37.3120002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.12 16:07:41",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.64500045776367,
-          38.05580139160156
         ]
       }
     }
