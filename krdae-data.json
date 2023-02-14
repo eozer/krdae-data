@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.14 08:17:41",
+        "depth_km": 12.899999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KARAEVLI-(TEKIRDAG)",
+        "location": "TEKIRDAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.655000686645508,
+          41.04499816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.14 08:12:39",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SATIRHUYUK-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.97629928588867,
+          37.205501556396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.14 08:06:15",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.733299255371094,
           38.08729934692383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.13 03:12:25",
-        "depth_km": 4.199999809265137,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "ORDEKDEDE-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.09379959106445,
-          37.3125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.13 03:11:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.53419876098633,
-          38.08470153808594
         ]
       }
     }
