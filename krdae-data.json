@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.15 10:18:58",
-        "depth_km": 6.099999904632568,
+        "timestamp": "2023.02.15 10:28:42",
+        "depth_km": 10.100000381469727,
         "MD": 0.0,
-        "ML": 2.9000000953674316,
+        "ML": 3.0,
         "Mw": 0.0,
-        "place": "GECITLI-SINCIK (ADIYAMAN)",
+        "place": "SARIKAMIS-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69369888305664,
+          38.61069869995117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.15 10:18:57",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "KARAKOSE-SINCIK (ADIYAMAN)",
         "location": "ADIYAMAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.52920150756836,
-          38.11399841308594
+          38.481300354003906,
+          38.09349822998047
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.28030014038086,
           38.074798583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.14 05:18:16",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "ELDES-ILGIN (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.00579833984375,
-          38.210201263427734
         ]
       }
     }
