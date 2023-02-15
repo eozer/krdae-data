@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.15 21:43:44",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ALTINOBA-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4197998046875,
+          38.23249816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.15 21:36:10",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "KOKPINAR-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6796989440918,
+          38.21369934082031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.15 21:34:54",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           38.64849853515625,
           38.21820068359375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.15 21:26:11",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ALTINYAYLA-ANDIRIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.50550079345703,
+          37.7421989440918
         ]
       }
     },
@@ -42,8 +99,8 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.15 21:04:47",
-        "depth_km": 7.0,
+        "timestamp": "2023.02.15 21:04:46",
+        "depth_km": 5.0,
         "MD": 0.0,
         "ML": 2.9000000953674316,
         "Mw": 0.0,
@@ -53,8 +110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.60200119018555,
-          37.90729904174805
+          36.617000579833984,
+          37.875701904296875
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.534698486328125,
           38.0343017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.14 15:30:34",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.464298248291016,
-          38.13679885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.14 15:29:33",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "BOZKOY-GERMENCIK (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.61520004272461,
-          37.93069839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.14 15:24:45",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CEVREPINAR (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.6172981262207,
-          37.84769821166992
         ]
       }
     }
