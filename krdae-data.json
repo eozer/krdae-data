@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.21 00:16:40",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "MAGARACIK-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.839298248291016,
+          36.04930114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.21 00:06:52",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "SARIYATAK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.23270034790039,
+          38.46730041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.21 00:05:40",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KAZKELI-KIRIKHAN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.36349868774414,
+          36.419498443603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.21 00:02:23",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "YAYLACIK-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.044700622558594,
+          36.284698486328125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.21 00:00:38",
         "depth_km": 1.399999976158142,
         "MD": 0.0,
@@ -23,19 +99,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.20 23:53:46",
-        "depth_km": 4.400000095367432,
+        "timestamp": "2023.02.20 23:53:42",
+        "depth_km": 20.200000762939453,
         "MD": 0.0,
-        "ML": 2.4000000953674316,
+        "ML": 2.700000047683716,
         "Mw": 0.0,
-        "place": "CAGLAYAN-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
+        "place": "KAPISUYU-SAMANDAG (HATAY)",
+        "location": "HATAY"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.450801849365234,
-          38.053001403808594
+          35.84749984741211,
+          36.1510009765625
         ]
       }
     },
@@ -112,6 +188,25 @@
         "coordinates": [
           36.21730041503906,
           36.06629943847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.20 23:33:52",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GULDEREN-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.095001220703125,
+          36.319801330566406
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           36.72800064086914,
           38.04629898071289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.19 20:56:46",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "DEDELER-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.74250030517578,
-          37.26319885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.19 20:51:47",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.799999952316284,
-        "place": "SOGUT-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.73379898071289,
-          38.04869842529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.19 20:45:16",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "DEDELER-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.70100021362305,
-          37.24480056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.19 20:44:25",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.83319854736328,
-          38.124298095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.19 20:41:48",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.32500076293945,
-          37.946998596191406
         ]
       }
     }
