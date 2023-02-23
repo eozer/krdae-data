@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.23 10:42:30",
+        "depth_km": 15.800000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "TOYGARLI-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.073299407958984,
+          36.207298278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.23 10:33:35",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "CALIS-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.01219940185547,
+          38.125701904296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.23 10:30:07",
+        "depth_km": 14.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "BALCILAR-KOYCEGIZ (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.59830093383789,
+          37.082298278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.23 10:26:10",
         "depth_km": 22.700000762939453,
         "MD": 0.0,
@@ -213,19 +270,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.23 09:49:58",
-        "depth_km": 5.5,
+        "timestamp": "2023.02.23 09:53:57",
+        "depth_km": 0.0,
         "MD": 0.0,
-        "ML": 2.0999999046325684,
+        "ML": 2.0,
         "Mw": 0.0,
-        "place": "ABBASLAR-(KAHRAMANMARAS)",
+        "place": "DURULDU (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.176700592041016,
+          38.316200256347656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.23 09:49:58",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.04949951171875,
-          37.3932991027832
+          37.09629821777344,
+          37.37030029296875
         ]
       }
     },
@@ -256,7 +332,7 @@
         "MD": 0.0,
         "ML": 2.0,
         "Mw": 0.0,
-        "place": "DONGEL-(KAHRAMANMARAS)",
+        "place": "DONGEL (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -275,7 +351,7 @@
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "AFSAR-(KAHRAMANMARAS)",
+        "place": "AFSAR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -290,7 +366,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.23 09:39:56",
-        "depth_km": 13.300000190734863,
+        "depth_km": 13.199999809265137,
         "MD": 0.0,
         "ML": 1.7999999523162842,
         "Mw": 0.0,
@@ -300,7 +376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.138999938964844,
+          28.137300491333008,
           39.35850143432617
         ]
       }
@@ -327,8 +403,8 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.23 09:22:03",
-        "depth_km": 4.900000095367432,
+        "timestamp": "2023.02.23 09:22:02",
+        "depth_km": 5.0,
         "MD": 0.0,
         "ML": 2.5999999046325684,
         "Mw": 0.0,
@@ -338,8 +414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.59080123901367,
-          38.125
+          38.587501525878906,
+          38.14400100708008
         ]
       }
     },
@@ -397,25 +473,6 @@
         "coordinates": [
           36.46049880981445,
           38.08720016479492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.23 09:11:03",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.38750076293945,
-          37.93880081176758
         ]
       }
     },
@@ -503,7 +560,7 @@
         "MD": 0.0,
         "ML": 1.399999976158142,
         "Mw": 0.0,
-        "place": "GAFARLI-(KAHRAMANMARAS)",
+        "place": "GAFARLI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -511,25 +568,6 @@
         "coordinates": [
           37.06800079345703,
           37.61149978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.23 08:49:57",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TETIRLIK-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.28179931640625,
-          37.530799865722656
         ]
       }
     },
@@ -750,7 +788,7 @@
         "MD": 0.0,
         "ML": 2.700000047683716,
         "Mw": 0.0,
-        "place": "CEVREPINAR-(KAHRAMANMARAS)",
+        "place": "CEVREPINAR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -788,7 +826,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "KARAGOZ-(MALATYA)",
+        "place": "KARAGOZ (MALATYA)",
         "location": "MALATYA"
       },
       "geometry": {
@@ -864,7 +902,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "ORHANLI-(HATAY)",
+        "place": "ORHANLI (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -921,7 +959,7 @@
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "HASANLI-(HATAY)",
+        "place": "HASANLI (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1035,7 +1073,7 @@
         "MD": 0.0,
         "ML": 2.0,
         "Mw": 0.0,
-        "place": "KARLISU-(HATAY)",
+        "place": "KARLISU (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1054,7 +1092,7 @@
         "MD": 0.0,
         "ML": 2.5,
         "Mw": 0.0,
-        "place": "UZUNKOY-(ADIYAMAN)",
+        "place": "UZUNKOY (ADIYAMAN)",
         "location": "ADIYAMAN"
       },
       "geometry": {
@@ -1092,7 +1130,7 @@
         "MD": 0.0,
         "ML": 2.9000000953674316,
         "Mw": 0.0,
-        "place": "KURUCAOVA-(KAHRAMANMARAS)",
+        "place": "KURUCAOVA (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -1168,7 +1206,7 @@
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "CEVREPINAR-(KAHRAMANMARAS)",
+        "place": "CEVREPINAR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -1296,27 +1334,8 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.23 06:18:09",
-        "depth_km": 1.7000000476837158,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "DUTLUPINAR-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.03620147705078,
-          37.008201599121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "timestamp": "2023.02.23 06:15:57",
-        "depth_km": 6.900000095367432,
+        "depth_km": 4.900000095367432,
         "MD": 0.0,
         "ML": 3.0,
         "Mw": 0.0,
@@ -1326,8 +1345,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.104000091552734,
-          37.29650115966797
+          37.1068000793457,
+          37.30379867553711
         ]
       }
     },
@@ -1548,7 +1567,7 @@
         "MD": 0.0,
         "ML": 2.0,
         "Mw": 0.0,
-        "place": "KAPICAM-(KAHRAMANMARAS)",
+        "place": "KAPICAM (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -1567,7 +1586,7 @@
         "MD": 0.0,
         "ML": 1.7999999523162842,
         "Mw": 0.0,
-        "place": "ORTACALI-(ELAZIG)",
+        "place": "ORTACALI (ELAZIG)",
         "location": "ELAZIG"
       },
       "geometry": {
@@ -1795,7 +1814,7 @@
         "MD": 0.0,
         "ML": 4.199999809265137,
         "Mw": 0.0,
-        "place": "GOKCEGOZ-(HATAY)",
+        "place": "GOKCEGOZ (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1890,7 +1909,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "PASAKOY-(HATAY)",
+        "place": "PASAKOY (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1909,7 +1928,7 @@
         "MD": 0.0,
         "ML": 2.4000000953674316,
         "Mw": 0.0,
-        "place": "DOGANKOY-(HATAY)",
+        "place": "DOGANKOY (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1947,7 +1966,7 @@
         "MD": 0.0,
         "ML": 2.4000000953674316,
         "Mw": 0.0,
-        "place": "TANISMA-(HATAY)",
+        "place": "TANISMA (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -1962,18 +1981,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.23 04:11:04",
-        "depth_km": 17.200000762939453,
+        "depth_km": 5.5,
         "MD": 0.0,
         "ML": 2.4000000953674316,
         "Mw": 0.0,
-        "place": "INCIRLI-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
+        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.97650146484375,
-          37.250999450683594
+          36.371700286865234,
+          37.865699768066406
         ]
       }
     },
@@ -2023,7 +2042,7 @@
         "MD": 0.0,
         "ML": 2.5999999046325684,
         "Mw": 0.0,
-        "place": "ZULUFLUHAN-(HATAY)",
+        "place": "ZULUFLUHAN (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -2042,7 +2061,7 @@
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "TEKIR-(KAHRAMANMARAS)",
+        "place": "TEKIR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2099,7 +2118,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "KUZEYTEPE-(HATAY)",
+        "place": "KUZEYTEPE (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -2270,7 +2289,7 @@
         "MD": 0.0,
         "ML": 2.0,
         "Mw": 0.0,
-        "place": "AKTAS-(NIGDE)",
+        "place": "AKTAS (NIGDE)",
         "location": "NIGDE"
       },
       "geometry": {
@@ -2289,7 +2308,7 @@
         "MD": 0.0,
         "ML": 2.299999952316284,
         "Mw": 0.0,
-        "place": "KURUCAOVA-(KAHRAMANMARAS)",
+        "place": "KURUCAOVA (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2308,7 +2327,7 @@
         "MD": 0.0,
         "ML": 1.399999976158142,
         "Mw": 0.0,
-        "place": "FEVZIYE-(DUZCE)",
+        "place": "FEVZIYE (DUZCE)",
         "location": "DUZCE"
       },
       "geometry": {
@@ -2346,7 +2365,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "CAMLICA-(KAHRAMANMARAS)",
+        "place": "CAMLICA (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2384,7 +2403,7 @@
         "MD": 0.0,
         "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "KURUCAOVA-(KAHRAMANMARAS)",
+        "place": "KURUCAOVA (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2498,7 +2517,7 @@
         "MD": 0.0,
         "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "KARSIYAKA-(HATAY)",
+        "place": "KARSIYAKA (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -2525,6 +2544,25 @@
         "coordinates": [
           33.304298400878906,
           36.61069869995117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.23 02:44:13",
+        "depth_km": 13.100000381469727,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BAHCE (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.199501037597656,
+          37.23270034790039
         ]
       }
     },
@@ -2574,7 +2612,7 @@
         "MD": 0.0,
         "ML": 3.0999999046325684,
         "Mw": 3.200000047683716,
-        "place": "NOHUTTEPE-(OSMANIYE)",
+        "place": "NOHUTTEPE (OSMANIYE)",
         "location": "OSMANIYE"
       },
       "geometry": {
@@ -2593,7 +2631,7 @@
         "MD": 0.0,
         "ML": 2.0,
         "Mw": 0.0,
-        "place": "SAHINKAYASI-(KAHRAMANMARAS)",
+        "place": "SAHINKAYASI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2935,7 +2973,7 @@
         "MD": 0.0,
         "ML": 1.2999999523162842,
         "Mw": 0.0,
-        "place": "TEKIR-(KAHRAMANMARAS)",
+        "place": "TEKIR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -2987,12 +3025,31 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.23 01:47:36",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ELMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.62099838256836,
+          37.983001708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.23 01:43:44",
         "depth_km": 6.300000190734863,
         "MD": 0.0,
         "ML": 3.700000047683716,
         "Mw": 3.700000047683716,
-        "place": "TEVEKKELLI-(KAHRAMANMARAS)",
+        "place": "TEVEKKELLI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -3030,7 +3087,7 @@
         "MD": 0.0,
         "ML": 3.4000000953674316,
         "Mw": 3.200000047683716,
-        "place": "KARLISU-(HATAY)",
+        "place": "KARLISU (HATAY)",
         "location": "HATAY"
       },
       "geometry": {
@@ -3049,7 +3106,7 @@
         "MD": 0.0,
         "ML": 1.0,
         "Mw": 0.0,
-        "place": "YEMLICE-(VAN)",
+        "place": "YEMLICE (VAN)",
         "location": "VAN"
       },
       "geometry": {
@@ -3087,7 +3144,7 @@
         "MD": 0.0,
         "ML": 1.7000000476837158,
         "Mw": 0.0,
-        "place": "ALIBEYUSAGI-(KAHRAMANMARAS)",
+        "place": "ALIBEYUSAGI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -3106,7 +3163,7 @@
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "DEREOBASI-(OSMANIYE)",
+        "place": "DEREOBASI (OSMANIYE)",
         "location": "OSMANIYE"
       },
       "geometry": {
@@ -3353,7 +3410,7 @@
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "KUMARLI-(KAHRAMANMARAS)",
+        "place": "KUMARLI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -3505,7 +3562,7 @@
         "MD": 0.0,
         "ML": 1.7999999523162842,
         "Mw": 0.0,
-        "place": "SAHINKAYASI-(KAHRAMANMARAS)",
+        "place": "SAHINKAYASI (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
@@ -3652,27 +3709,27 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 23:58:36",
-        "depth_km": 5.0,
+        "timestamp": "2023.02.22 23:58:37",
+        "depth_km": 4.0,
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
+        "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.67649841308594,
-          38.060298919677734
+          36.602500915527344,
+          38.09579849243164
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 23:55:20",
-        "depth_km": 9.0,
+        "timestamp": "2023.02.22 23:55:21",
+        "depth_km": 9.800000190734863,
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
@@ -3682,8 +3739,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.07350158691406,
-          37.36600112915039
+          37.0906982421875,
+          37.36629867553711
         ]
       }
     },
@@ -3691,7 +3748,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:52:17",
-        "depth_km": 9.600000381469727,
+        "depth_km": 13.899999618530273,
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
@@ -3701,8 +3758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.37950134277344,
-          37.777801513671875
+          36.39849853515625,
+          37.784000396728516
         ]
       }
     },
@@ -3710,18 +3767,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:49:58",
-        "depth_km": 1.899999976158142,
+        "depth_km": 5.5,
         "MD": 0.0,
         "ML": 1.399999976158142,
         "Mw": 0.0,
-        "place": "AHMETCIK-GOKSUN (KAHRAMANMARAS)",
+        "place": "GUCUKSU-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.64419937133789,
-          38.0343017578125
+          36.641998291015625,
+          38.0443000793457
         ]
       }
     },
@@ -3729,7 +3786,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:48:09",
-        "depth_km": 28.799999237060547,
+        "depth_km": 28.399999618530273,
         "MD": 0.0,
         "ML": 1.7999999523162842,
         "Mw": 0.0,
@@ -3739,8 +3796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.04079818725586,
-          38.45800018310547
+          37.04119873046875,
+          38.45930099487305
         ]
       }
     },
@@ -3748,9 +3805,9 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:39:52",
-        "depth_km": 4.5,
+        "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 2.4000000953674316,
+        "ML": 2.299999952316284,
         "Mw": 0.0,
         "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
@@ -3758,8 +3815,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.459999084472656,
-          37.830501556396484
+          36.45029830932617,
+          37.83620071411133
         ]
       }
     },
@@ -3767,18 +3824,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:36:06",
-        "depth_km": 5.400000095367432,
+        "depth_km": 4.900000095367432,
         "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 0.0,
+        "ML": 4.0,
+        "Mw": 4.099999904632568,
         "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
         "location": "ADIYAMAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.43519973754883,
-          38.077999114990234
+          38.42919921875,
+          38.08420181274414
         ]
       }
     },
@@ -3786,7 +3843,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:33:35",
-        "depth_km": 14.300000190734863,
+        "depth_km": 13.699999809265137,
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
@@ -3796,8 +3853,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.205299377441406,
-          39.187801361083984
+          40.207298278808594,
+          39.18579864501953
         ]
       }
     },
@@ -3805,7 +3862,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:26:34",
-        "depth_km": 4.800000190734863,
+        "depth_km": 5.400000095367432,
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
@@ -3816,7 +3873,7 @@
         "type": "Point",
         "coordinates": [
           36.715999603271484,
-          38.055999755859375
+          38.057498931884766
         ]
       }
     },
@@ -3824,37 +3881,56 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:24:33",
-        "depth_km": 6.5,
+        "depth_km": 6.599999904632568,
         "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.0999999046325684,
         "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.51499938964844,
-          38.064998626708984
+          37.51250076293945,
+          38.06079864501953
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 23:19:22",
-        "depth_km": 1.2999999523162842,
+        "timestamp": "2023.02.22 23:19:23",
+        "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 1.5,
+        "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "DUTLU-AKCADAG (MALATYA)",
+        "place": "CEVIRME-AKCADAG (MALATYA)",
         "location": "MALATYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.737300872802734,
-          38.317298889160156
+          37.77000045776367,
+          38.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 23:17:03",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.826499938964844,
+          38.23379898071289
         ]
       }
     },
@@ -3862,28 +3938,142 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 23:16:08",
-        "depth_km": 16.799999237060547,
+        "depth_km": 15.0,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "DEGIRMENDERE-ERENLER (SAKARYA)",
+        "place": "KEMALIYE-ARIFIYE (SAKARYA)",
         "location": "SAKARYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.43400001525879,
-          40.665000915527344
+          30.41069984436035,
+          40.67250061035156
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:52:07",
-        "depth_km": 4.699999809265137,
+        "timestamp": "2023.02.22 23:12:16",
+        "depth_km": 11.199999809265137,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "KAPISUYU-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.918701171875,
+          36.16899871826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 23:09:34",
+        "depth_km": 13.699999809265137,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27050018310547,
+          38.147499084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 23:09:21",
+        "depth_km": 20.5,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TEPECIK-MADEN (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.588199615478516,
+          38.543800354003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 23:06:26",
+        "depth_km": 15.0,
         "MD": 0.0,
         "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KOKLUCE-PALU (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.144500732421875,
+          38.7848014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 23:03:15",
+        "depth_km": 1.100000023841858,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ALIHAN-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68199920654297,
+          38.20199966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 22:53:17",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.822200775146484,
+          37.28670120239258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 22:52:08",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
         "place": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
@@ -3891,8 +4081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.12630081176758,
-          38.12099838256836
+          37.12269973754883,
+          38.11579895019531
         ]
       }
     },
@@ -3900,7 +4090,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:51:09",
-        "depth_km": 7.5,
+        "depth_km": 12.899999618530273,
         "MD": 0.0,
         "ML": 2.5,
         "Mw": 0.0,
@@ -3910,8 +4100,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.77669906616211,
-          38.257198333740234
+          37.747501373291016,
+          38.24420166015625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.22 22:45:49",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35900115966797,
+          37.95199966430664
         ]
       }
     },
@@ -3919,56 +4128,37 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:39:48",
-        "depth_km": 4.0,
+        "depth_km": 5.699999809265137,
         "MD": 0.0,
         "ML": 2.299999952316284,
         "Mw": 0.0,
-        "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
+        "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5547981262207,
-          38.04249954223633
+          37.5885009765625,
+          38.04999923706055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:39:39",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "MESTAN-(ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.23720169067383,
-          37.972198486328125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 22:35:28",
+        "timestamp": "2023.02.22 22:35:27",
         "depth_km": 5.0,
         "MD": 0.0,
         "ML": 2.700000047683716,
         "Mw": 0.0,
-        "place": "CEVREPINAR-(KAHRAMANMARAS)",
+        "place": "CEVREPINAR (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.60179901123047,
-          37.83570098876953
+          36.602298736572266,
+          37.83219909667969
         ]
       }
     },
@@ -3976,9 +4166,9 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:34:37",
-        "depth_km": 5.300000190734863,
+        "depth_km": 11.600000381469727,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 1.899999976158142,
         "Mw": 0.0,
         "place": "ACIELMA-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
@@ -3986,8 +4176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.40800094604492,
-          38.00550079345703
+          36.402000427246094,
+          38.004798889160156
         ]
       }
     },
@@ -3999,22 +4189,22 @@
         "MD": 0.0,
         "ML": 1.899999976158142,
         "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.3203010559082,
-          37.94179916381836
+          36.32429885864258,
+          37.96630096435547
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:30:12",
-        "depth_km": 5.0,
+        "timestamp": "2023.02.22 22:30:13",
+        "depth_km": 5.099999904632568,
         "MD": 0.0,
         "ML": 2.9000000953674316,
         "Mw": 0.0,
@@ -4024,8 +4214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.28929901123047,
-          38.05149841308594
+          37.272300720214844,
+          38.05699920654297
         ]
       }
     },
@@ -4033,7 +4223,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:29:28",
-        "depth_km": 18.899999618530273,
+        "depth_km": 19.200000762939453,
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
@@ -4043,35 +4233,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.34700012207031,
-          37.92070007324219
+          36.35279846191406,
+          37.91999816894531
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:27:34",
-        "depth_km": 21.700000762939453,
+        "timestamp": "2023.02.22 22:27:36",
+        "depth_km": 18.299999237060547,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "BEYPINARI-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
+        "place": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.25519943237305,
-          38.114498138427734
+          36.63019943237305,
+          38.152198791503906
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:25:30",
-        "depth_km": 20.100000381469727,
+        "timestamp": "2023.02.22 22:25:31",
+        "depth_km": 20.600000381469727,
         "MD": 0.0,
         "ML": 2.0999999046325684,
         "Mw": 0.0,
@@ -4081,8 +4271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.930198669433594,
-          36.2322998046875
+          35.93170166015625,
+          36.22999954223633
         ]
       }
     },
@@ -4090,7 +4280,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:22:51",
-        "depth_km": 7.099999904632568,
+        "depth_km": 7.5,
         "MD": 0.0,
         "ML": 1.7000000476837158,
         "Mw": 0.0,
@@ -4100,8 +4290,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.22570037841797,
-          37.8932991027832
+          36.22679901123047,
+          37.8942985534668
         ]
       }
     },
@@ -4130,7 +4320,7 @@
         "timestamp": "2023.02.22 22:13:29",
         "depth_km": 14.5,
         "MD": 0.0,
-        "ML": 2.200000047683716,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
         "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
@@ -4138,8 +4328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.32870101928711,
-          37.95119857788086
+          36.32749938964844,
+          37.951698303222656
         ]
       }
     },
@@ -4147,37 +4337,37 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:11:29",
-        "depth_km": 9.100000381469727,
+        "depth_km": 8.5,
         "MD": 0.0,
         "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "SATIRHUYUK-NURDAGI (GAZIANTEP)",
+        "Mw": 2.9000000953674316,
+        "place": "INCIRLI-NURDAGI (GAZIANTEP)",
         "location": "GAZIANTEP"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.97529983520508,
-          37.2140007019043
+          36.977699279785156,
+          37.24769973754883
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:07:10",
-        "depth_km": 3.200000047683716,
+        "timestamp": "2023.02.22 22:07:11",
+        "depth_km": 5.300000190734863,
         "MD": 0.0,
-        "ML": 2.200000047683716,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "YAGMURLU-GOKSUN (KAHRAMANMARAS)",
+        "place": "HACIOMER-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.568199157714844,
-          38.077701568603516
+          36.5797004699707,
+          38.06129837036133
         ]
       }
     },
@@ -4185,7 +4375,7 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.02.22 22:05:20",
-        "depth_km": 13.100000381469727,
+        "depth_km": 13.300000190734863,
         "MD": 0.0,
         "ML": 1.600000023841858,
         "Mw": 0.0,
@@ -4195,27 +4385,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.78120040893555,
-          38.09870147705078
+          36.77920150756836,
+          38.099300384521484
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.02.22 22:02:14",
-        "depth_km": 6.900000095367432,
+        "timestamp": "2023.02.22 22:02:15",
+        "depth_km": 15.0,
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "DAMLATAS-PAZARCIK (KAHRAMANMARAS)",
+        "place": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.25749969482422,
-          37.4734992980957
+          37.18899917602539,
+          37.5099983215332
         ]
       }
     },
@@ -9308,196 +9498,6 @@
         "coordinates": [
           36.59629821777344,
           38.0525016784668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:33:29",
-        "depth_km": 24.600000381469727,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "ULUKOY (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.52299880981445,
-          38.172000885009766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:31:57",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.003999710083008,
-          37.84450149536133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:29:13",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SARIERIK-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.09519958496094,
-          37.336700439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:23:24",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "EKINOZU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.202301025390625,
-          38.07929992675781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:20:49",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "SUCATI-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.97919845581055,
-          38.19649887084961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:19:08",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KARTALDERE-MADEN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.60350036621094,
-          38.57529830932617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:18:51",
-        "depth_km": 19.399999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CICEK-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.14720153808594,
-          37.326698303222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:16:49",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KARACAGIL-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.36830139160156,
-          36.58250045776367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:13:26",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKDEMIR-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.003501892089844,
-          37.27920150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.22 07:09:20",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0999999046325684,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.51279830932617,
-          38.076698303222656
         ]
       }
     }
