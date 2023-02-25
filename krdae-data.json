@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.25 17:35:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.9000000953674316,
+        "place": "ESENLIK-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67279815673828,
+          38.160301208496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.25 17:25:07",
         "depth_km": 10.899999618530273,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           36.38629913330078,
           36.23419952392578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.25 17:23:19",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "CECELI-TURKOGLU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8046989440918,
+          37.33679962158203
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.93450164794922,
           36.314998626708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.24 08:55:24",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "EYUPLU-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.11220169067383,
-          37.945701599121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.24 08:52:37",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.486000061035156,
-          38.120201110839844
         ]
       }
     }
