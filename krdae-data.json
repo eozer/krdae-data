@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.26 20:25:28",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.0999999046325684,
+        "place": "HACIBEBEK-TURKOGLU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.93199920654297,
+          37.34379959106445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.26 20:17:10",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           38.62779998779297,
           38.181800842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.26 20:00:26",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUMBETLI-NIKSAR (TOKAT)",
+        "location": "TOKAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75270080566406,
+          40.638999938964844
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.15829849243164,
           37.53200149536133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.25 19:30:39",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "ULUTAS-DOGANYOL (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.10329818725586,
-          38.25199890136719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.25 19:18:38",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KARPUZSEKISI-HACILAR (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.30099868774414,
-          38.7140007019043
         ]
       }
     }
