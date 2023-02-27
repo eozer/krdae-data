@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.27 09:41:22",
+        "depth_km": 14.100000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.298301696777344,
+          37.9370002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.27 09:40:23",
+        "depth_km": 18.299999237060547,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "SAKARCIFTLIGI-HACILAR (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.362300872802734,
+          38.63169860839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.27 09:31:41",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           35.9557991027832,
           36.21500015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.27 09:28:39",
+        "depth_km": 16.200000762939453,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.799999952316284,
+        "place": "PELITLI-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.63850021362305,
+          38.26029968261719
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.34600067138672,
           37.967498779296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.26 04:36:37",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.0443000793457,
-          37.31949996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.26 04:35:22",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.53519821166992,
-          38.40520095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.26 04:32:28",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARTALKOY-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.956298828125,
-          37.079498291015625
         ]
       }
     }
