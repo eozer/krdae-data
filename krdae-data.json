@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.02.27 14:26:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MALATYA",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.313201904296875,
+          38.30970001220703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.02.27 14:16:27",
         "depth_km": 28.5,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           36.4197998046875,
           38.11399841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.02.27 14:06:17",
+        "depth_km": 14.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "CILBOGAZ-BESNI (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.84379959106445,
+          37.72819900512695
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.21080017089844,
           37.542198181152344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.26 07:39:48",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "YENIKOY-EKINOZU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.10169982910156,
-          38.02669906616211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.26 07:37:39",
-        "depth_km": 1.2000000476837158,
-        "MD": 0.0,
-        "ML": 3.9000000953674316,
-        "Mw": 3.9000000953674316,
-        "place": "CIFTLIKKALE-EKINOZU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.119300842285156,
-          38.03850173950195
         ]
       }
     }
