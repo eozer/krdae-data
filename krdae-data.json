@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.03 09:55:39",
+        "depth_km": 11.600000381469727,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.513999938964844,
+          34.88019943237305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.03 09:51:03",
         "depth_km": 16.700000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.5343017578125,
           37.703800201416016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.02.28 21:19:10",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "UZUNKOY (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.04650115966797,
-          37.93170166015625
         ]
       }
     }
