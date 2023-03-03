@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.03 20:08:58",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "DEREKOY-GUMUSOVA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.902299880981445,
+          40.79750061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.03 20:07:16",
         "depth_km": 12.699999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           37.36629867553711,
           38.139198303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.03 19:45:05",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ORSELLI-(MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.271499633789062,
+          38.862998962402344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.1077995300293,
           38.00199890136719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.01 11:42:17",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.84120178222656,
-          37.402000427246094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.01 11:33:47",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "PAZARCIK-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.74530029296875,
-          38.20180130004883
         ]
       }
     }
