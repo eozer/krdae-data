@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.11 23:27:00",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SUVATLI-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27880096435547,
+          36.312198638916016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.11 23:22:33",
         "depth_km": 9.300000190734863,
         "MD": 0.0,
@@ -61,19 +80,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.03.11 23:09:26",
-        "depth_km": 7.0,
+        "timestamp": "2023.03.11 23:09:25",
+        "depth_km": 7.800000190734863,
         "MD": 0.0,
-        "ML": 1.899999976158142,
+        "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "SUGUL-DARENDE (MALATYA)",
-        "location": "MALATYA"
+        "place": "KAVAKKOY-GURUN (SIVAS)",
+        "location": "SIVAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.528499603271484,
-          38.42250061035156
+          37.20320129394531,
+          38.5994987487793
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.32469940185547,
           38.16019821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.10 12:42:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "MECIDIYE-EZINE (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.24970054626465,
-          39.8390007019043
         ]
       }
     }
