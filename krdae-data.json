@@ -574,6 +574,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.13 19:45:29",
+        "depth_km": 21.399999618530273,
+        "MD": 0.0,
+        "ML": 0.699999988079071,
+        "Mw": 0.0,
+        "place": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.06420135498047,
+          37.306800842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.13 19:44:04",
         "depth_km": 9.899999618530273,
         "MD": 0.0,
@@ -606,6 +625,25 @@
         "coordinates": [
           36.32699966430664,
           38.01430130004883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.13 19:28:30",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "NARLI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13679885864258,
+          37.403499603271484
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.76799964904785,
           36.016700744628906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.12 01:43:46",
-        "depth_km": 3.700000047683716,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KARSIYAKA (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.05820083618164,
-          36.05970001220703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.12 01:35:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SALKONAK-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.42380142211914,
-          38.1328010559082
         ]
       }
     }
