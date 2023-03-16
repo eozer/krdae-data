@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.16 09:43:31",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SARIZ (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52199935913086,
+          38.46900177001953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.16 09:42:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27180099487305,
+          37.994300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.16 09:40:29",
+        "depth_km": 11.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "POLAT-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8650016784668,
+          38.14970016479492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.16 09:35:43",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "YAKINCA-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.22249984741211,
+          38.3125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.16 09:33:46",
         "depth_km": 6.400000095367432,
         "MD": 0.0,
@@ -17,6 +93,25 @@
         "coordinates": [
           37.56919860839844,
           38.06700134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.16 09:29:38",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YESILPINAR-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.106201171875,
+          38.735801696777344
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.76150131225586,
           38.11280059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.14 21:16:56",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.2942008972168,
-          37.957801818847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.14 21:11:36",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKTOPRAK-GOLBASI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.70119857788086,
-          37.87730026245117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.14 21:07:39",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKCAOVA (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.23630142211914,
-          36.304298400878906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.14 21:01:38",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KURUCAOVA (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.56399917602539,
-          37.913700103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.14 20:59:08",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUZEYTEPE (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.179298400878906,
-          36.25899887084961
         ]
       }
     }
