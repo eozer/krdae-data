@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.20 23:36:39",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "HALKACAYIRI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.071800231933594,
+          37.3922004699707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.20 23:34:55",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.306800842285156,
+          37.86199951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.20 23:33:54",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KOSK-HUYUK (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.641700744628906,
+          37.860198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.20 23:33:09",
+        "depth_km": 30.700000762939453,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "MEYDAN-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.946800231933594,
+          36.013301849365234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.20 23:30:59",
         "depth_km": 4.199999809265137,
         "MD": 0.0,
@@ -36,6 +112,25 @@
         "coordinates": [
           36.95100021362305,
           37.40679931640625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.20 23:28:12",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "ARITOPRAK-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66130065917969,
+          38.173500061035156
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.85599899291992,
           38.276798248291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 07:27:55",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HACIIBRAHIMUSAGI (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.80070114135742,
-          37.91830062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 07:14:25",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.0999999046325684,
-        "place": "GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.48099899291992,
-          38.01969909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 07:10:09",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.61669921875,
-          38.0348014831543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 07:05:47",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.448299407958984,
-          38.108299255371094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 07:01:40",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BALABAN-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.5890007019043,
-          38.48929977416992
         ]
       }
     }
