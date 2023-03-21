@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.22 02:30:06",
+        "depth_km": 9.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YESILTEPE-KAYNASLI (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.395200729370117,
+          40.72869873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.22 02:27:16",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -62,18 +81,37 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.03.22 02:13:53",
-        "depth_km": 9.800000190734863,
+        "depth_km": 10.399999618530273,
         "MD": 0.0,
         "ML": 1.7999999523162842,
         "Mw": 0.0,
-        "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
+        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.529300689697266,
-          38.06829833984375
+          37.516998291015625,
+          38.083499908447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.22 02:13:48",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YOLUSTU-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.70280075073242,
+          38.64569854736328
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.07979965209961,
           37.3401985168457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.20 04:24:26",
-        "depth_km": 2.700000047683716,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.200000047683716,
-        "place": "FINDIK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.73830032348633,
-          38.07320022583008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.20 04:22:10",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.26850128173828,
-          38.23529815673828
         ]
       }
     }
