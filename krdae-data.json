@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.21 19:49:26",
+        "depth_km": 25.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KAPIKAYA-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.733699798583984,
+          37.80179977416992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.21 19:49:23",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ZAFER-BUCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.204200744628906,
+          38.345001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.21 19:44:16",
         "depth_km": 2.700000047683716,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           36.52170181274414,
           37.94350051879883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.21 19:30:56",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AHMETADIL-AKYURT (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.26319885253906,
+          40.09429931640625
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.20320129394531,
           38.36199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 23:38:46",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SAMANDAG (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.96080017089844,
-          36.084800720214844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 23:38:02",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TEKEVLER-MADEN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.625301361083984,
-          38.48400115966797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 23:32:46",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.436500549316406,
-          37.958499908447266
         ]
       }
     }
