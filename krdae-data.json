@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.21 11:27:53",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.9000000953674316,
+        "Mw": 3.799999952316284,
+        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.30120086669922,
+          37.821800231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.21 11:23:47",
         "depth_km": 2.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.742000579833984,
           37.839500427246094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.19 19:42:40",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.232999801635742,
-          38.337501525878906
         ]
       }
     }
