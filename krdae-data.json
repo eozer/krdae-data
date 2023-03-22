@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.22 17:06:03",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TEPECIK-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3838005065918,
+          38.66899871826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.22 16:32:23",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -156,10 +175,10 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.03.22 14:56:49",
-        "depth_km": 5.0,
+        "timestamp": "2023.03.22 14:56:48",
+        "depth_km": 5.5,
         "MD": 0.0,
-        "ML": 1.899999976158142,
+        "ML": 2.5,
         "Mw": 0.0,
         "place": "SURIYE",
         "location": "SURIYE"
@@ -167,8 +186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.62099838256836,
-          35.29199981689453
+          36.739200592041016,
+          35.24919891357422
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.4197998046875,
           37.935699462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.20 18:51:41",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.200000047683716,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.211200714111328,
-          35.871498107910156
         ]
       }
     }
