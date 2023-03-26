@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.26 10:27:27",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.700000047683716,
+        "place": "DOGU AKDENIZ",
+        "location": "DOGU AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4651985168457,
+          35.20650100708008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.26 10:19:10",
         "depth_km": 7.099999904632568,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           33.90169906616211,
           35.77320098876953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.26 10:15:48",
+        "depth_km": 17.700000762939453,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ZAFER-BUCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.220699310302734,
+          38.32820129394531
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           41.77429962158203,
           41.55030059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.24 17:24:50",
-        "depth_km": 16.799999237060547,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.45349884033203,
-          37.948699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.24 17:18:15",
-        "depth_km": 20.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SOGUTLU-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.60580062866211,
-          38.183799743652344
         ]
       }
     }
