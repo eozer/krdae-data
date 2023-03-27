@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.27 12:17:24",
+        "depth_km": 23.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KARAHASANUSAGI-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.555301666259766,
+          38.128700256347656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.27 12:13:44",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "ACIKGUNEY-KIGI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.20220184326172,
+          39.24250030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.27 12:10:17",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.30780029296875,
+          37.93550109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.27 12:05:27",
         "depth_km": 8.699999809265137,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.966699600219727,
           37.03919982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 10:49:45",
-        "depth_km": 16.899999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "OZAN-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.87620162963867,
-          38.51350021362305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 10:33:53",
-        "depth_km": 19.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ORTAKOY-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.34450149536133,
-          38.14799880981445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 10:31:15",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "GOKCEDERE-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.720699310302734,
-          37.166500091552734
         ]
       }
     }
