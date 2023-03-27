@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.27 21:27:20",
+        "depth_km": 6.400000095367432,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.37929916381836,
+          37.852500915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.27 21:22:29",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.48099899291992,
+          38.03099822998047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.27 21:02:33",
         "depth_km": 2.0999999046325684,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           26.22170066833496,
           39.35029983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.27 20:47:50",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUZOLUK-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.90520095825195,
+          37.08679962158203
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.72420120239258,
           38.2869987487793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 18:35:03",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.30080032348633,
-          37.81650161743164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 18:26:47",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.4922981262207,
-          38.124000549316406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.25 18:21:38",
-        "depth_km": 1.2999999523162842,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KARTALKOY-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.96730041503906,
-          37.1171989440918
         ]
       }
     }
