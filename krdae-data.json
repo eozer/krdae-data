@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.28 21:35:07",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KARAHAN-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.134700775146484,
+          38.40700149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.28 21:12:37",
         "depth_km": 8.800000190734863,
         "MD": 0.0,
@@ -112,6 +131,44 @@
         "coordinates": [
           36.334800720214844,
           37.910301208496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.28 20:21:39",
+        "depth_km": 13.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "SOGUTLUOZ-KIRIKHAN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.45869827270508,
+          36.601200103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.28 20:15:17",
+        "depth_km": 4.199999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MELIKLER-SUTCULER (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.865800857543945,
+          37.42250061035156
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.279699325561523,
           39.37229919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.26 11:20:57",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.499698638916016,
-          38.08449935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.26 11:17:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.319698333740234,
-          37.97679901123047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.26 11:08:32",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KARLISU-(HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.072200775146484,
-          36.2932014465332
         ]
       }
     }
