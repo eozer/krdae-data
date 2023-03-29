@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.29 12:41:26",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "AZGANLIK-ISKENDERUN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2151985168457,
+          36.69150161743164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.29 12:39:38",
+        "depth_km": 14.300000190734863,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0999999046325684,
+        "place": "ISALI-SUHUT (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.709299087524414,
+          38.558998107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.29 12:15:20",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -150,6 +188,25 @@
         "coordinates": [
           36.57820129394531,
           38.06629943847656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.29 11:20:52",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "DEMIRCILER-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.038299560546875,
+          37.35749816894531
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.698299407958984,
           38.290199279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.27 01:49:46",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.2932014465332,
-          37.84669876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.27 01:47:05",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.79029846191406,
-          38.13880157470703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.27 01:43:12",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.240501403808594,
-          37.86920166015625
         ]
       }
     }
