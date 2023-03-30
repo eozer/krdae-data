@@ -213,6 +213,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.03.30 05:06:39",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ORTAKOY-AKSEHIR (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.529699325561523,
+          38.46099853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.03.30 04:54:58",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -264,6 +283,25 @@
         "coordinates": [
           36.25680160522461,
           35.9556999206543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.03.30 04:10:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "UZUMLU-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.389198303222656,
+          38.27320098876953
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.111698150634766,
           38.35150146484375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.28 01:52:40",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AKOLUK-FEKE (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.058998107910156,
-          37.78229904174805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.28 01:50:42",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KASIKLI-MUTKI (BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.83530044555664,
-          38.371299743652344
         ]
       }
     }
