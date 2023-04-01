@@ -23,6 +23,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.01 04:22:00",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.331199645996094,
+          37.887699127197266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.01 04:19:24",
+        "depth_km": 14.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.269798278808594,
+          37.89500045776367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.01 03:59:29",
         "depth_km": 2.799999952316284,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.204498291015625,
           37.54399871826172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.30 01:33:07",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KAYNAR (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.552799224853516,
-          37.806800842285156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.30 01:26:27",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YESILYAYLA-SUMBAS (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.1068000793457,
-          37.5703010559082
         ]
       }
     }
