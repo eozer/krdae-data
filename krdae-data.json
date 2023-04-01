@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.01 17:32:06",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KARAYILAN-ISKENDERUN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.23929977416992,
+          36.71580123901367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.01 17:25:16",
         "depth_km": 14.899999618530273,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           37.21799850463867,
           37.627498626708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.01 17:24:09",
+        "depth_km": 22.700000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "TOYGARLI-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.070701599121094,
+          36.225799560546875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.766300201416016,
           38.07699966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.30 09:25:04",
-        "depth_km": 14.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.27180099487305,
-          37.935699462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.30 09:22:50",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "AVCILARSUYU-ARSUZ (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.89550018310547,
-          36.3306999206543
         ]
       }
     }
