@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.02 18:32:43",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 3.5999999046325684,
+        "place": "AKSAAGAC-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.22129821777344,
+          37.897499084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.02 18:16:21",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MURATLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52119827270508,
+          37.47800064086914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.02 17:03:33",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.23249816894531,
           37.9557991027832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.31 09:17:44",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUYUMCULAR-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.9093017578125,
-          37.43629837036133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.03.31 09:14:37",
-        "depth_km": 24.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GOLBAGI-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.23429870605469,
-          38.069698333740234
         ]
       }
     }
