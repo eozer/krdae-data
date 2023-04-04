@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.04 22:40:50",
+        "depth_km": 15.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.34749984741211,
+          38.35329818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.04 22:33:21",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KALEDIBI-ISKENDERUN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.31700134277344,
+          36.653499603271484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.04 22:22:10",
         "depth_km": 8.699999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.46220016479492,
           36.88079833984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.02 11:07:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.44499969482422,
-          38.10900115966797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.02 10:56:59",
-        "depth_km": 20.200000762939453,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.34199905395508,
-          38.33679962158203
         ]
       }
     }
