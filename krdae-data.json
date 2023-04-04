@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.04 16:54:23",
+        "depth_km": 14.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SOGUTLU-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.60319900512695,
+          38.229000091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.04 16:39:51",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -157,9 +176,9 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.04.04 15:53:14",
-        "depth_km": 6.099999904632568,
+        "depth_km": 3.9000000953674316,
         "MD": 0.0,
-        "ML": 2.0999999046325684,
+        "ML": 2.200000047683716,
         "Mw": 0.0,
         "place": "AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)",
         "location": "MARMARA DENIZI"
@@ -167,8 +186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.728500366210938,
-          40.87580108642578
+          28.735700607299805,
+          40.884700775146484
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.093299865722656,
           36.689300537109375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.02 07:46:51",
-        "depth_km": 14.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.999000549316406,
-          36.7130012512207
         ]
       }
     }
