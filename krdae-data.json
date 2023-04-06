@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.06 12:26:51",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27199935913086,
+          37.88600158691406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.06 12:26:19",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KAYNAR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60300064086914,
+          37.76850128173828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.06 12:02:24",
         "depth_km": 23.799999237060547,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.70029830932617,
           38.073699951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.03 15:40:50",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 0.0,
-        "place": "TOZLUCA-ASKALE (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.667301177978516,
-          39.766700744628906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.03 15:19:51",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOZANLI-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.551700592041016,
-          39.15800094604492
         ]
       }
     }
