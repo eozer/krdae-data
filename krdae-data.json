@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.07 00:11:46",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "KURUCAOVA-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.54629898071289,
+          37.97249984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.07 00:06:48",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "ELMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.620201110839844,
+          37.98830032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.06 23:52:56",
         "depth_km": 8.300000190734863,
         "MD": 0.0,
@@ -568,6 +606,25 @@
         "coordinates": [
           36.430198669433594,
           36.62649917602539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.06 20:46:30",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ARPALIUSAGI-HASSA (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.40250015258789,
+          36.78120040893555
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           42.37630081176758,
           39.05350112915039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.04 02:17:59",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KURTBAGI-ARSUZ (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.044700622558594,
-          36.34320068359375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.04 02:02:13",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.45180130004883,
-          38.11330032348633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.04 01:58:15",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.321800231933594,
-          37.91279983520508
         ]
       }
     }
