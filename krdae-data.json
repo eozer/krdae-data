@@ -251,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.08 12:02:55",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "MEHMETCIK-(SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.717201232910156,
+          37.244300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.08 11:58:50",
         "depth_km": 10.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.33399963378906,
           37.950199127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.06 01:23:24",
-        "depth_km": 21.799999237060547,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KORKUYU-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.825801849365234,
-          36.97829818725586
         ]
       }
     }
