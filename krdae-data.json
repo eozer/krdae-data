@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.09 02:19:17",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.29349899291992,
+          38.466800689697266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.09 02:15:44",
         "depth_km": 16.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           34.02000045776367,
           40.18370056152344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.09 02:07:40",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DALLICA-KIGI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.29819869995117,
+          39.251800537109375
         ]
       }
     },
@@ -137,19 +175,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.04.09 01:26:57",
-        "depth_km": 9.0,
+        "timestamp": "2023.04.09 01:26:52",
+        "depth_km": 7.5,
         "MD": 0.0,
-        "ML": 1.100000023841858,
+        "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "AKTAS-KUMLU (HATAY)",
-        "location": "HATAY"
+        "place": "KORUDIBI-KARAKOCAN (ELAZIG)",
+        "location": "ELAZIG"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.33100128173828,
-          36.38750076293945
+          40.12630081176758,
+          39.1442985534668
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.342498779296875,
           37.67530059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.06 08:11:33",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKSAAGAC-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.22100067138672,
-          37.89500045776367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.06 07:23:19",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.961700439453125,
-          36.220001220703125
         ]
       }
     }
