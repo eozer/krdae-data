@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.10 14:10:51",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KEKLIKPINARI-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.02220153808594,
+          38.50830078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.10 14:09:38",
+        "depth_km": 1.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CAGLAYAN-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.444000244140625,
+          38.042701721191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.10 14:03:50",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.278499603271484,
           38.07550048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.07 13:32:45",
-        "depth_km": 12.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GUNEY-SARICAKAYA (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.770999908447266,
-          40.14149856567383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.07 13:29:12",
-        "depth_km": 17.799999237060547,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AHMETBEYLER-GOYNUK (BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.860300064086914,
-          40.240501403808594
         ]
       }
     }
