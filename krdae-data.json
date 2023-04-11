@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.11 14:11:17",
+        "depth_km": 11.699999809265137,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.5,
+        "place": "IRAN",
+        "location": "IRAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3572998046875,
+          38.8672981262207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.11 14:09:28",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SENKOY-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.160701751708984,
+          36.055999755859375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.11 13:54:51",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.53030014038086,
           38.497798919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.08 12:04:45",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KUP-ALADAG (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.42020034790039,
-          37.665199279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.08 12:02:55",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MEHMETCIK-(SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.717201232910156,
-          37.244300842285156
         ]
       }
     }
