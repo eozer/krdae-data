@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.12 12:14:20",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.200000047683716,
+        "place": "SURIYE",
+        "location": "SURIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.659000396728516,
+          35.13330078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.12 12:07:30",
         "depth_km": 3.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           36.93230056762695,
           38.166500091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.12 11:52:07",
+        "depth_km": 17.700000762939453,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKSAAGAC-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25849914550781,
+          37.92570114135742
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.537200927734375,
           38.16830062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.09 12:51:30",
-        "depth_km": 11.600000381469727,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ARMUTALAN-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.71979904174805,
-          38.10279846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.09 12:42:34",
-        "depth_km": 1.2000000476837158,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.48419952392578,
-          38.15800094604492
         ]
       }
     }
