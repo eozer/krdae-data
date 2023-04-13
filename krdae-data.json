@@ -3310,6 +3310,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.12 17:38:59",
+        "depth_km": 16.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TRABZON ACIKLARI (KARADENIZ)",
+        "location": "KARADENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9453010559082,
+          41.15480041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.12 17:38:18",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.23069953918457,
           35.775699615478516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.10 20:43:55",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CAMLIK-SELCUK (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.380699157714844,
-          37.89580154418945
         ]
       }
     }
