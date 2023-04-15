@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.15 07:14:04",
+        "depth_km": 2.4000000953674316,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59629821777344,
+          36.04650115966797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.15 06:47:58",
         "depth_km": 2.9000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.22169876098633,
           36.67649841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.12 11:37:19",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.37350082397461,
-          37.81880187988281
         ]
       }
     }
