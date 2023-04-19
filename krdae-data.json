@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.20 01:44:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.5,
+        "Mw": 4.5,
+        "place": "ALINCIK-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.230499267578125,
+          38.44649887084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.20 00:00:48",
         "depth_km": 10.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.288299560546875,
           36.50080108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.16 20:45:40",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.0,
-        "place": "KOPRUCUK-ALADAG (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.513999938964844,
-          37.63650131225586
         ]
       }
     }
