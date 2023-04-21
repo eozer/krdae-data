@@ -4,19 +4,57 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.04.21 06:10:43",
-        "depth_km": 5.400000095367432,
+        "timestamp": "2023.04.21 06:25:06",
+        "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 1.600000023841858,
+        "ML": 1.2999999523162842,
         "Mw": 0.0,
-        "place": "ERGENUSAGI-KOZAN (ADANA)",
-        "location": "ADANA"
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.55780029296875,
-          37.629798889160156
+          27.689699172973633,
+          36.845001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.21 06:20:29",
+        "depth_km": 26.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "YERKESIK-(MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.312700271606445,
+          37.144798278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.21 06:10:42",
+        "depth_km": 10.600000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "FURUNLU-BAYINDIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.615800857543945,
+          38.19820022583008
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.77869987487793,
           40.16429901123047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.18 03:28:41",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KABAKLAR-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.566001892089844,
-          37.02799987792969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.18 03:14:46",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TASDAMLAR-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.32279968261719,
-          38.082298278808594
         ]
       }
     }
