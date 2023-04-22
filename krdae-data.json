@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.22 06:00:21",
+        "depth_km": 15.5,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.439300537109375,
+          37.110198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.22 05:58:56",
+        "depth_km": 7.599999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CEVIRME-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.740299224853516,
+          38.272499084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.22 05:42:48",
         "depth_km": 2.0999999046325684,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.859500885009766,
           38.07099914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.19 07:56:10",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.367000579833984,
-          37.97420120239258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.19 07:56:01",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KEMALIYE-ARIFIYE (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.415300369262695,
-          40.67720031738281
         ]
       }
     }
