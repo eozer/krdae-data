@@ -935,6 +935,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.22 08:46:45",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "TURSUNLU-TUZLUKCU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.788700103759766,
+          38.420501708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.22 08:45:10",
         "depth_km": 14.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.05080032348633,
           37.04600143432617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.19 22:18:26",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "BOSTANBASI-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.24150085449219,
-          38.3307991027832
         ]
       }
     }
