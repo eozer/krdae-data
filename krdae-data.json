@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.22 12:13:05",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GOLCUK-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.552499771118164,
+          37.13479995727539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.22 11:57:21",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -169,6 +188,25 @@
         "coordinates": [
           36.04079818725586,
           36.997501373291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.22 11:00:35",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ULUKOY-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.57120132446289,
+          38.180301666259766
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.2765007019043,
           37.95429992675781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.19 18:28:27",
-        "depth_km": 4.5,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.40629959106445,
-          38.11650085449219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.19 18:09:28",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 3.299999952316284,
-        "place": "YUKARIKARDERE-BAHCE (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.67919921875,
-          37.22269821166992
         ]
       }
     }
