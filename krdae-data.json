@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.04.23 07:11:54",
-        "depth_km": 11.899999618530273,
+        "timestamp": "2023.04.23 07:16:15",
+        "depth_km": 6.300000190734863,
         "MD": 0.0,
-        "ML": 2.5,
+        "ML": 1.5,
         "Mw": 0.0,
-        "place": "CICEKLI-ULA (MUGLA)",
-        "location": "MUGLA"
+        "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.475799560546875,
-          37.10319900512695
+          36.36819839477539,
+          37.93550109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.23 07:11:48",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "BOSIN-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.37300109863281,
+          36.18220138549805
         ]
       }
     },
@@ -74,6 +93,25 @@
         "coordinates": [
           28.463300704956055,
           37.10749816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.23 06:50:45",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "KOSRELI-CEYHAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.95069885253906,
+          37.16899871826172
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.31050109863281,
           38.37200164794922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.21 01:58:32",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SOGUKPINAR-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.250301361083984,
-          38.424800872802734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.21 01:56:19",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "GOKCEK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.2776985168457,
-          38.410301208496094
         ]
       }
     }
