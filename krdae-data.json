@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.26 06:10:00",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAGOZ-AFSIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9921989440918,
+          38.246700286865234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.26 06:05:55",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "BEKTASLI-KIRIKHAN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.37030029296875,
+          36.6693000793457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.26 06:04:32",
+        "depth_km": 4.199999809265137,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 0.0,
+        "place": "GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2932014465332,
+          38.05329895019531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.26 06:03:09",
         "depth_km": 9.100000381469727,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           30.67770004272461,
           40.69300079345703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.23 19:00:40",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.876800537109375,
-          37.38650131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.23 18:55:06",
-        "depth_km": 2.799999952316284,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.299999952316284,
-        "place": "SAMSUN ACIKLARI (KARADENIZ)",
-        "location": "KARADENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.8922004699707,
-          42.0077018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.23 18:51:36",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KARAKIL-POLATELI (KILIS)",
-        "location": "KILIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.13949966430664,
-          36.89030075073242
         ]
       }
     }
