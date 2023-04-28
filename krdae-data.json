@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.28 06:46:59",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.5999999046325684,
+        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.384498596191406,
+          37.9557991027832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.28 05:56:01",
         "depth_km": 2.200000047683716,
         "MD": 0.0,
@@ -188,6 +207,25 @@
         "coordinates": [
           36.18349838256836,
           36.364200592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.28 04:28:59",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "TEKIR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6593017578125,
+          37.91270065307617
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.924800872802734,
           37.19029998779297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.25 06:43:48",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YESILKOY-DOGANYOL (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.035301208496094,
-          38.25899887084961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.25 06:31:29",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KOCKALE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.495201110839844,
-          38.560298919677734
         ]
       }
     }
