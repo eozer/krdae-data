@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.04.30 17:45:05",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.269798278808594,
+          37.86869812011719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.04.30 17:38:15",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -112,6 +131,25 @@
         "coordinates": [
           27.9512996673584,
           38.865501403808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.04.30 17:05:48",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.27920150756836,
+          37.861698150634766
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.25630187988281,
           36.535701751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.27 05:36:42",
-        "depth_km": 16.200000762939453,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SAGLAMTAS-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.59370040893555,
-          38.87620162963867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.27 05:31:49",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.32500076293945,
-          38.19329833984375
         ]
       }
     }
