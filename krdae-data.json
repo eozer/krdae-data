@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.02 15:33:32",
+        "depth_km": 2.299999952316284,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "BESTEPE-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.43669891357422,
+          38.328800201416016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.02 15:28:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.299999952316284,
+        "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35449981689453,
+          37.94820022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.02 15:16:21",
+        "depth_km": 1.2999999523162842,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "CETENLI-ALTINOZU (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28269958496094,
+          36.113800048828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.02 14:54:22",
         "depth_km": 8.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.61220169067383,
           38.22829818725586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.29 09:01:30",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ISKENDERUN KORFEZI",
-        "location": "ISKENDERUN KORFEZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.17219924926758,
-          36.772499084472656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.29 09:00:20",
-        "depth_km": 14.300000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.51969909667969,
-          37.903499603271484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.04.29 08:44:44",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YUKARIBURANDERE-PINARBASI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.52050018310547,
-          38.75019836425781
         ]
       }
     }
