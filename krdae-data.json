@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.05 18:00:16",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.359798431396484,
+          37.971500396728516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 17:52:27",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.699999809265137,
+        "Mw": 4.699999809265137,
+        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.30229949951172,
+          37.97019958496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 17:40:39",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 0.0,
+        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.345298767089844,
+          37.983299255371094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.05 16:45:00",
         "depth_km": 9.300000190734863,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.499300003051758,
           37.11800003051758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 03:07:38",
-        "depth_km": 15.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.77899932861328,
-          38.10279846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 02:52:16",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "FINDIK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.7317008972168,
-          38.066001892089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 02:46:31",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.24850082397461,
-          37.86830139160156
         ]
       }
     }
