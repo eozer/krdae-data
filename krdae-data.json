@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.05 12:44:17",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ORTATEPE-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.53129959106445,
+          38.06079864501953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 12:42:46",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28820037841797,
+          37.849700927734375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 12:40:17",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YANISLI-GULNAR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.53620147705078,
+          36.131500244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.05 12:16:41",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -93,6 +150,44 @@
         "coordinates": [
           36.66019821166992,
           38.00830078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 11:37:21",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28129959106445,
+          37.90480041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 11:36:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3202018737793,
+          38.25149917602539
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           38.088199615478516,
           38.27669906616211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 21:24:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "KIZILBURUN-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.21950149536133,
-          38.7052001953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 21:23:20",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SARIYER-HENDEK (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.719999313354492,
-          40.72669982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 21:20:31",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "DEMIRKONAK-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.51020050048828,
-          36.60820007324219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 21:17:58",
-        "depth_km": 13.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.29629898071289,
-          37.79050064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 21:15:40",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.299999952316284,
-        "place": "AKYAYLA-AYDINLAR (SIIRT)",
-        "location": "SIIRT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.13479995727539,
-          37.90330123901367
         ]
       }
     }
