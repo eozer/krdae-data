@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.05 11:14:46",
+        "depth_km": 3.0999999046325684,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26250076293945,
+          37.91279983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.05 11:09:43",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -188,6 +207,25 @@
         "coordinates": [
           37.457000732421875,
           38.069801330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 09:06:32",
+        "depth_km": 24.200000762939453,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KOVANLIK-DOSEMEALTI (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.551799774169922,
+          37.16529846191406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.14080047607422,
           36.7672004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 19:47:47",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "CEVREPINAR (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.608299255371094,
-          37.856998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.02 19:45:55",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "CEVIRME-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.737701416015625,
-          38.249000549316406
         ]
       }
     }
