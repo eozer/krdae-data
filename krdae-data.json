@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.05 16:45:00",
+        "depth_km": 9.300000190734863,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 0.0,
+        "place": "CAMLIYAYLA-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.93769836425781,
+          36.18899917602539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.05 16:22:54",
         "depth_km": 5.800000190734863,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           36.63679885864258,
           38.10369873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.05 15:57:07",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SANCAK-(BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.37070083618164,
+          39.11069869995117
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.24850082397461,
           37.86830139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 02:42:46",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39120101928711,
-          38.35179901123047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 02:37:49",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "EMIROGLU-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.046199798583984,
-          37.33319854736328
         ]
       }
     }
