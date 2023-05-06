@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.06 18:06:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.78670120239258,
+          38.22200012207031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.06 17:52:14",
         "depth_km": 8.399999618530273,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           37.801300048828125,
           38.1697998046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.06 17:43:18",
+        "depth_km": 9.899999618530273,
+        "MD": 0.0,
+        "ML": 4.599999904632568,
+        "Mw": 4.400000095367432,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.194700241088867,
+          34.69150161743164
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.68669891357422,
           37.61050033569336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 22:37:46",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "TUZLA (ISTANBUL) ACIKLARI (MARMARA DENIZI)",
-        "location": "ISTANBUL) ACIKLARI (MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.26729965209961,
-          40.800498962402344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.03 22:34:09",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TUZLA (ISTANBUL) ACIKLARI (MARMARA DENIZI)",
-        "location": "ISTANBUL) ACIKLARI (MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.24049949645996,
-          40.78919982910156
         ]
       }
     }
