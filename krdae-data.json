@@ -308,6 +308,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.08 10:41:00",
+        "depth_km": 20.299999237060547,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.15570068359375,
+          35.9005012512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.08 10:34:51",
         "depth_km": 3.4000000953674316,
         "MD": 0.0,
@@ -365,6 +384,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.08 09:59:07",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "TATARUSAGI-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.83150100708008,
+          38.37350082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.08 09:51:22",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -416,6 +454,25 @@
         "coordinates": [
           37.336700439453125,
           38.42219924926758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.08 09:19:05",
+        "depth_km": 19.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BOZALAN-BULDAN (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.87350082397461,
+          38.0807991027832
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.3406982421875,
           38.369300842285156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.05 06:33:48",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.27349853515625,
-          37.9093017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.05 06:32:44",
-        "depth_km": 2.799999952316284,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.349700927734375,
-          38.1442985534668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.05 06:30:04",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KONAKPINAR-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.33330154418945,
-          38.90570068359375
         ]
       }
     }
