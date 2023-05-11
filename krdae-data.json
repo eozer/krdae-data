@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.11 11:22:58",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 2.9000000953674316,
+        "place": "BULGARISTAN",
+        "location": "BULGARISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.906299591064453,
+          42.20100021362305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.11 11:08:01",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ZIYARET-ERGANI (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6515007019043,
+          38.21099853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.11 10:41:55",
         "depth_km": 9.699999809265137,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           36.09349822998047,
           36.07320022583008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.11 10:28:15",
+        "depth_km": 10.399999618530273,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "YAZIKOY-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.46870040893555,
+          38.67250061035156
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.2932014465332,
           38.21419906616211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.07 17:11:33",
-        "depth_km": 12.899999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.266700744628906,
-          37.964698791503906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.07 17:05:25",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 0.0,
-        "place": "FINDIKKOY-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.79949951171875,
-          38.10580062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.07 16:37:26",
-        "depth_km": 15.899999618530273,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "YENIKOY-KUSADASI (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.368999481201172,
-          37.86819839477539
         ]
       }
     }
