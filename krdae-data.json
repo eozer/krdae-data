@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.14 01:00:39",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KURKKOY-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.242698669433594,
+          38.4297981262207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.14 00:54:49",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52280044555664,
+          38.09519958496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.14 00:53:56",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.013301849365234,
           38.11180114746094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.10 12:21:46",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KARACAY-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.121299743652344,
-          37.36399841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.10 12:03:13",
-        "depth_km": 21.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YALINAGAC-MAZIDAGI (MARDIN)",
-        "location": "MARDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.425498962402344,
-          37.37269973754883
         ]
       }
     }
