@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.14 13:26:34",
+        "depth_km": 13.600000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KIBRIS RUM KESIMI",
+        "location": "KIBRIS RUM KESIMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.60219955444336,
+          35.201499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.14 13:05:07",
         "depth_km": 75.0999984741211,
         "MD": 0.0,
@@ -226,6 +245,25 @@
         "coordinates": [
           36.2327995300293,
           35.98529815673828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.14 10:46:47",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YAYLAPALAMUT-KAS (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.503799438476562,
+          36.41899871826172
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.53419876098633,
           37.99530029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.11 02:49:53",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "TEMURAGA-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.56019973754883,
-          38.060298919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.11 02:38:15",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.37229919433594,
-          38.05270004272461
         ]
       }
     }
