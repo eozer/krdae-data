@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.14 07:20:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KALEBOYNU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.238800048828125,
+          37.944000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.14 07:07:07",
+        "depth_km": 9.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "DERVISCIMLI-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624298095703125,
+          38.20429992675781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.14 06:56:05",
         "depth_km": 8.600000381469727,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           33.39870071411133,
           35.55950164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.14 06:45:54",
+        "depth_km": 23.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KIRKKUYU-KULU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.20320129394531,
+          39.07429885864258
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.363800048828125,
           38.15919876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.10 22:31:02",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "IGDE-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.11949920654297,
-          38.13970184326172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.10 22:17:26",
-        "depth_km": 2.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AYDINLAR-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.079498291015625,
-          38.324501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.10 22:13:38",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SIRNAK (SIRNAK)",
-        "location": "SIRNAK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.50019836425781,
-          37.551300048828125
         ]
       }
     }
