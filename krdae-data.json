@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.15 13:58:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.4000000953674316,
+        "place": "GOVDELI-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.628501892089844,
+          38.009300231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.15 13:09:44",
         "depth_km": 14.300000190734863,
         "MD": 0.0,
@@ -283,6 +302,25 @@
         "coordinates": [
           36.507301330566406,
           37.841800689697266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.15 10:39:01",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CAYPINAR-(BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.948299407958984,
+          39.80730056762695
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.270999908447266,
           37.9015007019043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.12 11:56:50",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.2947998046875,
-          37.872798919677734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.12 11:53:51",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KARAKUYU-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.21419906616211,
-          37.837799072265625
         ]
       }
     }
