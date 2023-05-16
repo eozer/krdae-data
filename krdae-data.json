@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.16 04:51:49",
+        "depth_km": 9.399999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "RESADIYE-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.187198638916016,
+          38.827301025390625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.16 04:45:44",
         "depth_km": 3.299999952316284,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           36.602500915527344,
           38.052799224853516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.16 04:16:45",
+        "depth_km": 21.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.19379997253418,
+          36.175498962402344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.23080062866211,
           38.066200256347656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.13 07:16:42",
-        "depth_km": 3.200000047683716,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KARABURCLU-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.715301513671875,
-          37.149200439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.13 06:33:08",
-        "depth_km": 3.700000047683716,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "OZKIZILKAYA-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.484500885009766,
-          36.41600036621094
         ]
       }
     }
