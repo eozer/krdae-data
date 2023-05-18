@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.18 09:30:05",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AYVACIK-DURSUNBEY (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.815500259399414,
+          39.55229949951172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.18 09:29:11",
         "depth_km": 13.800000190734863,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           30.867000579833984,
           40.759700775146484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.18 09:24:31",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KICIR-SIMAV (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.711200714111328,
+          39.239200592041016
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.2422981262207,
           37.867000579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.15 05:57:15",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BALIKCIL-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.11180114746094,
-          38.2859992980957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.15 05:45:32",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.34870147705078,
-          37.9375
         ]
       }
     }
