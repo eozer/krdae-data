@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.22 09:31:40",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "INCEHIDIR-ERGANI (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6870002746582,
+          38.01599884033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.22 09:15:33",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           24.834199905395508,
           35.0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.19 02:08:34",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ISLAMKOY-KULP (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.98429870605469,
-          38.63850021362305
         ]
       }
     }
