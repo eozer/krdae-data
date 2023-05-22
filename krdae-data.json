@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.22 21:56:00",
+        "depth_km": 13.100000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "DUMLUGOZE-SARIVELILER (KARAMAN)",
+        "location": "KARAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.53900146484375,
+          36.591800689697266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.22 20:20:51",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2952995300293,
+          37.856201171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.22 20:04:02",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.36520004272461,
+          37.97549819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.22 20:02:17",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.99319839477539,
           38.114498138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.19 09:23:35",
-        "depth_km": 6.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KICIR-SIMAV (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.712499618530273,
-          39.240699768066406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.19 09:22:27",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0999999046325684,
-        "place": "SOGUTLU-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.601200103759766,
-          38.17449951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.19 09:17:38",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "CUKURKAYA-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.467498779296875,
-          38.610198974609375
         ]
       }
     }
