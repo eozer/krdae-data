@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.22 07:00:43",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YARIMCA-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.37300109863281,
+          38.47520065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.22 06:45:51",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YUSUFOGLAN-YILDIZELI (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.92070007324219,
+          40.22719955444336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.22 06:27:35",
         "depth_km": 2.700000047683716,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           42.34469985961914,
           39.30379867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.18 19:56:18",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "AKCAYURT-HANI (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.38180160522461,
-          38.499298095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.18 19:23:26",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80870056152344,
-          38.172298431396484
         ]
       }
     }
