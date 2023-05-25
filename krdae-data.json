@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.25 18:02:05",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.0,
+        "place": "SERINCE-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5890007019043,
+          38.05099868774414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.25 16:40:00",
         "depth_km": 25.799999237060547,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           24.799999237060547,
           35.10749816894531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.22 04:37:09",
-        "depth_km": 10.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KARAKOY-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.58319854736328,
-          38.058998107910156
         ]
       }
     }
