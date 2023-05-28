@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.28 17:57:49",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.0,
+        "place": "GOKYAKA-KEMALPASA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.49570083618164,
+          38.33530044555664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.28 17:45:58",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "EVRI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.10419845581055,
+          37.243499755859375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.28 17:36:59",
         "depth_km": 2.299999952316284,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.418701171875,
           37.989200592041016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.25 03:38:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "MAVIKENT ACIKLARI-ANTALYA (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.408700942993164,
-          36.048500061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.25 03:34:59",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KULAHLI-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.404998779296875,
-          38.858001708984375
         ]
       }
     }
