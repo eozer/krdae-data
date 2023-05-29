@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.29 10:00:04",
+        "depth_km": 10.699999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "MAGARACIK-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.82550048828125,
+          36.11399841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.29 09:50:26",
+        "depth_km": 22.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BARIS-NURHAK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.336299896240234,
+          37.96979904174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.29 09:47:02",
+        "depth_km": 12.100000381469727,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.299999952316284,
+        "place": "KAPISUYU-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.837501525878906,
+          36.12379837036133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.29 09:25:04",
         "depth_km": 13.699999809265137,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.59149932861328,
           38.573299407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 03:41:49",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "TAHTALI-GONEN (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.412799835205078,
-          40.17279815673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 03:40:32",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.27730178833008,
-          37.93299865722656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 03:31:58",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOKCAM-SUNGURLU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.577301025390625,
-          40.148799896240234
         ]
       }
     }
