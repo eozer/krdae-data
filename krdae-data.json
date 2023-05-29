@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.29 05:51:59",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.700000047683716,
+        "place": "KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.22019958496094,
+          38.29719924926758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.29 05:39:48",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KULAHLI-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4015007019043,
+          38.834999084472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.29 05:31:55",
         "depth_km": 4.300000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.54570007324219,
           38.4098014831543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 02:45:23",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 0.0,
-        "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.60179901123047,
-          38.13180160522461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 02:44:32",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ULUKOY (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.577701568603516,
-          38.162498474121094
         ]
       }
     }
