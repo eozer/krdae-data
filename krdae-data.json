@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.30 18:47:45",
+        "depth_km": 10.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "AKSAAGAC-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.222801208496094,
+          37.91320037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.30 18:27:31",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -131,6 +150,25 @@
         "coordinates": [
           28.427799224853516,
           37.080501556396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.30 17:07:17",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YAREN-IVRINDI (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62820053100586,
+          39.55979919433594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           34.59870147705078,
           40.17499923706055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.27 04:46:49",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.28219985961914,
-          37.918800354003906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.27 04:41:42",
-        "depth_km": 12.399999618530273,
-        "MD": 0.0,
-        "ML": 0.699999988079071,
-        "Mw": 0.0,
-        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.37620162963867,
-          37.966800689697266
         ]
       }
     }
