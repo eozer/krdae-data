@@ -441,6 +441,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.30 20:22:45",
+        "depth_km": 2.299999952316284,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CILHOROZ-CAYIRLI (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.69670104980469,
+          39.88349914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.30 20:16:40",
         "depth_km": 8.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.090301513671875,
           39.09870147705078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.27 12:13:19",
-        "depth_km": 3.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KURUKAVAK-BESIRI (BATMAN)",
-        "location": "BATMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.545799255371094,
-          37.85419845581055
         ]
       }
     }
