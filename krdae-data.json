@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.05.30 05:57:20",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKSU-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.487998962402344,
+          38.13669967651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.30 05:53:30",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 3.700000047683716,
+        "place": "UCOCAK-ARICAK (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.28049850463867,
+          38.467201232910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.05.30 05:43:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YILANHOYUK-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.243499755859375,
+          38.869300842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.05.30 05:02:48",
         "depth_km": 1.7000000476837158,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.31650161743164,
           38.50469970703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 22:05:10",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 3.700000047683716,
-        "place": "AKSAKAL-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39619827270508,
-          38.33700180053711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 21:58:09",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ATIK-BELEN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.231300354003906,
-          36.51219940185547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.26 21:53:52",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KUYUMCULAR-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.91749954223633,
-          37.408199310302734
         ]
       }
     }
