@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.01 14:30:02",
+        "depth_km": 22.100000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ACIELMA-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4197998046875,
+          38.02429962158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.01 13:44:33",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.832698822021484,
           37.35300064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.29 03:30:41",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "YAVUZLAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.484798431396484,
-          38.46080017089844
         ]
       }
     }
