@@ -232,6 +232,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.02 06:00:15",
+        "depth_km": 20.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.518699645996094,
+          36.627498626708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.02 05:57:40",
         "depth_km": 3.299999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.39900016784668,
           37.910701751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 01:44:56",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ICMELER-GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.038299560546875,
-          40.79169845581055
         ]
       }
     }
