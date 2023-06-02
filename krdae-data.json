@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.02 12:38:39",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YANISLI-GULNAR (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.54949951171875,
+          36.11280059814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.02 12:29:44",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           33.386199951171875,
           35.566001892089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.02 11:52:34",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KORUCAK-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3672981262207,
+          38.06370162963867
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.239498138427734,
           37.93170166015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 05:57:20",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.487998962402344,
-          38.13669967651367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 05:53:30",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.700000047683716,
-        "place": "UCOCAK-ARICAK (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.28049850463867,
-          38.467201232910156
         ]
       }
     }
