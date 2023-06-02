@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.03 01:22:04",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0999999046325684,
+        "place": "KOZLUK-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.293800354003906,
+          38.23630142211914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.03 01:16:08",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.427799224853516,
           37.080501556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 17:07:17",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YAREN-IVRINDI (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.62820053100586,
-          39.55979919433594
         ]
       }
     }
