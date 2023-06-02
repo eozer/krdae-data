@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.02 22:36:10",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.30030059814453,
+          37.60419845581055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.02 22:18:49",
         "depth_km": 9.199999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           37.58470153808594,
           38.46730041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.02 22:06:40",
+        "depth_km": 24.899999618530273,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.116300582885742,
+          32.570701599121094
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.570701599121094,
           38.19049835205078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 15:16:45",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HALKALI-ALACAKAYA (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.88650131225586,
-          38.53929901123047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 15:08:46",
-        "depth_km": 23.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YENICE-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.51599884033203,
-          38.48270034790039
         ]
       }
     }
