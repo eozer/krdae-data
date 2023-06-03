@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.03 11:28:04",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KAPICAM-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.02479934692383,
+          37.463199615478516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.03 11:18:51",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "KIZILAGAC-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.371999740600586,
+          37.07400131225586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.03 11:15:45",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ESKISARKAYA-SEHITKAMIL (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14799880981445,
+          37.24599838256836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.03 11:04:41",
         "depth_km": 10.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.82069969177246,
           39.315799713134766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 23:13:31",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "KAPICAM-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.030799865722656,
-          37.47650146484375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 23:09:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.700000047683716,
-        "place": "SEYITUSAGI-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.143001556396484,
-          38.237701416015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.30 23:02:25",
-        "depth_km": 13.399999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BEYOBASI-KOYCEGIZ (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.756799697875977,
-          36.922000885009766
         ]
       }
     }
