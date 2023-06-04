@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.04 06:03:28",
+        "depth_km": 1.100000023841858,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GULUMUSAGI-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.50379943847656,
+          38.22949981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.04 05:29:54",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -36,6 +55,82 @@
         "coordinates": [
           37.595001220703125,
           37.980499267578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.04 04:37:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YANICAK-BOGAZKALE (CORUM)",
+        "location": "CORUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.60169982910156,
+          40.12329864501953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.04 04:31:34",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.299999952316284,
+        "place": "ARIKONAK-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.57379913330078,
+          38.15380096435547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.04 04:29:12",
+        "depth_km": 22.299999237060547,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.60580062866211,
+          36.542999267578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.04 03:52:18",
+        "depth_km": 14.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "OCAKLAR-ERDEK (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.777799606323242,
+          40.444801330566406
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           36.64550018310547,
           38.1338005065918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.31 13:39:23",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CAMPINAR-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.23780059814453,
-          38.109500885009766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.31 13:37:39",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKIFIYE-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.37779998779297,
-          37.72380065917969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.31 13:24:17",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "SARIYAHSI (AKSARAY)",
-        "location": "AKSARAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.863800048828125,
-          39.00080108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.31 13:08:39",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39680099487305,
-          38.40399932861328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.05.31 13:04:26",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "CIFTEVI-CELEBI (KIRIKKALE)",
-        "location": "KIRIKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.56779861450195,
-          39.47200012207031
         ]
       }
     }
