@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.05 13:11:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.299999952316284,
+        "place": "ORTULUCE-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.216800689697266,
+          40.36280059814453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.05 12:52:16",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.895301818847656,
           37.08729934692383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.01 21:56:04",
-        "depth_km": 14.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KAYNAR-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.56119918823242,
-          37.768001556396484
         ]
       }
     }
