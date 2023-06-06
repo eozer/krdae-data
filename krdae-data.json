@@ -346,6 +346,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.06 20:35:25",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "CUMHURIYET-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.053199768066406,
+          38.25299835205078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.06 20:12:36",
         "depth_km": 9.5,
         "MD": 0.0,
@@ -359,6 +378,25 @@
         "coordinates": [
           28.737499237060547,
           39.05799865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.06 20:09:27",
+        "depth_km": 24.299999237060547,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "COLPAN-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.53820037841797,
+          38.887001037597656
         ]
       }
     },
@@ -422,6 +460,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.06 19:30:16",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "UCGOZE-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.38100051879883,
+          38.21670150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.06 19:11:19",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ASAGIKOY-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.282798767089844,
+          38.179298400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.06 19:07:43",
         "depth_km": 10.100000381469727,
         "MD": 0.0,
@@ -435,6 +511,25 @@
         "coordinates": [
           37.452999114990234,
           38.045501708984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.06 18:55:02",
+        "depth_km": 14.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DARILIK-ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.42449951171875,
+          37.60850143432617
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.44599914550781,
           38.477500915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 06:13:51",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.30649948120117,
-          37.78519821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 05:52:54",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YENICE-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.50920104980469,
-          38.47169876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 05:49:14",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KARAALI-(HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.09600067138672,
-          36.34320068359375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 05:40:25",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKCATOPRAK-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.56269836425781,
-          38.48899841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 05:34:42",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YESILTAS-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.636199951171875,
-          38.52149963378906
         ]
       }
     }
