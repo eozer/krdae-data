@@ -441,6 +441,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.06 17:51:55",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KEMERKOPRU-BATTALGAZI (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.32429885864258,
+          38.4370002746582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.06 17:38:46",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -454,6 +473,44 @@
         "coordinates": [
           36.6693000793457,
           38.16320037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.06 17:32:44",
+        "depth_km": 2.299999952316284,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "TULLUCE-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.856201171875,
+          37.1431999206543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.06 17:26:43",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YORUCEKLER-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.90570068359375,
+          39.97800064086914
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.56049919128418,
           39.890201568603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 04:50:44",
-        "depth_km": 24.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.571199417114258,
-          34.86029815673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 04:47:12",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.974199295043945,
-          36.98929977416992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 04:41:22",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUGUL-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.48720169067383,
-          38.39699935913086
         ]
       }
     }
