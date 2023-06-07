@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.07 21:23:07",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.9000000953674316,
+        "Mw": 3.9000000953674316,
+        "place": "ARPADERE-CUNGUS (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.40169906616211,
+          38.21580123901367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.07 20:51:49",
         "depth_km": 6.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.234500885009766,
           40.261199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.04 06:18:58",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GOKCAM-SUNGURLU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.58879852294922,
-          40.128700256347656
         ]
       }
     }
