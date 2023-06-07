@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.07 08:07:04",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.4000000953674316,
+        "place": "BOGAZICI-ISLAHIYE (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.55270004272461,
+          36.92770004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.07 08:00:44",
         "depth_km": 18.799999237060547,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.352298736572266,
           37.88779830932617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.03 20:18:38",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "BESTEPE-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.42919921875,
-          38.33599853515625
         ]
       }
     }
