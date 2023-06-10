@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.10 16:20:47",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SUGUL-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53070068359375,
+          38.446800231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.10 15:56:31",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -321,6 +340,25 @@
         "coordinates": [
           36.29719924926758,
           37.8942985534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.10 09:09:22",
+        "depth_km": 111.4000015258789,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.263500213623047,
+          37.02870178222656
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.53820037841797,
           38.887001037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.06 20:09:26",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YARIMCA-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.345001220703125,
-          38.5078010559082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.06 19:52:21",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.253999710083008,
-          37.01219940185547
         ]
       }
     }
