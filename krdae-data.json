@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.13 05:37:28",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KOPRULU-CEYHAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.92369842529297,
+          37.08330154418945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.13 05:23:04",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.416500091552734,
+          38.08219909667969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.13 05:13:37",
         "depth_km": 2.0999999046325684,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.910499572753906,
           37.14080047607422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.09 11:41:25",
-        "depth_km": 3.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "HAMIDIYE-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.000999450683594,
-          36.9911994934082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.09 11:39:55",
-        "depth_km": 2.700000047683716,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.365699768066406,
-          37.888301849365234
         ]
       }
     }
