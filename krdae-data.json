@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.13 18:40:11",
+        "depth_km": 11.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "EGERTI-AZIZIYE (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.97880172729492,
+          40.09700012207031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.13 18:23:03",
         "depth_km": 27.5,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           36.122798919677734,
           36.235198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.13 17:40:22",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CUMHURLU-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.03820037841797,
+          37.91270065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.13 17:29:26",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AYVACIK (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.428800582885742,
+          39.606201171875
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.97019958496094,
           37.449501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.10 01:24:35",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YAVUZLAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.48870086669922,
-          38.48080062866211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.10 01:20:30",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "TAHTALIDEDELER-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.93170166015625,
-          37.395198822021484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.10 01:16:23",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KOKPINAR-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.67129898071289,
-          38.23630142211914
         ]
       }
     }
