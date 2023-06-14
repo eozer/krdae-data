@@ -99,6 +99,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.14 18:34:53",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "SAMSUN ACIKLARI (KARADENIZ)",
+        "location": "KARADENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.97520065307617,
+          42.02899932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.14 18:21:04",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ZAFER-BUCA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.226699829101562,
+          38.36349868774414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.14 18:16:43",
         "depth_km": 10.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.07149887084961,
           37.3932991027832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.11 13:28:16",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YENIKOY-(MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.401199340820312,
-          37.147701263427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.11 12:47:42",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GUZELCAMLI-KUSADASI (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.181499481201172,
-          37.73849868774414
         ]
       }
     }
