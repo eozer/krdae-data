@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.06.14 15:17:17",
-        "depth_km": 5.0,
+        "timestamp": "2023.06.14 15:21:15",
+        "depth_km": 8.0,
         "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.0999999046325684,
-        "place": "IKIZCE-YESILYURT (MALATYA)",
-        "location": "MALATYA"
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "TAFLAN ACIKLARI-SAMSUN (KARADENIZ)",
+        "location": "KARADENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.21649932861328,
-          38.298500061035156
+          36.44350051879883,
+          41.667301177978516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.14 15:17:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "BAFRA ACIKLARI-SAMSUN (KARADENIZ)",
+        "location": "KARADENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.172000885009766,
+          41.87300109863281
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           40.96220016479492,
           40.1172981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.11 10:11:45",
-        "depth_km": 2.9000000953674316,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KULU (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.043701171875,
-          39.12229919433594
         ]
       }
     }
