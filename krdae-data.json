@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.16 11:55:17",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "KALEDIBI-HANI (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.380699157714844,
+          38.5348014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.16 11:53:36",
+        "depth_km": 21.399999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "SILIFKE ACIKLARI-MERSIN (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.81570053100586,
+          36.12070083618164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.16 11:33:45",
         "depth_km": 22.899999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.52119827270508,
           38.54499816894531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.12 21:16:04",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.197200775146484,
-          35.88249969482422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.12 21:09:34",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "BALABAN-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.60049819946289,
-          38.48849868774414
         ]
       }
     }
