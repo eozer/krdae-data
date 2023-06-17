@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.17 23:22:17",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BURUNCUK-BAYINDIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.70319938659668,
+          38.182701110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.17 23:18:50",
         "depth_km": 7.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.68170166015625,
           38.07099914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.14 07:03:03",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ZINCIRLI-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.69179916381836,
-          37.11069869995117
         ]
       }
     }
