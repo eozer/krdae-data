@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.24 01:03:21",
+        "depth_km": 11.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BEYNAM-BALA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84049987792969,
+          39.60150146484375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.24 00:32:24",
         "depth_km": 16.700000762939453,
         "MD": 0.0,
@@ -17,6 +36,44 @@
         "coordinates": [
           36.13650131225586,
           37.061500549316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.24 00:29:48",
+        "depth_km": 4.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "AKPINAR-TUFANBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1875,
+          38.22570037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.24 00:27:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "POLATKOY-MADEN (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.40620040893555,
+          38.3484992980957
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.30070114135742,
           37.98249816894531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.19 15:59:07",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 0.0,
-        "place": "DOGU AKDENIZ",
-        "location": "DOGU AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.741798400878906,
-          34.970001220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.19 15:58:09",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.35850143432617,
-          38.07569885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.19 15:45:14",
-        "depth_km": 2.4000000953674316,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.33169937133789,
-          37.79029846191406
         ]
       }
     }
