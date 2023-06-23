@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.23 17:29:41",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "COLAKLI-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.554298400878906,
+          38.3406982421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.23 17:10:32",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "DEGIRMENLER-HORASAN (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.11600112915039,
+          40.099300384521484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.23 17:04:01",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.14149856567383,
           38.082698822021484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.19 09:08:41",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "ALTINTAS-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.252498626708984,
-          38.121498107910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.19 09:06:26",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KURUCAOVA-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.57830047607422,
-          37.965301513671875
         ]
       }
     }
