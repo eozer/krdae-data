@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.06.24 14:20:08",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26499938964844,
+          37.91120147705078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.06.24 14:11:00",
         "depth_km": 11.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.32429885864258,
           38.16680145263672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.20 03:31:23",
-        "depth_km": 24.600000381469727,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "KURUCAOVA-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.57469940185547,
-          37.95920181274414
         ]
       }
     }
