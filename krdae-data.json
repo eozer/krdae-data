@@ -594,6 +594,25 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.06.29 20:07:04",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "ESKIYOL-NUSAYBIN (MARDIN)",
+        "location": "MARDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.111000061035156,
+          37.09379959106445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.06.29 20:07:04",
         "depth_km": 5.0,
         "MD": 0.0,
         "ML": 2.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.091800689697266,
           37.298500061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.25 23:44:05",
-        "depth_km": 2.700000047683716,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KARAHUYUK-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.04800033569336,
-          37.27450180053711
         ]
       }
     }
