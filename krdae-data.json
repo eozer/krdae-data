@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.03 01:27:24",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.0,
+        "place": "SAHINLER-YATAGAN (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.083499908447266,
+          37.30979919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.03 00:00:53",
         "depth_km": 10.699999809265137,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.35379981994629,
           40.70349884033203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.02 23:39:22",
+        "depth_km": 16.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ARMUTALAN-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.695499420166016,
+          38.14419937133789
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.70719909667969,
           39.65719985961914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.28 22:01:13",
-        "depth_km": 3.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.355201721191406,
-          37.83700180053711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.28 21:54:02",
-        "depth_km": 16.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ESENLER-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.517799377441406,
-          36.882999420166016
         ]
       }
     }
