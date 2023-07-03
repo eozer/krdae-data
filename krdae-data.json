@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.03 17:13:49",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKYAZI-YAZIHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.115699768066406,
+          38.70280075073242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.03 17:11:05",
         "depth_km": 3.5999999046325684,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.967500686645508,
           37.72919845581055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.06.29 16:54:14",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.88100051879883,
-          37.942298889160156
         ]
       }
     }
