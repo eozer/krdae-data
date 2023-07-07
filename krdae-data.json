@@ -1524,6 +1524,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.07 00:47:38",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16749954223633,
+          37.47779846191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.07 00:34:47",
         "depth_km": 11.399999618530273,
         "MD": 0.0,
@@ -1746,6 +1765,25 @@
         "coordinates": [
           35.52080154418945,
           37.5702018737793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.06 23:00:36",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "DOGAN-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18450164794922,
+          38.308799743652344
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.30830001831055,
           38.159000396728516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.02 21:43:38",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "CAMILI-IMAMOGLU (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.54819869995117,
-          37.3568000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.02 21:33:53",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.864500045776367,
-          35.34870147705078
         ]
       }
     }
