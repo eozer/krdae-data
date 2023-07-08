@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.08 15:22:19",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "ERMISLER-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.45399856567383,
+          38.88370132446289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.08 14:54:56",
         "depth_km": 3.9000000953674316,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           37.74420166015625,
           38.24580001831055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.08 14:44:41",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AYDINLAR-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.06679916381836,
+          38.309200286865234
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.632301330566406,
           38.13600158691406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.04 09:48:06",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GUNBALI-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.12779998779297,
-          38.47570037841797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.04 09:39:23",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KISIK-MENDERES (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.18549919128418,
-          38.310699462890625
         ]
       }
     }
