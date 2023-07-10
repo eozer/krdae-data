@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.11 01:00:04",
+        "depth_km": 13.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AZGANLIK-ISKENDERUN (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.21120071411133,
+          36.699501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.11 00:50:52",
+        "depth_km": 2.200000047683716,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "TEKIR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.628501892089844,
+          37.915000915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.11 00:42:49",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "DEVECI-HAYMANA (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.61399841308594,
+          39.61119842529297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.11 00:34:30",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GUNDERE-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.374298095703125,
+          38.24020004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.11 00:14:16",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -17,6 +93,25 @@
         "coordinates": [
           37.484798431396484,
           38.390499114990234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.11 00:08:58",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KANDILKOY-EKINOZU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1150016784668,
+          38.045501708984375
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.96780014038086,
           38.469200134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 10:25:51",
-        "depth_km": 7.099999904632568,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 2.9000000953674316,
-        "place": "GUNDOGDU-BUCAK (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.566699981689453,
-          37.303001403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 10:07:21",
-        "depth_km": 1.600000023841858,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AKKUYU-KUMLU (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.45130157470703,
-          36.39720153808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 09:57:59",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "TURKIYE-SURIYE SINIR BOLGESI",
-        "location": "TURKIYE-SURIYE SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.639198303222656,
-          36.577999114990234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 09:57:59",
-        "depth_km": 1.5,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "AKTEPE-HASSA (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.489200592041016,
-          36.71179962158203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 09:38:14",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "ANAMUR ACIKLARI-MERSIN (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.60070037841797,
-          35.87950134277344
         ]
       }
     }
