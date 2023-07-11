@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.11 11:32:12",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GUVENDIK-KIRKAGAC (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.889999389648438,
+          39.222999572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.11 11:20:29",
         "depth_km": 2.299999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.24519920349121,
           39.00279998779297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.06 15:40:17",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "DIKILI-HEKIMHAN (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.086299896240234,
-          39.0525016784668
         ]
       }
     }
