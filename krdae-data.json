@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.12 23:42:00",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CUMHURLU-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.00199890136719,
+          37.90299987792969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.12 23:37:01",
         "depth_km": 20.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.2504997253418,
           41.259498596191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.07 07:07:37",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.21649932861328,
-          36.06050109863281
         ]
       }
     }
