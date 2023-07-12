@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.12 12:45:55",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KAVAKKOY-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18130111694336,
+          38.65399932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.12 12:21:29",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -169,6 +188,25 @@
         "coordinates": [
           38.20100021362305,
           38.39699935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.12 09:42:47",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUMARLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.54679870605469,
+          37.83700180053711
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.19179916381836,
           38.422298431396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.07 02:42:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "DOGU AKDENIZ",
-        "location": "DOGU AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.174198150634766,
-          34.09199905395508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.07 02:40:52",
-        "depth_km": 12.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KIYRA-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.526500701904297,
-          37.09370040893555
         ]
       }
     }
