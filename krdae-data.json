@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.15 00:37:31",
+        "depth_km": 17.700000762939453,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.26449966430664,
+          37.83399963378906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.15 00:27:37",
+        "depth_km": 16.700000762939453,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.337501525878906,
+          37.95970153808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.15 00:18:19",
         "depth_km": 13.0,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           26.124799728393555,
           40.41170120239258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.14 23:53:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "EGRIPINAR-OVACIK (TUNCELI)",
+        "location": "TUNCELI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000999450683594,
+          39.33580017089844
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           35.95869827270508,
           36.3306999206543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 13:02:48",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YENICE-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.53950119018555,
-          38.45479965209961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 12:46:35",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KAVAKLIDERE-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.633201599121094,
-          38.2327995300293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 12:27:21",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YANISLI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.54280090332031,
-          36.129798889160156
         ]
       }
     }
