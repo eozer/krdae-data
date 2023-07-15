@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.15 05:41:18",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TAHTAKOPRU-VEZIRKOPRU (SAMSUN)",
+        "location": "SAMSUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.93730163574219,
+          41.10530090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.15 05:21:23",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.40879821777344,
+          37.53929901123047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.15 04:31:48",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "KIRKPINAR-DICLE (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.12049865722656,
+          38.4296989440918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.15 04:18:41",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.7106990814209,
           39.28929901123047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 22:05:03",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "KOMEKAVAK-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.99580001831055,
-          38.25170135498047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 21:53:58",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GURSU-CAMELI (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.312299728393555,
-          36.9452018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.09 21:44:39",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CITLIK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.253700256347656,
-          38.242000579833984
         ]
       }
     }
