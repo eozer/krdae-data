@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.20 18:45:12",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ELDELEK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.249298095703125,
+          38.275001525878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.20 18:11:53",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           39.462501525878906,
           38.56050109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.20 17:50:44",
+        "depth_km": 23.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.928300857543945,
+          36.16680145263672
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.678499221801758,
           36.38399887084961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.14 08:19:49",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ARSLANBEY-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.062198638916016,
-          37.363800048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.14 08:14:24",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 2.799999952316284,
-        "place": "DEMIRCILER-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.04869842529297,
-          37.356201171875
         ]
       }
     }
