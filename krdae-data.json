@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.07.21 16:00:11",
-        "depth_km": 10.5,
+        "timestamp": "2023.07.21 16:18:14",
+        "depth_km": 8.699999809265137,
         "MD": 0.0,
-        "ML": 1.2000000476837158,
+        "ML": 2.4000000953674316,
         "Mw": 0.0,
-        "place": "KIZILMAGARA-KULUNCAK (MALATYA)",
+        "place": "SOGUCAK-AFSIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9556999206543,
+          38.134700775146484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.21 16:00:10",
+        "depth_km": 23.799999237060547,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "GUDUL-DARENDE (MALATYA)",
         "location": "MALATYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.774200439453125,
-          38.7218017578125
+          37.55070114135742,
+          38.509300231933594
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.90299987792969,
           39.99800109863281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.15 06:14:57",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "PIRAHMETLER-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.56800079345703,
-          40.77399826049805
         ]
       }
     }
