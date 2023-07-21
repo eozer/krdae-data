@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.21 17:40:46",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KASOBA-(KARAMAN)",
+        "location": "KARAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.96870040893555,
+          37.42100143432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.21 17:36:48",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.53200149536133,
           37.65950012207031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.15 07:28:22",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DEDEYOLU-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.2056999206543,
-          38.44919967651367
         ]
       }
     }
