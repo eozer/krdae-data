@@ -23,6 +23,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.24 03:02:03",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.634498596191406,
+          38.17649841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.24 03:01:34",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.215301513671875,
+          38.207698822021484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.24 02:41:38",
+        "depth_km": 13.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.30569839477539,
+          37.882301330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.24 02:36:14",
+        "depth_km": 14.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.640201568603516,
+          38.1692008972168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.24 02:05:49",
         "depth_km": 5.300000190734863,
         "MD": 0.0,
@@ -61,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.24 01:55:12",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.994300842285156,
+          36.11579895019531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.24 01:24:15",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -74,6 +169,25 @@
         "coordinates": [
           42.03900146484375,
           42.056800842285156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.24 00:45:31",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.274200439453125,
+          37.844200134277344
         ]
       }
     },
@@ -150,6 +264,44 @@
         "coordinates": [
           37.36830139160156,
           38.00899887084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.23 23:24:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ZEYTINKOY-SELCUK (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.269500732421875,
+          37.9630012512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.23 22:59:48",
+        "depth_km": 15.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KOMEKAVAK-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005699157714844,
+          38.2495002746582
         ]
       }
     },
@@ -264,6 +416,25 @@
         "coordinates": [
           28.41830062866211,
           37.176700592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.23 20:58:20",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ELEKGOLU-CAMARDI (NIGDE)",
+        "location": "NIGDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08919906616211,
+          37.73780059814453
         ]
       }
     },
@@ -9327,177 +9498,6 @@
         "coordinates": [
           37.863800048828125,
           38.356998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 11:27:17",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KARAAHMET-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.57529830932617,
-          38.00699996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 11:23:42",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KIBRIS-GIRNE",
-        "location": "KIBRIS-GIRNE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.35820007324219,
-          35.327701568603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 10:12:30",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "TANISIK-(MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.586299896240234,
-          38.29169845581055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 09:55:35",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TOMBAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.95920181274414,
-          38.11629867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 09:40:58",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SURGU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.9911994934082,
-          37.99570083618164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 09:29:57",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ALKAYAOGLU-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.11800003051758,
-          38.551998138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 09:25:47",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YESILKOY-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.7327995300293,
-          38.002498626708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 09:03:36",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "ODUNPAZARI (ESKISEHIR)",
-        "location": "ESKISEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.556699752807617,
-          39.80550003051758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.18 08:19:52",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.76369857788086,
-          38.134498596191406
         ]
       }
     }
