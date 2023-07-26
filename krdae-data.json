@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.07.26 09:35:10",
+        "depth_km": 18.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "INCESU (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.250301361083984,
+          38.62919998168945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.07.26 09:21:10",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.95050048828125,
           38.957000732421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.21 17:40:46",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KASOBA-(KARAMAN)",
-        "location": "KARAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.96870040893555,
-          37.42100143432617
         ]
       }
     }
