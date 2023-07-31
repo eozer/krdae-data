@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.01 00:53:38",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.4000000953674316,
+        "place": "DOGANLI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1697998046875,
+          37.415199279785156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.01 00:32:32",
         "depth_km": 12.100000381469727,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           38.65119934082031,
           38.382301330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.01 00:21:43",
+        "depth_km": 3.799999952316284,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.916000366210938,
+          39.06719970703125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           35.82500076293945,
           37.640499114990234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.27 02:24:02",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KARABUCAK-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.87770080566406,
-          37.652000427246094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.27 02:21:24",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KARANEBILI-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.760799407958984,
-          37.64070129394531
         ]
       }
     }
