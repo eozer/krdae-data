@@ -23,19 +23,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.07.31 09:30:16",
-        "depth_km": 12.600000381469727,
+        "timestamp": "2023.07.31 09:41:28",
+        "depth_km": 2.700000047683716,
         "MD": 0.0,
-        "ML": 2.0,
+        "ML": 1.0,
         "Mw": 0.0,
-        "place": "UZUMDALI-(HATAY)",
-        "location": "HATAY"
+        "place": "TASKOPRU-SULTANDAGI (AFYONKARAHISAR)",
+        "location": "AFYONKARAHISAR"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.270301818847656,
-          36.24319839477539
+          31.310300827026367,
+          38.596500396728516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.07.31 09:30:10",
+        "depth_km": 3.5999999046325684,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.507699966430664,
+          35.68870162963867
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.697999954223633,
           38.18629837036133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.26 12:50:38",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KIZILLAR-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.69219970703125,
-          37.54330062866211
         ]
       }
     }
