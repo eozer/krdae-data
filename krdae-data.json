@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.01 09:22:28",
+        "depth_km": 19.799999237060547,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KOKLU-ANDIRIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.452999114990234,
+          37.49879837036133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.01 09:07:44",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.38570022583008,
+          38.1614990234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.01 09:01:05",
         "depth_km": 5.599999904632568,
         "MD": 0.0,
@@ -81,18 +119,37 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.08.01 08:27:56",
-        "depth_km": 26.0,
+        "depth_km": 26.600000381469727,
         "MD": 0.0,
         "ML": 2.200000047683716,
         "Mw": 0.0,
-        "place": "KOZAGAC-(MUGLA)",
+        "place": "MUGLA (MUGLA)",
         "location": "MUGLA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.41670036315918,
-          37.27479934692383
+          28.420000076293945,
+          37.272300720214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.01 08:27:54",
+        "depth_km": 10.100000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SUNGULLU-(MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.30030059814453,
+          38.85770034790039
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.43199920654297,
           36.77750015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.27 11:51:32",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SALMANLI-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.668800354003906,
-          37.61199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.27 11:49:41",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KABAKTEPE-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.77730178833008,
-          37.63130187988281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.27 11:32:51",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.299999952316284,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.81049919128418,
-          40.7848014831543
         ]
       }
     }
