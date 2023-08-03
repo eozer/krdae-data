@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.03 04:34:49",
+        "depth_km": 10.399999618530273,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.41080093383789,
+          34.73630142211914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.03 04:05:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKPINAR-EKINOZU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.21879959106445,
+          38.10020065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.03 03:24:38",
         "depth_km": 8.600000381469727,
         "MD": 0.0,
@@ -150,6 +188,25 @@
         "coordinates": [
           27.617000579833984,
           37.887001037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.03 02:32:23",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YENISAKRAN-ALIAGA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.041000366210938,
+          38.87950134277344
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           35.941001892089844,
           37.538299560546875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.29 06:42:03",
-        "depth_km": 14.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SARIKUSAK-KARLIOVA (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.81880187988281,
-          39.3827018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.29 06:38:16",
-        "depth_km": 81.19999694824219,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "UNCULAR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.11069869995117,
-          38.47169876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.29 06:35:26",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KUS GOLU",
-        "location": "KUS GOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.918500900268555,
-          40.218299865722656
         ]
       }
     }
