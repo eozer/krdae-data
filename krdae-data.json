@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.04 15:58:05",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "CANDIK-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.72269821166992,
+          37.46979904174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.04 15:38:14",
+        "depth_km": 4.400000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SINANLI-YAZIHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.28580093383789,
+          38.52119827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.04 15:17:21",
         "depth_km": 13.199999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.37730026245117,
           38.230201721191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.30 11:58:06",
-        "depth_km": 28.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.270700454711914,
-          35.654701232910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.30 11:28:38",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CUKUROREN-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.754798889160156,
-          37.349300384521484
         ]
       }
     }
