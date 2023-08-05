@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.05 05:18:22",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.5,
+        "place": "SURIYE",
+        "location": "SURIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.70119857788086,
+          35.21179962158203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.05 05:09:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CAKIKOY-YAYLADAGI (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.047000885009766,
+          36.0265007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.05 04:39:37",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.24330139160156,
           37.85929870605469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.31 05:04:52",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.32080078125,
-          37.77920150756836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.07.31 04:51:51",
-        "depth_km": 6.900000095367432,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.596799850463867,
-          36.92729949951172
         ]
       }
     }
