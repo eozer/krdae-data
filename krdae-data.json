@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.06 23:04:17",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35049819946289,
+          37.867801666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.06 22:59:37",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KORKMAZ-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.79100036621094,
+          38.057701110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.06 22:53:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "MAHYALAR-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.948699951171875,
+          37.672698974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.06 22:45:28",
+        "depth_km": 1.399999976158142,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "MAHYALAR-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94150161743164,
+          37.669700622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.06 22:36:39",
         "depth_km": 2.5999999046325684,
         "MD": 0.0,
@@ -17,6 +93,25 @@
         "coordinates": [
           35.8473014831543,
           37.64950180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.06 22:35:52",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KARAOGUZ-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.49679946899414,
+          38.492000579833984
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.4557991027832,
           38.05730056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.01 16:07:04",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "INCIRLI-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.789798736572266,
-          38.42250061035156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.01 15:58:40",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOKCEK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.2421989440918,
-          38.385799407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.01 15:57:54",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "AKBAYIR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.3401985168457,
-          38.1245002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.01 15:49:30",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "HASBAGLAR-ADAKLI (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.382198333740234,
-          39.20750045776367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.01 15:29:48",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "OTMANLAR-KOYCEGIZ (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.901500701904297,
-          37.02280044555664
         ]
       }
     }
