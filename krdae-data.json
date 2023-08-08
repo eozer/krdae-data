@@ -251,6 +251,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.08 16:34:38",
+        "depth_km": 6.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "DOGANKOY-SENKAYA (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.40480041503906,
+          40.58769989013672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.08 16:32:48",
+        "depth_km": 19.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "AKCAKOY-ALTINTAS (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.996000289916992,
+          39.05870056152344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.08 16:19:12",
         "depth_km": 16.299999237060547,
         "MD": 0.0,
@@ -264,6 +302,25 @@
         "coordinates": [
           31.016799926757812,
           37.097999572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.08 16:18:38",
+        "depth_km": 7.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CUKUROREN-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.6112003326416,
+          40.86949920654297
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.65650177001953,
           38.2047004699707
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.03 07:45:54",
-        "depth_km": 19.700000762939453,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.480300903320312,
-          35.54629898071289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.03 07:38:09",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BOGURTLEN-YAZIHAN (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.00469970703125,
-          38.574501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.03 07:21:46",
-        "depth_km": 11.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUCATI-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.97719955444336,
-          38.19049835205078
         ]
       }
     }
