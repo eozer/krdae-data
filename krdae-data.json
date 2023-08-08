@@ -175,6 +175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.08 05:22:00",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GOLARDI-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.444000244140625,
+          38.55979919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.08 05:14:13",
         "depth_km": 4.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.71770095825195,
           37.432701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.02 20:48:53",
-        "depth_km": 4.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "SARICALAR-SELCUKLU (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.61349868774414,
-          38.06050109863281
         ]
       }
     }
