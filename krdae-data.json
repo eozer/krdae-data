@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.10 23:33:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "TOPSOGUT-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.25199890136719,
+          38.38029861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.10 23:14:21",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.45949935913086,
           37.951698303222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.05 19:26:20",
-        "depth_km": 15.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.46049880981445,
-          38.165199279785156
         ]
       }
     }
