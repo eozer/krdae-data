@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.10 15:44:38",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "KALEDIBI-HANI (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.38330078125,
+          38.54169845581055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.10 15:39:55",
+        "depth_km": 17.899999618530273,
+        "MD": 0.0,
+        "ML": 3.799999952316284,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.413700103759766,
+          39.51750183105469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.10 15:31:06",
         "depth_km": 5.599999904632568,
         "MD": 0.0,
@@ -23,19 +61,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.08.10 15:25:52",
-        "depth_km": 5.0,
+        "timestamp": "2023.08.10 15:25:51",
+        "depth_km": 23.799999237060547,
         "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 4.199999809265137,
-        "place": "KALEDIBI-HANI (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.36399841308594,
-          38.53049850463867
+          23.692699432373047,
+          39.679500579833984
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.90530014038086,
           38.1619987487793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.05 07:26:29",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "DEVEBOYNU-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.7864990234375,
-          38.12229919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.05 07:15:44",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.644798278808594,
-          35.38600158691406
         ]
       }
     }
