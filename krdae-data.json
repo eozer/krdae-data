@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.10 16:16:03",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 4.599999904632568,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.43320083618164,
+          35.701499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.10 15:44:38",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           23.692699432373047,
           39.679500579833984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.10 15:02:35",
+        "depth_km": 6.199999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GOLTEPE-VARTO (MUS)",
+        "location": "MUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.60319900512695,
+          39.12820053100586
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.253700256347656,
           38.574798583984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.05 08:28:52",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "DARILIK-ALADAG (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.410701751708984,
-          37.61370086669922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.05 07:26:59",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "ESENCE-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.90530014038086,
-          38.1619987487793
         ]
       }
     }
