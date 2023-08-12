@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.12 14:09:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "BALABAN-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.62379837036133,
+          38.46979904174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.12 14:08:39",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.621700286865234,
+          38.15650177001953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.12 13:15:08",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           36.4182014465332,
           37.973201751708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.12 13:02:46",
+        "depth_km": 26.700000762939453,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35430145263672,
+          37.89580154418945
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.01799964904785,
           40.779701232910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.07 14:18:10",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YENIKOY-TAVSANLI (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.34830093383789,
-          39.604801177978516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.07 13:06:12",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.38629913330078,
-          38.36750030517578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.07 12:54:35",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "CALISKANLAR-(SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.744998931884766,
-          37.11579895019531
         ]
       }
     }
