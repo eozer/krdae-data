@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.12 18:18:18",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.0,
+        "place": "IKIZCE-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1963005065918,
+          38.279998779296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.12 18:04:54",
         "depth_km": 8.300000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.195701599121094,
           38.29899978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.07 21:07:42",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARABUCAK-KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.89699935913086,
-          37.65079879760742
         ]
       }
     }
