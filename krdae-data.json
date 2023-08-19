@@ -80,6 +80,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.19 14:13:28",
+        "depth_km": 54.20000076293945,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "ANTALYA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.075700759887695,
+          36.595001220703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.19 14:09:56",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.143001556396484,
+          37.87620162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.19 13:57:44",
         "depth_km": 1.600000023841858,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.53450012207031,
           38.18479919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.14 05:13:22",
-        "depth_km": 1.5,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.57899856567383,
-          38.41550064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.14 05:13:21",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AYANLAR-GOLMARMARA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.040700912475586,
-          38.69670104980469
         ]
       }
     }
