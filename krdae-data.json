@@ -270,6 +270,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.20 11:11:31",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.884700775146484,
+          36.300498962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.20 11:05:18",
         "depth_km": 7.800000190734863,
         "MD": 0.0,
@@ -416,6 +435,25 @@
         "coordinates": [
           26.18869972229004,
           39.385501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.20 08:54:26",
+        "depth_km": 15.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.519699096679688,
+          34.35350036621094
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.26350021362305,
           38.305999755859375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.15 01:54:51",
-        "depth_km": 15.899999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KARINCALI-ORHANELI (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.87220001220703,
-          39.96149826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.15 01:42:02",
-        "depth_km": 18.600000381469727,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "SARAYONU (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.4093017578125,
-          38.28329849243164
         ]
       }
     }
