@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.22 13:00:16",
+        "depth_km": 10.899999618530273,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KIBRIS-GUZELYALI",
+        "location": "KIBRIS-GUZELYALI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.13779830932617,
+          35.393699645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.22 12:48:15",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SAHOREN-KADINHANI (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.27870178222656,
+          38.182498931884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.22 12:35:32",
         "depth_km": 8.600000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.529199600219727,
           35.75680160522461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.16 20:31:39",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KAPUZBASI-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.322200775146484,
-          37.72779846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.16 20:28:53",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "YARBASI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.24100112915039,
-          37.474700927734375
         ]
       }
     }
