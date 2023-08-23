@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.23 11:19:28",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.0,
+        "place": "DEMIRKANAT-KIGI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.332298278808594,
+          39.20220184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.23 11:00:35",
+        "depth_km": 7.199999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BADEMLI-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.733699798583984,
+          37.21780014038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.23 10:40:27",
         "depth_km": 3.799999952316284,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           34.043800354003906,
           36.696998596191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.18 00:28:26",
-        "depth_km": 4.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "EVRI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.05670166015625,
-          37.261199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.18 00:25:06",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TURKIYE-IRAN SINIR BOLGESI",
-        "location": "TURKIYE-IRAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.55379867553711,
-          39.3650016784668
         ]
       }
     }
