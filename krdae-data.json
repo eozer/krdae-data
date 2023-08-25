@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.25 07:41:42",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "KAYAPINAR-ULAS (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.19419860839844,
+          39.435699462890625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.25 07:35:33",
+        "depth_km": 13.5,
+        "MD": 0.0,
+        "ML": 0.699999988079071,
+        "Mw": 0.0,
+        "place": "ATAKOY-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.395700454711914,
+          37.05799865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.25 07:22:35",
         "depth_km": 1.2000000476837158,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.23830032348633,
           37.54949951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.20 11:33:16",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "BOYNUYOGUNLU-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.49919891357422,
-          37.428001403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.20 11:24:11",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KIRLANGIC-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.05550003051758,
-          38.25230026245117
         ]
       }
     }
