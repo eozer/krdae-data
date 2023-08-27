@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.27 12:34:45",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.769798278808594,
+          38.175498962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.27 12:00:47",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.64179992675781,
           38.46580123901367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.22 13:17:33",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 4.800000190734863,
-        "Mw": 4.699999809265137,
-        "place": "KIRKISRAK-SARIZ (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.69169998168945,
-          38.43730163574219
         ]
       }
     }
