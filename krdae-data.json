@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.29 11:11:12",
+        "depth_km": 11.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUZUCAK-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.19350051879883,
+          37.540199279785156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.29 11:08:33",
         "depth_km": 9.199999809265137,
         "MD": 0.0,
@@ -226,6 +245,25 @@
         "coordinates": [
           43.63199996948242,
           39.59600067138672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.29 09:11:11",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ADIL-SOMA (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.623300552368164,
+          39.10900115966797
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.617000579833984,
           39.60969924926758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.23 21:20:35",
-        "depth_km": 19.299999237060547,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BUYUKSOBECIMEN-SARIZ (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.6505012512207,
-          38.509700775146484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.23 21:16:05",
-        "depth_km": 10.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "IBECIK-GOLHISAR (BURDUR)",
-        "location": "BURDUR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.44219970703125,
-          36.981201171875
         ]
       }
     }
