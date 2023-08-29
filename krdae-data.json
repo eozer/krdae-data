@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.29 13:16:33",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YAZIKOY-AFSIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.758201599121094,
+          38.15919876098633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.29 12:46:18",
         "depth_km": 1.7000000476837158,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           38.54880142211914,
           38.16699981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.29 12:44:23",
+        "depth_km": 7.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DEREKOY-(AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.034500122070312,
+          37.775299072265625
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.676700592041016,
           39.56570053100586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.23 22:37:03",
-        "depth_km": 15.800000190734863,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.59230041503906,
-          38.17620086669922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.23 22:35:12",
-        "depth_km": 18.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CAMDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.52730178833008,
-          38.10929870605469
         ]
       }
     }
