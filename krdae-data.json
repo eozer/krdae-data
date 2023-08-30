@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.31 01:26:52",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GUNDUZBEY-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.253299713134766,
+          38.279998779296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.31 01:09:12",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.231700897216797,
           34.807701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.24 19:06:33",
-        "depth_km": 23.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.45750045776367,
-          38.39820098876953
         ]
       }
     }
