@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.08.31 09:43:09",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "TAVSANCALI-KULU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.98500061035156,
+          38.88930130004883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.08.31 09:31:05",
         "depth_km": 1.2999999523162842,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           36.333499908447266,
           37.99330139160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.08.31 09:02:50",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.148500442504883,
+          36.45000076293945
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.34480094909668,
           37.070701599121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.25 04:37:00",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "DEMIRKANAT-KIGI (BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.2947998046875,
-          39.21870040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.25 04:36:28",
-        "depth_km": 21.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "HASANLOK-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.51319885253906,
-          36.91699981689453
         ]
       }
     }
