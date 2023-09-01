@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.01 23:24:27",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KARAKOY-CESME (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.491199493408203,
+          38.27050018310547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.01 23:15:17",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.13330078125,
           36.159698486328125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.26 07:50:00",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.147499084472656,
-          37.98500061035156
         ]
       }
     }
