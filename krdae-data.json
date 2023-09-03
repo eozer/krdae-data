@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.04 01:30:46",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0,
+        "place": "AHILER-PAMUKOVA (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.989500045776367,
+          40.46099853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.04 01:01:32",
         "depth_km": 8.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           33.38130187988281,
           35.195499420166016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.28 11:59:54",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KIBRIS-BESPARMAK",
-        "location": "KIBRIS-BESPARMAK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.51350021362305,
-          35.35300064086914
         ]
       }
     }
