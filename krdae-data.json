@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.04 10:31:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 3.9000000953674316,
+        "place": "BULGARISTAN",
+        "location": "BULGARISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.075000762939453,
+          42.0177001953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.04 10:20:27",
         "depth_km": 3.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.68579864501953,
           38.477699279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.29 01:31:32",
-        "depth_km": 22.200000762939453,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ORDEKLI-SARIZ (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.48270034790039,
-          38.375
         ]
       }
     }
