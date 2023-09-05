@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.05 18:55:44",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ELCIK-SIVRIHISAR (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.551000595092773,
+          39.50529861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.05 18:52:45",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "CESME ACIKLARI-IZMIR (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.31170082092285,
+          38.1067008972168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.05 18:00:25",
         "depth_km": 3.9000000953674316,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.193199157714844,
           38.0890007019043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.30 13:21:35",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "AKCALI-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.794700622558594,
-          37.31480026245117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.30 13:19:18",
-        "depth_km": 22.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AYDINLAR-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.101200103759766,
-          38.30350112915039
         ]
       }
     }
