@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.05 19:59:52",
+        "depth_km": 30.600000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.458799362182617,
+          35.631500244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.05 19:42:20",
         "depth_km": 1.2999999523162842,
         "MD": 0.0,
@@ -226,6 +245,25 @@
         "coordinates": [
           37.49449920654297,
           38.442298889160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.05 17:41:28",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 2.9000000953674316,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.479299545288086,
+          38.889801025390625
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.0817985534668,
           38.119998931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.30 20:56:30",
-        "depth_km": 1.7000000476837158,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.990699768066406,
-          38.7218017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.30 20:07:22",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GULUMUSAGI-(MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.57170104980469,
-          38.21049880981445
         ]
       }
     }
