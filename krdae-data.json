@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.06 11:27:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KIBRIS-DEGIRMENLIK",
+        "location": "KIBRIS-DEGIRMENLIK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.55070114135742,
+          35.20719909667969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.06 11:16:55",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           38.54069900512695,
           38.17430114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.06 10:30:56",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.33769989013672,
+          36.048500061035156
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.150299072265625,
           38.42770004272461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.31 06:27:48",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KIZILAGAC-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.388500213623047,
-          37.082801818847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.31 06:24:22",
-        "depth_km": 1.7000000476837158,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "EKINLIK-MARMARA (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.474300384521484,
-          40.53020095825195
         ]
       }
     }
