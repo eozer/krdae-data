@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.07 01:22:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.961999893188477,
+          37.87950134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.07 01:19:08",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KABAKTEPE-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.80699920654297,
+          37.617000579833984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.07 00:52:19",
         "depth_km": 10.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.40650177001953,
           38.13330078125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.01 00:08:05",
-        "depth_km": 3.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ECEMIS-LICE (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.496700286865234,
-          38.58470153808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.08.31 23:56:49",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.05780029296875,
-          40.42150115966797
         ]
       }
     }
