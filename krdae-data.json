@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.07 19:50:47",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.94930076599121,
+          36.06420135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.07 19:47:43",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "TEVEKKELLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.990299224853516,
+          37.444000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.07 19:16:21",
         "depth_km": 2.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.275999069213867,
           37.69020080566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.02 05:59:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KAVAK-(ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.20119857788086,
-          37.97200012207031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.02 05:08:51",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.550800323486328,
-          38.57270050048828
         ]
       }
     }
