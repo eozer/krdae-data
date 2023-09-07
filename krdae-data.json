@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.07 13:44:16",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SUGUL-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.477298736572266,
+          38.406700134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.07 13:05:43",
+        "depth_km": 11.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SOGUKCAM-GOYNUK (BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.79680061340332,
+          40.132301330566406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.07 13:02:40",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BAYINDIR-GOYNUK (BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.73200035095215,
+          40.27899932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.07 13:01:22",
         "depth_km": 25.100000381469727,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.48749923706055,
           38.557701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.01 17:45:46",
-        "depth_km": 22.700000762939453,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "EGRIBASAN-BALA (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.24079895019531,
-          39.27669906616211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.01 17:24:55",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YILDIZLI-AKCAABAT (TRABZON)",
-        "location": "TRABZON"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.60100173950195,
-          41.02370071411133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.01 17:05:45",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SALKIMOZU-PULUMUR (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.7943000793457,
-          39.61249923706055
         ]
       }
     }
