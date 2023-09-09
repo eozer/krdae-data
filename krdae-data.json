@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.09 11:53:48",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ULUKOY-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.502201080322266,
+          38.18899917602539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.09 11:17:20",
         "depth_km": 10.399999618530273,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           36.41350173950195,
           38.27629852294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.09 11:08:21",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CICEK-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16400146484375,
+          37.32170104980469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.09 10:42:48",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "EKINOZU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.185298919677734,
+          38.08300018310547
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.96699905395508,
           38.58829879760742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 04:47:48",
-        "depth_km": 12.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GUMUSSU-DOGANYOL (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.019798278808594,
-          38.26570129394531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 04:45:03",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.33720016479492,
-          38.22100067138672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 04:13:31",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AMASRA ACIKLARI-BARTIN (KARADENIZ)",
-        "location": "KARADENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.37670135498047,
-          41.9197998046875
         ]
       }
     }
