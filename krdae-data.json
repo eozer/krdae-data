@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.10 04:56:32",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "HATAY (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.17219924926758,
+          36.198699951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.10 04:44:48",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KARAPINAR-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.055999755859375,
+          38.31100082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.10 04:30:12",
         "depth_km": 13.100000381469727,
         "MD": 0.0,
@@ -99,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.10 03:47:16",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "KABAKTEPE-EKINOZU (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03150177001953,
+          38.01679992675781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.10 03:20:48",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -112,6 +169,44 @@
         "coordinates": [
           35.80580139160156,
           36.16780090332031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.10 03:12:23",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ICMELI-(BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.04669952392578,
+          38.38019943237305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.10 03:11:06",
+        "depth_km": 3.0999999046325684,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DEREYOLU-MUTKI (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.974700927734375,
+          38.39799880981445
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.53850173950195,
           38.46329879760742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 21:45:11",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TATLAR-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.99869918823242,
-          38.46879959106445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 21:14:13",
-        "depth_km": 16.600000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "PALANDOKEN-TUTAK (AGRI)",
-        "location": "AGRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.89400100708008,
-          39.5525016784668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 20:46:10",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YAPILI-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.16529846191406,
-          38.58599853515625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 20:37:14",
-        "depth_km": 17.5,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.762500762939453,
-          34.824501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.04 20:05:24",
-        "depth_km": 17.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SOGUTLUDERE-KADIRLI (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.132999420166016,
-          37.38479995727539
         ]
       }
     }
