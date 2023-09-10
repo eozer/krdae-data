@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.10 15:55:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KULU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1067008972168,
+          39.05500030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.10 15:40:07",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           28.98419952392578,
           41.125999450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.10 13:59:00",
+        "depth_km": 19.100000381469727,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AHATLI-ELMALI (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.683799743652344,
+          36.63850021362305
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.69430160522461,
           38.11819839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.05 03:13:08",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "CAGSAK-SARIZ (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.569801330566406,
-          38.45069885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.05 02:42:51",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "SAMANKOY-(MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.2677001953125,
-          38.40330123901367
         ]
       }
     }
