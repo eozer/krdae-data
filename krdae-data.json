@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.11 05:37:46",
+        "depth_km": 4.099999904632568,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.326499938964844,
+          38.06449890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.11 05:32:49",
         "depth_km": 4.900000095367432,
         "MD": 0.0,
@@ -359,6 +378,25 @@
         "coordinates": [
           37.487300872802734,
           38.312801361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.11 01:40:37",
+        "depth_km": 17.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "DOGUPINAR-ALTINYAYLA (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.65919876098633,
+          39.30400085449219
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.51850128173828,
           38.437801361083984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.05 12:58:32",
-        "depth_km": 4.400000095367432,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "SOGUTLU-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.30400085449219,
-          38.225799560546875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.05 12:52:39",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KARAHASANUSAGI-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.574501037597656,
-          38.11949920654297
         ]
       }
     }
