@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.12 02:30:42",
+        "depth_km": 24.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ELMAGOLU-CEYHAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.893699645996094,
+          37.15129852294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.12 02:19:16",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           32.60820007324219,
           38.0443000793457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.06 08:17:27",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ORTAOREN-EKINOZU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.124000549316406,
-          38.11520004272461
         ]
       }
     }
