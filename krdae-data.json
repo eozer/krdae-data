@@ -1220,6 +1220,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.11 00:43:53",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.699999809265137,
+        "Mw": 4.900000095367432,
+        "place": "IRAK",
+        "location": "IRAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.74169921875,
+          35.42150115966797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.11 00:42:53",
         "depth_km": 9.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.55179977416992,
           38.474300384521484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.06 00:21:27",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "SIRINKOY-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.365999221801758,
-          37.03499984741211
         ]
       }
     }
