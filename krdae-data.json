@@ -4,6 +4,101 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.15 04:28:53",
+        "depth_km": 2.799999952316284,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YAVUZLAR-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.45349884033203,
+          38.4547004699707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.15 04:19:36",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "HACILAR-KARLIOVA (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.77730178833008,
+          39.09669876098633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.15 03:47:10",
+        "depth_km": 4.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ASLIHANLAR-ASLANAPA (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.861499786376953,
+          39.063201904296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.15 03:31:25",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BEKCITEPE-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29669952392578,
+          38.479801177978516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.15 03:23:55",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.49549865722656,
+          38.14849853515625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.15 03:22:43",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -36,6 +131,25 @@
         "coordinates": [
           26.42970085144043,
           39.49549865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.15 03:12:15",
+        "depth_km": 16.799999237060547,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "BUYUKHUSUN-AYVACIK (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.41069984436035,
+          39.48849868774414
         ]
       }
     },
@@ -9384,120 +9498,6 @@
         "coordinates": [
           36.43330001831055,
           37.929500579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 13:13:41",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "BOGRUDELIK-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.297000885009766,
-          38.96630096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 13:05:46",
-        "depth_km": 27.799999237060547,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BALABAN-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.60179901123047,
-          38.45669937133789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 12:58:24",
-        "depth_km": 19.299999237060547,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ATAKOY-(AFYONKARAHISAR)",
-        "location": "AFYONKARAHISAR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.545799255371094,
-          38.715301513671875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 12:48:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KOCAOBA-DIKILI (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.988500595092773,
-          39.05580139160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 12:44:24",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "CIFTLIK-OSMANELI (BILECIK)",
-        "location": "BILECIK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.89299964904785,
-          40.36069869995117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 12:42:42",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "GEDIKPINAR-INEGOL (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.764299392700195,
-          39.94499969482422
         ]
       }
     }
