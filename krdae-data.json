@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.15 12:29:07",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GIRENCIK-ORHANELI (BURSA)",
+        "location": "BURSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.906700134277344,
+          39.94369888305664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.15 11:54:09",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.01279830932617,
           37.81399917602539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.08 20:36:15",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "GEMTEPE-PALU (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.33399963378906,
-          38.80950164794922
         ]
       }
     }
