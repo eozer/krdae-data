@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.16 14:37:01",
+        "depth_km": 11.0,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.200000047683716,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14350128173828,
+          35.62580108642578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.16 14:34:30",
         "depth_km": 7.400000095367432,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           37.23529815673828,
           37.52470016479492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.16 14:32:48",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.24850082397461,
+          39.37229919433594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.46780014038086,
           38.063201904296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.10 02:47:01",
-        "depth_km": 11.899999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "PINARKOY-MILAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.97130012512207,
-          37.09769821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.10 01:51:13",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "AKDEMIR-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.994998931884766,
-          37.25529861450195
         ]
       }
     }
