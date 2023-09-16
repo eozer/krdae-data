@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.16 12:13:34",
+        "depth_km": 19.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUCUKKABAKTEPE-SARIZ (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.41619873046875,
+          38.48899841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.16 11:51:13",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           28.020200729370117,
           37.9822998046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.16 11:19:20",
+        "depth_km": 24.200000762939453,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KUMARLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.49919891357422,
+          37.819698333740234
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.0885009765625,
           39.04349899291992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.09 21:54:49",
-        "depth_km": 1.399999976158142,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.4000000953674316,
-        "place": "BARINDI-DOGUBAYAZIT (AGRI)",
-        "location": "AGRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.24380111694336,
-          39.53229904174805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.09 21:45:59",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.36470031738281,
-          37.95830154418945
         ]
       }
     }
