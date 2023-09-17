@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.17 07:55:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.272300720214844,
+          38.3577995300293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.17 07:40:41",
         "depth_km": 14.600000381469727,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           36.46500015258789,
           36.54999923706055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.17 07:37:08",
+        "depth_km": 29.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "TEPECIK-KOCAKOY (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.569801330566406,
+          38.24369812011719
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.487300872802734,
           38.312801361083984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.11 02:08:45",
-        "depth_km": 17.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CEMRE-KAS (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.61199951171875,
-          36.49399948120117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.11 01:40:37",
-        "depth_km": 17.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "DOGUPINAR-ALTINYAYLA (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.65919876098633,
-          39.30400085449219
         ]
       }
     }
