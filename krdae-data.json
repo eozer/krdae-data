@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.20 12:13:54",
+        "depth_km": 29.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "HALIKOY-BEYDAG (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.166799545288086,
+          38.08430099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.20 12:04:21",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           33.5364990234375,
           35.285301208496094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.20 12:01:56",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DEMIRTAS-YUMURTALIK (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.792198181152344,
+          36.847999572753906
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.391799926757812,
           39.489498138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.14 08:18:19",
-        "depth_km": 3.0999999046325684,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "BUYUKHUSUN-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.427200317382812,
-          39.48820114135742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.14 08:09:57",
-        "depth_km": 13.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KALEDIBI-HANI (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.390499114990234,
-          38.5255012512207
         ]
       }
     }
