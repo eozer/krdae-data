@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.21 07:43:43",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "SUGUL-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53219985961914,
+          38.426700592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.21 07:21:43",
+        "depth_km": 3.299999952316284,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "OTLUKBELI-DEMIROZU (BAYBURT)",
+        "location": "BAYBURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.91699981689453,
+          40.009498596191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.21 07:07:39",
         "depth_km": 17.700000762939453,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           35.77149963378906,
           37.07419967651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.21 06:36:20",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YAGMURLU-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.087799072265625,
+          38.356998443603516
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.09280014038086,
           37.9556999206543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.14 22:29:53",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HACET-KIRKAGAC (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.971799850463867,
-          39.2317008972168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.14 21:37:21",
-        "depth_km": 8.600000381469727,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "KOZLUK-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.307701110839844,
-          38.20719909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.14 21:25:09",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "SARAY (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.18479919433594,
-          38.649200439453125
         ]
       }
     }
