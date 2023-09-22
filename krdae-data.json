@@ -175,6 +175,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.22 05:58:15",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.170299530029297,
+          38.30419921875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.22 05:55:07",
         "depth_km": 17.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.47779846191406,
           38.40119934082031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.16 02:40:08",
-        "depth_km": 29.899999618530273,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TOZLU-TUFANBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.0890007019043,
-          38.32270050048828
         ]
       }
     }
