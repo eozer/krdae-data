@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.23 05:12:23",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "BAKIR-KIRKAGAC (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7012996673584,
+          39.04750061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.23 05:05:48",
         "depth_km": 13.899999618530273,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           36.06330108642578,
           36.004798889160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.23 05:00:41",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KORU-CINARCIK (YALOVA)",
+        "location": "YALOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.147499084472656,
+          40.73350143432617
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           44.75619888305664,
           38.3827018737793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.16 22:19:35",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.231300354003906,
-          36.07429885864258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.16 22:16:39",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "SALUCU-SULUOVA (AMASYA)",
-        "location": "AMASYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.66550064086914,
-          40.78770065307617
         ]
       }
     }
