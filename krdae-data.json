@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.23 13:42:34",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "DAGDUZU-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.089500427246094,
+          36.055999755859375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.23 13:31:22",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -302,6 +321,25 @@
         "coordinates": [
           37.4463005065918,
           38.46900177001953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.23 11:59:06",
+        "depth_km": 22.299999237060547,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.133699417114258,
+          38.19499969482422
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.32929992675781,
           38.11750030517578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.17 05:38:57",
-        "depth_km": 14.199999809265137,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "SULTANLAR-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.26470184326172,
-          37.35100173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.17 05:26:06",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "PINARCIK-ALTINTAS (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.93120002746582,
-          39.0099983215332
         ]
       }
     }
