@@ -42,6 +42,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.24 04:41:45",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KIRCAOGLU-KUMLU (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52830123901367,
+          36.38330078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.24 04:29:02",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GAZIEMIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.162700653076172,
+          38.33380126953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.24 04:26:35",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ULUPINAR-YAHYALI (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.30070114135742,
+          37.741798400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.24 04:01:54",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "IZMIR KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.895999908447266,
+          38.58369827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.24 03:42:03",
         "depth_km": 9.100000381469727,
         "MD": 0.0,
@@ -131,6 +207,25 @@
         "coordinates": [
           26.260299682617188,
           39.36869812011719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.24 03:07:01",
+        "depth_km": 16.299999237060547,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YESILKOY-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.720298767089844,
+          38.026798248291016
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           28.178300857543945,
           39.94850158691406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.18 03:15:42",
-        "depth_km": 2.299999952316284,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "TURKIYE-IRAN SINIR BOLGESI",
-        "location": "TURKIYE-IRAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.5432014465332,
-          39.34130096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.18 02:59:54",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "MAGARACIK-SAMANDAG (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.858001708984375,
-          36.069801330566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.18 02:56:49",
-        "depth_km": 6.900000095367432,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.80720138549805,
-          35.996299743652344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.18 02:11:36",
-        "depth_km": 17.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.78619956970215,
-          37.950199127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.18 02:05:01",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.46969985961914,
-          38.08470153808594
         ]
       }
     }
