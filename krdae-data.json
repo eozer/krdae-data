@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.26 02:32:00",
+        "depth_km": 4.800000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 0.0,
+        "place": "SALKONAK-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43050003051758,
+          38.139801025390625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.26 00:18:14",
+        "depth_km": 18.899999618530273,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.267200469970703,
+          40.87929916381836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.26 00:16:26",
         "depth_km": 1.7999999523162842,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           37.66469955444336,
           38.082298278808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.25 23:31:19",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.08150100708008,
+          38.55580139160156
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.56529998779297,
           38.02119827270508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.20 01:25:28",
-        "depth_km": 4.199999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DEDEYAZI-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.83250045776367,
-          38.23649978637695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.20 01:18:16",
-        "depth_km": 18.200000762939453,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BAKLANKUYUCAK-BOZKURT (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.522499084472656,
-          37.87120056152344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.20 01:08:04",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "TEPECIK-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.385501861572266,
-          38.63629913330078
         ]
       }
     }
