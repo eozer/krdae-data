@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.27 05:41:04",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YOGUNOLUK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3390007019043,
+          37.93629837036133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.27 05:33:42",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           36.46770095825195,
           38.03770065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.27 05:07:40",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YENIKOY-(TEKIRDAG)",
+        "location": "TEKIRDAG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4512996673584,
+          40.78229904174805
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.983699798583984,
           35.005001068115234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.21 21:45:07",
-        "depth_km": 15.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KIZILDAM-ALADAG (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.457801818847656,
-          37.54819869995117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.21 21:38:37",
-        "depth_km": 18.899999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "IKIZPINAR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.449798583984375,
-          38.268798828125
         ]
       }
     }
