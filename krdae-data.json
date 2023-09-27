@@ -289,6 +289,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.27 07:27:34",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.613000869750977,
+          36.87799835205078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.27 07:23:16",
+        "depth_km": 11.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.642499923706055,
+          36.881500244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.27 07:11:37",
         "depth_km": 17.600000381469727,
         "MD": 0.0,
@@ -340,6 +378,25 @@
         "coordinates": [
           38.14400100708008,
           38.80270004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.27 06:41:37",
+        "depth_km": 23.600000381469727,
+        "MD": 0.0,
+        "ML": 0.800000011920929,
+        "Mw": 0.0,
+        "place": "TEKIR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58580017089844,
+          37.873199462890625
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.60379981994629,
           38.899200439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.22 03:03:05",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.31880187988281,
-          37.948299407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.22 03:00:13",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ATALAR-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.17720031738281,
-          38.21969985961914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.22 02:58:26",
-        "depth_km": 16.299999237060547,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "BALCICAKIRI-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.52130126953125,
-          37.84519958496094
         ]
       }
     }
