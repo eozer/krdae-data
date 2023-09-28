@@ -42,6 +42,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.28 08:49:08",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ARPALIUSAGI-HASSA (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.430999755859375,
+          36.772300720214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.28 08:35:49",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "TEPECIK-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39899826049805,
+          38.64720153808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.28 08:01:33",
         "depth_km": 9.699999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           43.44620132446289,
           37.34400177001953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.22 20:50:52",
-        "depth_km": 74.5999984741211,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.547000885009766,
-          36.50529861450195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.22 20:43:16",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.299999952316284,
-        "place": "BEYDOGMUS-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.391300201416016,
-          38.711700439453125
         ]
       }
     }
