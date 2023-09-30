@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.30 04:35:58",
+        "depth_km": 21.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "TURKIYE-SURIYE SINIR BOLGESI",
+        "location": "TURKIYE-SURIYE SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.004798889160156,
+          35.79970169067383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.30 04:32:41",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -131,6 +150,25 @@
         "coordinates": [
           36.582801818847656,
           38.101200103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.09.30 04:06:27",
+        "depth_km": 15.399999618530273,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.454500198364258,
+          40.76100158691406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.3213005065918,
           38.15019989013672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.24 10:01:41",
-        "depth_km": 22.399999618530273,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.788799285888672,
-          36.06679916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.24 10:00:28",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YUVA-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.394798278808594,
-          38.789798736572266
         ]
       }
     }
