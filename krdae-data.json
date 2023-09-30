@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.01 00:52:50",
+        "depth_km": 5.800000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KIBRIS-LEFKOSA",
+        "location": "KIBRIS-LEFKOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.36629867553711,
+          35.01250076293945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.01 00:43:54",
+        "depth_km": 14.399999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.44969940185547,
+          34.77199935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.01 00:40:01",
         "depth_km": 1.7000000476837158,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.897499084472656,
           38.411800384521484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.25 03:47:58",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "TASBOGAZ-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.239299774169922,
-          39.5984992980957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.25 03:44:47",
-        "depth_km": 11.0,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "TAYTAN-SALIHLI (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.209699630737305,
-          38.546199798583984
         ]
       }
     }
