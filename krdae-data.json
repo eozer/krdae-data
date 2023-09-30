@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.09.30 04:42:45",
+        "depth_km": 9.600000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.39849853515625,
+          34.746700286865234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.09.30 04:35:58",
         "depth_km": 21.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.75349998474121,
           40.427799224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.24 10:20:33",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "ASAGIKOY-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.3213005065918,
-          38.15019989013672
         ]
       }
     }
