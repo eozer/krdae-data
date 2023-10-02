@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.03 02:20:12",
+        "depth_km": 4.0,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.299999952316284,
+        "place": "SENKOY-YEDISU (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.57149887084961,
+          39.38880157470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.03 02:03:08",
         "depth_km": 2.299999952316284,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.484798431396484,
           38.38520050048828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.27 00:08:06",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "SARIHAN-(BAYBURT)",
-        "location": "BAYBURT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.06629943847656,
-          40.06399917602539
         ]
       }
     }
