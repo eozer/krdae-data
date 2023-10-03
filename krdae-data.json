@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.03 04:10:32",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KOKNAR-CAYKARA (TRABZON)",
+        "location": "TRABZON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.168800354003906,
+          40.63100051879883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.03 03:59:19",
         "depth_km": 17.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.234500885009766,
           38.34669876098633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.27 02:37:23",
-        "depth_km": 16.700000762939453,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ARDICLI-PULUMUR (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.803199768066406,
-          39.49250030517578
         ]
       }
     }
