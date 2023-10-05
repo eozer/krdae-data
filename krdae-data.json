@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.05 13:34:34",
+        "depth_km": 12.5,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BOLU",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.594499588012695,
+          40.74729919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.05 13:14:06",
         "depth_km": 14.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.19070053100586,
           38.33879852294922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.29 20:57:52",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.659000396728516,
-          38.198699951171875
         ]
       }
     }
