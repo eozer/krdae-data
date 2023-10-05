@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.05 22:05:42",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KAHYALI-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.78300094604492,
+          38.341800689697266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.05 22:05:29",
+        "depth_km": 11.699999809265137,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "BEGENDIK-KESAN (EDIRNE)",
+        "location": "EDIRNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.587799072265625,
+          40.9379997253418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.05 21:48:09",
         "depth_km": 13.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.016199111938477,
           37.8406982421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.30 03:55:56",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "SATIRHUYUK-NURDAGI (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.99620056152344,
-          37.20220184326172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.09.30 03:28:03",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ATALAR-SEHITKAMIL (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.00630187988281,
-          37.19300079345703
         ]
       }
     }
