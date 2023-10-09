@@ -4,6 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.10 00:56:57",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DALAMAN ACIKLARI-MUGLA (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.74530029296875,
+          36.625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.10 00:51:31",
+        "depth_km": 1.399999976158142,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "HARUNUSAGI-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.721500396728516,
+          38.227500915527344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.09 23:36:56",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KAPUZBASI-YAHYALI (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.315799713134766,
+          37.73680114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.09 23:30:39",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YAZICA-PUTURGE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7156982421875,
+          38.16270065307617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.09 23:18:33",
         "depth_km": 2.299999952316284,
         "MD": 0.0,
@@ -9422,82 +9498,6 @@
         "coordinates": [
           37.53419876098633,
           38.07120132446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 01:23:09",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.546199798583984,
-          38.10300064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 01:22:20",
-        "depth_km": 9.899999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOVDELI-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.56269836425781,
-          38.068199157714844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 01:16:00",
-        "depth_km": 10.199999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "CANDARLI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.793800354003906,
-          38.82849884033203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 01:15:00",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BEYOGLU-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.779300689697266,
-          37.28799819946289
         ]
       }
     }
