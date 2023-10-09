@@ -289,6 +289,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.09 02:57:20",
+        "depth_km": 10.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BULGARISTAN",
+        "location": "BULGARISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48979949951172,
+          41.6431999206543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.09 02:49:43",
         "depth_km": 16.700000762939453,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.71780014038086,
           38.093299865722656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.03 11:26:00",
-        "depth_km": 13.399999618530273,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ULUPINAR-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.331298828125,
-          37.83430099487305
         ]
       }
     }
