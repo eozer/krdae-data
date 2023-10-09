@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.09 19:22:31",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0,
+        "place": "DAMLACIK-OZALP (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.369998931884766,
+          38.88199996948242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.09 19:21:50",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "MAGARACIK-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.90769958496094,
+          36.11180114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.09 19:13:04",
         "depth_km": 15.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.65570068359375,
           35.64580154418945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.03 23:50:07",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YAKACIK-BAYINDIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.676000595092773,
-          38.18470001220703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.03 23:31:08",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "SULUCAOVA-CAMARDI (NIGDE)",
-        "location": "NIGDE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.18050003051758,
-          37.986000061035156
         ]
       }
     }
