@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.10 08:57:13",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CUMALI-KEMALPASA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.475299835205078,
+          38.31869888305664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.10 08:31:25",
         "depth_km": 5.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.40299987792969,
           37.996299743652344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 10:58:13",
-        "depth_km": 13.5,
-        "MD": 0.0,
-        "ML": 4.099999904632568,
-        "Mw": 0.0,
-        "place": "DENIZGOREN-YAYLADAGI-HATAY ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.86600112915039,
-          36.00149917602539
         ]
       }
     }
