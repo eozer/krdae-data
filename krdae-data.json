@@ -4,19 +4,57 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.10.11 13:07:38",
+        "timestamp": "2023.10.11 14:58:22",
         "depth_km": 0.0,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 1.2999999523162842,
         "Mw": 0.0,
-        "place": "ADLIYE-GEMLIK (BURSA)",
-        "location": "BURSA"
+        "place": "KOPRUCEK-EMET (KUTAHYA)",
+        "location": "KUTAHYA"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.19029998779297,
-          40.40650177001953
+          29.34779930114746,
+          39.385501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.11 14:45:27",
+        "depth_km": 13.399999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KARBASAN-HISARCIK (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.370800018310547,
+          39.22249984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.11 13:10:48",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "MARANKECILI-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61370086669922,
+          37.705299377441406
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.692501068115234,
           36.10530090332031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.05 03:51:59",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.299999952316284,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.247499465942383,
-          35.106998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.05 03:47:45",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.200000047683716,
-        "place": "TOPALLAR-AMASRA (BARTIN)",
-        "location": "BARTIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.50550079345703,
-          41.737998962402344
         ]
       }
     }
