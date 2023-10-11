@@ -156,6 +156,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.11 03:45:07",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "CANAKCI-KEMALIYE (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3390007019043,
+          39.150299072265625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.11 03:43:21",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -188,6 +207,25 @@
         "coordinates": [
           43.185298919677734,
           38.70899963378906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.11 02:14:32",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GUNDUZBEY-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.266700744628906,
+          38.29079818725586
         ]
       }
     },
@@ -378,6 +416,25 @@
         "coordinates": [
           36.09170150756836,
           36.0625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.11 00:35:05",
+        "depth_km": 7.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ABBASLAR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.02669906616211,
+          37.38779830932617
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.11680030822754,
           37.97869873046875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 23:29:19",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "UCGEDIK-(HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.174198150634766,
-          36.31079864501953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 23:23:45",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "ELMALI-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.645999908447266,
-          37.96070098876953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.04 23:16:07",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "YAKINCA-NIKSAR (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.753501892089844,
-          40.575199127197266
         ]
       }
     }
