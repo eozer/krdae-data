@@ -1410,6 +1410,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.12 12:11:22",
+        "depth_km": 28.200000762939453,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "YESILYURT-SARAYKOY (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.81170082092285,
+          37.90829849243164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.12 12:03:26",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           29.600799560546875,
           36.152801513671875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.06 15:11:43",
-        "depth_km": 1.100000023841858,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YAVUZLAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.46820068359375,
-          38.463199615478516
         ]
       }
     }
