@@ -1429,6 +1429,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.12 11:59:06",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BOZBURUN-ARGUVAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29999923706055,
+          38.61520004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.12 11:49:25",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.46820068359375,
           38.463199615478516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.06 14:52:48",
-        "depth_km": 11.600000381469727,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "DENIZGOREN-YAYLADAGI (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.90700149536133,
-          35.97669982910156
         ]
       }
     }
