@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.14 17:47:29",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "BAGISLAR-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.739299774169922,
+          40.87699890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.14 17:42:21",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "MESCICELE-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.699499130249023,
+          40.86750030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.14 17:27:36",
         "depth_km": 9.800000190734863,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           31.75819969177246,
           40.8931999206543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.14 17:11:21",
+        "depth_km": 3.700000047683716,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "MESCICELE-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.717199325561523,
+          40.85879898071289
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           22.964500427246094,
           36.09130096435547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.07 21:56:54",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.41780090332031,
-          38.387699127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.07 21:20:14",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.200000047683716,
-        "place": "SARIKAMIS-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.69649887084961,
-          38.5968017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.07 21:15:45",
-        "depth_km": 22.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "DURULOVA-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80619812011719,
-          38.37369918823242
         ]
       }
     }
