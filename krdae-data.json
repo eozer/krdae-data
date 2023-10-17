@@ -479,6 +479,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.17 17:34:59",
+        "depth_km": 2.4000000953674316,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BOSTANCI-GONEN (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.687299728393555,
+          40.206199645996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.17 17:21:09",
         "depth_km": 18.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.29930114746094,
           36.80149841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.12 06:12:19",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BABADERE-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.197999954223633,
-          39.61650085449219
         ]
       }
     }
