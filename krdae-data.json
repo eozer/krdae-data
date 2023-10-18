@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.18 20:57:04",
+        "depth_km": 11.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "DEREBASI-TIRE (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.789199829101562,
+          38.19029998779297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.18 20:49:49",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -74,6 +93,44 @@
         "coordinates": [
           27.825300216674805,
           39.456298828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.18 19:39:59",
+        "depth_km": 18.299999237060547,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.780799865722656,
+          35.436500549316406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.18 19:23:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SIRMALI-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.381500244140625,
+          37.961299896240234
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.55400085449219,
           38.464298248291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.12 22:05:09",
-        "depth_km": 4.5,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "DEDEYOLU-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.21379852294922,
-          38.461700439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.12 22:01:34",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.551300048828125,
-          38.09149932861328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.12 21:56:12",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.299999952316284,
-        "place": "KAVAKKOY-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.13370132446289,
-          38.41130065917969
         ]
       }
     }
