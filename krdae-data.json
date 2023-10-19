@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.19 20:37:44",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDEMIR-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0359992980957,
+          37.2869987487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.19 20:36:00",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TAHTAKOPRU-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.18429946899414,
+          36.389801025390625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.19 20:24:36",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "YERKESIK-(MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.29050064086914,
+          37.15729904174805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.19 18:52:30",
         "depth_km": 5.800000190734863,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.42430114746094,
           37.90950012207031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.13 19:11:32",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "AVCIPINARI-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.141998291015625,
-          38.05149841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.13 18:58:23",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.03049850463867,
-          37.30849838256836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.13 18:50:37",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.31800079345703,
-          37.8922004699707
         ]
       }
     }
