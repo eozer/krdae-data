@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.21 02:16:35",
+        "depth_km": 1.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KISIK-MENDERES (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.17530059814453,
+          38.276798248291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.21 02:12:48",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           34.1796989440918,
           39.577301025390625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.14 22:44:08",
-        "depth_km": 13.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.040199279785156,
-          39.60029983520508
         ]
       }
     }
