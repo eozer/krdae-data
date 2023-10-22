@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.22 22:04:19",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SUKYAN-SOLHAN (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.935699462890625,
+          38.819000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.22 22:00:21",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CIGSAR-ANDIRIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.262298583984375,
+          37.80979919433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.22 21:28:11",
         "depth_km": 50.900001525878906,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.40629959106445,
           37.94269943237305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.16 06:55:24",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 0.6000000238418579,
-        "Mw": 0.0,
-        "place": "KOCAPINAR-SERINHISAR (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.338499069213867,
-          37.63949966430664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.16 06:43:21",
-        "depth_km": 7.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.376800537109375,
-          37.97719955444336
         ]
       }
     }
