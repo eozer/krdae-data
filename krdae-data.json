@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.22 11:16:41",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "SALMANLI-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.642799377441406,
+          37.61050033569336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.22 11:08:53",
+        "depth_km": 7.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 2.4000000953674316,
+        "place": "KARANLIKDERE-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.88199996948242,
+          37.94029998779297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.22 10:50:10",
         "depth_km": 13.0,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           25.890499114990234,
           39.14070129394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.22 09:44:36",
+        "depth_km": 3.299999952316284,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "INCIRLI-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9463005065918,
+          37.25400161743164
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.13880157470703,
           38.251800537109375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.16 00:31:28",
-        "depth_km": 1.7999999523162842,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DUTLU-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.77119827270508,
-          38.305198669433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.16 00:28:23",
-        "depth_km": 7.5,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KAVAKKOY-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.227298736572266,
-          38.6432991027832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.16 00:22:50",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YALINTAS-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.38479995727539,
-          38.347999572753906
         ]
       }
     }
