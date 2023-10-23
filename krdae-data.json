@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.23 14:10:30",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.08799934387207,
+          36.987998962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.23 14:07:28",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "DUTLAR-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.346799850463867,
+          39.593299865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.23 14:06:11",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.104000091552734,
           38.185001373291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.17 03:39:15",
-        "depth_km": 16.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.32120132446289,
-          37.974300384521484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.17 03:31:17",
-        "depth_km": 10.5,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 3.700000047683716,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.59079933166504,
-          34.35070037841797
         ]
       }
     }
