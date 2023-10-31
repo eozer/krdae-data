@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.31 19:56:36",
+        "depth_km": 88.30000305175781,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.700000047683716,
+        "place": "ANTALYA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.65719985961914,
+          36.268798828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.31 19:36:45",
+        "depth_km": 2.799999952316284,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KAVAKLI-(HAKKARI)",
+        "location": "HAKKARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.36050033569336,
+          37.563499450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.31 19:27:48",
         "depth_km": 12.100000381469727,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           24.773700714111328,
           34.505699157714844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.26 00:22:06",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "AZGANLIK-ISKENDERUN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.25279998779297,
-          36.68170166015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.26 00:17:04",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KABAAGAC-SARAYKOY (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.773300170898438,
-          37.92900085449219
         ]
       }
     }
