@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.10.31 04:34:12",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4093017578125,
+          38.09700012207031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.10.31 03:58:30",
         "depth_km": 13.199999809265137,
         "MD": 0.0,
@@ -150,6 +169,25 @@
         "coordinates": [
           36.41120147705078,
           37.92599868774414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.10.31 03:14:17",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ERKENEK-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.936798095703125,
+          37.90230178833008
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.58319854736328,
           40.097198486328125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.25 10:39:54",
-        "depth_km": 2.799999952316284,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0,
-        "place": "HALKAPINAR-TIRE (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.489299774169922,
-          38.007198333740234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.25 10:05:28",
-        "depth_km": 23.600000381469727,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.985300064086914,
-          34.745201110839844
         ]
       }
     }
