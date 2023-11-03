@@ -61,6 +61,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.03 14:45:17",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "DEDEBAGI-GENC (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.35179901123047,
+          38.675498962402344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.03 14:42:57",
+        "depth_km": 8.699999809265137,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KAVAKLI-GENC (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.34629821777344,
+          38.658199310302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.03 13:51:52",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.638999938964844,
           38.199501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.28 00:12:14",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CANKARA-GOLBASI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80870056152344,
-          37.885501861572266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.27 23:53:08",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "GAZIKOY-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.36429977416992,
-          38.4557991027832
         ]
       }
     }
