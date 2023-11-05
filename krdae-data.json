@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.05 07:25:20",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKARCA-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.30950164794922,
+          38.43519973754883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.05 06:50:20",
         "depth_km": 10.199999809265137,
         "MD": 0.0,
@@ -23,19 +42,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.11.05 06:30:08",
-        "depth_km": 9.0,
+        "timestamp": "2023.11.05 06:30:00",
+        "depth_km": 7.300000190734863,
         "MD": 0.0,
-        "ML": 1.2999999523162842,
+        "ML": 1.600000023841858,
         "Mw": 0.0,
-        "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.43199920654297,
-          37.814300537109375
+          27.12849998474121,
+          37.93470001220703
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.034500122070312,
           36.83000183105469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.29 00:07:50",
-        "depth_km": 10.699999809265137,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "YARAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.487699508666992,
-          37.19169998168945
         ]
       }
     }
