@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.05 10:15:15",
+        "depth_km": 8.600000381469727,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.37900161743164,
+          38.34619903564453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.05 09:38:00",
         "depth_km": 8.800000190734863,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           37.5,
           38.43920135498047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.05 09:23:21",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.44499969482422,
+          38.46969985961914
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           34.587501525878906,
           35.936798095703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.29 13:41:53",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "HALKACAYIRI (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.07080078125,
-          37.40570068359375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.10.29 13:00:02",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "POLAT-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.84830093383789,
-          38.15370178222656
         ]
       }
     }
