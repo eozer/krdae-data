@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.08 14:36:50",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "GOKOVA KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.711299896240234,
+          36.85919952392578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.08 14:30:10",
+        "depth_km": 2.200000047683716,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.977699279785156,
+          37.801700592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.08 13:28:01",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.33169937133789,
           37.873199462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.01 03:49:23",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.18130111694336,
-          38.209800720214844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.01 03:48:01",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "OGLAKOREN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.129798889160156,
-          36.269798278808594
         ]
       }
     }
