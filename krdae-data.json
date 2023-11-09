@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.09 22:25:34",
+        "depth_km": 17.299999237060547,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YAYALAR-HENDEK (SAKARYA)",
+        "location": "SAKARYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.673799514770508,
+          40.74549865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.09 22:06:08",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -36,6 +55,44 @@
         "coordinates": [
           29.346200942993164,
           36.94279861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.09 21:42:42",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KADIKOY-YUKSEKOVA (HAKKARI)",
+        "location": "HAKKARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.105201721191406,
+          37.5260009765625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.09 21:23:12",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.976999282836914,
+          39.08829879760742
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.202299118041992,
           34.13650131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.02 14:13:05",
-        "depth_km": 9.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "DURUKKAS-MURADIYE (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.6974983215332,
-          38.95920181274414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.02 13:47:22",
-        "depth_km": 22.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "BURUNCUK-BAYINDIR (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.729799270629883,
-          38.17219924926758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.02 12:52:02",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "SIZMA-SELCUKLU (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.44580078125,
-          38.04130172729492
         ]
       }
     }
