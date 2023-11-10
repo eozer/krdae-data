@@ -821,6 +821,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.09 21:17:51",
+        "depth_km": 17.700000762939453,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.15049934387207,
+          35.83430099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.09 20:57:53",
         "depth_km": 10.399999618530273,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.167699813842773,
           35.44070053100586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.03 01:28:20",
-        "depth_km": 3.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KARATAS (DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.180500030517578,
-          37.7135009765625
         ]
       }
     }
