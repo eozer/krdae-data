@@ -384,6 +384,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.13 09:46:46",
+        "depth_km": 1.399999976158142,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AYVALI-OLTU (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.88719940185547,
+          40.75450134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.13 09:17:23",
         "depth_km": 20.0,
         "MD": 0.0,
@@ -416,6 +435,25 @@
         "coordinates": [
           36.2307014465332,
           36.06370162963867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.13 08:32:34",
+        "depth_km": 9.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "CARDAK-YESILOVA (BURDUR)",
+        "location": "BURDUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.930700302124023,
+          37.71969985961914
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.54330062866211,
           39.09980010986328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.07 08:48:09",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KIRECKOY-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.5181999206543,
-          37.990299224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.07 07:22:35",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "ORTAKOY-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.7843017578125,
-          38.32429885864258
         ]
       }
     }
