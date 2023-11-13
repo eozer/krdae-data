@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.13 17:58:05",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.300000190734863,
+        "Mw": 4.400000095367432,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.595001220703125,
+          39.44219970703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.13 17:49:20",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YARPUZLU-SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.519798278808594,
+          38.08549880981445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.13 17:33:57",
         "depth_km": 5.699999809265137,
         "MD": 0.0,
@@ -23,19 +61,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.11.13 17:24:25",
-        "depth_km": 8.5,
+        "timestamp": "2023.11.13 17:24:19",
+        "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 1.7000000476837158,
+        "ML": 2.0,
         "Mw": 0.0,
-        "place": "ATALAR-YESILYURT (MALATYA)",
-        "location": "MALATYA"
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.2047004699707,
-          38.233001708984375
+          26.50480079650879,
+          36.77130126953125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.620201110839844,
           38.12580108642578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.07 10:57:05",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.604299545288086,
-          38.87030029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.07 10:54:44",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.609800338745117,
-          38.801700592041016
         ]
       }
     }
