@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.14 14:56:53",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.4000000953674316,
+        "place": "DEMIRDOS-KIGI (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.207801818847656,
+          39.34870147705078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.14 14:42:21",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           39.10129928588867,
           39.82500076293945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.07 23:05:47",
-        "depth_km": 15.699999809265137,
-        "MD": 0.0,
-        "ML": 4.300000190734863,
-        "Mw": 4.0,
-        "place": "AVSA-MARMARA (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.544200897216797,
-          40.48870086669922
         ]
       }
     }
