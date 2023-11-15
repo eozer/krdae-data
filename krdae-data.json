@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.15 23:24:15",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ONCU-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.32929992675781,
+          38.196800231933594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.15 23:10:52",
         "depth_km": 15.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.467498779296875,
           37.42179870605469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.09 02:59:08",
-        "depth_km": 10.800000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.235700607299805,
-          38.945499420166016
         ]
       }
     }
