@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.15 20:12:15",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "OZCANLI-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.29249954223633,
+          38.09749984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.15 19:03:44",
         "depth_km": 25.100000381469727,
         "MD": 0.0,
@@ -93,6 +112,63 @@
         "coordinates": [
           28.555999755859375,
           36.194000244140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.15 18:42:54",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUCUKALTINBULAK-GOLE (ARDAHAN)",
+        "location": "ARDAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.79180145263672,
+          40.819698333740234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.15 18:37:37",
+        "depth_km": 11.100000381469727,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "ALTINSAC-GEVAS (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.91130065917969,
+          38.43069839477539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.15 18:19:29",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "DEREKOY-BAYINDIR (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65920066833496,
+          38.24580001831055
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           27.109699249267578,
           40.382301330566406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.09 00:05:50",
-        "depth_km": 2.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KIBRIS-TUZLA",
-        "location": "KIBRIS-TUZLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.770999908447266,
-          35.014198303222656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.09 00:03:47",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "TRABZON ACIKLARI (KARADENIZ)",
-        "location": "KARADENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.718299865722656,
-          41.239498138427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.08 23:39:14",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "GURCISTAN",
-        "location": "GURCISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.18769836425781,
-          41.79629898071289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.08 23:32:14",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CEBRAIL-GEDIZ (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.642499923706055,
-          39.05500030517578
         ]
       }
     }
