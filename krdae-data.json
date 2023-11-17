@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.11.17 10:20:46",
-        "depth_km": 17.899999618530273,
+        "timestamp": "2023.11.17 11:11:31",
+        "depth_km": 25.700000762939453,
         "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 2.0999999046325684,
-        "place": "YESILKOY-BAYRAMIC (CANAKKALE)",
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BELEN-EZINE (CANAKKALE)",
         "location": "CANAKKALE"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.862199783325195,
-          39.83620071411133
+          26.232999801635742,
+          39.66579818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.17 10:20:46",
+        "depth_km": 15.399999618530273,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "CIRPILAR-BAYRAMIC (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.832500457763672,
+          39.81800079345703
         ]
       }
     },
@@ -27,7 +46,7 @@
         "depth_km": 23.899999618530273,
         "MD": 0.0,
         "ML": 2.5,
-        "Mw": 2.4000000953674316,
+        "Mw": 0.0,
         "place": "YUNANISTAN",
         "location": "YUNANISTAN"
       },
@@ -36,6 +55,25 @@
         "coordinates": [
           24.21150016784668,
           40.29999923706055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.17 09:48:28",
+        "depth_km": 25.200000762939453,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "RESADIYE-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.03300094604492,
+          37.94070053100586
         ]
       }
     },
@@ -100,18 +138,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.11.17 08:30:47",
-        "depth_km": 6.300000190734863,
+        "depth_km": 6.5,
         "MD": 0.0,
         "ML": 2.9000000953674316,
-        "Mw": 2.5999999046325684,
+        "Mw": 0.0,
         "place": "AKDENIZ",
         "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.650699615478516,
-          35.57979965209961
+          32.63819885253906,
+          35.57699966430664
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.062999725341797,
           39.12080001831055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.10 09:54:35",
-        "depth_km": 18.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "HACIAHMETOGLU-SIMAV (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.979700088500977,
-          39.13800048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.10 09:50:14",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BASCESME-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.207801818847656,
-          37.33729934692383
         ]
       }
     }
