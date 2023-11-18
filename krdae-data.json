@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.18 07:44:45",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.5999999046325684,
+        "place": "KARASUNGUR-KOVANCILAR (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.07529830932617,
+          38.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.18 07:44:05",
+        "depth_km": 9.199999809265137,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.5,
+        "place": "ASAGIKANATLI-KOVANCILAR (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.095699310302734,
+          38.83919906616211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.18 07:42:16",
         "depth_km": 13.0,
         "MD": 0.0,
@@ -131,6 +169,25 @@
         "coordinates": [
           40.0443000793457,
           38.84830093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.18 07:06:20",
+        "depth_km": 9.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "MARMARA DENIZI",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77280044555664,
+          40.806800842285156
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.19169998168945,
           38.09469985961914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.11 08:45:54",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80419921875,
-          38.148799896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.11 08:23:29",
-        "depth_km": 6.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SEREFOGLU-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.91600036621094,
-          37.48749923706055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.11 07:44:23",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "AVCIPINARI-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.20370101928711,
-          38.09130096435547
         ]
       }
     }
