@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.20 15:01:02",
+        "depth_km": 7.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58620071411133,
+          38.11819839477539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.20 14:35:52",
+        "depth_km": 9.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ARMUTALAN-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6796989440918,
+          38.11949920654297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.20 13:48:21",
         "depth_km": 22.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.07720184326172,
           37.32080078125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.13 11:17:01",
-        "depth_km": 16.600000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "TASLIK-PULUMUR (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.050498962402344,
-          39.511199951171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.13 11:16:13",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "HACIOMERSOLAKLISI-KESKIN (KIRIKKALE)",
-        "location": "KIRIKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.8942985534668,
-          39.6505012512207
         ]
       }
     }
