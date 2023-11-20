@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.20 07:15:56",
+        "depth_km": 12.600000381469727,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "BAGOZU-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.854799270629883,
+          40.18600082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.20 07:01:17",
         "depth_km": 3.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.482200622558594,
           36.479698181152344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.13 03:41:56",
-        "depth_km": 22.700000762939453,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.604000091552734,
-          38.12820053100586
         ]
       }
     }
