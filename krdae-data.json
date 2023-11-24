@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.24 16:09:02",
+        "depth_km": 2.700000047683716,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ERICEK-CAMELI (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.211700439453125,
+          37.05120086669922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.24 16:01:11",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -150,6 +169,44 @@
         "coordinates": [
           31.970500946044922,
           38.52870178222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.24 14:23:04",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KABASAKAL-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.07529830932617,
+          37.72850036621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.24 14:21:12",
+        "depth_km": 7.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "SALMANIPAK-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.245201110839844,
+          37.42900085449219
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.51449966430664,
           38.48400115966797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.18 03:07:06",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.464500427246094,
-          37.922298431396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.18 02:58:42",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "CINARLI-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.06769943237305,
-          37.4739990234375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.18 02:36:32",
-        "depth_km": 24.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "YESILKOY-SAMANDAG (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.02619934082031,
-          36.112300872802734
         ]
       }
     }
