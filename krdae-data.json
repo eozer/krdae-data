@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.25 13:28:51",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "ISIKLI-SILIFKE (MERSIN)",
+        "location": "MERSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.70800018310547,
+          36.2047004699707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.25 12:59:39",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           36.84920120239258,
           37.41749954223633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.25 11:47:07",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "YAGCA-HEKIMHAN (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.05379867553711,
+          38.76649856567383
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.61520004272461,
           38.07550048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.19 14:34:29",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "AGCASAR-NURHAK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.38520050048828,
-          38.10300064086914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.19 14:29:42",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SIVRICEHUYUK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.012699127197266,
-          37.44269943237305
         ]
       }
     }
