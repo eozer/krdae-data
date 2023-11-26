@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.26 05:27:00",
+        "depth_km": 1.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.02830123901367,
+          38.52629852294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.26 05:23:47",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -264,6 +283,25 @@
         "coordinates": [
           37.41780090332031,
           38.22529983520508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.26 02:24:44",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1117000579834,
+          35.282501220703125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.979000091552734,
           39.071800231933594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.20 03:55:04",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 3.5999999046325684,
-        "Mw": 3.4000000953674316,
-        "place": "CAMLICA (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.66630172729492,
-          37.942298889160156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.20 03:53:35",
-        "depth_km": 13.600000381469727,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "NASA-SIMAV (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.950199127197266,
-          39.17319869995117
         ]
       }
     }
