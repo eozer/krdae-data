@@ -213,6 +213,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.28 09:01:01",
+        "depth_km": 6.900000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "CAMKOY-BULDAN (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.916799545288086,
+          38.13029861450195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.28 08:56:17",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           41.060001373291016,
           39.00870132446289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.21 23:26:11",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "IKIZCE-YESILYURT (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.1953010559082,
-          38.29249954223633
         ]
       }
     }
