@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.28 11:37:59",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ULUKOY-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.569698333740234,
+          38.1531982421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.28 11:13:27",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           37.575801849365234,
           38.43299865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.28 10:49:31",
+        "depth_km": 14.100000381469727,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.13170051574707,
+          37.970001220703125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.87380027770996,
           36.990501403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.21 23:05:51",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ERENTEPE-CUMRA (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.877498626708984,
-          37.370201110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.21 22:55:44",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SINCI-KAZIMKARABEKIR (KARAMAN)",
-        "location": "KARAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.884498596191406,
-          37.34980010986328
         ]
       }
     }
