@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.29 14:28:19",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "CATALBAYIR-(USAK)",
+        "location": "USAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.841299057006836,
+          38.66699981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.29 14:12:37",
         "depth_km": 4.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.55649948120117,
           37.98630142211914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.22 17:02:17",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "YENIDOGAN-SOKE (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.397300720214844,
-          37.722999572753906
         ]
       }
     }
