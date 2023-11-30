@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.11.30 08:20:03",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.394500732421875,
+          37.809200286865234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.11.30 07:26:18",
+        "depth_km": 3.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "DOLUCA-KAHTA (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.59550094604492,
+          37.91529846191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.11.30 07:19:11",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -43,9 +81,9 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.11.30 07:06:26",
-        "depth_km": 5.0,
+        "depth_km": 9.300000190734863,
         "MD": 0.0,
-        "ML": 1.600000023841858,
+        "ML": 1.7000000476837158,
         "Mw": 0.0,
         "place": "OLUDENIZ-FETHIYE (MUGLA)",
         "location": "MUGLA"
@@ -53,8 +91,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.202800750732422,
-          36.55550003051758
+          29.17650032043457,
+          36.56119918823242
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           24.28420066833496,
           34.745201110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.23 04:29:23",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KARAKUYU-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.227298736572266,
-          37.83380126953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.23 04:18:42",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DEDECINAR-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.41569900512695,
-          36.63679885864258
         ]
       }
     }
