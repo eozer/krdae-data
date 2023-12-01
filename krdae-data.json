@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.01 13:27:49",
+        "depth_km": 15.100000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KIBRIS-DEGIRMENLIK",
+        "location": "KIBRIS-DEGIRMENLIK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.66320037841797,
+          35.275001525878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.01 13:08:48",
         "depth_km": 5.599999904632568,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           38.493499755859375,
           38.154998779296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.01 12:59:15",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.75130081176758,
+          37.09980010986328
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.46080017089844,
           38.0802001953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.24 09:34:28",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "DURULOVA-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.828800201416016,
-          38.36819839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.24 09:31:09",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "DEDECINAR-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.4370002746582,
-          36.6328010559082
         ]
       }
     }
