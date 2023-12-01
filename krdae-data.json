@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.02 00:10:43",
+        "depth_km": 12.699999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43069839477539,
+          38.12329864501953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.02 00:06:18",
         "depth_km": 9.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.26430130004883,
           38.132999420166016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.25 01:10:18",
-        "depth_km": 1.2000000476837158,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "PELITLI (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.6327018737793,
-          38.26649856567383
         ]
       }
     }
