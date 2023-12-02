@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.02 21:19:11",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "DOLUGUN-ILIC (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.735198974609375,
+          39.46770095825195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.02 21:15:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "SUGUL-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.54399871826172,
+          38.427799224853516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.02 21:04:35",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           37.60369873046875,
           38.43080139160156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.02 20:11:58",
+        "depth_km": 15.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.08099937438965,
+          34.889801025390625
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.848201751708984,
           37.115699768066406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.26 02:27:09",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOSEYAHYA-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.41780090332031,
-          38.22529983520508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.26 02:24:44",
-        "depth_km": 2.5,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.1117000579834,
-          35.282501220703125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.11.26 02:20:12",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 3.0999999046325684,
-        "place": "HACIKODAL-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.289798736572266,
-          37.939998626708984
         ]
       }
     }
