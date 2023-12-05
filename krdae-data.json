@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.06 01:23:23",
+        "depth_km": 16.899999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "DEGIRMENLIDERE-SENKAYA (ERZURUM)",
+        "location": "ERZURUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.577999114990234,
+          40.73249816894531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 01:18:33",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.856300354003906,
+          40.418701171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 00:33:08",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.880300521850586,
+          40.42580032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.06 00:24:59",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.582298278808594,
           38.3672981262207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 07:34:12",
-        "depth_km": 25.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "CUKURKAYA-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.480201721191406,
-          38.611698150634766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 07:30:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "KARAMAGARA-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.405799865722656,
-          36.55630111694336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 07:05:35",
-        "depth_km": 12.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ASAGIULUPINAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.55350112915039,
-          38.439998626708984
         ]
       }
     }
