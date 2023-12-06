@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.06 04:44:10",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.828500747680664,
+          40.47869873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 04:12:14",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.018800735473633,
+          37.83449935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 03:59:59",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "KIZLAC-BAHCE (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66579818725586,
+          37.16579818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.06 03:58:39",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +74,25 @@
         "coordinates": [
           36.68899917602539,
           37.162498474121094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 03:30:07",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.858800888061523,
+          40.44929885864258
         ]
       }
     },
@@ -289,19 +365,19 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2023.12.05 23:55:18",
-        "depth_km": 4.800000190734863,
+        "timestamp": "2023.12.05 23:55:15",
+        "depth_km": 9.699999809265137,
         "MD": 0.0,
-        "ML": 1.600000023841858,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "ULUKOY-(MALATYA)",
-        "location": "MALATYA"
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.54650115966797,
-          38.16569900512695
+          26.301000595092773,
+          35.507198333740234
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           34.54520034790039,
           37.05080032348633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 11:06:19",
-        "depth_km": 4.900000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.016199111938477,
-          37.852500915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 10:56:23",
-        "depth_km": 3.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YUKARIULUPINAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.532501220703125,
-          38.398799896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 10:15:05",
-        "depth_km": 9.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "PAYAMBURNU-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.29280090332031,
-          37.851200103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.01 09:16:54",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "MARMARA DENIZI",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.845300674438477,
-          40.80720138549805
         ]
       }
     }
