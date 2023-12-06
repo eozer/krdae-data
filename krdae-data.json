@@ -251,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.06 12:11:32",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.047199249267578,
+          35.111698150634766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.06 12:06:05",
         "depth_km": 19.200000762939453,
         "MD": 0.0,
@@ -359,6 +378,25 @@
         "coordinates": [
           37.86629867553711,
           37.865699768066406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.06 11:07:34",
+        "depth_km": 10.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.26099967956543,
+          35.499698638916016
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.656700134277344,
           38.14350128173828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.02 00:10:43",
-        "depth_km": 12.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KARAGOL-CELIKHAN (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.43069839477539,
-          38.12329864501953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.02 00:06:18",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KARAOGUZ-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.47200012207031,
-          38.531700134277344
         ]
       }
     }
