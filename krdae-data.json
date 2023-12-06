@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.07 02:29:12",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "AKPINAR-(SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76319885253906,
+          37.37030029296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 02:25:19",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CULMEN-(SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.777801513671875,
+          37.36000061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 02:21:28",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.624698638916016,
+          35.86399841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.07 02:01:42",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.994300842285156,
           38.942501068115234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.02 17:46:03",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOCAISKAN-KIRKAGAC (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.931800842285156,
-          39.33570098876953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.02 16:47:22",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.00779914855957,
-          35.31100082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.02 16:28:31",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CANAKCI-KARAKOCAN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.96820068359375,
-          38.924800872802734
         ]
       }
     }
