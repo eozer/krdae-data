@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.07 13:53:59",
+        "depth_km": 9.699999809265137,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BUYUKKIZILCIK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72370147705078,
+          38.22330093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 13:46:14",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "IKIZKUYU-NURDAGI (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9817008972168,
+          37.16170120239258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.07 13:37:41",
         "depth_km": 10.600000381469727,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           28.840999603271484,
           40.41429901123047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 13:05:51",
+        "depth_km": 17.5,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.117799758911133,
+          35.250301361083984
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.66469955444336,
           38.00699996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 04:46:04",
-        "depth_km": 12.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "SARILAR-AKHISAR (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.996299743652344,
-          39.09749984741211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 04:44:22",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.156200408935547,
-          36.06100082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 04:35:35",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "ARDICLI-KECIBORLU (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.253000259399414,
-          37.79930114746094
         ]
       }
     }
