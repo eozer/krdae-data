@@ -137,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.07 19:44:24",
+        "depth_km": 27.200000762939453,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GAZIKOY-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3922004699707,
+          38.470298767089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.07 19:06:44",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -188,6 +207,44 @@
         "coordinates": [
           28.8976993560791,
           40.41849899291992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 18:18:09",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KOZLUK-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.297698974609375,
+          38.260501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.07 18:11:44",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ULUAGAC-CUBUK (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.943199157714844,
+          40.46670150756836
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.32279968261719,
           37.94969940185547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 12:00:10",
-        "depth_km": 10.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TEKELI-KADIRLI (OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.913700103759766,
-          37.22079849243164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 11:37:58",
-        "depth_km": 63.400001525878906,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 0.0,
-        "place": "YUNANISTAN",
-        "location": "YUNANISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.200000762939453,
-          37.503501892089844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.03 11:21:49",
-        "depth_km": 7.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KOS ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.85849952697754,
-          36.65449905395508
         ]
       }
     }
