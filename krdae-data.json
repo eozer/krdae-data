@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.10 18:28:56",
+        "depth_km": 7.199999809265137,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "ENEK-ALTINOZU (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.20320129394531,
+          36.1682014465332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.10 17:32:03",
         "depth_km": 12.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.51100158691406,
           38.10369873046875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.05 09:03:03",
-        "depth_km": 13.100000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.74799919128418,
-          40.45930099487305
         ]
       }
     }
