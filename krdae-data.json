@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.10 14:37:06",
+        "depth_km": 3.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.530000686645508,
+          36.22949981689453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.10 14:19:26",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           37.025299072265625,
           38.10329818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.10 13:04:11",
+        "depth_km": 1.7000000476837158,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.704200744628906,
+          38.188499450683594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.49250030517578,
           37.9202995300293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.05 07:02:16",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.92180061340332,
-          40.44350051879883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.05 07:00:13",
-        "depth_km": 10.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.8356990814209,
-          40.46870040893555
         ]
       }
     }
