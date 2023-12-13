@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.13 09:37:49",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "GONULACAN-GENC (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.304298400878906,
+          38.614200592041016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.13 09:26:26",
         "depth_km": 3.9000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.67150115966797,
           38.14820098876953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.06 23:41:29",
-        "depth_km": 10.300000190734863,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "BABAKALE-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.002700805664062,
-          39.479000091552734
         ]
       }
     }
