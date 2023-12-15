@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.16 00:36:45",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "YUKARIBERCIN-TOSYA (KASTAMONU)",
+        "location": "KASTAMONU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.87820053100586,
+          41.11800003051758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.16 00:18:08",
         "depth_km": 13.800000190734863,
         "MD": 0.0,
@@ -55,6 +74,63 @@
         "coordinates": [
           38.205501556396484,
           38.164798736572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.15 23:48:53",
+        "depth_km": 13.600000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.34450149536133,
+          35.90420150756836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.15 23:26:46",
+        "depth_km": 26.600000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MOLLAKASIM-(VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.12900161743164,
+          38.66680145263672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.15 23:24:49",
+        "depth_km": 17.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "VAN GOLU",
+        "location": "VAN GOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.095001220703125,
+          38.7067985534668
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           31.790199279785156,
           38.43899917602539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.09 04:54:51",
-        "depth_km": 29.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TAYAKADIN-(EDIRNE)",
-        "location": "EDIRNE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.67650032043457,
-          41.584999084472656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.09 04:37:20",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KIBRIS-TUZLA",
-        "location": "KIBRIS-TUZLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.64419937133789,
-          35.03070068359375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.09 04:28:00",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "BERKKOY-DODURGA (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.80270004272461,
-          40.816200256347656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.09 04:13:16",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TURKIYE-IRAN SINIR BOLGESI",
-        "location": "TURKIYE-IRAN SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.57630157470703,
-          39.57400131225586
         ]
       }
     }
