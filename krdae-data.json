@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.17 14:35:34",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YETIMLI-ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.384700775146484,
+          37.68130111694336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.17 14:08:57",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.270999908447266,
+          37.95500183105469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.17 13:33:28",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           38.80179977416992,
           38.29679870605469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.17 09:17:52",
+        "depth_km": 17.600000381469727,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.52120018005371,
+          34.336299896240234
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.843799591064453,
           40.823299407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.11 00:09:11",
-        "depth_km": 11.699999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ORMANICI-PUTURGE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.78379821777344,
-          38.234798431396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.10 23:59:41",
-        "depth_km": 11.199999809265137,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI",
-        "location": "MARMARA DENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.93829917907715,
-          40.927799224853516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.10 23:41:52",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KUCUKBAHCE ACIKLARI-IZMIR (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.32229995727539,
-          38.51729965209961
         ]
       }
     }
