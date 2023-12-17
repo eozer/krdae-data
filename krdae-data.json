@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.18 00:50:45",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "YUMRUKAYA-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.486799240112305,
+          40.741798400878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.18 00:24:38",
         "depth_km": 11.100000381469727,
         "MD": 0.0,
@@ -81,18 +100,18 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2023.12.17 23:53:52",
-        "depth_km": 14.600000381469727,
+        "depth_km": 11.699999809265137,
         "MD": 0.0,
-        "ML": 4.199999809265137,
+        "ML": 4.099999904632568,
         "Mw": 4.0,
-        "place": "CINARCIK (YALOVA)",
-        "location": "YALOVA"
+        "place": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.087499618530273,
-          40.735198974609375
+          29.082500457763672,
+          40.73849868774414
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.14149856567383,
           38.3125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.11 07:29:46",
-        "depth_km": 14.100000381469727,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.864700317382812,
-          34.76449966430664
         ]
       }
     }
