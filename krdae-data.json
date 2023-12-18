@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.18 23:23:12",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.0,
+        "Mw": 4.0,
+        "place": "CEMALLI-KELKIT (GUMUSHANE)",
+        "location": "GUMUSHANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.30080032348633,
+          39.9630012512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.18 22:21:00",
         "depth_km": 44.099998474121094,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.363800048828125,
           38.64899826049805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.12 11:44:15",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BAGLICA-BOZOVA (SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.49919891357422,
-          37.38029861450195
         ]
       }
     }
