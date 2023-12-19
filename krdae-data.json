@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.20 01:15:03",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KARACALAR-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.31420135498047,
+          37.007198333740234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.20 00:25:46",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.78820037841797,
           38.208499908447266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.13 03:36:09",
-        "depth_km": 13.199999809265137,
-        "MD": 0.0,
-        "ML": 3.9000000953674316,
-        "Mw": 3.5999999046325684,
-        "place": "ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71929931640625,
-          37.10820007324219
         ]
       }
     }
