@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.19 15:22:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "ATALAR-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.19670104980469,
+          38.20920181274414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.19 15:02:44",
         "depth_km": 6.599999904632568,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           34.30670166015625,
           36.47869873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.19 14:49:44",
+        "depth_km": 14.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENICELI-ISLAHIYE (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.88869857788086,
+          36.982200622558594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.82900047302246,
           40.382198333740234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.12 23:03:49",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 0.0,
-        "place": "DEMIRDAG-DIVRIGI (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.15650177001953,
-          39.45119857788086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.12 22:56:12",
-        "depth_km": 9.899999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KUMYAKA-MUDANYA (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.832700729370117,
-          40.39929962158203
         ]
       }
     }
