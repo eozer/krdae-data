@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.21 00:20:32",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.4000000953674316,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.799999237060547,
+          34.882999420166016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.21 00:03:41",
         "depth_km": 8.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.18450164794922,
           38.26649856567383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.13 18:06:33",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YENIYAPAN-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.6057014465332,
-          38.148799896240234
         ]
       }
     }
