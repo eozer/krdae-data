@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.23 23:40:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "UZUMLU-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.42100143432617,
+          38.26020050048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.23 23:02:22",
         "depth_km": 16.700000762939453,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           37.801300048828125,
           38.27370071411133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.23 22:28:51",
+        "depth_km": 8.399999618530273,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "YUVA-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.440799713134766,
+          38.7932014465332
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.81719970703125,
           40.42470169067383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.16 08:09:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ORTACAY-KOZLUK (BATMAN)",
-        "location": "BATMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.27619934082031,
-          38.09450149536133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.16 07:58:43",
-        "depth_km": 20.299999237060547,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "DARIYERIHASANBEY-KAYNASLI (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.3356990814209,
-          40.776798248291016
         ]
       }
     }
