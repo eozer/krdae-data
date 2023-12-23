@@ -327,6 +327,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.23 20:20:59",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.04829978942871,
+          35.34130096435547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.23 19:45:14",
         "depth_km": 9.5,
         "MD": 0.0,
@@ -340,6 +359,25 @@
         "coordinates": [
           37.928199768066406,
           38.199501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.23 19:20:54",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "ALAHANLI-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.18280029296875,
+          37.09320068359375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           33.749698638916016,
           36.2495002746582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.16 10:51:50",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KURUCAOVA-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.073001861572266,
-          37.994300842285156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.16 10:49:52",
-        "depth_km": 7.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "SAKIZ ADASI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.985700607299805,
-          38.540000915527344
         ]
       }
     }
