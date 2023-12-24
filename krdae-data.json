@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.24 12:15:26",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.5999999046325684,
+        "Mw": 0.0,
+        "place": "BAKIS-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.413299560546875,
+          38.124298095703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.24 11:11:07",
         "depth_km": 6.300000190734863,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           36.389801025390625,
           38.00419998168945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.24 09:58:17",
+        "depth_km": 9.899999618530273,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "KAMAN (KIRSEHIR)",
+        "location": "KIRSEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7307014465332,
+          39.35150146484375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.17930030822754,
           37.06669998168945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.17 03:47:04",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CINARKOY-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.70869827270508,
-          38.449501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.17 03:20:01",
-        "depth_km": 17.600000381469727,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "KOZAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.83420181274414,
-          37.454498291015625
         ]
       }
     }
