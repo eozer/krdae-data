@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.27 10:55:11",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.400000095367432,
+        "Mw": 0.0,
+        "place": "BEGRE-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.66080093383789,
+          38.04079818725586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.27 10:26:55",
         "depth_km": 50.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.945499420166016,
           36.60820007324219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.20 18:00:47",
-        "depth_km": 26.100000381469727,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.253700256347656,
-          34.81850051879883
         ]
       }
     }
