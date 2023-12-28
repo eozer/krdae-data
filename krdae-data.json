@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.28 12:10:18",
+        "depth_km": 1.2000000476837158,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENI SUKSUN-BUNYAN (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.931800842285156,
+          38.73680114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.28 11:48:18",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           25.966699600219727,
           39.47869873046875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.21 14:38:18",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "BOZKIR-(CANKIRI)",
-        "location": "CANKIRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.85369873046875,
-          40.43370056152344
         ]
       }
     }
