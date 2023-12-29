@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.29 12:43:50",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KARACAY-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.128501892089844,
+          37.3473014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.29 12:42:28",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -36,6 +55,44 @@
         "coordinates": [
           38.47669982910156,
           38.097999572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.29 12:00:16",
+        "depth_km": 25.600000381469727,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "AYDINLAR-AKCADAG (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.10179901123047,
+          38.31079864501953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.29 11:53:54",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.607799530029297,
+          35.7495002746582
         ]
       }
     },
@@ -112,6 +169,25 @@
         "coordinates": [
           33.41849899291992,
           39.01430130004883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.29 10:18:07",
+        "depth_km": 23.5,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.517799377441406,
+          34.98249816894531
         ]
       }
     },
@@ -9422,82 +9498,6 @@
         "coordinates": [
           37.53229904174805,
           38.21369934082031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 11:03:18",
-        "depth_km": 3.799999952316284,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARAMANKASI-KIRIKHAN (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.430198669433594,
-          36.60029983520508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 10:52:45",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "TEKIR-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.676700592041016,
-          37.92279815673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 10:52:03",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KAVAKLIDERE-BORNOVA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.31999969482422,
-          38.406700134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 10:50:11",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "UMURLAR-SINDIRGI (BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.322799682617188,
-          39.323299407958984
         ]
       }
     }
