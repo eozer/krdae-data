@@ -232,6 +232,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.29 19:20:48",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.203800201416016,
+          36.205501556396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.29 19:13:50",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -245,6 +264,25 @@
         "coordinates": [
           26.857799530029297,
           38.51369857788086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.29 18:53:57",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TABURLAR-ELMADAG (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.12329864501953,
+          39.7943000793457
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.395000457763672,
           36.49530029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 20:30:47",
-        "depth_km": 8.899999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.048500061035156,
-          40.744998931884766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.22 19:43:29",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "SEYFE-MUCUR (KIRSEHIR)",
-        "location": "KIRSEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.34149932861328,
-          39.211299896240234
         ]
       }
     }
