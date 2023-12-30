@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.30 14:34:23",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KEMALPASA-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.91130065917969,
+          38.109798431396484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.30 14:32:52",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SADIKLI-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.556800842285156,
+          37.38970184326172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.30 14:24:38",
         "depth_km": 6.699999809265137,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           36.55720138549805,
           37.98979949951172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.30 12:13:24",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KOSECIK-(SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.29719924926758,
+          37.23870086669922
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           26.260499954223633,
           39.737701416015625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.23 13:32:13",
-        "depth_km": 16.0,
-        "MD": 0.0,
-        "ML": 0.699999988079071,
-        "Mw": 0.0,
-        "place": "KAGITHANE (ISTANBUL)",
-        "location": "ISTANBUL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.958799362182617,
-          41.086700439453125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.23 13:26:26",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "YUVA-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.39419937133789,
-          38.78099822998047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.23 13:22:14",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "TOPSOGUT-(MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.247501373291016,
-          38.34049987792969
         ]
       }
     }
