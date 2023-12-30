@@ -194,6 +194,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2023.12.30 21:57:42",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.183500289916992,
+          36.22629928588867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2023.12.30 21:43:00",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GULALAN-BULDAN (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.767799377441406,
+          38.10879898071289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2023.12.30 21:32:50",
         "depth_km": 20.899999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           26.41200065612793,
           40.472801208496094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.23 22:57:35",
-        "depth_km": 16.899999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "GUZELPINAR-(DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.21030044555664,
-          37.94329833984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.23 22:50:41",
-        "depth_km": 7.699999809265137,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ORTAKOY-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.801300048828125,
-          38.27370071411133
         ]
       }
     }
