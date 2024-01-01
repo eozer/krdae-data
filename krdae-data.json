@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.01 03:52:59",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "KULAHLI-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.39720153808594,
+          38.83100128173828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.01 03:43:26",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.505699157714844,
+          40.71120071411133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.01 03:08:47",
+        "depth_km": 10.100000381469727,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "GAZIKOY-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.415000915527344,
+          38.43149948120117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.01 01:45:34",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.054800033569336,
           33.99480056762695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.24 18:39:13",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "DUZBAHCE-SIVRICE (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.26219940185547,
-          38.443199157714844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.24 18:36:18",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.56529998779297,
-          38.35449981689453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.24 18:18:56",
-        "depth_km": 10.899999618530273,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.0,
-        "place": "KUMYAKA-MUDANYA (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.82379913330078,
-          40.41450119018555
         ]
       }
     }
