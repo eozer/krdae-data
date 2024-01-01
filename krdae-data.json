@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.01 21:21:22",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "SULEYMANUSAGI-PULUMUR (TUNCELI)",
+        "location": "TUNCELI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9921989440918,
+          39.565799713134766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.01 20:38:35",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.239498138427734,
           37.9640007019043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.25 10:55:51",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.76300048828125,
-          38.202701568603516
         ]
       }
     }
