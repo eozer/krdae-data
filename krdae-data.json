@@ -5,6 +5,25 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2024.01.01 13:00:37",
+        "depth_km": 9.600000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KINIKKOZ-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.76029968261719,
+          38.007198333740234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.01 13:00:37",
         "depth_km": 13.100000381469727,
         "MD": 0.0,
         "ML": 1.5,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.347299575805664,
           40.12900161743164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.25 03:13:36",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.299999952316284,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.026500701904297,
-          35.364498138427734
         ]
       }
     }
