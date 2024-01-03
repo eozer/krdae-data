@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.03 13:16:09",
+        "depth_km": 24.5,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.200000047683716,
+        "place": "YUNANISTAN",
+        "location": "YUNANISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.63949966430664,
+          39.65230178833008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.03 13:00:38",
         "depth_km": 11.800000190734863,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           31.37150001525879,
           40.90119934082031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.03 12:12:47",
+        "depth_km": 2.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "YARBASI-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.24980163574219,
+          37.47919845581055
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.93730163574219,
           42.041500091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.27 00:35:38",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GURPINAR-ULAS (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.1526985168457,
-          39.349998474121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2023.12.27 00:29:01",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.021499633789062,
-          37.83700180053711
         ]
       }
     }
