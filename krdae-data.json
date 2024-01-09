@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.09 13:14:04",
+        "depth_km": 12.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15700149536133,
+          36.78070068359375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.09 13:02:04",
         "depth_km": 8.199999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.92919921875,
           35.9900016784668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.02 23:11:56",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CIMENLI-(HAKKARI)",
-        "location": "HAKKARI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.65570068359375,
-          37.501800537109375
         ]
       }
     }
