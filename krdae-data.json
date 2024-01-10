@@ -4412,6 +4412,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.07 02:10:15",
+        "depth_km": 18.5,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BARINDIR-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.79600143432617,
+          38.60820007324219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.07 02:03:16",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.391300201416016,
           38.41630172729492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.03 15:16:39",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BAGLICAY-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.482200622558594,
-          38.81800079345703
         ]
       }
     }
