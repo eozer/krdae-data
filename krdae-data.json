@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.10 10:50:29",
+        "depth_km": 2.4000000953674316,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CORUS-ULA (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.52280044555664,
+          36.96070098876953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.10 10:45:38",
+        "depth_km": 10.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HABIBLER-GERMENCIK (AYDIN)",
+        "location": "AYDIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.621200561523438,
+          37.984500885009766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.10 10:25:49",
         "depth_km": 13.0,
         "MD": 0.0,
@@ -1100,6 +1138,25 @@
         "coordinates": [
           28.801799774169922,
           40.41299819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.09 16:15:58",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KOZANLI-KULU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.79719924926758,
+          39.03620147705078
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           43.63669967651367,
           37.47779846191406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.04 02:40:48",
-        "depth_km": 2.5999999046325684,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.5999999046325684,
-        "place": "ERMENISTAN",
-        "location": "ERMENISTAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.134300231933594,
-          41.13800048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.04 02:22:29",
-        "depth_km": 6.5,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "GOLKASI-BEYSEHIR (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.607799530029297,
-          37.733699798583984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.04 02:06:20",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "BALIBAGI-(CANKIRI)",
-        "location": "CANKIRI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.77450180053711,
-          40.518798828125
         ]
       }
     }
