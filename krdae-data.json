@@ -593,6 +593,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.17 02:25:23",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "IZMIR KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.600799560546875,
+          38.562801361083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.17 02:12:03",
         "depth_km": 4.699999809265137,
         "MD": 0.0,
@@ -644,6 +663,25 @@
         "coordinates": [
           26.687999725341797,
           38.61320114135742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.17 01:30:06",
+        "depth_km": 9.100000381469727,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "TATLAR-NURHAK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.483001708984375,
+          38.01919937133789
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.28929901123047,
           38.85020065307617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.10 07:53:39",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "ELVANCELEBI-MECITOZU (CORUM)",
-        "location": "CORUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.155799865722656,
-          40.557701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.10 07:05:02",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.61429977416992,
-          38.13169860839844
         ]
       }
     }
