@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.17 18:08:16",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 0.800000011920929,
+        "Mw": 0.0,
+        "place": "SIRKELI-CEYHAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75529861450195,
+          36.99250030517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.17 17:54:38",
+        "depth_km": 18.700000762939453,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "CANAKYAYLA-ADILCEVAZ (BITLIS)",
+        "location": "BITLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.699798583984375,
+          38.88949966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.17 17:50:25",
         "depth_km": 1.600000023841858,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.20949935913086,
           36.00699996948242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.10 13:36:38",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SAROS KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.197999954223633,
-          40.47850036621094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.10 13:36:31",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "HACIMUSTAFA-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.89080047607422,
-          37.50320053100586
         ]
       }
     }
