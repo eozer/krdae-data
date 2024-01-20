@@ -137,6 +137,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.20 22:00:57",
+        "depth_km": 8.199999809265137,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KOZLUK-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.29679870605469,
+          38.20249938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.20 21:30:44",
+        "depth_km": 13.699999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KABASAKAL-ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.37329864501953,
+          37.58700180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.20 21:20:36",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -245,6 +283,25 @@
         "coordinates": [
           28.94879913330078,
           37.05149841308594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.20 20:19:10",
+        "depth_km": 4.400000095367432,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YETIMLI-ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.391998291015625,
+          37.61199951171875
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.376800537109375,
           38.81679916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 04:45:29",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "MESCICELE-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.672199249267578,
-          40.89469909667969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 03:37:37",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "KOCADERE-CINARCIK (YALOVA)",
-        "location": "YALOVA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.023300170898438,
-          40.62419891357422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 03:23:09",
-        "depth_km": 14.800000190734863,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "SOGUTLU-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.299198150634766,
-          38.19770050048828
         ]
       }
     }
