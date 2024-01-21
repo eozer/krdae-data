@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.21 06:42:49",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.299999952316284,
+        "place": "TURKIYE-IRAN SINIR BOLGESI",
+        "location": "TURKIYE-IRAN SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.617698669433594,
+          38.38669967651367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.21 05:57:35",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0,
+        "place": "TURKIYE-SURIYE SINIR BOLGESI",
+        "location": "TURKIYE-SURIYE SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.03929901123047,
+          36.593299865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.21 05:12:32",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -853,6 +891,25 @@
         "coordinates": [
           29.492300033569336,
           38.99700164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.20 17:26:28",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.58650016784668,
+          36.22869873046875
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           28.94969940185547,
           36.27579879760742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 14:58:21",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BAHCEDERE-MADEN (ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.50270080566406,
-          38.43450164794922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 14:45:21",
-        "depth_km": 22.5,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KAVSUT-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.601200103759766,
-          38.202301025390625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.14 14:03:23",
-        "depth_km": 5.099999904632568,
-        "MD": 0.0,
-        "ML": 2.299999952316284,
-        "Mw": 0.0,
-        "place": "KUP-ALADAG (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.410301208496094,
-          37.6879997253418
         ]
       }
     }
