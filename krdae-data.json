@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.22 04:11:22",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KAPLAN-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.815799713134766,
+          40.235198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.22 04:09:16",
         "depth_km": 3.5,
         "MD": 0.0,
@@ -131,6 +150,25 @@
         "coordinates": [
           26.930999755859375,
           38.53499984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.22 03:17:35",
+        "depth_km": 16.700000762939453,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BOZKIR-(CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.835201263427734,
+          40.43349838256836
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.297700881958008,
           38.31420135498047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.15 07:10:15",
-        "depth_km": 11.5,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.93120002746582,
-          36.226200103759766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.15 06:51:27",
-        "depth_km": 26.5,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "AGACLI-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.4452018737793,
-          38.75170135498047
         ]
       }
     }
