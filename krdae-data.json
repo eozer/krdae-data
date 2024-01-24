@@ -4,10 +4,29 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.24 15:05:10",
+        "depth_km": 4.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "YALOVA ACIKLARI (MARMARA DENIZI)",
+        "location": "MARMARA DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.214500427246094,
+          40.770198822021484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.24 14:19:23",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 4.0,
+        "ML": 4.5,
         "Mw": 0.0,
         "place": "RUSYA",
         "location": "RUSYA"
@@ -15,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.52949905395508,
-          44.824501037597656
+          38.52399826049805,
+          44.84619903564453
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.28099822998047,
           38.83980178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.17 13:26:52",
-        "depth_km": 23.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KALE-ARSUZ (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.757198333740234,
-          36.27180099487305
         ]
       }
     }
