@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.25 14:31:45",
+        "depth_km": 12.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KARAHIDIRLI-BUNYAN (KAYSERI)",
+        "location": "KAYSERI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.78919982910156,
+          38.9630012512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.25 14:26:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SABANMERA-KESAN (EDIRNE)",
+        "location": "EDIRNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.382699966430664,
+          40.673500061035156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.25 13:47:05",
         "depth_km": 5.199999809265137,
         "MD": 0.0,
@@ -55,6 +93,25 @@
         "coordinates": [
           28.86680030822754,
           41.107200622558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.25 13:03:21",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ELBISTANLI-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.111698150634766,
+          37.477699279785156
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.18080139160156,
           38.16450119018555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.18 11:10:32",
-        "depth_km": 11.899999618530273,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.85420036315918,
-          40.42729949951172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.18 10:47:33",
-        "depth_km": 8.199999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KALEDAGI-KARAISALI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.306800842285156,
-          37.421199798583984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.18 10:37:05",
-        "depth_km": 12.600000381469727,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KAYAONU-ERMENEK (KARAMAN)",
-        "location": "KARAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.01250076293945,
-          36.65549850463867
         ]
       }
     }
