@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.26 21:36:24",
+        "depth_km": 1.2000000476837158,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "RODOS ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.113800048828125,
+          36.113800048828125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.26 21:25:05",
         "depth_km": 3.9000000953674316,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.665000915527344,
           40.89630126953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.20 03:11:59",
-        "depth_km": 4.800000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "BUYUKCAKIR-YAHYALI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.38800048828125,
-          37.69969940185547
         ]
       }
     }
