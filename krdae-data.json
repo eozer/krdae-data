@@ -42,6 +42,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.26 12:13:23",
+        "depth_km": 6.5,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BOZBUK-MILAS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.40719985961914,
+          37.35369873046875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.26 12:05:26",
+        "depth_km": 4.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "MENTESE-HONAZ (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.293699264526367,
+          37.746700286865234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.26 12:01:19",
+        "depth_km": 10.399999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6952018737793,
+          38.015201568603516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.26 11:56:47",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.41419982910156,
           38.81480026245117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.19 11:58:05",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.78219985961914,
-          36.26350021362305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.19 11:50:30",
-        "depth_km": 12.899999618530273,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.646799087524414,
-          35.63750076293945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.19 11:20:25",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "TEPEKOY-(NIGDE)",
-        "location": "NIGDE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.59120178222656,
-          38.06169891357422
         ]
       }
     }
