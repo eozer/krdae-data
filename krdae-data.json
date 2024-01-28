@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.28 09:21:43",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YENIKOY-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27479934692383,
+          38.51100158691406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.28 09:01:51",
+        "depth_km": 7.400000095367432,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.426700592041016,
+          35.52579879760742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.28 09:00:40",
         "depth_km": 6.400000095367432,
         "MD": 0.0,
@@ -36,6 +74,25 @@
         "coordinates": [
           36.262001037597656,
           37.90679931640625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.28 08:40:27",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "ANBERINARKI-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.073001861572266,
+          37.337799072265625
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           37.45880126953125,
           39.03350067138672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.22 08:38:54",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "ALATEPE-MILAS (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.00779914855957,
-          37.03020095825195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.22 08:08:04",
-        "depth_km": 21.299999237060547,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "VAN GOLU",
-        "location": "VAN GOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.057701110839844,
-          38.69029998779297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.22 07:53:26",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.9000000953674316,
-        "Mw": 4.0,
-        "place": "KECIKAYASI-SARAY (VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.2322998046875,
-          38.48099899291992
         ]
       }
     }
