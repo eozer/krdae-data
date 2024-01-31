@@ -1923,6 +1923,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.01.30 13:50:20",
+        "depth_km": 27.200000762939453,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KULLU-(OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.38399887084961,
+          36.985198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.01.30 13:36:07",
         "depth_km": 25.0,
         "MD": 0.0,
@@ -1955,6 +1974,44 @@
         "coordinates": [
           37.94580078125,
           38.18149948120117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.30 12:53:02",
+        "depth_km": 13.600000381469727,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "SINCIK (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.60419845581055,
+          38.014198303222656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.30 12:47:49",
+        "depth_km": 10.800000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "HOCATMAN-YIGILCA (DUZCE)",
+        "location": "DUZCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.48699951171875,
+          40.87379837036133
         ]
       }
     },
@@ -2145,6 +2202,25 @@
         "coordinates": [
           37.38199996948242,
           38.48680114746094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.30 10:28:13",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "YELATAN-CAMARDI (NIGDE)",
+        "location": "NIGDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.991798400878906,
+          37.72050094604492
         ]
       }
     },
@@ -2544,6 +2620,25 @@
         "coordinates": [
           35.6422004699707,
           37.0276985168457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.01.30 03:49:14",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "KOCAHISAR-KAHTA (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.67530059814453,
+          37.939300537109375
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           37.264801025390625,
           38.117000579833984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 05:00:49",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ESKIHAMAL-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.48350143432617,
-          38.852699279785156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 04:54:08",
-        "depth_km": 5.800000190734863,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "DEGIRMENCIUSAGI-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.117801666259766,
-          37.832000732421875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 04:47:30",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 3.700000047683716,
-        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.360801696777344,
-          37.99580001831055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 04:23:46",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.99369812011719,
-          38.138301849365234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 03:45:18",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "KARADENIZ",
-        "location": "KARADENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.98979949951172,
-          42.50080108642578
         ]
       }
     }
