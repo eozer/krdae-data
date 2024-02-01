@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.01 11:28:06",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "BALLIK-ALTINYAYLA (BURDUR)",
+        "location": "BURDUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.389699935913086,
+          36.86520004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.01 11:19:20",
+        "depth_km": 13.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ARMUTALAN-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.685001373291016,
+          38.09149932861328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.01 11:12:45",
+        "depth_km": 9.5,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "SENLIK-LICE (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.401798248291016,
+          38.55350112915039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.01 10:43:46",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.81679916381836,
           38.09769821166992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.27 02:16:48",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0999999046325684,
-        "place": "YIRICEK-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.44919967651367,
-          38.00849914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.27 01:21:46",
-        "depth_km": 12.899999618530273,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "GAZIKOY-SARKOY (TEKIRDAG)",
-        "location": "TEKIRDAG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.372299194335938,
-          40.76029968261719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.26 23:56:23",
-        "depth_km": 23.100000381469727,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "GIRIT ADASI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.395200729370117,
-          34.794700622558594
         ]
       }
     }
