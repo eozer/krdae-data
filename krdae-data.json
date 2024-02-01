@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.01 13:42:15",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GAZIKOY-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.33169937133789,
+          38.44269943237305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.01 13:24:33",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.100500106811523,
+          37.95949935913086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.01 13:11:49",
         "depth_km": 33.5,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.849199295043945,
           40.41350173950195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.27 06:19:31",
-        "depth_km": 1.7000000476837158,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KAPAKLI-ARMUTLU (YALOVA)",
-        "location": "YALOVA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.939800262451172,
-          40.45130157470703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.27 06:17:36",
-        "depth_km": 13.100000381469727,
-        "MD": 0.0,
-        "ML": 3.299999952316284,
-        "Mw": 3.200000047683716,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.854799270629883,
-          40.418701171875
         ]
       }
     }
