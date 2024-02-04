@@ -4,19 +4,57 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2024.02.04 09:27:30",
-        "depth_km": 3.299999952316284,
+        "timestamp": "2024.02.04 10:00:37",
+        "depth_km": 1.2999999523162842,
         "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 3.799999952316284,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.71380043029785,
+          37.9114990234375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.04 09:33:36",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.905799865722656,
+          37.814701080322266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.04 09:27:31",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.700000047683716,
         "place": "KUSADASI KORFEZI (EGE DENIZI)",
         "location": "EGE DENIZI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.900800704956055,
-          37.880699157714844
+          26.938499450683594,
+          37.849300384521484
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.144500732421875,
           37.946800231933594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.29 20:51:23",
-        "depth_km": 1.2999999523162842,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "ORENKENT-BULANIK (MUS)",
-        "location": "MUS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.2318000793457,
-          39.06119918823242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.01.29 20:35:02",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "EGNEZ-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.53580093383789,
-          39.05379867553711
         ]
       }
     }
