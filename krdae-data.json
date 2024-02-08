@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.08 05:20:19",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 4.300000190734863,
+        "Mw": 4.400000095367432,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.648300170898438,
+          35.40449905395508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.08 05:18:46",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "BOZGEDIK-CELIKHAN (ADIYAMAN)",
+        "location": "ADIYAMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.26100158691406,
+          38.093299865722656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.08 05:01:15",
         "depth_km": 5.900000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.53070068359375,
           38.71500015258789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.03 04:12:00",
-        "depth_km": 14.300000190734863,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KOZAGAC-BEYPAZARI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.759000778198242,
-          40.24549865722656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.03 03:58:06",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.529998779296875,
-          37.93280029296875
         ]
       }
     }
