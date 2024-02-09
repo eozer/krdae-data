@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.09 12:57:28",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61880111694336,
+          38.0968017578125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.09 12:56:02",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "GUVENC-HASSA (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.352500915527344,
+          36.71500015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.09 12:45:17",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "TUNCBILEK-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.53580093383789,
+          39.602298736572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.09 11:59:58",
         "depth_km": 1.100000023841858,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           39.2421989440918,
           37.93600082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.04 07:28:46",
-        "depth_km": 11.800000190734863,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "HISARLI-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.03350067138672,
-          40.299800872802734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.04 07:22:20",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YAZIDERE-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.987300872802734,
-          38.141700744628906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.04 07:17:52",
-        "depth_km": 5.900000095367432,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.0,
-        "place": "GURGENDERE-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.0226993560791,
-          40.2848014831543
         ]
       }
     }
