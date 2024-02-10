@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.10 15:26:26",
+        "depth_km": 20.200000762939453,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KARAOMER-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.66170120239258,
+          38.09280014038086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.10 14:55:01",
         "depth_km": 6.900000095367432,
         "MD": 0.0,
@@ -55,6 +74,44 @@
         "coordinates": [
           38.586700439453125,
           38.219200134277344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.10 13:55:58",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KIZILENIS-REFAHIYE (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.043800354003906,
+          39.94049835205078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.10 13:51:52",
+        "depth_km": 14.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "IHLAMUR-IKIZDERE (RIZE)",
+        "location": "RIZE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.52180099487305,
+          40.77399826049805
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.365299224853516,
           38.05780029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.05 04:26:51",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.87619972229004,
-          37.87879943847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.05 04:15:31",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "DILEKLI-YUKSEKOVA (HAKKARI)",
-        "location": "HAKKARI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.033199310302734,
-          37.291500091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.05 04:10:55",
-        "depth_km": 6.800000190734863,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "TEKELIOGLU-SALIHLI (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.969499588012695,
-          38.60179901123047
         ]
       }
     }
