@@ -118,6 +118,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.11 00:01:44",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ELDIVAN (CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.51129913330078,
+          40.52830123901367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.10 23:55:33",
         "depth_km": 4.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           30.290300369262695,
           40.612998962402344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.05 12:33:13",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "MUSTAFABEYLI-CEYHAN (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.061500549316406,
-          37.095001220703125
         ]
       }
     }
