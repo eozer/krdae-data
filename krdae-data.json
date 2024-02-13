@@ -43,6 +43,25 @@
       "type": "Feature",
       "properties": {
         "timestamp": "2024.02.13 12:02:50",
+        "depth_km": 24.600000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KOZCESME-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.05470085144043,
+          40.260501861572266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.13 12:02:50",
         "depth_km": 14.300000190734863,
         "MD": 0.0,
         "ML": 2.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.1593017578125,
           36.483699798583984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.07 18:57:30",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "BAYAT-(BALIKESIR)",
-        "location": "BALIKESIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.909799575805664,
-          39.4547004699707
         ]
       }
     }
