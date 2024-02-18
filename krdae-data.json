@@ -4,6 +4,63 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.19 02:34:27",
+        "depth_km": 6.800000190734863,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ERICEK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.894500732421875,
+          38.04600143432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.19 02:05:01",
+        "depth_km": 12.199999809265137,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "KARAKUYU-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.233299255371094,
+          37.839298248291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.19 01:49:41",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "GURGENDERE-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.024499893188477,
+          40.2848014831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.19 00:59:54",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.42649841308594,
           38.22669982910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.13 05:31:17",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "GURGENDERE-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.99850082397461,
-          40.28879928588867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.13 05:05:41",
-        "depth_km": 6.599999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BEKIRLI-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.066999435424805,
-          40.37269973754883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.13 05:01:19",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "HISARLI-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.029300689697266,
-          40.2932014465332
         ]
       }
     }
