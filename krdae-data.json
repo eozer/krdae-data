@@ -156,6 +156,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.19 13:05:18",
+        "depth_km": 10.600000381469727,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KAYAARASI-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.415300369262695,
+          39.59769821166992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.19 13:01:38",
+        "depth_km": 9.899999618530273,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YENIKOY-TAVSANLI (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.356000900268555,
+          39.597999572753906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.19 12:52:34",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           25.503000259399414,
           35.7307014465332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.13 21:11:57",
-        "depth_km": 1.899999976158142,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ATALAR-SEHITKAMIL (GAZIANTEP)",
-        "location": "GAZIANTEP"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.98970031738281,
-          37.17570114135742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.13 21:05:17",
-        "depth_km": 17.899999618530273,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "SIHLI-LADIK (SAMSUN)",
-        "location": "SAMSUN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.06449890136719,
-          40.91320037841797
         ]
       }
     }
