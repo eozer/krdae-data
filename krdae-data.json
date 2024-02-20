@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.20 14:32:26",
+        "depth_km": 6.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "TURKIYE-SURIYE SINIR BOLGESI",
+        "location": "TURKIYE-SURIYE SINIR BOLGESI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.48350143432617,
+          36.85279846191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.20 14:12:58",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           37.24470138549805,
           38.46730041503906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.20 13:33:00",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "BAHATLAR-EMET (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.303199768066406,
+          39.336299896240234
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.15250015258789,
           37.974998474121094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.14 20:37:39",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "ORTAKOY-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.80550003051758,
-          38.30030059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.14 20:31:57",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.325801849365234,
-          38.00529861450195
         ]
       }
     }
