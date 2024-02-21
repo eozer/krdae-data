@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.21 13:38:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 0.0,
+        "place": "IRAK",
+        "location": "IRAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.65449905395508,
+          36.72330093383789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.21 13:36:50",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "CETIBELI-MARMARIS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.359699249267578,
+          36.96379852294922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.21 12:26:21",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -17,6 +55,25 @@
         "coordinates": [
           37.362300872802734,
           38.332000732421875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.21 12:15:30",
+        "depth_km": 12.199999809265137,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "DANABAS-(CANKIRI)",
+        "location": "CANKIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.04349899291992,
+          40.50270080566406
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.14179992675781,
           37.83980178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.15 20:42:51",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.467201232910156,
-          37.7760009765625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.15 20:40:00",
-        "depth_km": 18.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "TURKIYE-SURIYE SINIR BOLGESI",
-        "location": "TURKIYE-SURIYE SINIR BOLGESI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.95249938964844,
-          35.746700286865234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.15 20:03:37",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GOZPINARI-AFSIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.847801208496094,
-          38.2156982421875
         ]
       }
     }
