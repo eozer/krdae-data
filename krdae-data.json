@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.02.22 23:52:28",
+        "depth_km": 20.700000762939453,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "INKOY-GEVAS (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9114990234375,
+          38.53020095825195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.02.22 23:27:54",
         "depth_km": 7.0,
         "MD": 0.0,
@@ -36,6 +55,44 @@
         "coordinates": [
           38.131500244140625,
           38.180301666259766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.22 23:14:20",
+        "depth_km": 6.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.140199661254883,
+          36.53950119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.02.22 22:47:33",
+        "depth_km": 13.800000190734863,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.735200881958008,
+          34.43220138549805
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.483200073242188,
           40.91579818725586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.16 11:56:53",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "PAZAROREN-PINARBASI (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.17570114135742,
-          38.65019989013672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.16 11:14:07",
-        "depth_km": 3.9000000953674316,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ARABAKONAGI-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.990800857543945,
-          40.27119827270508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.16 11:12:30",
-        "depth_km": 9.800000190734863,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KOZCESME-BIGA (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.046300888061523,
-          40.25870132446289
         ]
       }
     }
