@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.02 00:08:23",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AYVACIK-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.10929870605469,
+          37.77669906616211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.01 23:41:14",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           38.64670181274414,
           39.626800537109375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.01 23:24:56",
+        "depth_km": 13.300000190734863,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "GURGENDERE-BIGA (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.012699127197266,
+          40.2843017578125
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           39.44969940185547,
           38.56679916381836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.25 00:59:33",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 3.200000047683716,
-        "place": "MAZIKOY-BODRUM (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.68079948425293,
-          37.02199935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.02.25 00:47:08",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "CAYIRKOY-TAVSANLI (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.18630027770996,
-          39.46620178222656
         ]
       }
     }
