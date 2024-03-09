@@ -61,6 +61,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.09 20:26:33",
+        "depth_km": 27.899999618530273,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "GOKBEN-FETHIYE (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.267799377441406,
+          36.60049819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.09 20:12:48",
+        "depth_km": 27.100000381469727,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "BULGARISTAN",
+        "location": "BULGARISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.755199432373047,
+          43.23149871826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.09 18:41:40",
         "depth_km": 7.199999809265137,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           37.159000396728516,
           37.42770004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.09 18:36:03",
+        "depth_km": 4.599999904632568,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14550018310547,
+          37.89720153808594
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.615299224853516,
           37.5901985168457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.03 04:41:27",
-        "depth_km": 2.4000000953674316,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
-        "location": "ANKARA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.781299591064453,
-          40.17919921875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.03 03:59:06",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.700000047683716,
-        "Mw": 0.0,
-        "place": "KULLU-(OSMANIYE)",
-        "location": "OSMANIYE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.34379959106445,
-          36.990501403808594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.03 03:57:19",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "TEKELI ISIKLAR-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.749799728393555,
-          39.25
         ]
       }
     }
