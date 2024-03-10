@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.10 13:20:05",
+        "depth_km": 2.0999999046325684,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "VAKIFLI-SAMANDAG (HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.97930145263672,
+          36.109500885009766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.10 13:15:35",
+        "depth_km": 5.699999809265137,
+        "MD": 0.0,
+        "ML": 3.4000000953674316,
+        "Mw": 3.299999952316284,
+        "place": "AKCAKISLA-KOZLUK (BATMAN)",
+        "location": "BATMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.599300384521484,
+          38.25979995727539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.10 12:36:30",
         "depth_km": 10.399999618530273,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.707700729370117,
           36.979000091552734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.04 01:51:14",
-        "depth_km": 14.0,
-        "MD": 0.0,
-        "ML": 3.799999952316284,
-        "Mw": 3.5999999046325684,
-        "place": "KUCUKLU-KORKUTELI (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.740699768066406,
-          36.981201171875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.04 01:46:28",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 3.5,
-        "place": "KUCUKLU-KORKUTELI (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.76129913330078,
-          36.99599838256836
         ]
       }
     }
