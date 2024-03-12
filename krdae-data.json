@@ -4,10 +4,48 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.12 11:02:44",
+        "depth_km": 2.799999952316284,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KULLAR-NURHAK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.47919845581055,
+          38.0077018737793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.12 10:50:04",
+        "depth_km": 19.899999618530273,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YESILYAYLA-SUMBAS (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.127201080322266,
+          37.543800354003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.12 09:49:27",
         "depth_km": 0.0,
         "MD": 0.0,
-        "ML": 2.200000047683716,
+        "ML": 2.0,
         "Mw": 0.0,
         "place": "DEREKOY-SOMA (MANISA)",
         "location": "MANISA"
@@ -15,8 +53,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.56049919128418,
-          39.097801208496094
+          27.544300079345703,
+          39.10020065307617
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.41080093383789,
           38.20249938964844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.05 19:51:51",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "IKIZPINAR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.4109992980957,
-          38.24800109863281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.05 19:29:41",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "CIVRIL-YAZIHAN (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.02000045776367,
-          38.56549835205078
         ]
       }
     }
