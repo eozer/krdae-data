@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.13 13:50:53",
+        "depth_km": 15.699999809265137,
+        "MD": 0.0,
+        "ML": 3.200000047683716,
+        "Mw": 3.200000047683716,
+        "place": "DOGU AKDENIZ",
+        "location": "DOGU AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.572200775146484,
+          34.35649871826172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.13 12:44:04",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -207,6 +226,25 @@
         "coordinates": [
           27.93549919128418,
           37.940799713134766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.13 10:21:04",
+        "depth_km": 22.100000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KUSADASI KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.100799560546875,
+          37.98899841308594
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           31.51799964904785,
           36.147701263427734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.06 11:25:47",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "KUMARLI-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.49319839477539,
-          37.852500915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.06 11:20:42",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KUCUKLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.69279861450195,
-          38.03200149536133
         ]
       }
     }
