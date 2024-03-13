@@ -365,6 +365,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.12 22:59:09",
+        "depth_km": 3.799999952316284,
+        "MD": 0.0,
+        "ML": 3.5999999046325684,
+        "Mw": 0.0,
+        "place": "DAGOBA-BAYRAMIC (CANAKKALE)",
+        "location": "CANAKKALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.82830047607422,
+          39.775001525878906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.12 17:03:17",
         "depth_km": 8.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.40549850463867,
           38.2588005065918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.06 04:20:29",
-        "depth_km": 2.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "YAVUZLAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.43579864501953,
-          38.42900085449219
         ]
       }
     }
