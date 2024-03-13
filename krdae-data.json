@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.13 15:00:38",
+        "depth_km": 17.200000762939453,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KUMAFSARI-ACIPAYAM (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.524499893188477,
+          37.31449890136719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.13 14:51:17",
         "depth_km": 26.600000381469727,
         "MD": 0.0,
@@ -720,6 +739,25 @@
         "coordinates": [
           36.194801330566406,
           37.77069854736328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.13 05:06:17",
+        "depth_km": 8.5,
+        "MD": 0.0,
+        "ML": 3.299999952316284,
+        "Mw": 3.200000047683716,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.760799407958984,
+          34.38079833984375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.52199935913086,
           40.682701110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.06 13:35:10",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "SIPAHILI-GULNAR (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.455501556396484,
-          36.18880081176758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.06 12:54:51",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "GEBEN-ANDIRIN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.38180160522461,
-          37.78450012207031
         ]
       }
     }
