@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.14 13:27:24",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "YAZIKAYA-CAYIRLI (ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.92499923706055,
+          39.9375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.14 13:12:21",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.408700942993164,
+          35.5260009765625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.14 12:59:42",
         "depth_km": 7.5,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           27.310800552368164,
           37.7578010559082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.14 12:21:55",
+        "depth_km": 7.599999904632568,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "BAGLICAY-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.46549987792969,
+          38.80730056762695
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           25.512699127197266,
           35.74769973754883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.07 05:08:52",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KAYI-CIHANBEYLI (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.81850051879883,
-          38.745201110839844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.07 05:02:01",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "KORPINAR-(KIRSEHIR)",
-        "location": "KIRSEHIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.168800354003906,
-          39.30270004272461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.07 04:48:09",
-        "depth_km": 6.300000190734863,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "HIMMETLI-SAIMBEYLI (ADANA)",
-        "location": "ADANA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.07680130004883,
-          37.839298248291016
         ]
       }
     }
