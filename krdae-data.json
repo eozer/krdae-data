@@ -4,19 +4,38 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2024.03.14 12:42:39",
-        "depth_km": 7.900000095367432,
+        "timestamp": "2024.03.14 12:59:42",
+        "depth_km": 7.5,
         "MD": 0.0,
-        "ML": 2.700000047683716,
+        "ML": 2.0999999046325684,
         "Mw": 0.0,
-        "place": "KIBRIS-DEGIRMENLIK",
-        "location": "KIBRIS-DEGIRMENLIK"
+        "place": "SARAYCIK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.625999450683594,
-          35.17129898071289
+          36.60070037841797,
+          38.022300720214844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.14 12:42:38",
+        "depth_km": 8.399999618530273,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 0.0,
+        "place": "KIBRIS-TUZLA",
+        "location": "KIBRIS-TUZLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6875,
+          35.133201599121094
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.07680130004883,
           37.839298248291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.07 04:32:24",
-        "depth_km": 8.300000190734863,
-        "MD": 0.0,
-        "ML": 3.0,
-        "Mw": 2.9000000953674316,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.4822998046875,
-          38.651798248291016
         ]
       }
     }
