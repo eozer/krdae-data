@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.18 06:11:23",
+        "depth_km": 24.700000762939453,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "KISACIKLI-FEKE (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.863800048828125,
+          37.77220153808594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.18 06:11:21",
         "depth_km": 2.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.97930145263672,
           36.109500885009766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.10 13:15:35",
-        "depth_km": 5.699999809265137,
-        "MD": 0.0,
-        "ML": 3.4000000953674316,
-        "Mw": 3.299999952316284,
-        "place": "AKCAKISLA-KOZLUK (BATMAN)",
-        "location": "BATMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.599300384521484,
-          38.25979995727539
         ]
       }
     }
