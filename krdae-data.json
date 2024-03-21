@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.21 15:29:02",
+        "depth_km": 3.200000047683716,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "GOLOREN-EMIRGAZI (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.858001708984375,
+          37.87350082397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.21 15:05:58",
         "depth_km": 11.100000381469727,
         "MD": 0.0,
@@ -74,6 +93,44 @@
         "coordinates": [
           38.60319900512695,
           38.128501892089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.21 13:50:29",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "SEKIOREN-MIHALICCIK (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.68829917907715,
+          39.955299377441406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.21 13:45:03",
+        "depth_km": 4.300000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "CANAKCI-KALE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.76300048828125,
+          38.32350158691406
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.18119812011719,
           36.44499969482422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.14 04:13:17",
-        "depth_km": 14.399999618530273,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BADEMLI-AYVACIK (CANAKKALE)",
-        "location": "CANAKKALE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.161699295043945,
-          39.499698638916016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.14 03:30:43",
-        "depth_km": 8.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.119199752807617,
-          36.99850082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.14 03:28:05",
-        "depth_km": 8.0,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "ORTAKOY-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.803001403808594,
-          38.31779861450195
         ]
       }
     }
