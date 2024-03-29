@@ -4,10 +4,29 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.29 23:11:52",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SEYITUSAGI-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.15769958496094,
+          38.2869987487793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.29 23:06:19",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 3.5999999046325684,
+        "ML": 3.700000047683716,
         "Mw": 3.700000047683716,
         "place": "ERICEK-GOKSUN (KAHRAMANMARAS)",
         "location": "KAHRAMANMARAS"
@@ -16,7 +35,7 @@
         "type": "Point",
         "coordinates": [
           36.88629913330078,
-          38.027000427246094
+          38.026798248291016
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.771699905395508,
           37.86629867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.23 03:02:20",
-        "depth_km": 7.800000190734863,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "ASAGIULUPINAR-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.58169937133789,
-          38.45100021362305
         ]
       }
     }
