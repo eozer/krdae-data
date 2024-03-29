@@ -1201,6 +1201,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.28 16:34:22",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "KOCYATAGI-(ERZINCAN)",
+        "location": "ERZINCAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17279815673828,
+          39.960201263427734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.28 16:15:27",
         "depth_km": 12.0,
         "MD": 0.0,
@@ -1442,6 +1461,25 @@
         "coordinates": [
           36.70949935913086,
           38.17020034790039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.03.28 11:52:57",
+        "depth_km": 5.099999904632568,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "HORZUMEMBELLI-ALASEHIR (MANISA)",
+        "location": "MANISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.383800506591797,
+          38.38050079345703
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.269500732421875,
           38.065799713134766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.22 20:21:03",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "BUYUKDALYAN-(HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.209999084472656,
-          36.29800033569336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.22 20:03:50",
-        "depth_km": 7.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TOSUNLU-ASKALE (ERZURUM)",
-        "location": "ERZURUM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.672000885009766,
-          39.779300689697266
         ]
       }
     }
