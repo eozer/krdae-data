@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.03.30 03:43:08",
+        "depth_km": 8.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AVCISUYU-KAYAPINAR (DIYARBAKIR)",
+        "location": "DIYARBAKIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.987300872802734,
+          38.06949996948242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.03.30 03:38:49",
         "depth_km": 9.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.45029830932617,
           38.051300048828125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.23 06:28:30",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "CEVIRME-AKCADAG (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.78670120239258,
-          38.25
         ]
       }
     }
