@@ -346,6 +346,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.02 17:16:06",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.650299072265625,
+          36.45199966430664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.02 17:13:02",
         "depth_km": 8.899999618530273,
         "MD": 0.0,
@@ -359,6 +378,44 @@
         "coordinates": [
           37.64820098876953,
           38.04570007324219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.02 17:09:56",
+        "depth_km": 5.900000095367432,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "HACIHAMZA-KARGI (CORUM)",
+        "location": "CORUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.477699279785156,
+          41.10049819946289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.02 17:02:27",
+        "depth_km": 3.299999952316284,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.646299362182617,
+          36.44499969482422
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.15380096435547,
           37.871498107910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.27 12:02:22",
-        "depth_km": 16.100000381469727,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "KEBEN-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.722999572753906,
-          36.435699462890625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.27 11:29:00",
-        "depth_km": 12.899999618530273,
-        "MD": 0.0,
-        "ML": 1.2999999523162842,
-        "Mw": 0.0,
-        "place": "ZAFER-BUCA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.24220085144043,
-          38.3468017578125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.27 11:02:57",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "VISNELI-KEMALPASA (IZMIR)",
-        "location": "IZMIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.37019920349121,
-          38.326698303222656
         ]
       }
     }
