@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.03 14:49:58",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "MAHMUTHISAR-MIHALICCIK (ESKISEHIR)",
+        "location": "ESKISEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.474199295043945,
+          39.99369812011719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.03 13:52:39",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           29.31920051574707,
           39.598201751708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.03 12:41:49",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CAMKOY-MILAS (MUGLA)",
+        "location": "MUGLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.821800231933594,
+          37.18280029296875
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           36.97100067138672,
           38.09619903564453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.27 23:11:22",
-        "depth_km": 6.199999809265137,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "GOKOVA KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.374500274658203,
-          36.952701568603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.27 23:09:31",
-        "depth_km": 9.600000381469727,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "KUSADASI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.95170021057129,
-          37.82630157470703
         ]
       }
     }
