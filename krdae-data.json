@@ -251,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.04 02:57:45",
+        "depth_km": 28.600000381469727,
+        "MD": 0.0,
+        "ML": 0.6000000238418579,
+        "Mw": 0.0,
+        "place": "KUCUKCEKMECE (ISTANBUL)",
+        "location": "ISTANBUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.81369972229004,
+          40.974300384521484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.04 02:08:46",
         "depth_km": 8.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.03420066833496,
           37.96870040893555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.28 15:02:20",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.917200088500977,
-          37.29169845581055
         ]
       }
     }
