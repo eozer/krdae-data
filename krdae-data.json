@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.04 10:12:08",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.200000047683716,
+        "place": "TOPALLAR-SAIMBEYLI (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.255001068115234,
+          37.84450149536133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.04 10:06:23",
         "depth_km": 20.600000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.62380027770996,
           36.91899871826172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.28 20:52:06",
-        "depth_km": 13.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KINIK-KAS (ANTALYA)",
-        "location": "ANTALYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.31879997253418,
-          36.36800003051758
         ]
       }
     }
