@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.04 21:07:42",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.200000047683716,
+        "place": "CILGA-CATAK (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.994300842285156,
+          38.01580047607422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.04 20:48:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "TAHTA-KADIRLI (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.24100112915039,
+          37.57429885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.04 20:41:10",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.681499481201172,
           35.573001861572266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.29 11:39:12",
-        "depth_km": 14.100000381469727,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.56049919128418,
-          38.698299407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.29 11:16:14",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YENIKOY-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.27299880981445,
-          38.4921989440918
         ]
       }
     }
