@@ -194,6 +194,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.05 03:06:42",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.114500045776367,
+          35.60219955444336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.05 02:40:32",
         "depth_km": 2.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           36.88629913330078,
           38.026798248291016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.03.29 21:54:44",
-        "depth_km": 10.199999809265137,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "HATUNSUYU-BATTALGAZI (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.28929901123047,
-          38.400001525878906
         ]
       }
     }
