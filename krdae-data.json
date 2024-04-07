@@ -213,6 +213,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.07 09:35:41",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.62929916381836,
+          36.508201599121094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.07 08:59:58",
         "depth_km": 13.100000381469727,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.5177001953125,
           38.60430145263672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.01 03:25:42",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.31719970703125,
-          37.58919906616211
         ]
       }
     }
