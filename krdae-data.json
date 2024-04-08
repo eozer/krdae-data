@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.08 23:52:59",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "MASUKLU-(HATAY)",
+        "location": "HATAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.191001892089844,
+          36.22380065917969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.08 23:44:03",
+        "depth_km": 15.600000381469727,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "TOMBAK-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.95100021362305,
+          38.12300109863281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.08 23:07:37",
         "depth_km": 6.099999904632568,
         "MD": 0.0,
@@ -112,6 +150,25 @@
         "coordinates": [
           28.427799224853516,
           37.07979965209961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.08 21:17:28",
+        "depth_km": 12.800000190734863,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6018009185791,
+          36.9098014831543
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.12120056152344,
           38.21480178833008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.02 03:29:18",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.700000047683716,
-        "Mw": 3.700000047683716,
-        "place": "AKSU-SINCIK (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.49150085449219,
-          38.13819885253906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.02 03:27:58",
-        "depth_km": 11.399999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "AKCAKAYA-GOLBASI (ADIYAMAN)",
-        "location": "ADIYAMAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.705299377441406,
-          37.80979919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.02 03:02:39",
-        "depth_km": 9.5,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "CEVIZDERE-(ELAZIG)",
-        "location": "ELAZIG"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.37329864501953,
-          38.503299713134766
         ]
       }
     }
