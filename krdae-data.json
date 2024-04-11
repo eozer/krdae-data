@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.11 18:34:38",
+        "depth_km": 7.900000095367432,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 2.799999952316284,
+        "place": "CATAK (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.06100082397461,
+          38.012001037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.11 18:34:36",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           25.863000869750977,
           39.45930099487305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.11 18:29:13",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "YUKARINARLICA-CATAK (VAN)",
+        "location": "VAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.972801208496094,
+          38.12779998779297
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.035499572753906,
           38.84920120239258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.04 23:30:03",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "KULAHLI-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.410301208496094,
-          38.84870147705078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.04 22:35:22",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "BAGLICAY-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.48630142211914,
-          38.81050109863281
         ]
       }
     }
