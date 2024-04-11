@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.11 21:27:24",
+        "depth_km": 21.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "YESILTAS-DARENDE (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61880111694336,
+          38.503700256347656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.11 21:13:49",
         "depth_km": 4.800000190734863,
         "MD": 0.0,
@@ -118,6 +137,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.11 20:49:50",
+        "depth_km": 3.0,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.91550064086914,
+          39.06529998779297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.11 20:49:26",
         "depth_km": 2.0,
         "MD": 0.0,
@@ -131,6 +169,63 @@
         "coordinates": [
           37.23649978637695,
           37.55270004272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.11 20:24:48",
+        "depth_km": 4.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "KARAMIK-DADAY (KASTAMONU)",
+        "location": "KASTAMONU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.47819900512695,
+          41.42179870605469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.11 19:25:46",
+        "depth_km": 11.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "CEVIZDERE-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.37879943847656,
+          38.509498596191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.11 19:15:27",
+        "depth_km": 6.300000190734863,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.65549850463867,
+          36.03120040893555
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           26.91200065612793,
           37.89849853515625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.05 04:04:53",
-        "depth_km": 9.699999809265137,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KULAHLI-GURUN (SIVAS)",
-        "location": "SIVAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.43000030517578,
-          38.81480026245117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.05 04:00:48",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ONIKI ADALAR (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.689199447631836,
-          36.45949935913086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.05 03:32:39",
-        "depth_km": 6.099999904632568,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "CUKURKOY-HANI (DIYARBAKIR)",
-        "location": "DIYARBAKIR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.33580017089844,
-          38.4556999206543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.05 03:24:08",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "ORTAKOY-ULUDERE (SIRNAK)",
-        "location": "SIRNAK"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.31420135498047,
-          37.24850082397461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.05 03:07:28",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "MUEZZINLER-SUTCULER (ISPARTA)",
-        "location": "ISPARTA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.940200805664062,
-          37.47420120239258
         ]
       }
     }
