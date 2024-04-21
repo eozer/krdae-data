@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.21 12:32:36",
+        "depth_km": 2.9000000953674316,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "BAGLICAY-GURUN (SIVAS)",
+        "location": "SIVAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.459999084472656,
+          38.80950164794922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.21 11:42:46",
         "depth_km": 2.0999999046325684,
         "MD": 0.0,
@@ -93,6 +112,25 @@
         "coordinates": [
           37.17620086669922,
           39.17499923706055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.21 10:41:00",
+        "depth_km": 10.899999618530273,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "ONIKI ADALAR (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.05030059814453,
+          37.33869934082031
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.314701080322266,
           38.536800384521484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.15 02:55:51",
-        "depth_km": 6.900000095367432,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "YALOVA ACIKLARI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.225799560546875,
-          40.72420120239258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.15 02:16:27",
-        "depth_km": 22.700000762939453,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "CAKALLICULLU-TURKOGLU (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.87649917602539,
-          37.436500549316406
         ]
       }
     }
