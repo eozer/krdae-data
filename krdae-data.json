@@ -4,10 +4,29 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.25 09:55:36",
+        "depth_km": 4.199999809265137,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "KAVAKLIDERE-BORNOVA (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.286300659179688,
+          38.432498931884766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.25 09:28:08",
         "depth_km": 5.0,
         "MD": 0.0,
-        "ML": 2.4000000953674316,
+        "ML": 1.5,
         "Mw": 0.0,
         "place": "YUKARICUMA-BERGAMA (IZMIR)",
         "location": "IZMIR"
@@ -15,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.088499069213867,
-          39.325199127197266
+          27.090499877929688,
+          39.32229995727539
         ]
       }
     },
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.92219924926758,
           40.14630126953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.18 19:14:11",
-        "depth_km": 10.399999618530273,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "GUMUSSU-KADISEHRI (YOZGAT)",
-        "location": "YOZGAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.930198669433594,
-          40.05649948120117
         ]
       }
     }
