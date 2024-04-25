@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.25 23:34:21",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "YETIMLI-ALADAG (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.35850143432617,
+          37.683998107910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.25 23:19:19",
         "depth_km": 7.699999809265137,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.95050048828125,
           40.0890007019043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.18 22:31:43",
-        "depth_km": 3.299999952316284,
-        "MD": 0.0,
-        "ML": 4.400000095367432,
-        "Mw": 4.400000095367432,
-        "place": "ARPACIKARACAY-SULUSARAY (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.04069900512695,
-          40.06079864501953
         ]
       }
     }
