@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.25 12:28:39",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AYDINCIK-(ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.168701171875,
+          38.823699951171875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.25 12:16:09",
         "depth_km": 7.900000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           35.90530014038086,
           40.11629867553711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.18 20:10:33",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "ELMALICIFTLIGI-KADISEHRI (YOZGAT)",
-        "location": "YOZGAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.96849822998047,
-          40.07680130004883
         ]
       }
     }
