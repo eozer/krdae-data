@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.28 13:06:26",
+        "depth_km": 8.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "SANCI-ALACA (CORUM)",
+        "location": "CORUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.102298736572266,
+          40.17470169067383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.28 12:55:31",
         "depth_km": 67.5999984741211,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           38.38600158691406,
           38.21120071411133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.20 17:51:20",
-        "depth_km": 4.599999904632568,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "KURUCAY-ZILE (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.049198150634766,
-          40.11370086669922
         ]
       }
     }
