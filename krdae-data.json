@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.04.30 15:13:22",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "BOZBUK-BIGADIC (BALIKESIR)",
+        "location": "BALIKESIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.541000366210938,
+          39.375701904296875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.04.30 14:54:29",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -36,6 +55,44 @@
         "coordinates": [
           27.71780014038086,
           39.28950119018555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.30 14:13:07",
+        "depth_km": 13.899999618530273,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "ESENKOY-GOKSUN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6697998046875,
+          38.2057991027832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.04.30 14:00:57",
+        "depth_km": 28.600000381469727,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "COGURLU-TUZLUKCU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.704200744628906,
+          38.43619918823242
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.12779998779297,
           37.9911994934082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.22 12:44:35",
-        "depth_km": 4.099999904632568,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BUGDAYLI-SULUSARAY (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.99330139160156,
-          40.080501556396484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.22 12:28:03",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "BUGDAYLI-SULUSARAY (TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.025699615478516,
-          40.087799072265625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.22 12:09:34",
-        "depth_km": 38.400001525878906,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KIBRIS-TURKELI",
-        "location": "KIBRIS-TURKELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.2239990234375,
-          35.17100143432617
         ]
       }
     }
