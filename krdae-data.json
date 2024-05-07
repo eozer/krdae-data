@@ -2759,6 +2759,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.05 07:01:38",
+        "depth_km": 8.899999618530273,
+        "MD": 0.0,
+        "ML": 1.100000023841858,
+        "Mw": 0.0,
+        "place": "SARAYONU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.391700744628906,
+          38.235198974609375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.05 06:49:30",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -2772,6 +2791,25 @@
         "coordinates": [
           36.25270080566406,
           37.95650100708008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.05 06:44:06",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "CEBRAIL-GEDIZ (KUTAHYA)",
+        "location": "KUTAHYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.62779998779297,
+          39.0442008972168
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           29.11549949645996,
           38.0177001953125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.30 09:25:32",
-        "depth_km": 26.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ORTAOREN-(TOKAT)",
-        "location": "TOKAT"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.44300079345703,
-          40.00849914550781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.30 09:01:54",
-        "depth_km": 12.5,
-        "MD": 0.0,
-        "ML": 1.7999999523162842,
-        "Mw": 0.0,
-        "place": "CANDARLI KORFEZI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.792800903320312,
-          38.803001403808594
         ]
       }
     }
