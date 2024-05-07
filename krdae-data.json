@@ -2531,6 +2531,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.05 12:21:25",
+        "depth_km": 6.599999904632568,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "DOGUTEPE-KULU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83620071411133,
+          39.07600021362305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.05 12:03:29",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "KOSESAHIN-BOZOVA (SANLIURFA)",
+        "location": "SANLIURFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.20069885253906,
+          37.292198181152344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.05 11:54:48",
         "depth_km": 7.599999904632568,
         "MD": 0.0,
@@ -2582,6 +2620,25 @@
         "coordinates": [
           35.67250061035156,
           37.14950180053711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.05 10:22:40",
+        "depth_km": 5.300000190734863,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "BESTEPE-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.44300079345703,
+          38.3468017578125
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           38.253700256347656,
           38.32780075073242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.30 11:47:11",
-        "depth_km": 23.600000381469727,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "ISKENDERUN KORFEZI (AKDENIZ)",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.84400177001953,
-          36.44900131225586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.30 11:03:25",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.5,
-        "Mw": 3.5999999046325684,
-        "place": "YAYLABELEN-AKSEHIR (KONYA)",
-        "location": "KONYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.562700271606445,
-          38.24319839477539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.04.30 10:05:36",
-        "depth_km": 18.700000762939453,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "EYMIR-(DENIZLI)",
-        "location": "DENIZLI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.11549949645996,
-          38.0177001953125
         ]
       }
     }
