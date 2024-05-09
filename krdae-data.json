@@ -99,6 +99,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.09 04:15:00",
+        "depth_km": 15.699999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI ACIKLARI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.82469940185547,
+          34.42129898071289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.09 04:07:31",
         "depth_km": 6.800000190734863,
         "MD": 0.0,
@@ -302,6 +321,25 @@
         "coordinates": [
           37.669700622558594,
           38.09600067138672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.09 01:34:24",
+        "depth_km": 8.800000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "GIRIT ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.443500518798828,
+          35.72719955444336
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           23.725299835205078,
           35.1796989440918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.01 20:12:38",
-        "depth_km": 6.400000095367432,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "YENIKOY-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.29930114746094,
-          38.48429870605469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.01 20:01:57",
-        "depth_km": 10.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CAMLICA-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.73529815673828,
-          37.913299560546875
         ]
       }
     }
