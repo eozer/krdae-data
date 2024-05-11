@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.11 04:10:36",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 3.5,
+        "Mw": 3.5,
+        "place": "EGE DENIZI",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.750999450683594,
+          39.49599838256836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.11 03:47:21",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "YUCELER-UNYE (ORDU)",
+        "location": "ORDU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3932991027832,
+          41.14070129394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.11 03:13:59",
         "depth_km": 12.300000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.59479904174805,
           38.012699127197266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.03 08:35:03",
-        "depth_km": 13.0,
-        "MD": 0.0,
-        "ML": 2.0999999046325684,
-        "Mw": 0.0,
-        "place": "COLPAN-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.52450180053711,
-          38.93619918823242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.03 08:19:07",
-        "depth_km": 19.100000381469727,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "ICMELER-GOLYAKA (DUZCE)",
-        "location": "DUZCE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.001800537109375,
-          40.80849838256836
         ]
       }
     }
