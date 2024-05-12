@@ -8307,6 +8307,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.05 18:14:44",
+        "depth_km": 9.100000381469727,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "HIRKATEPE-BEYPAZARI (ANKARA)",
+        "location": "ANKARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.741199493408203,
+          40.182701110839844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.05 18:05:50",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "YENIAKCAKAVAK-(BOLU)",
+        "location": "BOLU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.676000595092773,
+          40.759498596191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.05 17:48:06",
         "depth_km": 13.300000190734863,
         "MD": 0.0,
@@ -8339,6 +8377,25 @@
         "coordinates": [
           36.59349822998047,
           37.79719924926758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.05 17:35:19",
+        "depth_km": 6.099999904632568,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "ONCU-YESILYURT (MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.307498931884766,
+          38.180198669433594
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           27.691499710083008,
           39.285701751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.05 00:28:35",
-        "depth_km": 7.400000095367432,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KOZLUOREN-SOMA (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.7362003326416,
-          39.29650115966797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.05 00:03:38",
-        "depth_km": 9.399999618530273,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "TOPAGAC-AKYAZI (SAKARYA)",
-        "location": "SAKARYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.613800048828125,
-          40.72019958496094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.04 22:54:02",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 1.600000023841858,
-        "Mw": 0.0,
-        "place": "KOZLU-(BOLU)",
-        "location": "BOLU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.59149932861328,
-          40.7942008972168
         ]
       }
     }
