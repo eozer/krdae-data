@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.16 06:11:12",
+        "depth_km": 17.299999237060547,
+        "MD": 0.0,
+        "ML": 1.2000000476837158,
+        "Mw": 0.0,
+        "place": "KARGALI-YUNAK (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.57229995727539,
+          38.75320053100586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.16 05:58:15",
         "depth_km": 6.199999809265137,
         "MD": 0.0,
@@ -74,6 +93,25 @@
         "coordinates": [
           36.52429962158203,
           38.0802001953125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.16 05:38:36",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "DATCA ACIKLARI-MUGLA (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.77669906616211,
+          36.72520065307617
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           28.883699417114258,
           37.075801849365234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.10 00:40:17",
-        "depth_km": 5.599999904632568,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "HACIOMER-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.61199951171875,
-          38.06549835205078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.10 00:36:34",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "AGACYOLU-(BINGOL)",
-        "location": "BINGOL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.54029846191406,
-          38.99020004272461
         ]
       }
     }
