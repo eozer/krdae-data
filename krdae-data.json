@@ -99,6 +99,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.19 18:25:06",
+        "depth_km": 9.100000381469727,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.965999603271484,
+          36.18199920654297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.19 18:15:23",
+        "depth_km": 5.199999809265137,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "TOPRAKKALE (OSMANIYE)",
+        "location": "OSMANIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.129798889160156,
+          37.074501037597656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.19 18:09:47",
         "depth_km": 4.300000190734863,
         "MD": 0.0,
@@ -9460,44 +9498,6 @@
         "coordinates": [
           37.4463005065918,
           38.50379943847656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.13 21:13:28",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.76530075073242,
-          38.14099884033203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.13 20:07:28",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 3.200000047683716,
-        "Mw": 0.0,
-        "place": "CAVUSLU-DOGANSEHIR (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.76430130004883,
-          38.13949966430664
         ]
       }
     }
