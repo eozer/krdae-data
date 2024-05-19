@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.19 21:38:54",
+        "depth_km": 1.100000023841858,
+        "MD": 0.0,
+        "ML": 2.799999952316284,
+        "Mw": 0.0,
+        "place": "SURIYE",
+        "location": "SURIYE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.844200134277344,
+          36.438499450683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.19 21:35:33",
+        "depth_km": 2.200000047683716,
+        "MD": 0.0,
+        "ML": 1.2999999523162842,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.65730094909668,
+          36.138301849365234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.19 21:27:11",
         "depth_km": 3.700000047683716,
         "MD": 0.0,
@@ -74,6 +112,25 @@
         "coordinates": [
           28.35849952697754,
           37.04349899291992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.19 20:28:25",
+        "depth_km": 17.399999618530273,
+        "MD": 0.0,
+        "ML": 0.8999999761581421,
+        "Mw": 0.0,
+        "place": "SOGUTLU-PAZARCIK (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.18479919433594,
+          37.5192985534668
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.59619903564453,
           37.82820129394531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.14 00:25:24",
-        "depth_km": 8.699999809265137,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "BALATDANISMENT-HARMANCIK (BURSA)",
-        "location": "BURSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.23200035095215,
-          39.62950134277344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.14 00:01:46",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.0,
-        "Mw": 0.0,
-        "place": "ASLICA-OVACIK (TUNCELI)",
-        "location": "TUNCELI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.14699935913086,
-          39.227500915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.13 22:50:56",
-        "depth_km": 9.199999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "YESILTAS-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6614990234375,
-          38.51449966430664
         ]
       }
     }
