@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.20 14:41:43",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0,
+        "Mw": 3.0999999046325684,
+        "place": "BEKCITEPE-SIVRICE (ELAZIG)",
+        "location": "ELAZIG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.290000915527344,
+          38.50849914550781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.20 14:11:04",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -36,6 +55,25 @@
         "coordinates": [
           31.66080093383789,
           40.854000091552734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.20 13:21:06",
+        "depth_km": 19.5,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "AVCILAR-(KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.76300048828125,
+          37.83219909667969
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           30.446199417114258,
           40.71879959106445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.14 12:27:12",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "YUCEBAS-(BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          42.0547981262207,
-          38.448299407958984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.14 12:27:01",
-        "depth_km": 10.600000381469727,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "YENIKOY-MUTKI (BITLIS)",
-        "location": "BITLIS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.981998443603516,
-          38.395999908447266
         ]
       }
     }
