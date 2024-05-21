@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.21 12:10:57",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HORHOR-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27730178833008,
+          38.54779815673828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.21 11:41:30",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.030500411987305,
           38.93280029296875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.15 07:30:10",
-        "depth_km": 3.5999999046325684,
-        "MD": 0.0,
-        "ML": 3.0999999046325684,
-        "Mw": 3.200000047683716,
-        "place": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.99250030517578,
-          38.95029830932617
         ]
       }
     }
