@@ -251,6 +251,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.22 08:45:32",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 2.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.92650032043457,
+          36.05120086669922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.22 08:09:58",
         "depth_km": 5.400000095367432,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           43.48929977416992,
           38.98899841308594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.15 16:09:00",
-        "depth_km": 5.5,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "AKDENIZ",
-        "location": "AKDENIZ"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.415000915527344,
-          35.81399917602539
         ]
       }
     }
