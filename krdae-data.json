@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.23 10:45:40",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BAYATLI-SEHITKAMIL (GAZIANTEP)",
+        "location": "GAZIANTEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.07979965209961,
+          37.13869857788086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.23 10:24:27",
         "depth_km": 9.800000190734863,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           37.53730010986328,
           38.37329864501953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.16 09:23:21",
-        "depth_km": 8.600000381469727,
-        "MD": 0.0,
-        "ML": 2.9000000953674316,
-        "Mw": 0.0,
-        "place": "SUGUL-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.5099983215332,
-          38.4474983215332
         ]
       }
     }
