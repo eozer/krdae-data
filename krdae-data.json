@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.24 09:07:02",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YESILKOY-TORBALI (IZMIR)",
+        "location": "IZMIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.22480010986328,
+          38.270999908447266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.24 09:02:27",
         "depth_km": 9.600000381469727,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           27.229000091552734,
           38.28300094604492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.24 09:00:41",
+        "depth_km": 12.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0999999046325684,
+        "Mw": 0.0,
+        "place": "SAROS KORFEZI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.11079978942871,
+          40.413700103759766
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           38.126800537109375,
           37.93330001831055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.17 08:39:05",
-        "depth_km": 8.800000190734863,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "DEMIRCI-SIMAV (KUTAHYA)",
-        "location": "KUTAHYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.9325008392334,
-          39.111698150634766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.17 08:33:52",
-        "depth_km": 13.300000190734863,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUGUL-DARENDE (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.484798431396484,
-          38.41680145263672
         ]
       }
     }
