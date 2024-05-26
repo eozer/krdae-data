@@ -4,19 +4,76 @@
     {
       "type": "Feature",
       "properties": {
-        "timestamp": "2024.05.27 00:38:18",
-        "depth_km": 17.200000762939453,
+        "timestamp": "2024.05.27 01:05:20",
+        "depth_km": 8.5,
         "MD": 0.0,
-        "ML": 3.9000000953674316,
+        "ML": 1.600000023841858,
         "Mw": 0.0,
+        "place": "GENCALI-SENIRKENT (ISPARTA)",
+        "location": "ISPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.68199920654297,
+          38.211299896240234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.27 00:52:52",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "AKCALIUSAGI-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.04119873046875,
+          37.690799713134766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.27 00:51:18",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "AKCALIUSAGI-KOZAN (ADANA)",
+        "location": "ADANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.027000427246094,
+          37.67100143432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.27 00:38:18",
+        "depth_km": 20.299999237060547,
+        "MD": 0.0,
+        "ML": 3.700000047683716,
+        "Mw": 3.5,
         "place": "MARMARA DENIZI",
         "location": "MARMARA DENIZI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.316299438476562,
-          40.83580017089844
+          28.324499130249023,
+          40.837501525878906
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           36.129798889160156,
           37.074501037597656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.19 18:09:47",
-        "depth_km": 4.300000190734863,
-        "MD": 0.0,
-        "ML": 2.799999952316284,
-        "Mw": 0.0,
-        "place": "IRAN",
-        "location": "IRAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.423500061035156,
-          38.429298400878906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.19 18:07:55",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "YALINAGAC-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.54079818725586,
-          38.598201751708984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.19 17:37:01",
-        "depth_km": 6.0,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "DEGIRMENKOY-(VAN)",
-        "location": "VAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          43.53770065307617,
-          38.513999938964844
         ]
       }
     }
