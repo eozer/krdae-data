@@ -1391,6 +1391,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.26 18:15:11",
+        "depth_km": 146.0,
+        "MD": 0.0,
+        "ML": 3.9000000953674316,
+        "Mw": 3.700000047683716,
+        "place": "KOS ADASI (AKDENIZ)",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.05030059814453,
+          36.798301696777344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.26 17:42:49",
         "depth_km": 4.599999904632568,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           27.327699661254883,
           38.41080093383789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.20 12:13:54",
-        "depth_km": 23.0,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "KORUCUK-(SANLIURFA)",
-        "location": "SANLIURFA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.98849868774414,
-          37.07320022583008
         ]
       }
     }
