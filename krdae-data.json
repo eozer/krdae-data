@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.28 23:00:15",
+        "depth_km": 5.599999904632568,
+        "MD": 0.0,
+        "ML": 2.200000047683716,
+        "Mw": 0.0,
+        "place": "SISAM ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.86199951171875,
+          37.817501068115234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.28 22:53:40",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           26.98080062866211,
           40.201499938964844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.28 21:37:29",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.746700286865234,
+          35.715999603271484
         ]
       }
     },
@@ -3006,6 +3044,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.26 12:08:15",
+        "depth_km": 5.400000095367432,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "INCECIK-ELBISTAN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.314998626708984,
+          38.40650177001953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.26 12:03:51",
+        "depth_km": 11.899999618530273,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "KARAKOY-SAVSAT (ARTVIN)",
+        "location": "ARTVIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.50870132446289,
+          41.2234992980957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.26 11:46:15",
         "depth_km": 5.699999809265137,
         "MD": 0.0,
@@ -3038,6 +3114,25 @@
         "coordinates": [
           42.89550018310547,
           40.88679885864258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.26 11:10:24",
+        "depth_km": 8.300000190734863,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "YARKAYA-SARIKAMIS (KARS)",
+        "location": "KARS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.81949996948242,
+          40.07820129394531
         ]
       }
     },
@@ -9403,101 +9498,6 @@
         "coordinates": [
           36.866798400878906,
           38.170501708984375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.21 15:15:28",
-        "depth_km": 7.900000095367432,
-        "MD": 0.0,
-        "ML": 2.5,
-        "Mw": 0.0,
-        "place": "CORUS-ULA (MUGLA)",
-        "location": "MUGLA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.534799575805664,
-          37.00419998168945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.21 15:07:45",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARABABA-ARGUVAN (MALATYA)",
-        "location": "MALATYA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.30329895019531,
-          38.665000915527344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.21 14:40:12",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.5999999046325684,
-        "Mw": 0.0,
-        "place": "UMURLU-OTLUKBELI (ERZINCAN)",
-        "location": "ERZINCAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.09469985961914,
-          40.01570129394531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.21 14:00:43",
-        "depth_km": 5.400000095367432,
-        "MD": 0.0,
-        "ML": 2.4000000953674316,
-        "Mw": 0.0,
-        "place": "HUGTAS-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.368499755859375,
-          37.98270034790039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.21 13:44:43",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.2000000476837158,
-        "Mw": 0.0,
-        "place": "KIBRIS-KILICASLAN",
-        "location": "KIBRIS-KILICASLAN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.1327018737793,
-          35.2307014465332
         ]
       }
     }
