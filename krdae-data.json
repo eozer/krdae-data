@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.05.29 12:38:15",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "ESENCE-AFSIN (KAHRAMANMARAS)",
+        "location": "KAHRAMANMARAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.874698638916016,
+          38.1515007019043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.05.29 12:31:22",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           33.72629928588867,
           36.23830032348633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.05.29 11:49:10",
+        "depth_km": 0.0,
+        "MD": 0.0,
+        "ML": 1.0,
+        "Mw": 0.0,
+        "place": "CALTI-SELCUKLU (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.577701568603516,
+          38.10649871826172
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.582300186157227,
           37.912200927734375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.22 14:04:54",
-        "depth_km": 16.399999618530273,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KARAAGACLI-GERMENCIK (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.583200454711914,
-          37.8306999206543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.22 13:57:21",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "BASAKSEHIR (ISTANBUL)",
-        "location": "ISTANBUL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.82979965209961,
-          41.09519958496094
         ]
       }
     }
