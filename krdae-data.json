@@ -4,6 +4,44 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.03 03:54:56",
+        "depth_km": 5.0,
+        "MD": 0.0,
+        "ML": 3.0999999046325684,
+        "Mw": 3.0999999046325684,
+        "place": "AYDINLAR-YAYLADERE (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.0192985534668,
+          39.18220138549805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.03 02:54:22",
+        "depth_km": 4.900000095367432,
+        "MD": 0.0,
+        "ML": 1.600000023841858,
+        "Mw": 0.0,
+        "place": "KENDIRLI-(MALATYA)",
+        "location": "MALATYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2307014465332,
+          38.400699615478516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.03 02:41:41",
         "depth_km": 18.799999237060547,
         "MD": 0.0,
@@ -93,6 +131,25 @@
         "coordinates": [
           38.12419891357422,
           37.99319839477539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.03 01:30:31",
+        "depth_km": 4.400000095367432,
+        "MD": 0.0,
+        "ML": 1.399999976158142,
+        "Mw": 0.0,
+        "place": "MIDILLI ADASI (EGE DENIZI)",
+        "location": "EGE DENIZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.223800659179688,
+          39.36980056762695
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           31.707000732421875,
           40.17530059814453
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.26 19:18:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.899999976158142,
-        "Mw": 0.0,
-        "place": "HORHOR-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.2765007019043,
-          38.529701232910156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.26 19:05:37",
-        "depth_km": 2.0999999046325684,
-        "MD": 0.0,
-        "ML": 1.7000000476837158,
-        "Mw": 0.0,
-        "place": "TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.61579895019531,
-          38.11470031738281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.26 18:33:33",
-        "depth_km": 8.399999618530273,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "KURTBAGI-ARSUZ (HATAY)",
-        "location": "HATAY"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.04169845581055,
-          36.377201080322266
         ]
       }
     }
