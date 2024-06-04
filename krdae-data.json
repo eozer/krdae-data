@@ -4,6 +4,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.04 10:32:12",
+        "depth_km": 2.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "SARIABAT-TAVAS (DENIZLI)",
+        "location": "DENIZLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.180500030517578,
+          37.58369827270508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.04 10:25:57",
         "depth_km": 0.0,
         "MD": 0.0,
@@ -17,6 +36,25 @@
         "coordinates": [
           37.224998474121094,
           37.16320037841797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.04 10:04:13",
+        "depth_km": 5.5,
+        "MD": 0.0,
+        "ML": 1.899999976158142,
+        "Mw": 0.0,
+        "place": "BOGAZKENT-ILGIN (KONYA)",
+        "location": "KONYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.751300811767578,
+          38.349700927734375
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.78179931640625,
           40.79869842529297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.28 01:06:04",
-        "depth_km": 23.700000762939453,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "KOZCAGIZ-(KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71730041503906,
-          37.89929962158203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.28 00:28:55",
-        "depth_km": 4.699999809265137,
-        "MD": 0.0,
-        "ML": 2.0,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.734699249267578,
-          38.59629821777344
         ]
       }
     }
