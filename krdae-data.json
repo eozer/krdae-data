@@ -80,6 +80,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.07 08:55:02",
+        "depth_km": 12.0,
+        "MD": 0.0,
+        "ML": 2.700000047683716,
+        "Mw": 2.799999952316284,
+        "place": "OGUL-(HAKKARI)",
+        "location": "HAKKARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.74580001831055,
+          37.413700103759766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.07 08:31:14",
         "depth_km": 8.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           26.49970054626465,
           38.731998443603516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.30 12:01:58",
-        "depth_km": 0.0,
-        "MD": 0.0,
-        "ML": 0.8999999761581421,
-        "Mw": 0.0,
-        "place": "AKDERE-SILIFKE (MERSIN)",
-        "location": "MERSIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.77479934692383,
-          36.21699905395508
         ]
       }
     }
