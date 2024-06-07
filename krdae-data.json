@@ -42,6 +42,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.07 23:42:08",
+        "depth_km": 1.0,
+        "MD": 0.0,
+        "ML": 1.7000000476837158,
+        "Mw": 0.0,
+        "place": "ERMENISTAN",
+        "location": "ERMENISTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.90769958496094,
+          41.13370132446289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.07 23:22:24",
         "depth_km": 8.5,
         "MD": 0.0,
@@ -55,6 +74,25 @@
         "coordinates": [
           37.503501892089844,
           38.747501373291016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.07 23:00:57",
+        "depth_km": 11.300000190734863,
+        "MD": 0.0,
+        "ML": 2.0,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.99180030822754,
+          35.742000579833984
         ]
       }
     },
@@ -9460,44 +9498,6 @@
         "coordinates": [
           27.374000549316406,
           38.64680099487305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.31 04:43:27",
-        "depth_km": 5.199999809265137,
-        "MD": 0.0,
-        "ML": 0.800000011920929,
-        "Mw": 0.0,
-        "place": "CEPNIBEKTAS-TURGUTLU (MANISA)",
-        "location": "MANISA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.71299934387207,
-          38.43899917602539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.31 04:23:34",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "ICADIYE-TOMARZA (KAYSERI)",
-        "location": "KAYSERI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.221500396728516,
-          38.44049835205078
         ]
       }
     }
