@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.08 19:53:06",
+        "depth_km": 9.0,
+        "MD": 0.0,
+        "ML": 1.5,
+        "Mw": 0.0,
+        "place": "HASANALI-AKCAKENT (KIRSEHIR)",
+        "location": "KIRSEHIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.167999267578125,
+          39.608299255371094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.08 19:49:34",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           28.826200485229492,
           40.398799896240234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.05.31 20:11:34",
-        "depth_km": 6.699999809265137,
-        "MD": 0.0,
-        "ML": 1.399999976158142,
-        "Mw": 0.0,
-        "place": "GEMLIK KORFEZI (MARMARA DENIZI)",
-        "location": "MARMARA DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.864299774169922,
-          40.405799865722656
         ]
       }
     }
