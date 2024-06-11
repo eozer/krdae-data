@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.11 11:45:57",
+        "depth_km": 7.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "HISARCANDIR-KONYAALTI (ANTALYA)",
+        "location": "ANTALYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447500228881836,
+          36.73649978637695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.11 11:39:50",
         "depth_km": 2.299999952316284,
         "MD": 0.0,
@@ -74,6 +93,44 @@
         "coordinates": [
           27.925199508666992,
           38.3557014465332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.11 11:32:42",
+        "depth_km": 2.5999999046325684,
+        "MD": 0.0,
+        "ML": 2.299999952316284,
+        "Mw": 0.0,
+        "place": "KIZILAGAC-KARLIOVA (BINGOL)",
+        "location": "BINGOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.779701232910156,
+          39.134498596191406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "2024.06.11 11:10:03",
+        "depth_km": 20.0,
+        "MD": 0.0,
+        "ML": 1.7999999523162842,
+        "Mw": 0.0,
+        "place": "SAMPASAKARADERBENDI-PULUMUR (TUNCELI)",
+        "location": "TUNCELI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.1775016784668,
+          39.453800201416016
         ]
       }
     },
@@ -9441,63 +9498,6 @@
         "coordinates": [
           43.21229934692383,
           42.49729919433594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.06.04 00:59:31",
-        "depth_km": 5.300000190734863,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "EGE DENIZI",
-        "location": "EGE DENIZI"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.766199111938477,
-          39.48529815673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.06.04 00:47:26",
-        "depth_km": 12.100000381469727,
-        "MD": 0.0,
-        "ML": 1.5,
-        "Mw": 0.0,
-        "place": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.47629928588867,
-          38.077301025390625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.06.04 00:22:47",
-        "depth_km": 14.199999809265137,
-        "MD": 0.0,
-        "ML": 1.100000023841858,
-        "Mw": 0.0,
-        "place": "KARABAG-INCIRLIOVA (AYDIN)",
-        "location": "AYDIN"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.706300735473633,
-          37.86949920654297
         ]
       }
     }
