@@ -61,6 +61,25 @@
     {
       "type": "Feature",
       "properties": {
+        "timestamp": "2024.06.16 05:50:02",
+        "depth_km": 14.699999809265137,
+        "MD": 0.0,
+        "ML": 2.4000000953674316,
+        "Mw": 0.0,
+        "place": "AKDENIZ",
+        "location": "AKDENIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.662799835205078,
+          35.79069900512695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "timestamp": "2024.06.16 05:30:44",
         "depth_km": 5.0,
         "MD": 0.0,
@@ -9479,25 +9498,6 @@
         "coordinates": [
           31.806499481201172,
           38.490699768066406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "timestamp": "2024.06.08 01:17:24",
-        "depth_km": 5.0,
-        "MD": 0.0,
-        "ML": 2.200000047683716,
-        "Mw": 0.0,
-        "place": "KAZANDERE-GOKSUN (KAHRAMANMARAS)",
-        "location": "KAHRAMANMARAS"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.279701232910156,
-          37.9827995300293
         ]
       }
     }
